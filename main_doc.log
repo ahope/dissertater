@@ -1,0 +1,1731 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  14 AUG 2012 15:14
+entering extended mode
+**main_doc.tex
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\aha\Documents\LEdProjects\dissertation\uwthesis.cls
+Document Class: uwthesis 2012/06/19
+\tf@not=\write3
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\botmargin=\dimen103
+\@@wholepage=\box26
+
+Formatting for twoside printing.
+\@Chair=\count88
+\@Sign=\count89
+\abs@savebox=\box27
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\type1cm\type1cm.sty"
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count91
+\lst@gtempboxa=\box28
+\lst@token=\toks15
+\lst@length=\count92
+\lst@currlwidth=\dimen104
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen107
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mdwtools\mdwlist.sty"
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mnsymbol\MnSymbol.sty"
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen108
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks17
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks18
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\eufrak.sty"
+Package: eufrak 2009/06/22 v3.00 Euler Fraktur fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuFrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 39.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+\symMnSyA=\mathgroup4
+\symMnSyB=\mathgroup5
+\symMnSyC=\mathgroup6
+\symMnSyD=\mathgroup7
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen117
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count113
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count114
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count115
+\Field@Width=\dimen118
+\Fld@charsize=\dimen119
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count116
+\c@Item=\count117
+\c@Hfootnote=\count118
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count119
+\c@bookmark@seq@number=\count120
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+)
+\c@ContinuedFloat=\count121
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count122
+\sf@farskip=\skip56
+\sf@captopadj=\dimen128
+\sf@capskip=\skip57
+\sf@nearskip=\skip58
+\c@subfigure=\count123
+\c@subfigure@save=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@subtable@save=\count127
+\c@lotdepth=\count128
+\sf@top=\skip59
+\sf@bottom=\skip60
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen129
+\lightrulewidth=\dimen130
+\cmidrulewidth=\dimen131
+\belowrulesep=\dimen132
+\belowbottomsep=\dimen133
+\aboverulesep=\dimen134
+\abovetopsep=\dimen135
+\cmidrulesep=\dimen136
+\cmidrulekern=\dimen137
+\defaultaddspace=\dimen138
+\@cmidla=\count129
+\@cmidlb=\count130
+\@aboverulesep=\dimen139
+\@belowrulesep=\dimen140
+\@thisruleclass=\count131
+\@lastruleclass=\count132
+\@thisrulewidth=\dimen141
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen142
+\extrarowheight=\dimen143
+\NC@list=\toks21
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+\TX@col@width=\dimen144
+\TX@old@table=\dimen145
+\TX@old@col=\dimen146
+\TX@target=\dimen147
+\TX@delta=\dimen148
+\TX@cols=\count133
+\TX@ftn=\toks22
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen149
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 107.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+\AtBeginShipoutBox=\box32
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen150
+\scratchbox=\box33
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen151
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks24
+)
+\c@lstlisting=\count140
+Package hyperref Info: Link coloring OFF on input line 107.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count141
+)
+LaTeX Info: Redefining \ref on input line 107.
+LaTeX Info: Redefining \pageref on input line 107.
+LaTeX Info: Redefining \nameref on input line 107.
+
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.out)
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.out)
+\@outlinefile=\write4
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+ [-1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.178 }
+        [0
+
+] [1] [2]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write5
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.184 \listoffigures
+                     [1
+
+
+
+]
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
+\tf@lof=\write6
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 \listoftables
+                    [2
+
+]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
+\tf@lot=\write7
+[3
+
+] [4
+
+] [5
+
+] [6
+
+
+] (C:\Users\aha\Documents\LEdProjects\dissertation\intro.tex
+<<1>>
+) (C:\Users\aha\Documents\LEdProjects\dissertation\background.tex [1
+
+]
+<<2>>
+[2
+
+] [3] [4] [5]) (C:\Users\aha\Documents\LEdProjects\dissertation\cont1.tex
+[6]
+<<3>>
+
+LaTeX Warning: Citation `kimokoti_diet_2011' on page 7 undefined on input line 
+7.
+
+
+LaTeX Warning: Citation `finucane_national_2011' on page 7 undefined on input l
+ine 7.
+
+
+LaTeX Warning: Citation `guh_incidence_2009' on page 7 undefined on input line 
+7.
+
+
+LaTeX Warning: Citation `calle_overweight_2004' on page 7 undefined on input li
+ne 7.
+
+
+LaTeX Warning: Citation `kanfer_self-monitoring:_1970' on page 7 undefined on i
+nput line 9.
+
+
+LaTeX Warning: Citation `michie_effective_2009' on page 7 undefined on input li
+ne 9.
+
+
+LaTeX Warning: Citation `burke_effect_2011' on page 7 undefined on input line 9
+.
+
+[7
+
+] [8] [9] [10] <./images/cont1/Viz_1_10.png, id=507, 242.9075pt x 248.93pt>
+File: ./images/cont1/Viz_1_10.png Graphic file (type png)
+
+<use ./images/cont1/Viz_1_10.png>
+Package pdftex.def Info: ./images/cont1/Viz_1_10.png used on input line 59.
+(pdftex.def)             Requested size: 71.13188pt x 72.89433pt.
+
+<./images/cont1/Viz_2_5.png, id=509, 242.9075pt x 248.93pt>
+File: ./images/cont1/Viz_2_5.png Graphic file (type png)
+
+<use ./images/cont1/Viz_2_5.png>
+Package pdftex.def Info: ./images/cont1/Viz_2_5.png used on input line 65.
+(pdftex.def)             Requested size: 71.13188pt x 72.89433pt.
+
+<./images/cont1/Viz_3_3.png, id=510, 242.9075pt x 248.93pt>
+File: ./images/cont1/Viz_3_3.png Graphic file (type png)
+
+<use ./images/cont1/Viz_3_3.png>
+Package pdftex.def Info: ./images/cont1/Viz_3_3.png used on input line 71.
+(pdftex.def)             Requested size: 71.13188pt x 72.89433pt.
+
+<./images/cont1/Viz_4_4.png, id=511, 242.9075pt x 248.93pt>
+File: ./images/cont1/Viz_4_4.png Graphic file (type png)
+
+<use ./images/cont1/Viz_4_4.png>
+Package pdftex.def Info: ./images/cont1/Viz_4_4.png used on input line 77.
+(pdftex.def)             Requested size: 71.13188pt x 72.89433pt.
+
+<./images/cont1/money.png, id=512, 74.58264pt x 83.8332pt>
+File: ./images/cont1/money.png Graphic file (type png)
+
+<use ./images/cont1/money.png>
+Package pdftex.def Info: ./images/cont1/money.png used on input line 83.
+(pdftex.def)             Requested size: 71.13188pt x 79.9583pt.
+
+<./images/cont1/Viz_6_1.png, id=513, 240.9pt x 246.9225pt>
+File: ./images/cont1/Viz_6_1.png Graphic file (type png)
+
+<use ./images/cont1/Viz_6_1.png>
+Package pdftex.def Info: ./images/cont1/Viz_6_1.png used on input line 89.
+(pdftex.def)             Requested size: 71.13188pt x 72.90932pt.
+
+<./images/cont1/Viz_8_4.png, id=514, 240.9pt x 246.9225pt>
+File: ./images/cont1/Viz_8_4.png Graphic file (type png)
+
+<use ./images/cont1/Viz_8_4.png>
+Package pdftex.def Info: ./images/cont1/Viz_8_4.png used on input line 95.
+(pdftex.def)             Requested size: 71.13188pt x 72.90932pt.
+
+Overfull \hbox (176.478pt too wide) in paragraph at lines 59--96
+ [][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 1067) has occurred while \output is active []
+
+ [11 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_10.png
+> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_2_5.png> <C
+:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_3_3.png> <C:/Us
+ers/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_4_4.png> <C:/Users/
+aha/Documents/LEdProjects/dissertation/images/cont1/money.png (PNG copy)> <C:/U
+sers/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_6_1.png> <C:/Users
+/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_8_4.png>]
+Underfull \vbox (badness 4181) has occurred while \output is active []
+
+ [12]
+<./images/cont1/fig3a.jpg, id=540, 240.9pt x 321.2pt>
+File: ./images/cont1/fig3a.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig3a.jpg>
+Package pdftex.def Info: ./images/cont1/fig3a.jpg used on input line 127.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig3b.jpg, id=541, 240.9pt x 321.2pt>
+File: ./images/cont1/fig3b.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig3b.jpg>
+Package pdftex.def Info: ./images/cont1/fig3b.jpg used on input line 133.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig3c.jpg, id=542, 240.9pt x 321.2pt>
+File: ./images/cont1/fig3c.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig3c.jpg>
+Package pdftex.def Info: ./images/cont1/fig3c.jpg used on input line 139.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig3d.jpg, id=543, 240.9pt x 321.2pt>
+File: ./images/cont1/fig3d.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig3d.jpg>
+Package pdftex.def Info: ./images/cont1/fig3d.jpg used on input line 145.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+ [13 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3a.jpg> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3b.jpg> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig3c.jpg> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont1/fig3d.jpg>] <./images/cont1/fi
+g4a.jpg, id=553, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4a.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4a.jpg>
+Package pdftex.def Info: ./images/cont1/fig4a.jpg used on input line 161.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig4b.jpg, id=554, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4b.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4b.jpg>
+Package pdftex.def Info: ./images/cont1/fig4b.jpg used on input line 167.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig4c.jpg, id=555, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4c.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4c.jpg>
+Package pdftex.def Info: ./images/cont1/fig4c.jpg used on input line 173.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig4d.jpg, id=556, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4d.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4d.jpg>
+Package pdftex.def Info: ./images/cont1/fig4d.jpg used on input line 179.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig4e.jpg, id=557, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4e.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4e.jpg>
+Package pdftex.def Info: ./images/cont1/fig4e.jpg used on input line 185.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig4f.jpg, id=558, 240.9pt x 321.2pt>
+File: ./images/cont1/fig4f.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig4f.jpg>
+Package pdftex.def Info: ./images/cont1/fig4f.jpg used on input line 191.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+Overfull \hbox (86.09615pt too wide) in paragraph at lines 161--192
+ [][][][][][][][][][][] 
+ []
+
+<./images/cont1/fig5a.jpg, id=559, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5a.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5a.jpg>
+Package pdftex.def Info: ./images/cont1/fig5a.jpg used on input line 206.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig5b.jpg, id=560, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5b.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5b.jpg>
+Package pdftex.def Info: ./images/cont1/fig5b.jpg used on input line 212.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig5c.jpg, id=561, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5c.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5c.jpg>
+Package pdftex.def Info: ./images/cont1/fig5c.jpg used on input line 218.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig5d.jpg, id=562, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5d.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5d.jpg>
+Package pdftex.def Info: ./images/cont1/fig5d.jpg used on input line 224.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig5e.jpg, id=563, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5e.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5e.jpg>
+Package pdftex.def Info: ./images/cont1/fig5e.jpg used on input line 230.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+<./images/cont1/fig5f.jpg, id=564, 240.9pt x 321.2pt>
+File: ./images/cont1/fig5f.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig5f.jpg>
+Package pdftex.def Info: ./images/cont1/fig5f.jpg used on input line 236.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+
+Overfull \hbox (86.09615pt too wide) in paragraph at lines 206--237
+ [][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 5288) has occurred while \output is active []
+
+ [14 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig4a.jpg> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig4b.jpg> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig4c.jpg> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont1/fig4d.jpg> <C:/Users/aha/Docum
+ents/LEdProjects/dissertation/images/cont1/fig4e.jpg> <C:/Users/aha/Documents/L
+EdProjects/dissertation/images/cont1/fig4f.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5a.jpg> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5b.jpg> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig5c.jpg> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont1/fig5d.jpg> <C:/Users/aha/Docum
+ents/LEdProjects/dissertation/images/cont1/fig5e.jpg> <C:/Users/aha/Documents/L
+EdProjects/dissertation/images/cont1/fig5f.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]|\OT1/cmr/bx/n/10.95 User
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+\OT1/cmr/bx/n/10.95 Search
+ []
+
+Missing character: There is no ë in font cmr10!
+Missing character: There is no í in font cmr10!
+
+Overfull \hbox (4.93161pt too wide) in paragraph at lines 268--268
+[]|[]| 
+ []
+
+Missing character: There is no ë in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no í in font cmr10!
+
+Overfull \hbox (54.12027pt too wide) in paragraph at lines 256--273
+ [][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17] <./images/cont1/fig6.jpg, id=602, 240.9pt x 321.2pt>
+File: ./images/cont1/fig6.jpg Graphic file (type jpg)
+
+<use ./images/cont1/fig6.jpg>
+Package pdftex.def Info: ./images/cont1/fig6.jpg used on input line 317.
+(pdftex.def)             Requested size: 71.13188pt x 94.8414pt.
+ [18] [19 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig6.jp
+g>] [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+[]|\OT1/cmr/bx/n/10.95 NutritionistPro Knowl-
+ []
+
+Missing character: There is no ì in font cmr10!
+Missing character: There is no î in font cmr10!
+
+Underfull \hbox (badness 1005) in paragraph at lines 372--372
+[]|\OT1/cmr/m/n/10.95 13,087 (num records in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+[]|\OT1/cmr/m/n/10.95 46,722 (num records in
+ []
+
+Missing character: There is no ó in font cmr10!
+
+Overfull \hbox (35.32498pt too wide) in paragraph at lines 365--381
+ [][][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+[23] <./images/cont1/fig7a.png, id=632, 180.675pt x 240.9pt>
+File: ./images/cont1/fig7a.png Graphic file (type png)
+
+<use ./images/cont1/fig7a.png>
+Package pdftex.def Info: ./images/cont1/fig7a.png used on input line 403.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig7b.png, id=633, 180.675pt x 240.9pt>
+File: ./images/cont1/fig7b.png Graphic file (type png)
+
+<use ./images/cont1/fig7b.png>
+Package pdftex.def Info: ./images/cont1/fig7b.png used on input line 409.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig7c.png, id=634, 180.675pt x 240.9pt>
+File: ./images/cont1/fig7c.png Graphic file (type png)
+
+<use ./images/cont1/fig7c.png>
+Package pdftex.def Info: ./images/cont1/fig7c.png used on input line 415.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig7d.png, id=635, 180.675pt x 240.9pt>
+File: ./images/cont1/fig7d.png Graphic file (type png)
+
+<use ./images/cont1/fig7d.png>
+Package pdftex.def Info: ./images/cont1/fig7d.png used on input line 421.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+ [24 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7a.png> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7b.png> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig7c.png> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont1/fig7d.png>] <./images/cont1/fi
+g8a.png, id=646, 180.675pt x 240.9pt>
+File: ./images/cont1/fig8a.png Graphic file (type png)
+
+<use ./images/cont1/fig8a.png>
+Package pdftex.def Info: ./images/cont1/fig8a.png used on input line 441.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig8b.png, id=647, 180.675pt x 240.9pt>
+File: ./images/cont1/fig8b.png Graphic file (type png)
+
+<use ./images/cont1/fig8b.png>
+Package pdftex.def Info: ./images/cont1/fig8b.png used on input line 447.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig8c.png, id=648, 180.675pt x 240.9pt>
+File: ./images/cont1/fig8c.png Graphic file (type png)
+
+<use ./images/cont1/fig8c.png>
+Package pdftex.def Info: ./images/cont1/fig8c.png used on input line 453.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig9.png, id=649, 180.675pt x 240.9pt>
+File: ./images/cont1/fig9.png Graphic file (type png)
+
+<use ./images/cont1/fig9.png>
+Package pdftex.def Info: ./images/cont1/fig9.png used on input line 468.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+ [25 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8a.png> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8b.png> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig8c.png>] <./images/co
+nt1/fig10a.png, id=660, 180.675pt x 240.9pt>
+File: ./images/cont1/fig10a.png Graphic file (type png)
+
+<use ./images/cont1/fig10a.png>
+Package pdftex.def Info: ./images/cont1/fig10a.png used on input line 486.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig10b.png, id=661, 180.675pt x 240.9pt>
+File: ./images/cont1/fig10b.png Graphic file (type png)
+
+<use ./images/cont1/fig10b.png>
+Package pdftex.def Info: ./images/cont1/fig10b.png used on input line 492.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig10c.png, id=662, 180.675pt x 240.9pt>
+File: ./images/cont1/fig10c.png Graphic file (type png)
+
+<use ./images/cont1/fig10c.png>
+Package pdftex.def Info: ./images/cont1/fig10c.png used on input line 498.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig10d.png, id=663, 180.675pt x 240.9pt>
+File: ./images/cont1/fig10d.png Graphic file (type png)
+
+<use ./images/cont1/fig10d.png>
+Package pdftex.def Info: ./images/cont1/fig10d.png used on input line 504.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig9.png> <C
+:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig10a.png> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig10b.png> <C:/Users/ah
+a/Documents/LEdProjects/dissertation/images/cont1/fig10c.png> <C:/Users/aha/Doc
+uments/LEdProjects/dissertation/images/cont1/fig10d.png>]
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [27]
+[28] <./images/cont1/fig11a.png, id=684, 180.675pt x 240.9pt>
+File: ./images/cont1/fig11a.png Graphic file (type png)
+
+<use ./images/cont1/fig11a.png>
+Package pdftex.def Info: ./images/cont1/fig11a.png used on input line 546.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig11b.png, id=685, 180.675pt x 240.9pt>
+File: ./images/cont1/fig11b.png Graphic file (type png)
+
+<use ./images/cont1/fig11b.png>
+Package pdftex.def Info: ./images/cont1/fig11b.png used on input line 552.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig11c.png, id=686, 180.675pt x 240.9pt>
+File: ./images/cont1/fig11c.png Graphic file (type png)
+
+<use ./images/cont1/fig11c.png>
+Package pdftex.def Info: ./images/cont1/fig11c.png used on input line 558.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont1/fig11d.png, id=687, 180.675pt x 240.9pt>
+File: ./images/cont1/fig11d.png Graphic file (type png)
+
+<use ./images/cont1/fig11d.png>
+Package pdftex.def Info: ./images/cont1/fig11d.png used on input line 564.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+ [29]
+<./images/cont1/fig12.png, id=692, 958.3303pt x 602.25pt>
+File: ./images/cont1/fig12.png Graphic file (type png)
+
+<use ./images/cont1/fig12.png>
+Package pdftex.def Info: ./images/cont1/fig12.png used on input line 582.
+(pdftex.def)             Requested size: 284.52756pt x 178.80171pt.
+ [30 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig11a.png> 
+<C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig11b.png> <C:/U
+sers/aha/Documents/LEdProjects/dissertation/images/cont1/fig11c.png> <C:/Users/
+aha/Documents/LEdProjects/dissertation/images/cont1/fig11d.png>] [31 <C:/Users/
+aha/Documents/LEdProjects/dissertation/images/cont1/fig12.png>] <./images/cont1
+/chart13.png, id=708, 263.5446pt x 191.2746pt>
+File: ./images/cont1/chart13.png Graphic file (type png)
+
+<use ./images/cont1/chart13.png>
+Package pdftex.def Info: ./images/cont1/chart13.png used on input line 610.
+(pdftex.def)             Requested size: 284.52756pt x 206.51218pt.
+ [32] [33 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart13
+.png>]
+<./images/cont1/chart14.png, id=722, 362.3136pt x 158.994pt>
+File: ./images/cont1/chart14.png Graphic file (type png)
+
+<use ./images/cont1/chart14.png>
+Package pdftex.def Info: ./images/cont1/chart14.png used on input line 632.
+(pdftex.def)             Requested size: 284.52756pt x 124.85907pt.
+
+<./images/cont1/chart15.png, id=723, 362.3136pt x 177.7842pt>
+File: ./images/cont1/chart15.png Graphic file (type png)
+
+<use ./images/cont1/chart15.png>
+Package pdftex.def Info: ./images/cont1/chart15.png used on input line 647.
+(pdftex.def)             Requested size: 284.52756pt x 139.61513pt.
+ [34 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart14.png>
+ <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15.png>]
+<./images/cont1/chart16.png, id=732, 362.3136pt x 189.3474pt>
+File: ./images/cont1/chart16.png Graphic file (type png)
+
+<use ./images/cont1/chart16.png>
+Package pdftex.def Info: ./images/cont1/chart16.png used on input line 666.
+(pdftex.def)             Requested size: 284.52756pt x 148.6958pt.
+ [35 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart16.png>
+]
+<./images/cont1/chart17.png, id=740, 219.06844pt x 146.79843pt>
+File: ./images/cont1/chart17.png Graphic file (type png)
+
+<use ./images/cont1/chart17.png>
+Package pdftex.def Info: ./images/cont1/chart17.png used on input line 689.
+(pdftex.def)             Requested size: 284.52756pt x 190.66545pt.
+ [36 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart17.png>
+]
+<./images/cont1/chart18.png, id=748, 483.7272pt x 263.0628pt>
+File: ./images/cont1/chart18.png Graphic file (type png)
+
+<use ./images/cont1/chart18.png>
+Package pdftex.def Info: ./images/cont1/chart18.png used on input line 718.
+(pdftex.def)             Requested size: 284.52756pt x 154.73204pt.
+ [37 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart18.png>
+]
+<./images/cont1/chart19.png, id=757, 466.8642pt x 335.3328pt>
+File: ./images/cont1/chart19.png Graphic file (type png)
+
+<use ./images/cont1/chart19.png>
+Package pdftex.def Info: ./images/cont1/chart19.png used on input line 733.
+(pdftex.def)             Requested size: 284.52756pt x 204.37361pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart19.png>
+] [39]
+[40] [41] [42]) (C:\Users\aha\Documents\LEdProjects\dissertation\cont2.tex
+[43]
+<<4>>
+[44
+
+] [45] [46] [47] [48] [49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+[51] [52] [53]
+Overfull \hbox (47.50908pt too wide) in paragraph at lines 137--157
+ [][][] 
+ []
+
+<./images/cont2/fig1a.png, id=835, 180.675pt x 240.9pt>
+File: ./images/cont2/fig1a.png Graphic file (type png)
+
+<use ./images/cont2/fig1a.png>
+Package pdftex.def Info: ./images/cont2/fig1a.png used on input line 168.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig1b.png, id=836, 180.675pt x 240.9pt>
+File: ./images/cont2/fig1b.png Graphic file (type png)
+
+<use ./images/cont2/fig1b.png>
+Package pdftex.def Info: ./images/cont2/fig1b.png used on input line 174.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig1c.png, id=837, 180.675pt x 240.9pt>
+File: ./images/cont2/fig1c.png Graphic file (type png)
+
+<use ./images/cont2/fig1c.png>
+Package pdftex.def Info: ./images/cont2/fig1c.png used on input line 180.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig1d.png, id=838, 180.675pt x 240.9pt>
+File: ./images/cont2/fig1d.png Graphic file (type png)
+
+<use ./images/cont2/fig1d.png>
+Package pdftex.def Info: ./images/cont2/fig1d.png used on input line 186.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1a.png> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1b.png> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont2/fig1c.png> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont2/fig1d.png>] [55]
+<./images/cont2/fig2a.png, id=855, 180.675pt x 240.9pt>
+File: ./images/cont2/fig2a.png Graphic file (type png)
+
+<use ./images/cont2/fig2a.png>
+Package pdftex.def Info: ./images/cont2/fig2a.png used on input line 207.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig2b.png, id=856, 180.675pt x 240.9pt>
+File: ./images/cont2/fig2b.png Graphic file (type png)
+
+<use ./images/cont2/fig2b.png>
+Package pdftex.def Info: ./images/cont2/fig2b.png used on input line 213.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig2c.png, id=857, 180.675pt x 240.9pt>
+File: ./images/cont2/fig2c.png Graphic file (type png)
+
+<use ./images/cont2/fig2c.png>
+Package pdftex.def Info: ./images/cont2/fig2c.png used on input line 219.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig2d.png, id=858, 180.675pt x 240.9pt>
+File: ./images/cont2/fig2d.png Graphic file (type png)
+
+<use ./images/cont2/fig2d.png>
+Package pdftex.def Info: ./images/cont2/fig2d.png used on input line 225.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig2e.png, id=859, 180.675pt x 240.9pt>
+File: ./images/cont2/fig2e.png Graphic file (type png)
+
+<use ./images/cont2/fig2e.png>
+Package pdftex.def Info: ./images/cont2/fig2e.png used on input line 231.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+<./images/cont2/fig3a.png, id=865, 180.675pt x 240.9pt>
+File: ./images/cont2/fig3a.png Graphic file (type png)
+
+<use ./images/cont2/fig3a.png>
+Package pdftex.def Info: ./images/cont2/fig3a.png used on input line 247.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig3b.png, id=866, 180.675pt x 240.9pt>
+File: ./images/cont2/fig3b.png Graphic file (type png)
+
+<use ./images/cont2/fig3b.png>
+Package pdftex.def Info: ./images/cont2/fig3b.png used on input line 253.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig3c.png, id=867, 180.675pt x 240.9pt>
+File: ./images/cont2/fig3c.png Graphic file (type png)
+
+<use ./images/cont2/fig3c.png>
+Package pdftex.def Info: ./images/cont2/fig3c.png used on input line 259.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+
+<./images/cont2/fig3d.png, id=868, 180.675pt x 240.9pt>
+File: ./images/cont2/fig3d.png Graphic file (type png)
+
+<use ./images/cont2/fig3d.png>
+Package pdftex.def Info: ./images/cont2/fig3d.png used on input line 265.
+(pdftex.def)             Requested size: 71.13188pt x 94.84384pt.
+ [57 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig2a.png> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig2b.png> <C:/Use
+rs/aha/Documents/LEdProjects/dissertation/images/cont2/fig2c.png> <C:/Users/aha
+/Documents/LEdProjects/dissertation/images/cont2/fig2d.png> <C:/Users/aha/Docum
+ents/LEdProjects/dissertation/images/cont2/fig2e.png>] [58 <C:/Users/aha/Docume
+nts/LEdProjects/dissertation/images/cont2/fig3a.png> <C:/Users/aha/Documents/LE
+dProjects/dissertation/images/cont2/fig3b.png> <C:/Users/aha/Documents/LEdProje
+cts/dissertation/images/cont2/fig3c.png> <C:/Users/aha/Documents/LEdProjects/di
+ssertation/images/cont2/fig3d.png>] [59]
+<./images/cont2/chart1.png, id=894, 358.941pt x 213.4374pt>
+File: ./images/cont2/chart1.png Graphic file (type png)
+
+<use ./images/cont2/chart1.png>
+Package pdftex.def Info: ./images/cont2/chart1.png used on input line 313.
+(pdftex.def)             Requested size: 71.13188pt x 42.2959pt.
+ [60 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/chart1.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+Underfull \hbox (badness 1603) in paragraph at lines 348--348
+[]|\OT1/cmr/m/n/10.95 1-way re-peated mea-
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 350--350
+[]|\OT1/cmr/m/n/10.95 1-way re-peated mea-
+ []
+
+Missing character: There is no í in font cmr10!
+
+Overfull \hbox (55.72098pt too wide) in paragraph at lines 344--380
+ [][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 184.02988pt on input line 380.
+
+[62] [63] [64] [65]
+Missing character: There is no Ö in font cmr10!
+ [66] [67] [68] [69] [70] [71] [72]) [73]
+(C:\Users\aha\Documents\LEdProjects\dissertation\cont3.tex [74]
+<<5>>
+[75
+
+] [76] [77]
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no Ω in font cmr10!
+
+Overfull \hbox (6.016pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10.95 oped by the USDA to ed-u-cate con-sumers about the healthy e
+at-ing guide-lines [ref][USDA2010].
+ []
+
+[78] [79]
+Missing character: There is no Ω in font cmr10!
+ <./images/cont3/fig1a.png, id=1000, 481.8pt x 803.0pt>
+File: ./images/cont3/fig1a.png Graphic file (type png)
+
+<use ./images/cont3/fig1a.png>
+Package pdftex.def Info: ./images/cont3/fig1a.png used on input line 88.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig1b.png, id=1001, 481.8pt x 803.0pt>
+File: ./images/cont3/fig1b.png Graphic file (type png)
+
+<use ./images/cont3/fig1b.png>
+Package pdftex.def Info: ./images/cont3/fig1b.png used on input line 94.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig1c.png, id=1002, 481.8pt x 803.0pt>
+File: ./images/cont3/fig1c.png Graphic file (type png)
+
+<use ./images/cont3/fig1c.png>
+Package pdftex.def Info: ./images/cont3/fig1c.png used on input line 100.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig1d.png, id=1003, 481.8pt x 803.0pt>
+File: ./images/cont3/fig1d.png Graphic file (type png)
+
+<use ./images/cont3/fig1d.png>
+Package pdftex.def Info: ./images/cont3/fig1d.png used on input line 106.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+ [80]
+<./images/cont3/fig2a.png, id=1009, 481.8pt x 803.0pt>
+File: ./images/cont3/fig2a.png Graphic file (type png)
+
+<use ./images/cont3/fig2a.png>
+Package pdftex.def Info: ./images/cont3/fig2a.png used on input line 124.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig2b.png, id=1010, 481.8pt x 803.0pt>
+File: ./images/cont3/fig2b.png Graphic file (type png)
+
+<use ./images/cont3/fig2b.png>
+Package pdftex.def Info: ./images/cont3/fig2b.png used on input line 130.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig2c.png, id=1011, 481.8pt x 803.0pt>
+File: ./images/cont3/fig2c.png Graphic file (type png)
+
+<use ./images/cont3/fig2c.png>
+Package pdftex.def Info: ./images/cont3/fig2c.png used on input line 136.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+ [81 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1a.png (P
+NG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1b.p
+ng (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fi
+g1c.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/con
+t3/fig1d.png (PNG copy)>]
+<./images/cont3/fig3a.png, id=1022, 481.8pt x 803.0pt>
+File: ./images/cont3/fig3a.png Graphic file (type png)
+
+<use ./images/cont3/fig3a.png>
+Package pdftex.def Info: ./images/cont3/fig3a.png used on input line 152.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig3b.png, id=1023, 481.8pt x 803.0pt>
+File: ./images/cont3/fig3b.png Graphic file (type png)
+
+<use ./images/cont3/fig3b.png>
+Package pdftex.def Info: ./images/cont3/fig3b.png used on input line 158.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig3c.png, id=1024, 481.8pt x 803.0pt>
+File: ./images/cont3/fig3c.png Graphic file (type png)
+
+<use ./images/cont3/fig3c.png>
+Package pdftex.def Info: ./images/cont3/fig3c.png used on input line 164.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig4a.png, id=1025, 481.8pt x 803.0pt>
+File: ./images/cont3/fig4a.png Graphic file (type png)
+
+<use ./images/cont3/fig4a.png>
+Package pdftex.def Info: ./images/cont3/fig4a.png used on input line 180.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+ [82 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2a.png (P
+NG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2b.p
+ng (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fi
+g2c.png (PNG copy)>] [83 <C:/Users/aha/Documents/LEdProjects/dissertation/image
+s/cont3/fig3a.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/
+images/cont3/fig3b.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/disserta
+tion/images/cont3/fig3c.png (PNG copy)>]
+<./images/cont3/fig5a.png, id=1042, 481.8pt x 803.0pt>
+File: ./images/cont3/fig5a.png Graphic file (type png)
+
+<use ./images/cont3/fig5a.png>
+Package pdftex.def Info: ./images/cont3/fig5a.png used on input line 207.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig5b.png, id=1043, 481.8pt x 803.0pt>
+File: ./images/cont3/fig5b.png Graphic file (type png)
+
+<use ./images/cont3/fig5b.png>
+Package pdftex.def Info: ./images/cont3/fig5b.png used on input line 213.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+
+<./images/cont3/fig5c.png, id=1044, 481.8pt x 803.0pt>
+File: ./images/cont3/fig5c.png Graphic file (type png)
+
+<use ./images/cont3/fig5c.png>
+Package pdftex.def Info: ./images/cont3/fig5c.png used on input line 219.
+(pdftex.def)             Requested size: 71.13188pt x 118.54562pt.
+)
+(C:\Users\aha\Documents\LEdProjects\dissertation\cont4.tex [84 <C:/Users/aha/Do
+cuments/LEdProjects/dissertation/images/cont3/fig4a.png (PNG copy)>] [85 <C:/Us
+ers/aha/Documents/LEdProjects/dissertation/images/cont3/fig5a.png (PNG copy)> <
+C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig5b.png (PNG cop
+y)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig5c.png (PN
+G copy)>]
+<<6>>
+[86
+
+] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+Missing character: There is no Ö in font cmr10!
+ [100]
+[101] [102]
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+ [103]
+[104]) (C:\Users\aha\Documents\LEdProjects\dissertation\conclusion.tex [105]
+<<7>>
+) (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.bbl [106
+
+] [107
+
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ì in font cmti10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+[108]
+Missing character: There is no ≈ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [109] [110]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [111]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 363.
+ [112]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∑ in font cmr10!
+ [113]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 515.
+ [114]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [115]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+ [116] [117]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [118]
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [119]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+
+[120]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [121]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [122]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [123]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 1655) in paragraph at lines 1201--1208
+[]\OT1/cmr/m/n/10.95 Lena Mamyk-ina, An-drew D. Miller, Cather-ine Grevet, Yev-
+geniy Me-dyn-skiy,
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+[124]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [125]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [126]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [127]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [128]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [129]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [130]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∂ in font cmr10!
+ [131]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [132]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [133]) [134]
+<<A>>
+[135
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+ [136
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+ (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package rerunfilecheck Info: File `main_doc.out' has not changed.
+(rerunfilecheck)             Checksum: A973CEFC4264826C2D6A84F9105EB92D;7162.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+ ) 
+Here is how much of TeX's memory you used:
+ 12378 strings out of 493921
+ 189310 string characters out of 3144882
+ 246274 words of memory out of 3000000
+ 14736 multiletter control sequences out of 15000+200000
+ 19885 words of font info for 66 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 44i,12n,46p,1723b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:
+/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/cm-super/sfrm0600.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/cm-super/sfrm0800.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/cm-super/sfrm1095.pfb>
+Output written on main_doc.pdf (146 pages, 2970679 bytes).
+PDF statistics:
+ 1791 PDF objects out of 2073 (max. 8388607)
+ 704 named destinations out of 1000 (max. 500000)
+ 1181 words of extra memory for PDF output out of 10000 (max. 10000000)
+

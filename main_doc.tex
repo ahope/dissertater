@@ -1,0 +1,282 @@
+%  ========================================================================
+%  Copyright (c) 1995-2012 The University of Washington
+%
+%  Licensed under the Apache License, Version 2.0 (the "License");
+%  you may not use this file except in compliance with the License.
+%  You may obtain a copy of the License at
+%
+%      http://www.apache.org/licenses/LICENSE-2.0
+%
+%  Unless required by applicable law or agreed to in writing, software
+%  distributed under the License is distributed on an "AS IS" BASIS,
+%  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+%  See the License for the specific language governing permissions and
+%  limitations under the License.
+%  ========================================================================
+%
+
+% Documentation for UW thesis document style for LaTeX
+% by Jim Fox
+% fox@washington.edu
+%
+%    Revised for version 2012/06/19 of uwthesis.cls
+%
+%    This document is contained in a single file ONLY because
+%    I wanted to be able to distribute it easily.  A real thesis ought
+%    to be contained on many files (e.g., one for each chapter, at least).
+%
+%    To help you identify the files and sections in this large file
+%    I use the string '==========' to identify new files.
+%
+%    To help you ignore the unusual things I do with this sample document
+%    I try to use the notation
+%       
+%    % --- sample stuff only -----
+%    special stuff for my document, but you don't need it in your thesis
+%    % --- end-of-sample-stuff ---
+
+
+%    Printed in twoside style now that that's allowed
+%
+ 
+\documentclass [11pt, twoside] {uwthesis}[2012/06/19]
+%\usepackage{draftcopy}
+ 
+\usepackage{type1cm}
+\usepackage{eso-pic}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{mdwlist}
+\usepackage{MnSymbol}
+
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+
+%\usepackage[table]{xcolor}
+
+\makeatletter
+\AddToShipoutPicture{%
+            \setlength{\@tempdimb}{.5\paperwidth}%
+            \setlength{\@tempdimc}{.5\paperheight}%
+            \setlength{\unitlength}{1pt}%
+            \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+        \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.75}%
+        {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
+            }%
+}
+\makeatother
+
+%
+% The following line would print the thesis in a postscript font 
+
+% \usepackage{natbib}
+% \def\bibpreamble{\protect\addcontentsline{toc}{chapter}{Bibliography}}
+%
+\setcounter{tocdepth}{2}  % Print the chapter and sections to the toc
+\setcounter{secnumdepth}{5} 
+
+\usepackage{graphicx}
+%\usepackage{caption}
+%\usepackage{subcaption}
+\usepackage{subfig}
+
+\usepackage{booktabs,tabularx}
+\usepackage{multirow}
+% ==========   Local defs and mods
+%
+
+% --- sample stuff only -----
+% These format the sample code in this document
+
+\usepackage{alltt}  % 
+\newenvironment{demo}
+  {\begin{alltt}\leftskip3em
+     \def\\{\ttfamily\char`\\}%
+     \def\{{\ttfamily\char`\{}%
+     \def\}{\ttfamily\char`\}}}
+  {\end{alltt}}
+ 
+% metafont font.  If logo not available, use the second form
+%
+% \font\mffont=logosl10 scaled\magstep1
+\let\mffont=\sf
+% --- end-of-sample-stuff ---
+ 
+
+
+\begin{document}
+ 
+% ==========   Preliminary pages
+%
+% ( revised 2012 for electronic submission )
+%
+
+\prelimpages
+ 
+%
+% ----- copyright and title pages
+%
+\Title{Approaches to Food Journaling on Mobile Devices}
+\Author{Adrienne Hope Andrew}
+\Year{2012}
+\Program{Computer Science and Engineering}
+
+\Chair{Name of Chairperson}{Title of Chair}{Department of Chair}
+\Signature{First committee member}
+\Signature{Next committee member}
+\Signature{etc}
+
+%\copyrightpage
+
+% \titlepage  
+
+% --- sample stuff only -----
+% unusual footnote not found in a real thesis
+% You just use the \titlepage as commented out above
+
+{\Degreetext{A dissertation%
+  \footnote[2]{an egocentric imitation, actually}\\
+  submitted in partial fulfillment of the\\ requirements for the degree of}
+ \def\thefootnote{\fnsymbol{footnote}}
+ \let\footnoterule\relax
+ \titlepage
+ }
+\setcounter{footnote}{0}
+
+% --- end-of-sample-stuff ---
+ 
+%
+% ----- signature and quoteslip are gone
+%
+
+%
+% ----- abstract
+%
+
+
+\setcounter{page}{-1}
+\abstract{%
+This sample dissertation is an aid to students who are attempting
+to format their theses with \LaTeX, a sophisticated
+text formatter widely available at the University of Washington
+and other institutions of higher learning.
+
+
+\begin{itemize}
+\item It describes the use of a specialized
+macro package developed specifically for thesis production
+at the University.
+The macros customize \LaTeX\ for the correct thesis style,
+allowing the student to concentrate on the substance of
+his or her text.%
+\footnote{See Appendix A to obtain the source to this
+ thesis and the style file.}
+\item It demonstrates the solutions to a variety of
+formatting challenges found in thesis production.
+\item It serves as a template for a real dissertation.
+\end{itemize}
+}
+ 
+%
+% ----- contents & etc.
+%
+\tableofcontents
+\listoffigures
+\listoftables  
+ 
+%
+% ----- glossary 
+%
+%%%aha \input{glossary.tex}
+ 
+%
+% ----- acknowledgments
+%
+\acknowledgments{% \vskip2pc
+  % {\narrower\noindent
+  The author wishes to express sincere appreciation to
+  University of Washington, where he has had the opportunity
+  to work with the \TeX\ formatting system,
+  and to the author of \TeX, Donald Knuth, {\it il miglior fabbro}.
+  % \par}
+}
+
+%
+% ----- dedication
+%
+\dedication{\begin{center}to Mazzy Star and Alec Ivan.\end{center}}
+
+%
+% end of the preliminary pages
+ 
+ 
+ 
+%
+% ==========      Text pages
+%
+
+\textpages
+% ========== Intro
+ \input{intro.tex}
+\input{background.tex}
+% ========== Chapter 1
+ \input{cont1.tex}
+% ========== Chapter 2
+ \input{cont2.tex}
+
+ 
+% ========== Chapter 3
+ \input{cont3.tex}
+% ========== Chapter 4
+ \input{cont4.tex}
+\input{conclusion.tex}
+%
+% ==========   Bibliography
+%
+\nocite{*}   % include everything in the uwthesis.bib file
+\bibliographystyle{plain}
+\bibliography{refs_v2}
+%
+% ==========   Appendices
+%
+\appendix
+\raggedbottom\sloppy
+ 
+% ========== Appendix A
+ 
+\chapter{Where to find the files}
+ 
+The uwthesis class file, {\tt uwthesis.cls}, contains the parameter settings,
+macro definitions, and other \TeX nical commands which
+allow \LaTeX\ to format a thesis.  
+The source to
+the document you are reading, {\tt uwthesis.tex},
+contains many formatting examples
+which you may find useful.
+The bibliography database, {\tt uwthesis.bib}, contains instructions
+to BibTeX to create and format the bibliography.
+You can find the latest of these files on:
+
+\begin{itemize}
+\item My page.
+\begin{description}
+\item[] \verb%http://staff.washington.edu/fox/tex/uwthesis.html%
+\end{description}
+
+\item CTAN
+\begin{description}
+\item[]  \verb%http://tug.ctan.org/tex-archive/macros/latex/contrib/uwthesis/%
+\item[]  (not always as up-to-date as my site)
+\end{description}
+
+\end{itemize}
+
+\vita{Jim Fox is a Software Engineer with UW Information Technology at the University of Washington.
+His duties do not include maintaining this package.  That is rather
+an avocation which he enjoys as time and circumstance allow.
+
+He welcomes your comments to {\tt fox@uw.edu}.
+}
+
+
+\end{document}
