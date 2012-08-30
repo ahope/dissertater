@@ -300,7 +300,7 @@
 
 \fancyfoot{}
 \renewcommand{\chaptermark}[1]{poo. \markboth{##1}{}}
-\renewcommand{\chaptermark}[1]{booger. ##1 \markboth{##1}{}}
+\renewcommand{\chaptermark}[1]{chap name ##1 \markboth{##1}{}}
 %\renewcommand{\sectionmark}[1]{eh. \markright{##1}{}}
 
 
