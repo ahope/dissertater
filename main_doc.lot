@@ -1,15 +1,23 @@
 \addvspace {5\p@ }
 \addvspace {5\p@ }
 \addvspace {5\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Add caption\relax }}{16}{table.caption.10}
-\contentsline {table}{\numberline {3.2}{\ignorespaces Comparing nutrition databases\relax }}{22}{table.caption.12}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Examples of a user's initial query, how it gets converted into a database query, and some example results. Note that some queries can generate many different, potentially unexpected results. The generated query and subsequent results do not preserve the user's original word ordering. \relax }}{20}{table.caption.12}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Comparing nutrition databases\relax }}{27}{table.caption.14}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Add caption\relax }}{38}{table.caption.21}
 \addvspace {5\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces HEI Calculation\relax }}{48}{table.caption.26}
-\contentsline {table}{\numberline {4.2}{\ignorespaces FBQI Calculation\relax }}{50}{table.caption.27}
-\contentsline {table}{\numberline {4.3}{\ignorespaces Counting HEI as `tokens'\relax }}{55}{table.caption.28}
-\contentsline {table}{\numberline {4.4}{\ignorespaces Summary of statistical analyses\relax }}{63}{table.caption.33}
-\contentsline {table}{\numberline {4.5}{\ignorespaces Overview of clusters/themes of like and dislike feedback\relax }}{68}{table.caption.34}
+\contentsline {table}{\numberline {4.1}{\ignorespaces HEI Calculation\relax }}{53}{table.caption.29}
+\contentsline {table}{\numberline {4.2}{\ignorespaces FBQI Calculation\relax }}{54}{table.caption.30}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Counting HEI as `tokens'\relax }}{59}{table.caption.31}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Summary of statistical analyses\relax }}{67}{table.caption.36}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Overview of clusters/themes of like and dislike feedback\relax }}{73}{table.caption.37}
 \addvspace {5\p@ }
 \addvspace {5\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Entry Strategy\relax }}{99}{table.caption.44}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Common queries\relax }}{100}{table.caption.45}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Long queries\relax }}{100}{table.caption.46}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Entry Counts\relax }}{106}{table.caption.47}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Common Searches\relax }}{107}{table.caption.48}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Long searches\relax }}{107}{table.caption.49}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Final Component Counts\relax }}{109}{table.caption.51}
 \addvspace {5\p@ }
 \addvspace {5\p@ }

@@ -1,100 +1,38 @@
 \addvspace {5\p@ }
 \addvspace {5\p@ }
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces A bunch of screens. Look at subfig and continueFloat to help wrap some of the images to the next line.\relax }}{11}{figure.caption.6}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{11}{subfigure.1.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{11}{subfigure.1.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{11}{subfigure.1.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { Viz4 }}}{11}{subfigure.1.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces { Viz5 }}}{11}{subfigure.1.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces { Graph1 }}}{11}{subfigure.1.6}
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces { Graph2 }}}{11}{subfigure.1.7}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Nokia prototype main screens\relax }}{13}{figure.caption.7}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{13}{subfigure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{13}{subfigure.2.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{13}{subfigure.2.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{13}{subfigure.2.4}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Nokia prototype: Add known food\relax }}{14}{figure.caption.8}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{14}{subfigure.3.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{14}{subfigure.3.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{14}{subfigure.3.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{14}{subfigure.3.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces { }}}{14}{subfigure.3.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces { }}}{14}{subfigure.3.6}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Nokia prototype: Adding newly encountered (previously unused) food\relax }}{15}{figure.caption.9}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{15}{subfigure.4.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{15}{subfigure.4.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{15}{subfigure.4.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{15}{subfigure.4.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces { }}}{15}{subfigure.4.5}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces { }}}{15}{subfigure.4.6}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Nokia prototype: 'Steak' results\relax }}{19}{figure.caption.11}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces WinMobile Food diary\relax }}{24}{figure.caption.13}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{24}{subfigure.6.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{24}{subfigure.6.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{24}{subfigure.6.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{24}{subfigure.6.4}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Evolution of serving size specification\relax }}{25}{figure.caption.14}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{25}{subfigure.7.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{25}{subfigure.7.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{25}{subfigure.7.3}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Add new entry (manual) to food diary\relax }}{26}{figure.caption.15}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Favorite meals walkthrough\relax }}{26}{figure.caption.16}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{26}{subfigure.9.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{26}{subfigure.9.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{26}{subfigure.9.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{26}{subfigure.9.4}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Final BALANCE software walkthrough\relax }}{30}{figure.caption.17}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { }}}{30}{subfigure.10.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { }}}{30}{subfigure.10.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { }}}{30}{subfigure.10.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { }}}{30}{subfigure.10.4}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces WinMobile Food diary\relax }}{31}{figure.caption.18}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces App start patterns over the days \relax }}{33}{figure.caption.19}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Number of people who made entries over time\relax }}{34}{figure.caption.20}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Number of entries over time\relax }}{34}{figure.caption.21}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Number of entries eaten over time\relax }}{35}{figure.caption.22}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Number of edits over time\relax }}{36}{figure.caption.23}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Patterns of use, ppt101\relax }}{37}{figure.caption.24}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Patterns of use, ppt120\relax }}{38}{figure.caption.25}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Visualizations with various energy intake and expenditure values. \relax }}{12}{figure.caption.6}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Paper prototype visualizations\relax }}{14}{figure.caption.8}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Nokia prototype main screens. \relax }}{16}{figure.caption.9}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Nokia prototype: Add known food\relax }}{17}{figure.caption.10}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Nokia prototype: Adding newly encountered (previously unused) food\relax }}{19}{figure.caption.11}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Nokia prototype: `Steak' results\relax }}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces WinMobile food diary.\relax }}{29}{figure.caption.15}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Evolution of serving size specification to make it more touch-friendly.\relax }}{30}{figure.caption.16}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Add a new manual entry to food diary when the database does not have the desired food. \relax }}{31}{figure.caption.17}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Using the favorite meals feature to add entries to the food diary. \relax }}{32}{figure.caption.18}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Final BALANCE non-food diary screens.\relax }}{35}{figure.caption.19}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Software to support the 24-hr recall using the same database and queries as the mobile software. \relax }}{36}{figure.caption.20}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces App start patterns over the days \relax }}{39}{figure.caption.22}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Number of people who made entries over time\relax }}{40}{figure.caption.23}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Number of entries over time\relax }}{40}{figure.caption.24}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Number of entries eaten over time\relax }}{41}{figure.caption.25}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Number of edits over time\relax }}{42}{figure.caption.26}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Patterns of use, ppt101\relax }}{43}{figure.caption.27}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Patterns of use, ppt120\relax }}{44}{figure.caption.28}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces HEI Screens.\relax }}{54}{figure.caption.29}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{54}{subfigure.1.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{54}{subfigure.1.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{54}{subfigure.1.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { Viz4 }}}{54}{subfigure.1.4}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces FBQI Screens.\relax }}{57}{figure.caption.30}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{57}{subfigure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{57}{subfigure.2.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{57}{subfigure.2.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { Viz4 }}}{57}{subfigure.2.4}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces { Viz4 }}}{57}{subfigure.2.5}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces BALANCE Screens.\relax }}{58}{figure.caption.31}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{58}{subfigure.3.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{58}{subfigure.3.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{58}{subfigure.3.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { Viz4 }}}{58}{subfigure.3.4}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Answers to ``Which will help you reach your goals?''\relax }}{60}{figure.caption.32}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Paper prototype visualizations\relax }}{60}{figure.caption.32}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Paper prototype visualizations\relax }}{61}{figure.caption.33}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Paper prototype visualizations\relax }}{62}{figure.caption.34}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Answers to ``Which will help you reach your goals?''\relax }}{65}{figure.caption.35}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces POND Screens.\relax }}{81}{figure.caption.35}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{81}{subfigure.1.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{81}{subfigure.1.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{81}{subfigure.1.3}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces { Viz4 }}}{81}{subfigure.1.4}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces POND Screens.\relax }}{82}{figure.caption.36}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{82}{subfigure.2.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{82}{subfigure.2.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{82}{subfigure.2.3}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces POND Screens.\relax }}{83}{figure.caption.37}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{83}{subfigure.3.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{83}{subfigure.3.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{83}{subfigure.3.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces POND Screens.\relax }}{84}{figure.caption.38}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{84}{subfigure.4.1}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces POND Screens.\relax }}{85}{figure.caption.39}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces { Viz1 }}}{85}{subfigure.5.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces { Viz2 }}}{85}{subfigure.5.2}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces { Viz3 }}}{85}{subfigure.5.3}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces POND Screens\relax }}{86}{figure.caption.38}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces POND Screens.\relax }}{87}{figure.caption.39}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces POND Screens.\relax }}{88}{figure.caption.40}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces POND Screens.\relax }}{89}{figure.caption.41}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces POND Screens.\relax }}{90}{figure.caption.42}
 \addvspace {5\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces POND Screens.\relax }}{95}{figure.caption.43}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Overview of pptXXX.\relax }}{110}{figure.caption.50}
 \addvspace {5\p@ }
 \addvspace {5\p@ }

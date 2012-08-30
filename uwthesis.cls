@@ -282,14 +282,28 @@
 \def\textpages{% Start of text pages
      \advance\textheight by\footskip % has to be done before the clearpage
    \clearpage
-   \pagestyle{empty}
+   \pagestyle{fancy}
    \cleardoublepage
-   \pagestyle{myheadings}\markboth{ Section \thesection.  \leftmark \hfill \today\hfill}{Chapter \thechapter.  \rightmark DRAFT \hfill \today \hfill}%\markboth{}{}
+
+
+%   \pagestyle{myheadings}\markboth{ Section \thesection.  \leftmark \hfill \today\hfill}{Chapter \thechapter.  \rightmark DRAFT \hfill \today \hfill}%\markboth{}{}
 
    \def\@chapapp{\protect\@textofChapter}
    \def\Thechapter{\arabic{chapter}}
    \pagenumbering{arabic}
      \footskip\z@
+
+\fancyhead[CO,CE]{draft}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\chaptermark} % \chaptermark
+\fancyhead[LO]{\sectionmark} % \chaptermark
+
+\fancyfoot{}
+\renewcommand{\chaptermark}[1]{poo. \markboth{##1}{}}
+\renewcommand{\chaptermark}[1]{booger. ##1 \markboth{##1}{}}
+%\renewcommand{\sectionmark}[1]{eh. \markright{##1}{}}
+
+
    }
  
 \def\appendix{\par
@@ -349,12 +363,17 @@
 %
 %  Chapter headings
 %
-\def\@makechapterhead#1{ \vspace*{2pc} {\centering
- \ifnum \c@secnumdepth >\m@ne \large \@chapapp{} \Thechapter \par
- \vspace{10\p@} \fi 
-  \def\baselinestretch{1.0}\normalfont
-  \large\bf \uppercase\expandafter{#1}\par
- \nobreak \vspace{20\p@}} }
+\def\@makechapterhead#1{ \vspace*{20pc} {\raggedleft %\centering
+
+\ifnum \c@secnumdepth >\m@ne 
+	{\fontfamily{phv}\fontsize{50}{60}\selectfont \hfill \Thechapter} \par
+ 	\vspace{10\p@} \fi 
+  \def\baselinestretch{2.0}
+  %\large\bf 
+  {\fontfamily{phv}\fontsize{24}{36}\selectfont #1}
+	\par
+   \nobreak
+	\vspace{40\p@}} }
 %
 \def\@makeschapterhead#1{ \vspace*{2pc} {\centering
  \large\bf \uppercase\expandafter{#1}\par
@@ -363,7 +382,8 @@
 \def\chapter{%
    \printchapternotes
    \if@openright\cleardoublepage\else\clearpage\fi
-   % \thispagestyle{empty}%
+    \thispagestyle{empty}%
+%aha: add footer here?  \fancyfoot{}
    \global\@topnum\z@
    \@afterindenttrue
    % \let\\\relax

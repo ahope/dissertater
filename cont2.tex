@@ -1,5 +1,5 @@
-
 \chapter{CONTRIBUTION 2: Investigating Food Index-Based Food Diaries In The Lab}
+\label{cha:cont2}
  
 In this chapter, I address the question of what challenges arise when tracking food intake as an index on a mobile phone. In earlier chapters, I described the challenges and barriers that people face when employing a traditional approach to journaling what they eat, either on paper, a website/software, or on a PDA/mobile phone. Here, I make the argument for the value of a different paradigm of food journaling. Specifically, I refer to the constraints that a mobile platform imposes on the food journaling problem as discussed earlier, and consider how the use of food indexes could address the given constraints. I also describe how the use of food indexes for mobile phone food journaling naturally reflects known requirements for successful goal-tending. After establishing the potential benefits of the approach, I will address some questions that arise around the approach of using food indexes for mobile phone food journals. I then describe a study where I explore some of those issues and present the results. 
 
@@ -34,13 +34,11 @@ The HEI food index [ref] is summarized in the table below. HEI is a score based 
 \begin{table}[htbp]
   \centering
   \caption{HEI Calculation}
-    \begin{tabular}{p{2in}cl
-}
+    \begin{tabular}{p{2in}cl}
     \toprule
     \textbf{Component} & \textbf{Maximum Points} & \textbf{Daily Recommended Intake} \\
     \midrule
-    Total Grains & 5     & $\ge$ 3.0 oz 
-eq/1000kcal \\
+    Total Grains & 5     & $\ge$ 3.0 oz eq/1000kcal \\
     Whole Grains & 5     & $\ge$ 1.5 oz eq/1000kcal \\
     Vegetables & 5     & $\ge$ 1.1 cup eq/1000kcal \\
     Dark green \& orange vegetables, legumes & 5     & $\ge$ 0.4 cup eq/1000kcal \\
@@ -62,6 +60,7 @@ eq/1000kcal \\
 Grains, vegetables and fruits are broken into multiple categories. The grains category is separated into Whole and Total grains, as is the Fruit category. For Grains, once the daily limit is met for Whole Grains, more Whole Grains are counted under Total Grains. If a person eats 5 Whole Grains and 5 Total Grains, the grains component of the total score is 10. However, if a person eats 10 Total Grains, the grains component of the total score is 5, since none were Whole Grains and the max Total Grains score is 5. This is similar with Fruit, where Whole Fruits include unprocessed fruits, while Total Fruits includes juices and cooked or dried fruits. Vegetables also include two categories, separating out the dark green and orange vegetables, as well as legumes. Similar to Grains and Fruits, if one eats the equivalent of 10 points of Dark Green Vegetables, the total score is 10, while 10 points of other vegetables only contributes 5 points to the total score. 
 
 The rules to calculate an HEI score for an individual diet are fairly complicated. However, partly due to the complexity, researchers find the resulting score a fairly good indicator of one's diet [ref]. The complexity makes it a good option for this study, to identify user responses to a complex interface and counting process. It also incorporates the restricting some important quantities. 
+
 
 \subsection{The Food-Based Quality Index}
 The Food-Based Quality Index (FBQI) [ref] is a food index based solely on food groups. The food groups are simplified and slightly different than the ones based on the Food Pyramid. Specifically, potatoes, rice, pasta, and other starchy grains are considered separately from either bread (and cereal grains) or vegetables, while cheese is separate from dairy. Serving specifications are designed to be representative of how consumers think about food servings. 
@@ -156,36 +155,44 @@ For the purposes of this study, we collapsed Fruit, Vegetables and Grains into s
   \label{tab:table2_3}%
 \end{table}%
 
+Does some text go here?
+
+\begin{figure}	
+\centering
+	\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig1a}}
+		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig1_1a}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig1b}}
+		\caption{Enter the food name. }\label{fig:fig1_1b}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig1c}}
+		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig1_1c}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig1d}}
+		\caption{When there are many entries, the user is asked to choos a food group to filter the results. }\label{fig:fig1_1d}
+	\end{subfigure}
 
 
-\begin{figure}[ t ]
-\begin{center}
-\subfloat[ Viz1 ]{
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig1a}}
-\label{fig:fig2_1a}
-}
-\subfloat[ Viz2 ]{
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig1b}}
-\label{fig:fig2_1b}
-}
-\subfloat[ Viz3 ]{
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width  =2.5cm ]{./images/cont2/fig1c}}
-\label{fig:fig2_1c}
-}
-\subfloat [ Viz4 ]{
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics [ width  =2.5cm ]{./images/cont2/fig1d}}
-\label{fig:fig2_1d}
-}
-\caption{HEI Screens.}
-\end{center}
+	\caption{Paper prototype visualizations}\label{fig:1}
 \end{figure}
 
 
@@ -196,76 +203,83 @@ The main screen of this application shows an overview of the index. Each colored
 
 The FBQI interface is similar in design to the HEI inteface. This is specifically to attempt to minimize differences between the interfaces. As in HEI, the main screen shows an overview of the index. Each colored button represents a component of the index, labeled as such. An ``Ex'' button on each component button provides support for the user to determine which group/component a particular food belongs to. The ``Ex'' button for Grains is shown above. Once a component button is selected, a window pops up which allows a user to specify how many servings they  want to enter. Again, the example/explanatory information is presented on this page, to support the user in determining how many servings to select. The serving sizes and guidance are based on the official definition of the food index. We see that for FBQI,  the guidance is much more streamlined, which is indicative of the point that the index is designed for experts, as opposed to novices. The simplification in some ways is nice for lay-people, but in reality it frequently doesn't provide enough guidance for the various foods people encounter in their diet. The examples and explanatory guidance text is very similar to the guidance provided for HEI, and adapted from USDA food pyramid [ref] guidance. After the servings are selected, the overview screen shows checkmarks to represent the number of servings eaten in that category, accumulated for the day. 
 
-
-\begin{figure}[ t ]
-\begin{center}
-\subfloat[ Viz1 ]{
-\setlength\fboxsep{0pt}
+\begin{figure}	[tbh]
+\centering
+	\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig2a}}
-\label{fig:fig2_2a}
-}
-\subfloat[ Viz2 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig2a}}
+		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig2_1a}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig2b}}
-\label{fig:fig2_2b}
-}
-\subfloat[ Viz3 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig2b}}
+		\caption{Enter the food name. }\label{fig:fig2_1b}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width  =2.5cm ]{./images/cont2/fig2c}}
-\label{fig:fig2_2c}
-}
-\subfloat [ Viz4 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig2c}}
+		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig2_1c}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics [ width  =2.5cm ]{./images/cont2/fig2d}}
-\label{fig:fig2_2d}
-}
-\subfloat [ Viz4 ]{
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics [ width  =2.5cm ]{./images/cont2/fig2e}}
-\label{fig:fig2_2e}
-}
-\caption{FBQI Screens.}
-\end{center}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig2d}}
+		\caption{When there are many entries, the user is asked to choos a food group to filter the results. }\label{fig:fig2_1d}
+	\end{subfigure}
+	\caption{Paper prototype visualizations}\label{fig:2_2}
 \end{figure}
+
+
 
 \subsubsection{BALANCE}
 The main, overview screen for the BALANCE software consists of a list of food eaten that day. For each food item, the name, number of calories, and meal is identified. The number of calories for that day is specified at the top of the screen. New entries are added by searching for a key word or name. After 3 letters are entered, a list is displayed that shows food entries (from a list of foods that contain common foods and foods that have been entered by that user before) that contain words starting the same way. After a specific food is chosen, a screen appears where the user can specify the amount eaten, in full and partial servings. Some foods provide multiple serving choices, such as ounces, cups, grams, pieces, or servings. This information is provided by the nutrition database, and is limited to the serving information in this database. 
 
-
-\begin{figure}[ t ]
-\begin{center}
-\subfloat[ Viz1 ]{
-\setlength\fboxsep{0pt}
+\begin{figure}	[tbh]
+\centering
+	\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig3a}}
-\label{fig:fig2_3a}
-}
-\subfloat[ Viz2 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig3a}}
+		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig3_1a}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont2/fig3b}}
-\label{fig:fig2_3b}
-}
-\subfloat[ Viz3 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig3b}}
+		\caption{Enter the food name. }\label{fig:fig3_1b}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width  =2.5cm ]{./images/cont2/fig3c}}
-\label{fig:fig2_3c}
-}
-\subfloat [ Viz4 ]{
-\setlength\fboxsep{0pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig3c}}
+		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig3_1c}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics [ width  =2.5cm ]{./images/cont2/fig3d}}
-\label{fig:fig2_3d}
-}
-\caption{BALANCE Screens.}
-\end{center}
+\fbox{\includegraphics[width=1.25in]{./images/cont2/fig3d}}
+		\caption{When there are many entries, the user is asked to choos a food group to filter the results. }\label{fig:fig3_1d}
+	\end{subfigure}
+	\caption{Paper prototype visualizations}\label{fig:2_3}
 \end{figure}
+
 
 
 \subsection{Participants}
@@ -336,6 +350,7 @@ Can we begin to characterize the types of errors that are made in a complete, in
 \subsubsection{Analysis Approach}
 
 I think I want a paragraph here: Something about how we do some quantitative tests, then provide some qualitative analysis to help better understand the quantitative results and guide future research. The qualitative analysis includes discussion about the answers to the like/dislike survey question (for each interface), the types/kinds of errors made in each condition, and a discussion of the question ``which interface will help you reach your health and wellness goals?''. 
+
 
 % Table generated by Excel2LaTeX from sheet 'Sheet5'
 \begin{table}[htbp]

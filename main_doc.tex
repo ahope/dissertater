@@ -51,34 +51,51 @@
 
 \usepackage{hyperref}
 \usepackage{fancyhdr}
+\usepackage{setspace}
+
+\usepackage{xcolor}
+
 
 %\usepackage[table]{xcolor}
 
-\makeatletter
-\AddToShipoutPicture{%
-            \setlength{\@tempdimb}{.5\paperwidth}%
-            \setlength{\@tempdimc}{.5\paperheight}%
-            \setlength{\unitlength}{1pt}%
-            \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
-        \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.75}%
-        {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
-            }%
-}
+%% Uncomment below to add the DRAFT to the page
+ %\makeatletter
+ %\AddToShipoutPicture{%
+ %           \setlength{\@tempdimb}{.5\paperwidth}%
+ %           \setlength{\@tempdimc}{.5\paperheight}%
+ %           \setlength{\unitlength}{1pt}%
+ %           \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+ %       \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.90}%
+ %       {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
+ %           }%
+ %}
+%% Uncomment above... ^
 \makeatother
 
 %
 % The following line would print the thesis in a postscript font 
+%\usepackage[style=alphabetic,natbib=true]{biblatex}
 
-% \usepackage{natbib}
-% \def\bibpreamble{\protect\addcontentsline{toc}{chapter}{Bibliography}}
+ \usepackage[square]{natbib}
+ \def\bibpreamble{\protect\addcontentsline{toc}{chapter}{Bibliography}}
 %
 \setcounter{tocdepth}{2}  % Print the chapter and sections to the toc
 \setcounter{secnumdepth}{5} 
 
 \usepackage{graphicx}
+\usepackage{floatrow}
+\floatsetup[table]{font=sf}
+
 %\usepackage{caption}
 %\usepackage{subcaption}
-\usepackage{subfig}
+
+% will apply to all captions
+\usepackage[font={small,singlespacing}]{caption} 
+% will apply to all subcaptions
+\usepackage[font={small,stretch=1,sf},singlelinecheck=off,justification=raggedright]{subcaption}
+
+%\usepackage{subfig}
+\usepackage{rotating}
 
 \usepackage{booktabs,tabularx}
 \usepackage{multirow}
@@ -216,6 +233,8 @@ formatting challenges found in thesis production.
 %
 
 \textpages
+
+
 % ========== Intro
  \input{intro.tex}
 \input{background.tex}
@@ -229,12 +248,16 @@ formatting challenges found in thesis production.
  \input{cont3.tex}
 % ========== Chapter 4
  \input{cont4.tex}
-\input{conclusion.tex}
+ \input{conclusion.tex}
 %
 % ==========   Bibliography
 %
 \nocite{*}   % include everything in the uwthesis.bib file
-\bibliographystyle{plain}
+%\bibpunct{[}{]}{,}{a}{}{;} 
+\bibliographystyle{aha-diss}%my-econometrica}
+%\bibliographystyle{gerapali}  
+
+% or: plain,unsrt,alpha,abbrv,acm,apalike,...
 \bibliography{refs_v2}
 %
 % ==========   Appendices
