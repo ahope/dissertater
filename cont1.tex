@@ -735,12 +735,46 @@ A 24-hr recall is a process in which a trained researcher works with an individu
 The recall software is pictured in \ref{fig:fig12}. The recall administrator searches for the food in the left pane. The `Quick Results' at the top displays the same foods that the BALANCE mobile user would initially see when searching for a food. The bottom pane allows the administrator to probe about specific manufacturers. The middle pane provides details on a single food and allows amounts to be specified. The right pane shows the foods that have been entered for each meal. The final recall data can be exported to Excel for analysis. 
 
 \subsection{Metrics}
-As mentioned above, our evaluation of the iterative design process was unsatisfactory overall. A secondary goal of this validation phase was to collect more metrics about how the software was used, to try to evaluate or generate some ideas for further research on metrics that may be more informative indicators of the use of the software. 
+For the evaluation of the focus group-based iterative design process, we defined one measure of interest to be the time between when a food was eaten and when it was entered into the food diary. We found this to be problematic for two reasons: First, participants reported preferring to make entries at the end of the day, regardless of when they ate; second, it relied on participants correctly entering the time that a food was eaten as part of the food entry. As reported in [ref:hughes diss], not enough participants modified the time that a food was eaten to make this a useful measure. This led us to consider if other measures could better reflect use of the food diary. Therefore, a secondary goal of this validation phase was to collect data to generate multiple metrics. 
 
-In this section, I describe the metrics we collected, as well as the results. I also address how the reported metric results could help better understand the final validation, which identified a discrepancy between calories entered into the food diary and calories determined via the 24-hr recall. In Chapter [ref], I refer back to this in the larger context of evaluating the use of food diaries. 
-One thing that informs some of these choices is the HCI/Persuasive Tech research community. Technology researchers working in the space of health and wellness have long acknowledged that actual behavior change cannot be the primary measure of success for evaluating tools to help support behavior change \citep{klasnja_how_2011}. Early prototypes and investigations into the space will need other measures to indicate whether the tool is developing in the right direction or not. In this vein, we are increasingly focusing on ``indicators of engagement'', which , loosely defined, are metrics that reflect how engaged an individual is with a particular tool. The reasoning is that the higher the level of engagement (and the more sustained the engagement), the greater the chance for behavior change. That said, no research has clearly shown how useful different indicators of engagement are. 
+The HCI and Persuasive Technology research communities recognize the potential value of metrics that reflect more details about the use of food diaries. Researchers working in the space of health and wellness have long acknowledged that actual behavior change cannot be the primary measure of success for evaluating tools to help support behavior change \citep{klasnja_how_2011}. Early prototypes and investigations into the space need other measures to indicate whether the tool is developing in the right direction or not. In this vein, researchers are increasingly focusing on \textit{indicators of engagement}, which, loosely defined, are metrics that reflect how engaged an individual is with a particular tool. The reasoning is that the higher the level of engagement (and the more sustained the engagement), the greater the chance for behavior change. However, the usefulness of different indicators of engagement is unclear. 
 
-In this section, I report how different metrics change over the five days following the start of the study, per participant. Days 1-4 reflect active participation in the study, while day 5 reflects any modifications to the earlier data. To compare and characterize change in the metrics over time, each study day is broken into 6 4-hr periods, ``Early morning'' (12-4am) through ``Night'' (8-12pm). No distinction is made between weekends and weekdays. 
+Additional details about the BALANCE validation study are reported in Snively ([ref]). There, in regards to the food diary, she reports on the overall calories entered into the food diary, the calories reported on the food recall, and analyzes discrepancies. She reports feedback on the usability of the software, but does not report on metrics that indicate patterns of use of the BALANCE food diary. 
+
+In this section, I describe the data that was collected, the metrics that were generated, and report on how well they reflect how the software was used. I also address how these metrics could help interpret the final validation results, which identified a discrepancy between calories entered into the food diary and calories determined via the 24-hr recall. 
+
+The list of metrics:
+\begin{itemize*}
+\item{App starts}
+	\begin{itemize*}
+		\item{Per day}
+		\item{Throughout the day}
+	\end{itemize*}
+\item{Entry creation time}
+\item{Reported food eaten time}
+\item{Entry edits}
+\item{Personalization}
+\end{itemize*}
+
+% Table generated by Excel2LaTeX from sheet 'cont1_meanStartsPerDay'
+\begin{table}[htbp]
+  \centering
+  \caption{Add caption}
+    \begin{tabular}{rrr}
+    \toprule
+          & Mean Days 1-4 & Mean Days 1-5 \\
+    \midrule
+    App Starts per day & 2.7   & 2.3 \\
+    Entries Created & 9.5   & 8.42 \\
+    Food Eaten & 9.67  & 8.2 \\
+    Edits & 3.02  & 2.97 \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+
+Throughout this section, I report metrics over the five days following the start of the study, per participant. Days 1-4 reflect active participation in the study. Food diary use on day 5 reflects modifications to the earlier data. To characterize patterns of use over time, each study day is broken into six 4-hr periods, summarized in Table \ref{tab:studyDayTimePeriods}. No distinction is made between weekends and weekdays. 
 
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
 \begin{table}[htbp]
@@ -758,19 +792,35 @@ In this section, I report how different metrics change over the five days follow
     Night & 8pm-12am \\
     \bottomrule
     \end{tabular}%
-  \label{tab:addlabel}%
+  \label{tab:studyDayTimePeriods}%
 \end{table}%
 
 
 \subsubsection{App starts over time}
 We start by looking at how often the BALANCE app is started over the course of the study period. Starting the app usually indicates that the user is thinking about the app. In the case of the BALANCE software, starting the app could reflect that the user just ate and is planning to make an entry; is planning to eat and looking up an CHIP values; is glancing at the visualization to assess progress in the middle of the day; or is planning to enter a forgotten entry from earlier in the day. 
 
-As discussed in Chapter \ref{cha:relatedWork}, some researchers report the mean number of times the food diary software was started each day. We calculated this by counting the number of times the software was started over the four days of the study, divided by 4. This results in a mean number of app starts per day in the study period of 2.70. However, we saw that many participants started the software and made entries on the fifth and sixth days after the study started. A more traditional calculation would count the number of times the app was started after the beginning of the study period and dividing by the number of days in the study period. This results in a mean number of app starts per day of 3.01. The increase reflects that many participants (18) started the software or made valid entries after the study period.  
+As discussed in Chapter \ref{cha:relatedWork}, some researchers report the mean number of times the food diary software was started each day. We calculated this by counting the number of times the software was started over the four days of the study, then dividing by four (the number of days in the study). This results in a mean number of app starts per day in the study period of 2.70. However, we saw that many participants (18) started the software and made entries on the fifth day after the study started. The mean number of app starts over five days is 2.3. 
 
-The BALANCE project was also interested in the pattern of app starts throughout the day. This could help us to be better understand the patterns of use as it related to our measure of the time between when an person ate a food and when they entered it in the software. 
+Figure \ref{fig:chartMeanStartsPerDay} shows the mean number of app starts for each day of the study, including Day 5. The standard deviation is shown as error bars. As expected, the amount of use declines over each day. The low mean on Day 2 reflects that participants were not required to enter their food intake that day. 
 
- Because the mean is a summarizing measure, it does not reveal the patterns of use.  we calculated how many times the app was started in every 4-hr time period after their start of the study (midnight of Day 1). Reviewing the data revealed that some people started the app throughout the day, while others only started it once a day, and sometimes people did not start it at all. \ref{fig:chart13} shows the counts of participants whose data reflected these behaviors. 
-\begin{figure}[ t ]
+\begin{figure}[ tbh ]
+\begin{center}
+
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[ width =10cm ]{./images/cont1/chart_meanStarts}}
+
+\caption{Mean app starts for each day. }
+\label{fig:chartMeanStartsPerDay}
+
+\end{center}
+\end{figure}
+
+One concern we have about reporting the mean number of app starts is its summarizing nature. The mean and standard deviation reflect how much the software was used on each day. However, the BALANCE project is concerned with the distribution of app use throughout a day. The mean does not reflect the relationship between how many times the app was started and how many meals or eating episodes were captured. Participants could start the app repeatedly to enter a single meal, start the app one time for each meal, or start the app one time to enter multiple meals.  
+
+To address this, we calculated how many times the app was started in every 4-hr time period after the start of the study (midnight of Day 1), per participant. The data revealed that some people started the app in multiple time periods; some only started the app within one time period; and some people never started the app. Figure \ref{fig:chart13} reflects how many people reflected each pattern of use. 
+
+\begin{figure}[ tb ]
 \begin{center}
 
 \setlength\fboxsep{0pt}
@@ -783,28 +833,16 @@ The BALANCE project was also interested in the pattern of app starts throughout 
 \end{center}
 \end{figure}
 
-\begin{figure}[ t ]
-\begin{center}
 
-\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =10cm ]{./images/cont1/chart_meanStarts}}
+If everyone used the software the way we intended them to, the Figure \ref{fig:chart13} would show 34 people starting the app in multiple time periods (orange) on Days 1, 3, and 4. However, this is not what we see. Consistent with the mean app starts per day, the number of people starting the app in multiple time periods decreased on Days 3 and 4. Inspection of the raw data revealed that 11 people displayed the desired pattern, which indicated that they used the app as requested. 13 people had at least one day (of days 1, 3, or 4) where they did not start the app at all. Five people had two days when they did not start the app at all. Two people started the app one time/day for all four days.
 
-\caption{App start patterns over the days }
-\label{fig:chart13}
-
-\end{center}
-\end{figure}
-
-
-If everyone used the software the way we intended them to, the above chart would show 34 people starting the app multiple times throughout the day (blue) on days 1, 3, and 4 (the days of the study when they are entering their food). However, we see that while many people started the app consistently on the days 1, 3, and 4, it was not everyone, and that number decreased on days 3 and 4. From looking closer at the raw data, we saw that 11 people displayed the desired pattern, which indicated that they used the app as requested. 13 people had at least one day (of days 1, 3, or 4) where they did not start the app at all, and 5 had 2 days when they did not start the app at all. 2 people consistently started the app 1 time/day for the duration of the study. 
-
-One problem with this calculation is that not starting the app does not always indicate a participant was not using the app consistently throughout the study. 2 participants never started the app throughout the study period, but still had valid entries. This can be explained that participants treated the phone as a special device only used to enter their food. Since participants were asked to carry a separate device rather than use their personal phone, they were not using the device for anything else, and likely had no reason to ``quit'' and re-start the app. 
+One problem with this calculation is that not starting the app does not always indicate a participant was not using the app consistently throughout the study. Two participants started the app zero times throughout the study period, but still had valid entries. This can be explained that participants treated the phone as a special device used only to enter their food. Since participants were asked to carry a separate device rather than use their personal phone, they were not using the device for anything else, and likely had no reason to ``quit'' and re-start the app. 
 
 \textbf{What does this mean for the validation discrepancy?} This data indicate that for the most part, participants were starting the application periodically through the day. This meant that the discrepancy is probably not due to people forgetting about the application. 
 
-\subsubsection{Entry Creation Time}
-This data is generated by counting the number of entries created in a given time period, over the course of the study. This only counts when a record was created in that time period, and does not account for when a food was entered for a different time. This better reflects the pattern of entries that are made throughout the study period, specifically when people are thinking about or using the application. It does not always reflect when people actually ate. 
+\subsubsection{When entries are made}
+Figure \ref{fig:numPeopleEntriesOverTime} shows how many participants created entries during each specified time period. With this population, it was fairly unpopular to make entries in the early morning and morning, while the late morning, afternoon and evening were the most popular times to make entries. 
+
 
 \begin{figure}[ t ]
 \begin{center}
@@ -813,14 +851,15 @@ This data is generated by counting the number of entries created in a given time
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =10cm ]{./images/cont1/chart14}}
 
-\caption{Number of people who made entries over time}
+\caption{Number of people who made entries in a given time period.}
 \label{fig:numPeopleEntriesOverTime}
 
 \end{center}
 \end{figure}
 
-
-\ref{fig:numPeopleEntriesOverTime} shows how many participants created entries during each specified time period. With this population, it was fairly unpopular to make entries in the early morning (between midnight and 4am) and morning (4am-8am), while the late morning, afternoon and evening were the most popular times to make entries. 
+\subsubsection{Entry creation time}
+This data is generated by counting the number of entries created in a given time period, over the course of the study. This only counts when a record was created in that time period, and does not account for when a food was entered for a different time. This better reflects the pattern of entries that are made throughout the study period, specifically when people are thinking about or using the application. It does not always reflect when people actually ate. 
+ 
 \begin{figure}[ t ]
 \begin{center}
 
@@ -838,6 +877,29 @@ This chart shows a sum of all the entries entered during a particular time perio
 
 \textbf{What does this mean for the validation discrepancy?} Reviewing the charts, we see that day 1 has more people who made more entries earlier in the day, while on days 3 and 4 participants made entries primarily in the second half of the day, and created more entries in the second half of the day than in the first half of the day. This indicates that participants were probably entering their food closer to the time that they ate it on day 1, which means the day 1 entries probably more closely reflects what they actually ate. 
 
+\subsubsection{Food eaten time}
+
+\begin{figure}[ tbh ]
+\begin{center}
+
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[ width =10cm ]{./images/cont1/chart16}}
+
+\caption{Number of entries eaten over time.}
+\label{fig:chart16}
+
+\end{center}
+\end{figure}
+
+Figure \ref{fig:chart} shows how many valid food entries were reported as being eaten in the given time period, independent of when they were created. 
+
+
+A comparison of \ref{fig:chart15} and \ref{fig:chart16} indicates that participants likely made entries in the second half of the day capturing food that they ate in the first half of the day. 
+
+\textbf{What does this mean for the validation discrepancy? }Similar to the entry creation time, usage on days 3 and 4 indicate patterns that correlate to greater error between what was eaten and what was entered. This appears less extreme on day 1, so again, the entries on day 1 probably more closely match what was actually eaten. 
+
+
 \begin{figure}[ t ]
 \begin{center}
 
@@ -851,30 +913,25 @@ This chart shows a sum of all the entries entered during a particular time perio
 \end{center}
 \end{figure}
 
-\subsubsection{Food Eaten Time}
-
 \begin{figure}[ t ]
 \begin{center}
 
 \setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =10cm ]{./images/cont1/chart16}}
+\fbox{\includegraphics[ width =5in ]{./images/cont1/chart_meanEntriesEaten}}
 
-\caption{Number of entries eaten over time}
-\label{fig:chart16}
+\caption{Number of entries entered and created over time}
+\label{fig:eatenVersusCreatedperDay}
 
 \end{center}
 \end{figure}
 
-
-This set of data consists of counting how many valid food diary entries were reported as being eaten in the given time period. The periods of time are again defined in 4-hour chunks, 6 periods per day, so 24 for the study time. 
-For example, on Day 1, Late Morning, we see from the previous chart that ~100 entries were made, but we see in this chart that while only ~100 entries were made in this time period, about 120 foods were reported as eaten in this time period. 
-
-A comparison of \ref{fig:chart15} and \ref{fig:chart16} indicates that participants likely made entries in the second half of the day capturing food that they ate in the first half of the day. 
+\subsubsection{Comparing entry creation and food eaten time}
+Figure \ref{fig:eatenVersusCreated} shows a comparison of the number of records created versus food entries eaten over time. Day 2 shows that there were more entries created than eaten. Since Day 2 was the day participants did not need to make entries, this probably indicates that participants were filling in entries for Day 1, where there are more entries eaten than created. In Days 3, the eaten and created peaks are offset, again indicating that participants probably used the food diary at night to make entries for food eaten in the late morning. Day 4 also shows that morning, late morning and afternoon had more food entries eaten than entered. In this case, they appear to have been created in the afternoon of Day 5. 
 
 \textbf{What does this mean for the validation discrepancy? }Similar to the entry creation time, usage on days 3 and 4 indicate patterns that correlate to greater error between what was eaten and what was entered. This appears less extreme on day 1, so again, the entries on day 1 probably more closely match what was actually eaten. 
 
-\subsubsection{Entry Edits}
+\subsubsection{Entry edits}
 
 \begin{figure}[ t ]
 \begin{center}
@@ -894,31 +951,31 @@ One indicator that users are becoming more familiar and comfortable with a piece
  
 The mean number of edits made by participants over the entire study is 13.559, with a standard deviation of 8.33. 
 
-\ref{fig:chart17} shows how many edits were made each day of the study, by all of the participants. The decrease in edits over time could indicate that participants were becoming more comfortable with the software, and making fewer errors in their entries. The increase on day 5 could reflect participants checking their entries to prepare for the completion of the study. 
+Figure \ref{fig:chart17} shows how many edits were made each day of the study, by all of the participants. The decrease in edits over time could indicate that participants were becoming more comfortable with the software, and making fewer errors in their entries. The increase on day 5 could reflect participants checking their entries to prepare for the completion of the study. 
 
 \textbf{What does this mean for the validation discrepancy? }The high number of edits on day 1 could indicate that participants were being conscientious about ensuring that the records were correct. 
 
 \subsubsection{Number Of Combos/Favorites And Their Use}
 One of the features asked for many times in the focus groups the ability to save and use favorite foods, combinations, and recipes. In the validation study, 2 participants created 2 combos total, and used one of the combinations 2 times in their diary. 
 
-\subsubsection{Combined For One Participant}
-If this is at all helpful or interesting, I'll improve the chart. If not, I'll take it all out. 
 
-To help put it in context, I show the graphs for two different participants. 
-\begin{figure}[ t ]
+\subsubsection{Putting it all together }
+So far, this section has described metrics that attempt to characterize the use of the food diary over the duration of the study. Now, I will show how the overviews reflect the usage patterns of an individual participant. I will show the details of two participant. The first has the distinction of being one of the participants who did not ever start or quit the application, but otherwise used the food diary as expected. The second participant showed a slightly different pattern of use. 
+
+\begin{figure}[ tb ]
 \begin{center}
 
 \setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =5.5in ]{./images/cont1/chart18}}
 
-\caption{Patterns of use, ppt101}
+\caption{All measures, Participant 101}
 \label{fig:chart18}
 
 \end{center}
 \end{figure}
 
-I start with Ppt101. As we see in this chart, there are App Starts (red). This is one of the participants who left the software running the entire time, which resulted in not being able to detect when the application was started. In addition to App Starts, this chart shows how many entries were entered in a given time period, as well as how many entries were reported as eaten in the given time period. Summed over all the days, the number of entries entered (green) equals the number of entries eaten (purple). On Day 1, in the morning, more foods were eaten than entered, but in the afternoon more foods were entered than eaten. This shows that the participant entered some of the food eaten in the morning, but later in the day went back and added some more entries. On Day 3, the participant was pretty consistent about entering entries when the food was eaten. On Day 4, many more entries were eaten in the afternoon and evening than were entered, and we can see that on Day 5, there were some more entries made, which explains that the participant went back and filled those entries in. 
+Figure \ref{fig:chart18} shows all of the measures for Participant 101. This participant showed a decent amount of food diary activity for Days 1, 3, and 4, which is what is expected for this study. However, this is one of the participants who left the software running the entire time. Therefore, no app starts were detected.  On Day 1, in the morning, more foods were eaten than entered, but in the afternoon more foods were entered than eaten. This shows that the participant entered some of the food eaten in the morning, but later in the day went back and added some more entries. On Day 3, the participant was consistent about entering entries when the food was eaten. On Day 4, many more entries were eaten in the afternoon and evening than were entered, and we can see that on Day 5, there were some more entries made, which explains that the participant went back and filled those entries in. 
 
 \begin{figure}[ t ]
 \begin{center}
@@ -933,28 +990,43 @@ I start with Ppt101. As we see in this chart, there are App Starts (red). This i
 \end{center}
 \end{figure}
 
-Ppt120 shows a more consistent interaction with the software. The app is started with each group of entries. For the most part, entries are entered at the time of eating, with a few edits. The first day generally shows more interaction with the software, which is consistent with a period of adjusting to it. Also, while there are many edits the first day, there are fewer edits in later days, which could indicate a greater familiarity with the software. 
+Figure \ref{fig:chart19} shows the details for Participant 120. Overall, this participant shows a more consistent interaction with the food diary. The app is started for each time period that we have data. For the most part, entries are entered at the time of eating, with a few edits. Day 1 shows more interaction with the software, which is consistent with a period of adjusting to it. Also, while there are many edits the first day, there are fewer edits in later days, which could indicate a greater familiarity with the software. Starting the app on Day 6 could reflect the participant starting the software to show the study administrator. Day 3 shows that the participant created more entries early in the day, but ate more entries later in the day. This could indicate a planning behavior on behalf of the participant. 
 
 \subsection{Discussion }
-Previous research has identified factors that increase error in food diaries that people create. In the BALANCE validation study, we identified a discrepancy between what they entered and what was reported in a 24-hr recall. Previous work comparing food entries in an electronic food diary to a 24-hr recall found no significant difference [ref], but one difference between that study and this is that the 24-hr recall was performed a few days into a long-term study, rather than on the first day of a 3-day study. This raises the question of whether participants were not as familiar with the software and device, and that the discrepancy may improve if the comparison was performed on the 3rd or 4th day. However, reviewing patterns of use as indicated by various metrics allowed us to understand that the first day of the study was probably the best data that would be collected in this study. 
+In this section, we reviewed metrics that reflected how participants used the food diary in the BALANCE validation. We looked at how and when participants started the food diary app, created entries, reported food as being eaten, and made edits. Participants appeared to start the app more and make more edits on the first day of the study, but the number of entries created and foods eaten were consistent on all three days of the study. This reflects that participants were becoming familiar with the software on the first day. 
+
+The measures show interaction with the software on Days 2 and 5. Day 2 is when participants were not supposed to enter their food, while Day 5 was the day after the study period. The interaction on those days showed that some participants were filling in earlier entries. We also saw that with participant 120, some participants likely used the software to plan ahead, by making entries that reflect being eaten later in the day. 
+
+For this validation phase of the BALANCE study, we chose to present a more detailed treatment of the collected measures due to our experience with the focus group evaluation. In the focus group evaluation, the measure we were interested in was the time between when a food was eaten and when the food entry was created. This measure was not meaningful because too few participants entered the food eaten time when creating the food entries. However, in this validation study, we see evidence that participants did modify food eaten times. There are two potential explanations for this discrepancy. First is that the software was modified throughout the focus group evaluations, and before this final validation. The process to modify a food eaten time may have improved enough to make it easier for participants to modify the entries to reflect the time it was actually eaten. Second, the small sample sizes in the focus groups could impact the effectiveness of the measure. While the validation study does show that participants modified food entries, we also see that some participants probably did not modify the food eaten time. One or two people in each focus group not modifying the food eaten time would impact the quality of that data. 
+
+Previous research has identified factors that increase error in food diaries that people create. In the BALANCE validation study, we identified a discrepancy between what they entered and what was reported in a 24-hr recall. Previous work comparing food entries in an electronic food diary to a 24-hr recall found no significant difference [ref], but one difference between that study and this is that the 24-hr recall was performed a few days into a long-term study, rather than on the first day of a 3-day study. This raises two questions: whether participants were not as familiar with the software and device on the first day, and if the discrepancy may improve if the comparison was performed on the third or fourth day. However, the patterns of use in this study reveal that the Day 1 of the study was probably the most complete food diary data. 
 
 \section{Overall Discussion}
-The BALANCE project provides a rich dataset for us to begin understanding some of the challenges that people encounter when trying to self-monitor their food intake on mobile phones. Over all the studies, almost 50 people used the food diary for 3 days and provided detailed feedback. We were able to collect usage metrics on 34 of those participants, which helped us to better understand some of the patterns of use. All of this data also helped us to better understand how our metrics and methodology impacted the evaluation outcomes. I further elaborate on specific themes below. 
+The BALANCE project provides a rich dataset for us to begin understanding some of the challenges that people encounter when trying to self-monitor their food intake on mobile phones. Over the course of our four studies, almost 50 people used the food diary for 3 days and provided detailed feedback. We collected usage metrics of 34 of those participants. These metrics helped us to better understand some of the patterns of use. All of this data also helped us to better understand how our metrics and methodology impacted the evaluation outcomes. I further elaborate on specific themes below. 
 
-\textbf{Historical Context. }One thing that was a major issue for this project was the development and availability of mobile phones throughout the study period. The project began in 2008, and we were using state-of-the-art Nokia N80s. Soon, these were eclipsed by the N95s (with a larger screen and better tech specs). We began running the focus groups in spring 2009, finishing in the fall of 2009. The validation phase began in spring 2010, finishing in the fall of 2010. When we began the project, PDAs had been around for a while, but smartphones were just beginning to merge with PDAs by providing touch screens. Smartphones and appstores were very much a new thing-prior to this period, if someone bought a PDA or a smartphone and wanted to use any software that was not already pre-installed on the phone, they needed to be fairly tech savvy, purchase the software  and connect the phone to a computer to actually install it. Software usually required a stylus or joystick input, rather than the familiar touch, swipe or gesture interfaces that many are familiar with today. Today's appstores allow new software to be found and installed with just the touch of a finger. Altogether, this means that when we began this project, ``lay'' people (or maybe, less-technically-savvy) people had not really used their phone for much more than a basic phone, although they were increasingly aware of the notion of using ``apps'' on a phone. 
+\textbf{Historical Context. } The changing technical capabilities of mobile phones were an issue for this project. The BALANCE project began in 2008. Nokia N80s, considered state-of-the-art at the time, were the first devices running the prototype software. These were soon replaced by Nokia N95s. N95s had a larger screens and better technical capabilities overall. The focus group evaluation started in early spring 2009 and finished in late fall of 2009. The validation phase began in spring 2010 and finished in the fall of 2010.
 
-\textbf{Fast-changing Technology. }When we began the focus groups, the phone we gave to participants was considered very cool. One notable comment from a participant was that her teenage son thought she was so lucky to be able to use that phone. However, by the end of the project, comments from participants included things like ``the phone is so clunky and slow''. Indeed, one challenge we have going forward is that it is not likely to be the same phone model as the existing research that has been done. This is a challenge for researchers, because the process of an evolving interface and technology requires that hardware stay the same, or at least that the underlying technology does not change too drastically. However, for a ``research program'', it is important to be viewed by the participants as at least on par with currently available technology, if not cutting-edge. 
+At the beginning of the project, PDAs had been commercially available for more than 10 years, but smartphones were still considered high-end, early adopter technology. Up until that point, both smartphones and PDAs were increasing in capability, but consumers had to choose between the two. However, smartphones were just beginning to merge with PDAs. When this happened, smartphones with touch screens became accessible for consumers. 
 
-\textbf{Personal Devices. }When running studies using mobile phones, it is challenging to determine whether participants should carry a dedicated study-provided device (as well as whether the participant should use their own SIM in that device, or also carry their own personal device) or if the study software should be installed on a participant's personal device. As discussed in [ref Journal of HCI], the latter case may be preferable because the participants are familiar with the device, have all of their contact and other personal data on it, and therefore may be more likely to use the software on a regular basis. However, study prototypes may be unstable and cause the phone to crash, or otherwise interfere with the normal functioning of the phone. In the case of a study-provided device, the participant may be unfamiliar with the device, or have to carry two devices, which may make them less likely to use the software. 
-In the BALANCE studies, we chose to provide study-owned devices to the participants to use in addition to their personal phones because of the technical requirements of the project. This could have impacted participant ability to adopt the software readily. 
+Altogether, when we began this project, most people were not using their phone for much more than a basic phone. This was the case even for people with more capable smartphones or PDAs. However, they increasingly aware of the notion of using ``apps'' on a phone. 
 
-\textbf{Consumer Savviness/Experience/Expectations.} One challenge of this research project is the difference between using a piece of software or a prototype as a research tool, or if the research is to inform the tool. One challenge of developing mobile applications is that the context matters. The way the software is used in situ can be very different than anticipated in the lab, and therefore an iterative approach is helpful for identifying those unanticipated []. On the other hand, when we are trying to improve on the design of the interface and services, we want feedback on it before building everything out. Therefore, the prototype that is being used to get user input on specific features might not be perfect. Users in the real world are less tolerant of imperfect or unrefined software. Even more, with mobile applications, it is difficult to recreate bugs that users find, and that makes it challenging to identify the true cause of a bug. Users are usually unable to provide enough information about the ``bug'' they report-as far as they are concerned, it just ``does not work'', or crashes. 
+\textbf{Fast-changing Technology. } The phone we provided for participants in the focus groups (the WinMobile-based HTC Fuze) was considered `very cool'. One notable comment from a participant was that her teenage son thought she was lucky to be able to use that phone. However, by the end of the project, comments from participants included ``the phone is so clunky and slow''. Indeed, one challenge we have going forward is that it is not likely to be the same phone model as the existing research that has been done. Changing technology platforms throughout a research project introduces challenges for the researchers, but not keeping up with consumer expectations could impact their impressions and feedback of the tool. 
 
-\textbf{Research Prototypes. }Given the concerns about consumer expectations of software, and that many mobile-phone food diaries already exist, why build a new one? Existing software is consumer-oriented, and a stand-alone product. This means we can not extend it to work with a novel visualization or the calorie-expenditure hardware, and it also means that we do not have access to the food diary data. Additionally, as discussed above, we are unable to instrument the software to inform us about how it is being used. 
+\textbf{Personal Devices.} Administering studies using mobile phones requires researchers to choose whether participants should carry a dedicated study device or if the study software should be installed on a participant's personal device.    \citet{consolvo_conducting_2007} indicate the latter case may be preferable because the participants are familiar with the device and have all of their contact and other personal data on it, therefore may be more likely to use the software on a regular basis. However, study prototypes may be unstable, causing the phone to crash or otherwise interfere with the normal functioning of the phone. In the case of a study-provided device, the participant may be unfamiliar with the device, or have to carry two devices, which may make them less likely to use the software. 
+
+In the BALANCE studies, we chose to provide study-owned devices to the participants to use in addition to their personal phones because of the technical requirements of the project. This could have impacted participant ability to adopt the software readily. The validation study showed evidence that some participants did not start and stop the software as expected. 
+
+\textbf{User Expectations and Research Goals.} 
+We had two interim goals as part of the BALANCE project. One goal was to incorporate user feedback to inform the design of the BALANCE software. The other goal was to use the software to collect data to evaluate hypotheses about how the technology supports people tracking their energy intake and expenditure. 
+
+
+
+One challenge of developing mobile applications is that the context matters. The way the software is used in situ can be very different than anticipated in the lab, and therefore an iterative approach is helpful for identifying those unanticipated []. On the other hand, when we are trying to improve on the design of the interface and services, we want feedback on it before building everything out. Therefore, the prototype that is being used to get user input on specific features might not be perfect. Users in the real world are less tolerant of imperfect or unrefined software. Even more, with mobile applications, it is difficult to recreate bugs that users find, and that makes it challenging to identify the true cause of a bug. Users are usually unable to provide enough information about the ``bug'' they report-as far as they are concerned, it just ``does not work'', or crashes. 
 
 \textbf{Database. }The food database had a huge impact on the overall design and implementation of the BALANCE software. There was a tension between needing a database that was big enough to have all the foods that many different people may encounter, but small enough to make it quick and easy to navigate. The information architecture of the database was important too-food groups and categories that are meaningful to experts and professionals may not be obvious to consumers. This is consistent with reports of the importance of high literacy abilities to navigate food and nutrition information [ref]. 
 
-\textbf{Study Duration. }Choosing the duration of the final validation study required evaluating a tradeoff: reducing the duration put less burden on the participants, but they have less time to become familiar with the software and figure out how to make it fit into their daily schedules. Length of use also impacts the ability of the software to adapt to the participant. The personal database grows based on what people enter, making it easier to find and enter food, and the favorites features also provide a way to minimize interaction time. However, with a duration of three days, the time investment required for personalization will probably not have a large impact on the tracking process. 
+\textbf{Study Duration. }Choosing the duration of the final validation study required evaluating a tradeoff. A shorter duration reduces the burden on the participant. However, a longer duration provides more opportunity for the participant to adapt their routine to incorporate the self-monitoring, while also tailoring the software to reduce the burden. The personal database grows based on what people enter, making it easier to find and enter food, and the favorites features also provide a way to minimize interaction time. The three day duration will not merit the time investment required for personalization, and overall will probably not have a large impact on the tracking process. 
+
 While none of the evaluations showed that the BALANCE software enabled people to keep track of their food intake in a timely, complete and consistent manner throughout a day, this is consistent with other work that indicated technical malfunction prevented statistically significant results [ref]. Participants reported that the idea of tracking their food intake on their mobile phone was appealing, and offered valuable insight as to how we as designers and researchers may improve the process, particularly by reducing the amount of effort that goes in to the food intake capture. This allows us to raise the question of whether people will be able to enter food intake on a consistent basis if we reduce the amount of effort, in terms of time, physical entry (entering text or pushing buttons) and mental activity (how much the user needs to think about the process). This is addressed in the next chapter. 
 
 \section{Summary}
