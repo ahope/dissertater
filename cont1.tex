@@ -4,6 +4,8 @@
 
 \chapter {Contribution 1: BALANCE}
 \label{cha:cont1}
+In this chapter, I describe my contributions to the BALANCE project. 
+
 \section{Introduction}
 
 The BALANCE project was a multi-year, interdisciplinary project with the goal of designing, building, and evaluating a mobile-phone based application to help people overcome these challenges of tracking their overall balance of energy intake and expenditure. It combines a wearable device that calculates caloric expenditure with a mobile phone that includes a food diary to track caloric intake. The software also includes a visualization that reports the real-time energy balance for the day. The wearable device is built using the multi-sensor board (MSB) \citep{lester_validated_2009}. The MSB contains an accelerometer, now standard in mobile phones, as well as other sensors that aide in physical activity detection.  
@@ -13,7 +15,7 @@ The software consists of three main components: a ``fuel gauge'' visualization t
 \subsection{Project Overview}
 Many people were involved in this multi-phase project. The project included brainstorming designs for and evaluation of the fuel-gauge visualization; running a paper prototype evaluation of the software based on specified need, goals and reviews of similar tools; building an initial prototype on a feature phone platform; validating the algorithms on the MSB for calculating calorie expenditure; and executing an iterative design and implementation process of the application on a smartphone. Finally, we combined the smartphone software and MSB validated the system overall. My primary contribution to this project was the design and implementation of the smartphone software. The rest of this chapter describes the process and final product in further detail. 
 
-Multiple documents describe contributions to the BALANCE project. Tamara Denning contributed to the initial design and paper prototype evaluations \citep{denning_balance:_2009}. Deonna Hughes designed, conducted, and analyzed the focus groups and prototype iterations \citep{hughes_balance:_2009}. She looked at two metrics for improvement from iteration to iteration. The first was the result of standardized usability questionnaires; the other was the time between when participants ate a food and when they entered it in the diary. Neither metric showed significant improvement in the prototype over 5 iterations. I discuss this in further detail later in this chapter. Jonathan Lester designed and evaluated the calorie expenditure algorithms \citep{lester_validated_2009}, employing a gold-standard oxygen-consumption evaluation methodology. Algorithms using the MSB sensor data were 89.54\% (+/- 7.25\%) accurate in the lab and 79.8\% (+/- 9.48\%) in the field.  Heather Snively designed and conducted the overall system validation [ref]. Participants used the entire system for 4 days, tracking their food intake on days 1, 3, and 4. On day 2 participants provided a 24-hr recall of what they ate on day 1, which was compared to entries in the food diary on the first day. The average percent calorie difference between the mobile phone food diary and the 24-hr recall was 9 +/- 18\% [ref].  
+Multiple documents describe contributions to the BALANCE project. Tamara Denning contributed to the initial design and paper prototype evaluations \citep{denning_balance:_2009}. Deonna Hughes designed, conducted, and analyzed the focus groups and prototype iterations \citep{hughes_balance:_2009}. She looked at two metrics for improvement from iteration to iteration. The first was the result of standardized usability questionnaires; the other was the time between when participants ate a food and when they entered it in the diary. Neither metric showed significant improvement in the prototype over 5 iterations. I discuss this in further detail later in this chapter. Jonathan Lester designed and evaluated the calorie expenditure algorithms \citep{lester_validated_2009}, employing a gold-standard oxygen-consumption evaluation methodology. Algorithms using the MSB sensor data were 89.54\% (+/- 7.25\%) accurate in the lab and 79.8\% (+/- 9.48\%) in the field.  Heather Snively designed and conducted the overall system validation \citep{snively_balance_2010}. Participants used the entire system for 4 days, tracking their food intake on days 1, 3, and 4. On day 2 participants provided a 24-hr recall of what they ate on day 1, which was compared to entries in the food diary on the first day. The average percent calorie difference between the mobile phone food diary and the 24-hr recall was 9 +/- 18\%.  
 
 \section{Fuel-Gauge Visualization}
 The goal of the BALANCE project was to combine a food diary to collect information about energy intake, a physical activity component (diary + MSB) to collect energy expenditure information, and the fuel gauge visualization to show the current energy balance throughout the day. The heart of the system was a unifying user interface on a mobile phone. 
@@ -91,7 +93,7 @@ There were two categories: graphs (two total) and visualizations (five total). P
 \subsection{Instruments}
 The team brainstormed seven candidate visualizations. The features of different visualization concepts included abstract versus concrete metaphors; a single balance indicator (energy balance is more intake or more expenditure); the amount of both energy intake and expenditure as well as overview; how each amount and the balance changes over time; and whether to include an affective component. Previous work investigates the value of having abstract versus concrete representations [ref], so we aimed for a wide range at this point in the design process. 
 
-We adopted an overall simplifying construct for calorie counting called ``CHIPs'': counting hundreds impact point [Beresford2007]. A CHIP is simply a unit of 100 calories. Humans find it easier to count and keep track of larger increments (smaller numbers), so in the BALANCE software, all calorie counts are reported in CHIPs, both for intake and expenditure.  
+We adopted an overall simplifying construct for calorie counting called ``CHIPs'': counting hundreds impact point (\citep{beresford_worksite_2007}). A CHIP is simply a unit of 100 calories. Experts involved in the project noted previous success with this simplification. In their previous experience, participants in a workplace wellness program found the CHIP simplification easier to count and keep track of larger increments (smaller numbers). In the BALANCE software, all calorie counts are reported in CHIPs, both for intake and expenditure.  
 
 The main goal of the visualization is to depict the current energy intake/expenditure balance. Other pieces of information that could be helpful included: 
 \begin{enumerate*}
@@ -314,7 +316,7 @@ In Figure \ref{fig:fig4}, the screenshots depict the process of adding \textit{B
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont1/fig5d}}
-		\caption{When there are many entries, the user is asked to choos a food group to filter the results. }\label{fig:fig5d}
+		\caption{When there are many entries, the user is asked to choose a food group to filter the results. }\label{fig:fig5d}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -335,22 +337,22 @@ In Figure \ref{fig:fig4}, the screenshots depict the process of adding \textit{B
 	\caption{Nokia prototype: Adding newly encountered (previously unused) food}\label{fig:fig5}
 \end{figure}
 
-One primary goal of this project was for users to be able to quickly and accurately enter exactly how many calories they had consumed. This required finding the most appropriate, exact food and entering it in the exact amount, right after eating. The process of finding food needed to be fast to minimize interruption to the user. Queries to the entire food database took a long time to execute (this is described in further detail later), so to improve performance we separated the database into two separate databases: the entire USDA database and foods the user has entered before. The second database is called the \textit{personal database}. We justify the use of the personal database because many people have a relatively small number of foods they eat on a regular basis [ref]. The smaller personal database can be populated over time.  The personal database reduces the amount of time it takes to find a food because it contains fewer foods than the USDA database. This results in a lower query response time. It is also more likely to return the desired food, because it is populated with foods the user has eaten before. 
+One primary goal of this project was for users to be able to quickly and accurately enter exactly how many calories they had consumed. This required finding the most appropriate, exact food and entering it in the exact amount, right after eating. The process of finding food needed to be fast to minimize interruption to the user. Queries to the entire food database took a long time to execute (this is described in further detail later), so to improve performance we separated the database into two separate databases: the entire USDA database and foods the user has entered before. The second database is called the \textit{personal database}. We justify the use of the personal database because many people have a relatively small number of foods they eat on a regular basis (\citep{jastran_eating_2009}). The smaller personal database can be populated over time.  The personal database reduces the amount of time it takes to find a food because it contains fewer foods than the USDA database. This results in a lower query response time. It is also more likely to return the desired food, because it is populated with foods the user has eaten before. 
 
-When the user submits a search, the app first checks the personal database, which is fast because it is small. If there are no results, the user is asked whether they want to ``enter later'', ``enter manually'', or ``look up in USDA db''. The ``enter later'' option is essentially a bookmark. This provides a quick alternative to finding the food in the USDA database, which is time-consuming. The ``enter manually'' option provides a form for the user to make an entry based on the Nutrition Information panel required to be printed on all packaged foods. 
+When the user submits a search, the app first checks the personal database. This first check is fast because the personal database is small. If there are no results, the user is asked whether they want to ``enter later'', ``enter manually'', or ``look up in USDA db''. The ``enter later'' option is essentially a bookmark. This provides a quick alternative to finding the food in the USDA database, which is time-consuming. The ``enter manually'' option provides a form for the user to make an entry based on the Nutrition Information panel required to be printed on all packaged foods. 
 
 Figure \ref{fig:fig5} shows the process of entering a food (\textit{bread}) that has not been entered in the food diary before; therefore, it does not exist in the personal database. When the user query \textit{bread} is not found in the database, the user is given the option to look it up in the USDA database (Figure \ref{fig:fig4c}). If this option is selected and the query returns with foods that belong in more than one food class, the food classes are listed first. Choosing a food class filters the food results list. In this example, the search for \textit{bread} resulted in foods in 14 food classes, which is displayed in three pages of choices (Figure \ref{fig:fig4d}). Choosing \textit{Cereal Grains and Pasta} displays the relevant food results (Figure \ref{fig:fig4e}). The users chooses the item they ate and can modify the name or details. The new food is added to the personal database so that the next time the user enters that food, it can be found faster. Finally, the user specifies the details needed to add the item to the food diary. 
 
 \subsection{Database Optimization and Querying}
 One challenge of working with databases is identifying queries the user will make, or want to make, and the expected results. Then, we generate a database query to provide the results. Generating a query based on user input has performance implications, particularly when working with text. Queries on a string column are slower than other data types. Searching for strings with wildcards further degrades the response time. 
 
-In the BALANCE software, a user provides a basic query, and the software generates a query based on that user input. Each word the user provides becomes a predicate in the query. This approach results in queries that are known to have poor performance, but this is necessary to account for the ordering of relevant terms in the database. Table \ref{tab:table1} gives some examples of food terms that a user might enter and some example results. As we see in the example of \textit{cream cheese}, if the query had been restricted to ``LIKE ‘*cream cheese*’'', ``cheese, cream'' would not be returned as a result. There is no simple, systematic way to consistently reorder queries the user provides to match the inconsistent entries in the database. 
+In the BALANCE software, a user provides a basic query and the software generates a query based on that user input. Each word the user provides becomes a predicate in the query. This approach results in queries that are known to have poor performance, but this is necessary to account for the ordering of relevant terms in the database. Table \ref{tab:table1} gives some examples of food terms that a user might enter and some example results. As we see in the example of \textit{cream cheese}, if the query had been restricted to ``LIKE ‘*cream cheese*’'', ``cheese, cream'' would not be returned as a result. There is no simple, systematic way to consistently reorder queries the user provides to match the inconsistent entries in the database. 
  
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
 \begin{table}[htbp]
 \small
   \centering
-  \caption{Examples of a user's initial query, how it gets converted into a database query, and some example results. Note that some queries can generate many different, potentially unexpected results. The generated query and subsequent results do not preserve the user's original word ordering. }
+  \caption[Examples of a user query and results.]{Examples of a user's initial query, how it gets converted into a database query, and some example results. Note that some queries can generate many different, potentially unexpected results. The generated query and subsequent results do not preserve the user's original word ordering. }
     \begin{tabular}{p{1.5in}p{2.2in}p{1.75in}}
 
     \toprule
@@ -393,7 +395,7 @@ The 12-key keypad required users to use multi-tap or T9 to enter the names of fo
 \subsubsection{Too long to search}
 As discussed above, user input is converted into a query that is known to have poor performance. This is partly due to a mismatch between what the user wants to search for (\textit{cream cheese}) and how it may be stored in the database (``cheese, cream'' or ``bagel, with cream cheese''). It is important that the software returns all of the results. 
 
-The long search time is primarily due to the limited resources on the mobile phone. The database available on the mobile platform has reduced capabilities as compared to those available on a desktop or in a high performance computing environment, and the limited processing power of the device magnifies the limitations of the database. 
+The long search time is primarily due to the limited resources on the mobile phone. The database available on the mobile platform has reduced capabilities as compared to those available on a desktop or in a high performance computing environment. The limited processing power of the device magnifies the limitations of the database. 
 
 \textbf {Recommendation:} Faster hardware, improve the filtering process.
  
@@ -458,7 +460,7 @@ The characteristics of food databases can be better appreciated within the histo
 
 For the tasks outlined above, the end user of the database is an expert who is familiar with food systems, organization, and terminology. The user has formal training and uses the database on a regular basis. However, increasingly, food databases have been made available to the general population, usually in the form of a consumer tool to support weight loss. 
 
-Table \ref{tab:table2} provides some information on two databases: the USDA (SR21) database we used for the first prototype, and the NPKB that we used for the next version of the software. 
+Table \ref{tab:foodDbCompare} provides some information on two databases: the USDA (SR21) database we used for the first prototype, and the NPKB that we used for the next version of the software. In addition to containing information for many more foods, it also provides more food serving sizes that could make it easier for users to specify how much they have eaten. It also contains foods from many more manufacturers, which can help address the expectation to find processed or prepared foods in a database. Finally, the NPKB database contains more foods groups, organized in a hierarchical fashion. The large number of food groups and hierarchy may help users find a food they are looking for. 
 
 % Table generated by Excel2LaTeX from sheet 'Sheet2'
 \begin{table}[htbp]
@@ -469,31 +471,33 @@ Table \ref{tab:table2} provides some information on two databases: the USDA (SR2
 
     \begin{tabular}{p{2in}p{1.75in}p{1.75in}}
     \toprule
-    \textbf{} & \textbf{USDA} & \textbf{NutritionistPro Knowledge Base} \\
+    \textbf{} & \textbf{USDA} & \textbf{Nutritionist Pro Knowledge Base} \\
     \midrule
     \textbf{Version} & SR21 (Sept 2008) & V44 (Fall, 2009) \\
-    \textbf{File Size\footnote{Access database file size}} & 16.5 Mb & 135 Mb \\
+    \textbf{File size\footnote{Access database file size}} & 16.5 Mb & 135 Mb \\
     \textbf{Number of foods} & 7,412 & 39,194 \\
     \textbf{Number of food servings\footnote{``serving types''}} & 13,087\footnote{Number of records in the `Weight' table.}  & 46,722\footnote{Number of records in the `tblFoodServingTypes' table} \\
-    \textbf{Number of unique serving type descriptions} & 1,700  & 5,087 \\
-    \textbf{Number of Manufacturers} & 60    & 592 \\
-    \textbf{Number of Recipes} &       & 783 \\
-    \textbf{Food Groups} & 24    & 369\footnote{Food Classes. Includes all hierarchy.}\\
+    \textbf{Number of serving types} & 1,700  & 5,087 \\
+    \textbf{Number of manufacturers} & 60    & 592 \\
+    \textbf{Number of recipes} &       & 783 \\
+    \textbf{Food groups} & 24    & 369\footnote{Food Classes. Includes all hierarchy.}\\
     \textbf{Number of nutrients } & 140   & 90 \\
 	\bottomrule~
     \end{tabular}%
-
-  \label{tab:table2}%
 \end{minipage}
-  \caption{Comparing nutrition databases}
+  \caption{Comparing nutrition databases\label{tab:foodDbCompare}}  
+	%
 \end{table}%
+
+
+
 
  
 \section{Food Diary: Iterative Design And Evaluation}
-In this section, I describe the design and features of the food diary portion of the overall BALANCE project. The challenges identified in the previous section informed the decision to move to a Windows Mobile platform and adopt a commercially available nutrition database to drive the food diary. The combination of the paper prototype user study and Symbian implementation informed the new design on the Windows Mobile platform, and the final design was informed by an iterative, user-centered evaluation process. 
+In this section, I describe the design and features of the food diary portion of the overall BALANCE project. The challenges identified in the previous section informed the decision to move to a Windows Mobile platform and adopt a commercially available nutrition database to drive the food diary. The combination of the paper prototype user study and Symbian implementation informed the new design on the Windows Mobile platform. The final design was informed by an iterative, user-centered evaluation process. 
 
-Focus groups of 4-5 participants provided user feedback in the design and development process. We convened five focus groups over a seven month period. Participants were given a mobile phone running the food diary software, and asked to track what they eat for three days prior to the focus group. After the three days of tracking and before the focus group, participants completes two usability questionnaires (CSUQ and MPUQ, [ref]). The focus group was moderated by a team member, and topics focused on what the participants liked, what worked and did not work, and features they would like to see added. Details are in Appendix [ref]. Feedback from the participants in the focus groups provided input to the design and development of the next software iteration. 
-We used two metrics to evaluate the overall progress of the iterative process. First, we analyzed usability questionnaire responses over time. These did not show a significant improvement of the usability of the food diary software overall. The other measure of progress we considered was the time between when a participant ate a food, and when they entered it in the food diary. We hypothesized that this time would decrease as the food diary improved. This also did not show a significant improvement of the food diary. Details of the analysis are provided in [ref], and I discuss the use of these metrics later in this section and in Chapter [x] [ref]. 
+Focus groups of 4-5 participants provided user feedback in the design and development process. We convened five focus groups over a seven month period. We provided participants a mobile phone running the food diary software. We asked to track what they eat for three days prior to the focus group. After the three days of tracking and before the focus group, participants completes two usability questionnaires (CSUQ and MPUQ, \citep{lewis_ibm_1995, ryu_reliability_2006}). The focus group was moderated by a team member. Topics focused on what the participants liked, what worked and did not work, and features they would like to see added. Details are in \citet{hughes_balance_2010}. Feedback from the participants in the focus groups provided input to the design and development of the next software iteration. 
+We used two metrics to evaluate the overall progress of the iterative process. First, we analyzed usability questionnaire responses over time. These did not show a significant improvement of the usability of the food diary software overall. The other measure of progress we considered was the time between when a participant ate a food and when they entered it in the food diary. We hypothesized that this time would decrease as the food diary improved. This also did not show a significant improvement of the food diary. Details of the analysis are provided in \citet{hughes_balance_2010}. I also discuss the use of these metrics later in this section and in Chapter \ref{cha:cont4}. 
 
 \subsection{Overall Design}
 The final version of the BALANCE software ran on a Windows Mobile 6.1 Professional device. We chose this device because it had a large display, a touch screen, and a slide-out QWERTY keyboard. Text input can be done either via the physical QWERTY keyboard or with the ``soft input panel'', on-screen keyboard. We used the NutritionistPro Knowledge Base (NPKB) for the food diary. 
@@ -608,7 +612,7 @@ The NPKB contained many foods, but users still reported encountering foods that 
 \end{figure}
 
 \subsubsection{Favorite foods and meals}
-Focus group participants repeatedly [ref] asked for shortcuts and customization features. In addition to the ability to add a new food to the database described above, participants wanted the ability to bookmark favorite foods and meals. The favorite meals feature is shown in Figure \ref{fig:fig10}. Figure \ref{fig:fig10a} shows the list of all meals that have been marked as a favorite. When the user wants to enter the favorite meal, s/he selects it from the list. Figure \ref{fig:fig10b} shows all of the items in the meal, as well as the amount. The time defaults to the current time (rounded to the nearest 15 minutes). The saved favorite meal includes the meal specification (breakfast, dinner, etc.), which populates the meal widget. The details of the meal can be modified to reflect the current meal (\ref{fig:fig10c}). Finally, when the user confirms, all of the items in the meal are added to the food diary (\ref{fig:fig10d}). 
+Focus group participants repeatedly asked for shortcuts and customization features. In addition to the ability to add a new food to the database described above, participants wanted the ability to bookmark favorite foods and meals. The favorite meals feature is shown in Figure \ref{fig:fig10}. Figure \ref{fig:fig10a} shows the list of all meals that have been marked as a favorite. When the user wants to enter the favorite meal, s/he selects it from the list. Figure \ref{fig:fig10b} shows all of the items in the meal, as well as the amount. The time defaults to the current time (rounded to the nearest 15 minutes). The saved favorite meal includes the meal specification (breakfast, dinner, etc.), which populates the meal widget. The details of the meal can be modified to reflect the current meal (\ref{fig:fig10c}). Finally, when the user confirms, all of the items in the meal are added to the food diary (\ref{fig:fig10d}). 
 
 \begin{figure}	
 	\centering
@@ -652,13 +656,13 @@ Adopting the commercially available NPKB resulted in a much larger number of foo
 
 In this section, I describe some of the ways we tried to make the query process more user friendly. Rather than describe all the possible improvements we considered, I focus on the final implementation. 
 
-One weakness of the database supported on the Windows Mobile platform (Sql Server CE) is that it does not support full text search (FTS). When FTS is available on a database, queries can be made that reflect linguistic characteristics of a given language (such as English). With a FTS capability, one can easily query  not just for a word or a phrase, but a word or a phrase that starts with given text (prefix), inflectional forms of a word (e.g., foot or feet), a word or phrase close to another word or phrase, or a synonymous term. This is valuable in the case of food diaries, because from the user's perspective it is sometimes unclear whether the food diary will have ``Potatoes, Mashed'' or ``Mashed Potatoes'' as an entry. Additionally, consumers in general are familiar with search strategies that employed FTS, whether or not they know enough about it to specify it exactly. Users are able to articulate is that a particular search function ``just knows what I'm looking for'' and ``does the right thing'', linguistically-a search for ``potatoes'' also yields results with ``potato''. 
+One weakness of the database supported on the Windows Mobile platform (SQL Server CE) is that it does not support full text search. When full text search is available on a database, queries can be made that reflect linguistic characteristics of a given language (such as English). With a FTS capability, one can easily query  not just for a word or a phrase, but a word or a phrase that starts with given text (prefix), inflectional forms of a word (e.g., foot or feet), a word or phrase close to another word or phrase, or a synonymous term. This is valuable in the case of food diaries, because from the user's perspective it is sometimes unclear whether the food diary will have ``Potatoes, Mashed'' or ``Mashed Potatoes'' as an entry. Additionally, consumers in general are familiar with search strategies that employed FTS, whether or not they know enough about it to specify it exactly. Users are able to articulate is that a particular search function ``just knows what I'm looking for'' and ``does the right thing'', linguistically-a search for ``potatoes'' also yields results with ``potato''. 
 
 Full text search also improves the query speeed. The alternative to full text search is a LIKE query based on character patterns. A LIKE query against millions of rows of text data can take minutes to return, while a full text search query can take only seconds (or less) on the same data, depending on the number of rows that are returned. This is due to the pre-built index that full text search generates. 
 
 We attempted to overcome the lack of free-text search on the database by being smart about the queries we generated. However, the more complex a query became, the longer the time to respond, even if the results were ``better''.  In general, our approach favored returning better results faster, rather than minimizing the size of the database. Storage was cheap: we could easily add a larger memory card to the device, but we could not improve the processor. 
 
-To improve the query time and search process, we implemented a lightweight predictive search mechanism. As mentioned above, the system contained two food databases: the large, complete NPKB, and a smaller, personalized personal database. The personal database was initially seeded with foods marked as ``common'' or ``generic'' in the NPKB. To improve the responsiveness, there was a table in the personal database that contained the first 3 letters of all words in the food name, description and manufacturer name associated with a food entry. When the user starts typing to search for a food name, after 3 characters are entered, a results box is generated based on an exact string match from that table. As the user continues typing, the list of results is filtered based on that text. If a desired food is not found, the user can ``Find More'', which ends up performing the longer LIKE query on the NPKB. When a food is selected from the NPKB and entered into the food diary, it is also stored in the personal database, and the prefix table is updated. This adds time to the process, but this time is negligible to the time required for the NPKB query. 
+To improve the query time and search process, we implemented a lightweight predictive search mechanism. As mentioned above, the system contained two food databases: the large, complete NPKB and a smaller, personalized personal database. The personal database was initially seeded with foods marked as ``common'' or ``generic'' in the NPKB. To improve the responsiveness, there was a table in the personal database that contained the first 3 letters of all words in the food name, description and manufacturer name associated with a food entry. When the user starts typing to search for a food name, after 3 characters are entered, a results box is generated based on an exact string match from that table. As the user continues typing, the list of results is filtered based on that text. If a desired food is not found, the user can ``Find More'', which ends up performing the longer LIKE query on the NPKB. When a food is selected from the NPKB and entered into the food diary, it is also stored in the personal database. The prefix table is then updated. This adds time to the process, but this time is negligible to the time required for the NPKB query. 
 
 \subsection{Metrics}
 
@@ -669,11 +673,11 @@ We defined one measure of software success as the time between when a food was e
 This study highlighted the importance of identifying appropriate metrics for evaluating food diaries on cell phones. Good metrics should reflect both usability, or how the software is being used, and domain-- whether users are able to achieve the stated goal (in this case, entering the right number of calories by identifying all eaten foods). 
 
 \section{Validating BALANCE}
-The final BALANCE validation combined all key components of the project: the MSB device for calorie expenditure calculation and the mobile phone with the visualization, food diary and activity diary software. Participants were asked to carry the mobile phone and MSB for 4 days. They were asked to enter all food and drink consumed (except water), and manually enter the activity that the MSB did not track. They were asked to record on days 1, 3 and 4, but on the second day they only performed a 24-hr recall of what they ate on the first day. They completed a post-use questionnaire intended to identify useful features, and completed an activity questionnaire. See Snively[ref] for more details. 
+The final BALANCE validation combined all key components of the project: the MSB device for calorie expenditure calculation and the mobile phone with the visualization, food diary and activity diary software. Participants were asked to carry the mobile phone and MSB for 4 days. They were asked to enter all food and drink consumed (except water), and manually enter the activity that the MSB did not track. They were asked to record on days 1, 3 and 4, but on the second day they only performed a 24-hr recall of what they ate on the first day. They completed a post-use questionnaire intended to identify useful features, and completed an activity questionnaire. See \citet{snively_balance_2010} for more details. 
 
 \subsection{Final BALANCE Software}
 Up until this point, the discussion has focused on the design and development of the food diary and visualization components of the BALANCE project, independently. As mentioned earlier, the entire project consists of the feedback visualization, food diary, activity diary, and activity sensing component (MSB) combined together. In this section, describe the activity portion of the system. 
-The activity diary (shown in \ref{fig:fig11c}) shows both activities entered by the user and activity information detected by the MSB. The user is responsible for entering activity not detected by the MSB, such as swimming or vigorous sports. The activity database is based on the Physical Activity Compendium [ref]. 
+The activity diary (shown in \ref{fig:fig11c}) shows both activities entered by the user and activity information detected by the MSB. The user is responsible for entering activity not detected by the MSB, such as swimming or vigorous sports. The activity database is based on the Physical Activity Compendium \citep{ainsworth_compendium_2000}. 
 
 \begin{figure}	
 	\centering
@@ -713,7 +717,7 @@ The activity diary (shown in \ref{fig:fig11c}) shows both activities entered by 
 \end{figure}
 
 
-The pager-sized MSB is worn on the user's hip, and is connected to the phone via Bluetooth. The interface supports connecting to and communicating with the device, displaying information about the sensed activities. The software also monitors the connection and notifies the user if the connection breaks. 
+The pager-sized MSB is worn on the user's hip. It is connected to the phone via a wireless Bluetooth connection. The interface supports connecting to and communicating with the device, displaying information about the sensed activities. The software also monitors the connection and notifies the user if the connection breaks. 
 
 
 \subsection{24-hr recall software. }
@@ -735,46 +739,37 @@ A 24-hr recall is a process in which a trained researcher works with an individu
 The recall software is pictured in \ref{fig:fig12}. The recall administrator searches for the food in the left pane. The `Quick Results' at the top displays the same foods that the BALANCE mobile user would initially see when searching for a food. The bottom pane allows the administrator to probe about specific manufacturers. The middle pane provides details on a single food and allows amounts to be specified. The right pane shows the foods that have been entered for each meal. The final recall data can be exported to Excel for analysis. 
 
 \subsection{Metrics}
-For the evaluation of the focus group-based iterative design process, we defined one measure of interest to be the time between when a food was eaten and when it was entered into the food diary. We found this to be problematic for two reasons: First, participants reported preferring to make entries at the end of the day, regardless of when they ate; second, it relied on participants correctly entering the time that a food was eaten as part of the food entry. As reported in [ref:hughes diss], not enough participants modified the time that a food was eaten to make this a useful measure. This led us to consider if other measures could better reflect use of the food diary. Therefore, a secondary goal of this validation phase was to collect data to generate multiple metrics. 
+For the evaluation of the focus group-based iterative design process, we defined one measure of interest to be the time between when a food was eaten and when it was entered into the food diary. We found this to be problematic for two reasons: First, participants reported preferring to make entries at the end of the day, regardless of when they ate; second, it relied on participants correctly entering the time that a food was eaten as part of the food entry. As reported in \citet{hughes_balance_2010}, not enough participants modified the time that a food was eaten to make this a useful measure. This led us to consider if other measures could better reflect use of the food diary. Therefore, a secondary goal of this validation phase was to collect data to generate multiple metrics. 
 
 The HCI and Persuasive Technology research communities recognize the potential value of metrics that reflect more details about the use of food diaries. Researchers working in the space of health and wellness have long acknowledged that actual behavior change cannot be the primary measure of success for evaluating tools to help support behavior change \citep{klasnja_how_2011}. Early prototypes and investigations into the space need other measures to indicate whether the tool is developing in the right direction or not. In this vein, researchers are increasingly focusing on \textit{indicators of engagement}, which, loosely defined, are metrics that reflect how engaged an individual is with a particular tool. The reasoning is that the higher the level of engagement (and the more sustained the engagement), the greater the chance for behavior change. However, the usefulness of different indicators of engagement is unclear. 
 
-Additional details about the BALANCE validation study are reported in Snively ([ref]). There, in regards to the food diary, she reports on the overall calories entered into the food diary, the calories reported on the food recall, and analyzes discrepancies. She reports feedback on the usability of the software, but does not report on metrics that indicate patterns of use of the BALANCE food diary. 
+Additional details about the BALANCE validation study are reported in Snively (\citep{snively_balance_2010}). There, in regards to the food diary, she reports on the overall calories entered into the food diary, the calories reported on the food recall, and analyzes discrepancies. She reports feedback on the usability of the software, but does not report on metrics that indicate patterns of use of the BALANCE food diary. 
 
 In this section, I describe the data that was collected, the metrics that were generated, and report on how well they reflect how the software was used. I also address how these metrics could help interpret the final validation results, which identified a discrepancy between calories entered into the food diary and calories determined via the 24-hr recall. 
 
-The list of metrics:
-\begin{itemize*}
-\item{App starts}
-	\begin{itemize*}
-		\item{Per day}
-		\item{Throughout the day}
-	\end{itemize*}
-\item{Entry creation time}
-\item{Reported food eaten time}
-\item{Entry edits}
-\item{Personalization}
-\end{itemize*}
+\subsubsection{Overview}
+As described in Chapter \ref{cha:relatedWork}, previous work reports summary measures of food diary use. These reported measures are usually means reflecting the entire study period. In the rest of this section, I provide more detail, but here I present a quick overview. 
+
+Table \ref{tab:balMetricMeans} reports the means for the four metrics. Days 1-4 reflect active participation in the study. I also include data about Day 5. We found relevant and potentially significant use of the food diary on Day 5, which is technically outside of the study period. 
 
 % Table generated by Excel2LaTeX from sheet 'cont1_meanStartsPerDay'
 \begin{table}[htbp]
   \centering
-  \caption{Add caption}
-    \begin{tabular}{rrr}
+  \caption{Means per participant, per day.}
+    \begin{tabular}{lll}
     \toprule
-          & Mean Days 1-4 & Mean Days 1-5 \\
+          & Days 1-4 & Days 1-5 \\
     \midrule
-    App Starts per day & 2.7   & 2.3 \\
-    Entries Created & 9.5   & 8.42 \\
-    Food Eaten & 9.67  & 8.2 \\
-    Edits & 3.02  & 2.97 \\
+    Number of times the software is started & 2.7   & 2.3 \\
+    Number of entries created & 9.5   & 8.42 \\
+    Number of foods eaten & 9.67  & 8.2 \\
+    Number of record edits & 3.02  & 2.97 \\
     \bottomrule
     \end{tabular}%
-  \label{tab:addlabel}%
+  \label{tab:balMetricMeans}%
 \end{table}%
 
-
-Throughout this section, I report metrics over the five days following the start of the study, per participant. Days 1-4 reflect active participation in the study. Food diary use on day 5 reflects modifications to the earlier data. To characterize patterns of use over time, each study day is broken into six 4-hr periods, summarized in Table \ref{tab:studyDayTimePeriods}. No distinction is made between weekends and weekdays. 
+The means presented above provide a summary understanding of the use of the BALANCE food diary. To further characterize patterns of use over time, each study day is broken into six 4-hr periods, summarized in Table \ref{tab:studyDayTimePeriods}. No distinction is made between weekends and weekdays. These time periods are used for the more detailed analysis in this section. 
 
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
 \begin{table}[htbp]
@@ -782,7 +777,7 @@ Throughout this section, I report metrics over the five days following the start
   \caption{Add caption}
     \begin{tabular}{ll}
     \toprule
-    Time frame & Hours \\
+    \textbf{Time frame} & \textbf{Hours} \\
     \midrule
     Early Morning & 12am-4am \\
     Morning & 4am-8am \\
@@ -836,7 +831,7 @@ To address this, we calculated how many times the app was started in every 4-hr 
 
 If everyone used the software the way we intended them to, the Figure \ref{fig:chart13} would show 34 people starting the app in multiple time periods (orange) on Days 1, 3, and 4. However, this is not what we see. Consistent with the mean app starts per day, the number of people starting the app in multiple time periods decreased on Days 3 and 4. Inspection of the raw data revealed that 11 people displayed the desired pattern, which indicated that they used the app as requested. 13 people had at least one day (of days 1, 3, or 4) where they did not start the app at all. Five people had two days when they did not start the app at all. Two people started the app one time/day for all four days.
 
-One problem with this calculation is that not starting the app does not always indicate a participant was not using the app consistently throughout the study. Two participants started the app zero times throughout the study period, but still had valid entries. This can be explained that participants treated the phone as a special device used only to enter their food. Since participants were asked to carry a separate device rather than use their personal phone, they were not using the device for anything else, and likely had no reason to ``quit'' and re-start the app. 
+One problem with this calculation is that not starting the app does not always indicate a participant was not using the app consistently throughout the study. Two participants started the app zero times throughout the study period, but still had valid entries. This can be explained that participants treated the phone as a special device used only to enter their food. Since participants were asked to carry a separate device rather than use their personal phone, they were not using the device for anything else. This meant they likely had no reason to ``quit'' and re-start the app. 
 
 \textbf{What does this mean for the validation discrepancy?} This data indicate that for the most part, participants were starting the application periodically through the day. This meant that the discrepancy is probably not due to people forgetting about the application. 
 
@@ -858,7 +853,7 @@ Figure \ref{fig:numPeopleEntriesOverTime} shows how many participants created en
 \end{figure}
 
 \subsubsection{Entry creation time}
-This data is generated by counting the number of entries created in a given time period, over the course of the study. This only counts when a record was created in that time period, and does not account for when a food was entered for a different time. This better reflects the pattern of entries that are made throughout the study period, specifically when people are thinking about or using the application. It does not always reflect when people actually ate. 
+This data is generated by counting the number of entries created in a given time period, over the course of the study. This only counts when a record was created in that time period. It does not account for when a food was entered for a different time. This better reflects the pattern of entries that are made throughout the study period, specifically when people are thinking about or using the application. It does not always reflect when people actually ate. 
  
 \begin{figure}[ t ]
 \begin{center}
@@ -875,7 +870,7 @@ This data is generated by counting the number of entries created in a given time
 
 This chart shows a sum of all the entries entered during a particular time period each day. While the above chart showed the number of participants who made entries in that time period, this indicates how many entries those participants actually made. 
 
-\textbf{What does this mean for the validation discrepancy?} Reviewing the charts, we see that day 1 has more people who made more entries earlier in the day, while on days 3 and 4 participants made entries primarily in the second half of the day, and created more entries in the second half of the day than in the first half of the day. This indicates that participants were probably entering their food closer to the time that they ate it on day 1, which means the day 1 entries probably more closely reflects what they actually ate. 
+\textbf{What does this mean for the validation discrepancy?} Reviewing the charts, we see that Day 1 has more people who made more entries earlier in the day. In contrast, on Days 3 and 4 participants made entries primarily in the second half of the day, creating more entries in the second half of the day than in the first half of the day. This indicates that participants were probably entering their food closer to the time that they ate it on Day 1. This implies that the Day 1 entries probably more closely reflects what they actually ate. 
 
 \subsubsection{Food eaten time}
 
@@ -892,7 +887,7 @@ This chart shows a sum of all the entries entered during a particular time perio
 \end{center}
 \end{figure}
 
-Figure \ref{fig:chart} shows how many valid food entries were reported as being eaten in the given time period, independent of when they were created. 
+Figure \ref{fig:chart16} shows how many valid food entries were reported as being eaten in the given time period, independent of when they were created. 
 
 
 A comparison of \ref{fig:chart15} and \ref{fig:chart16} indicates that participants likely made entries in the second half of the day capturing food that they ate in the first half of the day. 
@@ -975,7 +970,7 @@ So far, this section has described metrics that attempt to characterize the use 
 \end{center}
 \end{figure}
 
-Figure \ref{fig:chart18} shows all of the measures for Participant 101. This participant showed a decent amount of food diary activity for Days 1, 3, and 4, which is what is expected for this study. However, this is one of the participants who left the software running the entire time. Therefore, no app starts were detected.  On Day 1, in the morning, more foods were eaten than entered, but in the afternoon more foods were entered than eaten. This shows that the participant entered some of the food eaten in the morning, but later in the day went back and added some more entries. On Day 3, the participant was consistent about entering entries when the food was eaten. On Day 4, many more entries were eaten in the afternoon and evening than were entered, and we can see that on Day 5, there were some more entries made, which explains that the participant went back and filled those entries in. 
+Figure \ref{fig:chart18} shows all of the measures for Participant 101. This participant showed a decent amount of food diary activity for Days 1, 3, and 4, which is what is expected for this study. However, this is one of the participants who left the software running the entire time. Therefore, no app starts were detected.  On Day 1, in the morning, more foods were eaten than entered, but in the afternoon more foods were entered than eaten. This shows that the participant entered some of the food eaten in the morning, but later in the day went back and added some more entries. On Day 3, the participant was consistent about entering entries when the food was eaten. On Day 4, many more entries were eaten in the afternoon and evening than were entered. On Day 5, some more entries were made, which explains that the participant went back and filled those entries in. 
 
 \begin{figure}[ t ]
 \begin{center}
@@ -999,7 +994,7 @@ The measures show interaction with the software on Days 2 and 5. Day 2 is when p
 
 For this validation phase of the BALANCE study, we chose to present a more detailed treatment of the collected measures due to our experience with the focus group evaluation. In the focus group evaluation, the measure we were interested in was the time between when a food was eaten and when the food entry was created. This measure was not meaningful because too few participants entered the food eaten time when creating the food entries. However, in this validation study, we see evidence that participants did modify food eaten times. There are two potential explanations for this discrepancy. First is that the software was modified throughout the focus group evaluations, and before this final validation. The process to modify a food eaten time may have improved enough to make it easier for participants to modify the entries to reflect the time it was actually eaten. Second, the small sample sizes in the focus groups could impact the effectiveness of the measure. While the validation study does show that participants modified food entries, we also see that some participants probably did not modify the food eaten time. One or two people in each focus group not modifying the food eaten time would impact the quality of that data. 
 
-Previous research has identified factors that increase error in food diaries that people create. In the BALANCE validation study, we identified a discrepancy between what they entered and what was reported in a 24-hr recall. Previous work comparing food entries in an electronic food diary to a 24-hr recall found no significant difference [ref], but one difference between that study and this is that the 24-hr recall was performed a few days into a long-term study, rather than on the first day of a 3-day study. This raises two questions: whether participants were not as familiar with the software and device on the first day, and if the discrepancy may improve if the comparison was performed on the third or fourth day. However, the patterns of use in this study reveal that the Day 1 of the study was probably the most complete food diary data. 
+Previous research has identified factors that increase error in food diaries that people create. In the BALANCE validation study, we identified a discrepancy between what they entered and what was reported in a 24-hr recall. Previous work comparing food entries in an electronic food diary to a 24-hr recall found no significant difference (\citep{glanz_improving_2006}), but one difference between that study and this is that the 24-hr recall was performed a few days into a long-term study, rather than on the first day of a 3-day study. This raises two questions: whether participants were not as familiar with the software and device on the first day, and if the discrepancy may improve if the comparison was performed on the third or fourth day. However, the patterns of use in this study reveal that the Day 1 of the study was probably the most complete food diary data. 
 
 \section{Overall Discussion}
 The BALANCE project provides a rich dataset for us to begin understanding some of the challenges that people encounter when trying to self-monitor their food intake on mobile phones. Over the course of our four studies, almost 50 people used the food diary for 3 days and provided detailed feedback. We collected usage metrics of 34 of those participants. These metrics helped us to better understand some of the patterns of use. All of this data also helped us to better understand how our metrics and methodology impacted the evaluation outcomes. I further elaborate on specific themes below. 
@@ -1020,16 +1015,17 @@ In the BALANCE studies, we chose to provide study-owned devices to the participa
 We had two interim goals as part of the BALANCE project. One goal was to incorporate user feedback to inform the design of the BALANCE software. The other goal was to use the software to collect data to evaluate hypotheses about how the technology supports people tracking their energy intake and expenditure. 
 
 
+\textbf{User Expectations. }
+Researchers developing mobile applications face similar conflicting priorities as developers in a commercial setting.  Putting software into the hands of real users is the best way to help the researcher determine how the software will really be used, what its best and worst features are, and what bugs require repair most urgently. Yet at the same time, users are often intolerant of buggy software and unable to report much more than "it didn't work" as a bug report. As a compromise, we use an iterative approach,  incorporating feedback after each version, and informing testers to the greatest extent possible about the status of the software and procedures for bug reporting.
 
-One challenge of developing mobile applications is that the context matters. The way the software is used in situ can be very different than anticipated in the lab, and therefore an iterative approach is helpful for identifying those unanticipated []. On the other hand, when we are trying to improve on the design of the interface and services, we want feedback on it before building everything out. Therefore, the prototype that is being used to get user input on specific features might not be perfect. Users in the real world are less tolerant of imperfect or unrefined software. Even more, with mobile applications, it is difficult to recreate bugs that users find, and that makes it challenging to identify the true cause of a bug. Users are usually unable to provide enough information about the ``bug'' they report-as far as they are concerned, it just ``does not work'', or crashes. 
 
-\textbf{Database. }The food database had a huge impact on the overall design and implementation of the BALANCE software. There was a tension between needing a database that was big enough to have all the foods that many different people may encounter, but small enough to make it quick and easy to navigate. The information architecture of the database was important too-food groups and categories that are meaningful to experts and professionals may not be obvious to consumers. This is consistent with reports of the importance of high literacy abilities to navigate food and nutrition information [ref]. 
+\textbf{Database. }The food database had a huge impact on the overall design and implementation of the BALANCE software. There was a tension between needing a database that was big enough to have all the foods that many different people may encounter, but small enough to make it quick and easy to navigate. The information architecture of the database was important too-food groups and categories that are meaningful to experts and professionals may not be obvious to consumers. This is consistent with reports of the importance of high literacy abilities to navigate food and nutrition information \citet{rothman_patient_2006}. 
 
-\textbf{Study Duration. }Choosing the duration of the final validation study required evaluating a tradeoff. A shorter duration reduces the burden on the participant. However, a longer duration provides more opportunity for the participant to adapt their routine to incorporate the self-monitoring, while also tailoring the software to reduce the burden. The personal database grows based on what people enter, making it easier to find and enter food, and the favorites features also provide a way to minimize interaction time. The three day duration will not merit the time investment required for personalization, and overall will probably not have a large impact on the tracking process. 
+\textbf{Study Duration. }Choosing the duration of the final validation study required evaluating a tradeoff. A shorter duration reduces the burden on the participant. However, a longer duration provides more opportunity for the participant to adapt their routine to incorporate the self-monitoring, while also tailoring the software to reduce the burden. The personal database grows based on what people enter, making it easier to find and enter food. The favorites features also provide a way to minimize interaction time. The three day duration will not merit the time investment required for personalization, and overall will probably not have a large impact on the tracking process. 
 
-While none of the evaluations showed that the BALANCE software enabled people to keep track of their food intake in a timely, complete and consistent manner throughout a day, this is consistent with other work that indicated technical malfunction prevented statistically significant results [ref]. Participants reported that the idea of tracking their food intake on their mobile phone was appealing, and offered valuable insight as to how we as designers and researchers may improve the process, particularly by reducing the amount of effort that goes in to the food intake capture. This allows us to raise the question of whether people will be able to enter food intake on a consistent basis if we reduce the amount of effort, in terms of time, physical entry (entering text or pushing buttons) and mental activity (how much the user needs to think about the process). This is addressed in the next chapter. 
+The evaluations indicated that people found it challenging to use the BALANCE software to self-monitor food intake in a timely, complete and consistent manner throughout a day. This is consistent with other work that indicated technical malfunction prevented statistically significant results [ref]. Participants reported that the idea of tracking their food intake on their mobile phone was appealing, and offered valuable insight as to how we as designers and researchers may improve the process, particularly by reducing the amount of effort that goes in to the food intake capture. This allows us to raise the question of whether people will be able to enter food intake on a consistent basis if we reduce the amount of effort, in terms of time, physical entry (entering text or pushing buttons) and mental activity (how much the user needs to think about the process). This is addressed in the next chapter. 
 
 \section{Summary}
-In this chapter, I describe the BALANCE project, focusing primarily on the design and development of the food diary component of the project. I also provide an HCI-oriented evaluation of the use of the BALANCE software by participants in-situ, to better understand the results of the more quantitative, [medical]-oriented evaluation. This HCI-oriented evaluation identified that one important barrier to participants creating complete, comprehensive and timely food entries is due to the database. I document the challenges of using a food database on resource-constrained devices such as mobile phones, and [prove that nothing more could be done to improve the database experience with this technology]. The database is challenging to navigate and requires mental effort, particularly in real-world context, in addition to requiring time-consuming text entry. User feedback indicated that people understand the value that dietary self-monitoring could provide, but that the BALANCE food diary required too much time. It also indicated that people might be willing to accept a less detailed accounting of their food intake in exchange for a less challenging/time-intensive collection process. 
+In this chapter, I describe the BALANCE project, focusing primarily on the design and development of the food diary component of the project. I also provide an HCI-oriented evaluation of the use of the BALANCE software by participants in-situ, to better understand the results of the more quantitative, [medical]-oriented evaluation. This evaluation identified that one important barrier to participants creating complete, comprehensive and timely food entries is due to the database. I document the challenges of using a food database on resource-constrained devices such as mobile phones, and [prove that nothing more could be done to improve the database experience with this technology]. The database is challenging to navigate and requires mental effort, particularly in real-world context, in addition to requiring time-consuming text entry. User feedback indicated that people understand the value that dietary self-monitoring could provide, but that the BALANCE food diary required too much time. It also indicated that people might be willing to accept a less detailed accounting of their food intake in exchange for a less challenging and time-intensive collection process. 
 
  

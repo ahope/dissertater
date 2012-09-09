@@ -1,7 +1,31 @@
-\begin{thebibliography}{Guh09}
+\begin{thebibliography}{Mat08b}
 \newcommand{\enquote}[1]{``#1''}
 
-\bibitem[Bur11]{burke_effect_2011}
+\bibitem[Aht09]{ahtinen_user_2009}
+\textsc{Ahtinen, A}; \textsc{Mattila, E}; \textsc{Vaatanen, A};
+  \textsc{Hynninen, L}; \textsc{Salminen, J}; \textsc{Koskinen, E}; and
+  \textsc{Laine, K}: \enquote{User experiences of mobile wellness applications
+  in health promotion: User study of wellness diary, mobile coach and
+  {SelfRelax}.} In \emph{3rd International Conference on Pervasive Computing
+  Technologies for Healthcare, 2009. {PervasiveHealth} 2009}, pages 1 --8
+  (April 2009).
+
+\bibitem[Ain00]{ainsworth_compendium_2000}
+\textsc{Ainsworth, BE}; \textsc{Haskell, WL}; \textsc{Whitt, MC};
+  \textsc{Irwin, ML}; \textsc{Swartz, AM}; \textsc{Strath, SJ};
+  \textsc{{O'BRIEN}, WL}; \textsc{Bassett, DR}; \textsc{Schmitz, KH};
+  \textsc{Emplaincourt, PO}; \textsc{et~al.}: \enquote{Compendium of physical
+  activities: an update of activity codes and {MET} intensities.}
+  \emph{Medicine \& Science in Sports \& Exercise}, 32(9):S498 (2000).
+
+\bibitem[Ber07]{beresford_worksite_2007}
+\textsc{Beresford, SAA}; \textsc{Locke, E}; \textsc{Bishop, S}; \textsc{West,
+  B}; \textsc{{McGregor}, BA}; \textsc{Bruemmer, B}; \textsc{Duncan, GE}; and
+  \textsc{Thompson, B}: \enquote{Worksite study promoting activity and changes
+  in eating {(PACE):} design and baseline results.} \emph{Obesity}, 15:4S--15S
+  (2007).
+
+\bibitem[Bur11a]{burke_effect_2011}
 \textsc{Burke, LE}; \textsc{Conroy, MB}; \textsc{Sereika, SM}; \textsc{Elci,
   OU}; \textsc{Styn, MA}; \textsc{Acharya, SD}; \textsc{Sevick, MA};
   \textsc{Ewing, LJ}; and \textsc{Glanz, K}: \enquote{The effect of electronic
@@ -9,10 +33,23 @@
   weight loss trial.} \emph{Obesity {(Silver} Spring, Md.)}, 19(2):338--344
   (February 2011), {PMID:} 20847736.
 
+\bibitem[Bur11b]{burke_self-monitoring_2011}
+\textsc{Burke, LE}; \textsc{Wang, J}; and \textsc{Sevick, MA}:
+  \enquote{Self-monitoring in weight loss: a systematic review of the
+  literature.} \emph{Journal of the American Dietetic Association},
+  111(1):92--102 (January 2011), {PMID:} 21185970.
+
 \bibitem[Cal04]{calle_overweight_2004}
 \textsc{Calle, EE} and \textsc{Kaaks, R}: \enquote{Overweight, obesity and
   cancer: epidemiological evidence and proposed mechanisms.} \emph{Nature
   Reviews Cancer}, 4(8):579--591 (August 2004).
+
+\bibitem[Con07]{consolvo_conducting_2007}
+\textsc{Consolvo, S}; \textsc{Harrison, B}; \textsc{Smith, I}; \textsc{Chen,
+  MY}; \textsc{Everitt, K}; \textsc{Froehlich, J}; and \textsc{Landay, JA}:
+  \enquote{Conducting in situ evaluations for and with ubiquitous computing
+  technologies.} \emph{International Journal of Human-Computer Interaction},
+  22(1-2):103--118 (2007).
 
 \bibitem[Con08]{consolvo_flowers_2008}
 \textsc{Consolvo, S}; \textsc{Klasnja, P}; \textsc{{McDonald}, DW};
@@ -41,6 +78,23 @@
   with 960 country-years and 9·1 million participants.} \emph{The Lancet},
   377(9765):557--567 (2011).
 
+\bibitem[Gla06]{glanz_improving_2006}
+\textsc{Glanz, K}; \textsc{Murphy, S}; \textsc{Moylan, J}; \textsc{Evensen, D};
+  and \textsc{Curb, JD}: \enquote{Improving dietary self-monitoring and
+  adherence with hand-held computers: a pilot study.} \emph{American Journal of
+  Health Promotion: {AJHP}}, 20(3):165--170 (February 2006), {PMID:} 16422134.
+
+\bibitem[Gue08a]{guenther_development_2008}
+\textsc{Guenther, PM}; \textsc{Reedy, J}; and \textsc{Krebs-Smith, SM}:
+  \enquote{Development of the healthy eating index-2005.} \emph{Journal of the
+  American Dietetic Association}, 108(11):1896--1901 (November 2008).
+
+\bibitem[Gue08b]{guenther_evaluation_2008}
+\textsc{Guenther, PM}; \textsc{Reedy, J}; \textsc{Krebs-Smith, SM}; and
+  \textsc{Reeve, BB}: \enquote{Evaluation of the healthy eating index-2005.}
+  \emph{Journal of the American Dietetic Association}, 108(11):1854--1864
+  (November 2008).
+
 \bibitem[Guh09]{guh_incidence_2009}
 \textsc{Guh, D}; \textsc{Zhang, W}; \textsc{Bansback, N}; \textsc{Amarsi, Z};
   \textsc{Birmingham, C}; and \textsc{Anis, A}: \enquote{The incidence of
@@ -56,10 +110,29 @@
   engagement.} \emph{Medicine \& Science in Sports \& Exercise}, 41(Supplement
   1):45--46 (May 2009).
 
+\bibitem[Hug10]{hughes_balance_2010}
+\textsc{Hughes, D}: \enquote{The {BALANCE} study {(Bioengineering} approaches
+  to lifestyle activity and nutrition continuous engagement): Using the
+  design-feedback iterative cycle to improve methods for measuring energy
+  intake via electronic food diary.} {MS} thesis, University of Washington,
+  Seattle, {WA} (2010).
+
+\bibitem[Jas09]{jastran_eating_2009}
+\textsc{Jastran, MM}; \textsc{Bisogni, CA}; \textsc{Sobal, J}; \textsc{Blake,
+  C}; and \textsc{Devine, CM}: \enquote{Eating routines. embedded, value based,
+  modifiable, and reflective.} \emph{Appetite}, 52(1):127--136 (February 2009).
+
 \bibitem[Kan70]{kanfer_self-monitoring:_1970}
 \textsc{Kanfer, FH}: \enquote{Self-monitoring: Methodological limitations and
   clinical applications.} \emph{Journal of Consulting and Clinical Psychology},
   35(2):148--152 (October 1970).
+
+\bibitem[Kan10]{kant_dietary_2010}
+\textsc{Kant, AK}: \enquote{Dietary patterns: biomarkers and chronic disease
+  {riskThis} paper is one of a selection of papers published in the
+  {CSCN–CSNS} 2009 conference, entitled are dietary patterns the best way to
+  make nutrition recommendations for chronic disease prevention?} \emph{Applied
+  Physiology, Nutrition, and Metabolism}, 35(2):199--206 (April 2010).
 
 \bibitem[Kim11]{kimokoti_diet_2011}
 \textsc{Kimokoti, RW} and \textsc{Millen, BE}: \enquote{Diet, the global
@@ -72,12 +145,60 @@
   \emph{Proceedings of the 2011 annual conference on Human factors in computing
   systems}, page 3063, {ACM} Press, New York, {NY}, {USA} (2011).
 
+\bibitem[Kou09]{kourlaba_dietary_2009}
+\textsc{Kourlaba, G} and \textsc{Panagiotakos, DB}: \enquote{Dietary quality
+  indices and human health: A review.} \emph{Maturitas}, 62(1):1--8 (January
+  2009).
+
+\bibitem[Lö99]{lowik_food-based_1999}
+\textsc{Löwik, M}; \textsc{Hulshof, K}; and \textsc{Brussaard, J}:
+  \enquote{Food-based dietary guidelines: Some assumptions tested for the
+  netherlands.} \emph{British Journal of Nutrition}, 81({SUPPL.} 2):S143--S149
+  (1999).
+
 \bibitem[Les09]{lester_validated_2009}
 \textsc{Lester, J}; \textsc{Hartung, C}; \textsc{Pina, L}; \textsc{Libby, R};
   \textsc{Borriello, G}; and \textsc{Duncan, G}: \enquote{Validated caloric
   expenditure estimation using a single body-worn sensor.} In \emph{Proceedings
   of the 11th international conference on Ubiquitous computing - Ubicomp '09},
   page 225, Orlando, Florida, {USA} (2009).
+
+\bibitem[Lew95]{lewis_ibm_1995}
+\textsc{Lewis, JR}: \enquote{{IBM} computer usability satisfaction
+  questionnaires: Psychometric evaluation and instructions for use.}
+  \emph{International Journal of Human-Computer Interaction}, 7(1):57--78
+  (1995).
+
+\bibitem[Mam08]{mamykina_mahi:_2008}
+\textsc{Mamykina, L}; \textsc{Mynatt, E}; \textsc{Davidson, P}; and
+  \textsc{Greenblatt, D}: \enquote{{MAHI:} investigation of social scaffolding
+  for reflective thinking in diabetes management.} In \emph{Proceedings of the
+  twenty-sixth annual {SIGCHI} conference on Human factors in computing
+  systems}, {CHI} '08, page 477–486, {ACM}, New York, {NY}, {USA} (2008).
+
+\bibitem[Mam11]{mamykina_examining_2011}
+\textsc{Mamykina, L}; \textsc{Miller, AD}; \textsc{Grevet, C};
+  \textsc{Medynskiy, Y}; \textsc{Terry, MA}; \textsc{Mynatt, ED}; and
+  \textsc{Davidson, PR}: \enquote{Examining the impact of collaborative tagging
+  on sensemaking in nutrition management.} In \emph{Proceedings of the 2011
+  annual conference on Human factors in computing systems}, {CHI} '11, page
+  657–666, {ACM}, New York, {NY}, {USA} (2011).
+
+\bibitem[Mat08a]{mattila_nuadu_2008}
+\textsc{Mattila, E}; \textsc{Korhonen, I}; \textsc{Lappalainen, R};
+  \textsc{Ahtinen, A}; \textsc{Hopsu, L}; and \textsc{Leino, T}: \enquote{Nuadu
+  concept for personal management of lifestyle related health risks.} In
+  \emph{30th Annual International Conference of the {IEEE} Engineering in
+  Medicine and Biology Society, 2008}, pages 5846--5850 (2008).
+
+\bibitem[Mat08b]{mattila_mobile_2008}
+\textsc{Mattila, E}; \textsc{Parkka, J}; \textsc{Hermersdorf, M};
+  \textsc{Kaasinen, J}; \textsc{Vainio, J}; \textsc{Samposalo, K};
+  \textsc{Merilahti, J}; \textsc{Kolari, J}; \textsc{Kulju, M};
+  \textsc{Lappalainen, R}; and \textsc{Korhonen, I}: \enquote{Mobile diary for
+  wellness {Management—Results} on usage and usability in two user studies.}
+  \emph{Information Technology in Biomedicine, {IEEE} Transactions on},
+  12(4):501--512 (2008).
 
 \bibitem[Mic09]{michie_effective_2009}
 \textsc{Michie, S}; \textsc{Abraham, C}; \textsc{Whittington, C};
@@ -91,9 +212,65 @@
 \textsc{of~Agriculture, UD} and \textsc{Service, AR}: \enquote{{USDA} national
   nutrient database for standard reference.} (2006).
 
+\bibitem[Rot06]{rothman_patient_2006}
+\textsc{Rothman, RL}; \textsc{Housam, R}; \textsc{Weiss, H}; \textsc{Davis, D};
+  \textsc{Gregory, R}; \textsc{Gebretsadik, T}; \textsc{Shintani, A}; and
+  \textsc{Elasy, TA}: \enquote{Patient understanding of food labels: The role
+  of literacy and numeracy.} \emph{American Journal of Preventive Medicine},
+  31(5):391--398 (November 2006).
+
+\bibitem[Ryu06]{ryu_reliability_2006}
+\textsc{Ryu, YS} and \textsc{Smith-jackson, TL}: \enquote{Reliability and
+  validity of the mobile phone usability questionnaire {(MPUQ)}.} \emph{Journal
+  of Usability Studies}, 2(1):39--53 (2006).
+
+\bibitem[Sie06a]{siek_design_2006}
+\textsc{Siek, KA}: \enquote{The design and evaluation of an assistive
+  application for dialysis patients.} Ph.D. thesis, Indiana University (2006).
+
+\bibitem[Sie06b]{siek_when_2006}
+\textsc{Siek, KA}; \textsc{Connelly, KH}; \textsc{Rogers, Y}; \textsc{Rohwer,
+  P}; \textsc{Lambert, D}; and \textsc{Welch, JL}: \enquote{When do we eat? an
+  evaluation of food items input into an electronic food monitoring
+  application.} In \emph{Proceedings of the 1st International Conference on
+  Pervasive Computing Technologies for Healthcare 2006}, pages 1--10 (2006).
+
+\bibitem[Sie09]{siek_bridging_2009}
+\textsc{Siek, KA}; \textsc{{LaMarche}, JS}; and \textsc{Maitland, J}:
+  \enquote{Bridging the information gap: collaborative technology design with
+  low-income at-risk families to engender healthy behaviors.} In
+  \emph{Proceedings of the 21st Annual Conference of the Australian
+  Computer-Human Interaction Special Interest Group: Design: Open 24/7},
+  {OZCHI} '09, page 89–96, {ACM}, New York, {NY}, {USA} (2009).
+
+\bibitem[Sni10]{snively_balance_2010}
+\textsc{Snively, H}: \enquote{The {BALANCE} study: Developing and testing a
+  novel device for measuring energy balance in real-time.} {MS}, University of
+  Washington, Seattle, {WA} (2010).
+
 \bibitem[Stu08]{stumbo_considerations_2008}
 \textsc{Stumbo, PJ}: \enquote{Considerations for selecting a dietary assessment
   system.} \emph{Journal of Food Composition and Analysis}, 21(Supplement
   1):S13--S19 (February 2008).
+
+\bibitem[Tin01]{tinker_measurement_2001}
+\textsc{Tinker, LF}; \textsc{Patterson, RE}; \textsc{Kristal, AR};
+  \textsc{Bowen, DJ}; \textsc{Kuniyuki, A}; \textsc{Henry, H}; and
+  \textsc{Shattuck, A}: \enquote{Measurement characteristics of 2 different
+  self-monitoring tools used in a dietary intervention study.} \emph{Journal of
+  the American Dietetic Association}, 101(9):1031--1040 (September 2001).
+
+\bibitem[Tsa07]{tsai_usability_2007}
+\textsc{Tsai, CC}; \textsc{Lee, G}; \textsc{Raab, F}; \textsc{Norman, GJ};
+  \textsc{Sohn, T}; \textsc{Griswold, WG}; and \textsc{Patrick, K}:
+  \enquote{Usability and feasibility of {PmEB:} a mobile phone application for
+  monitoring real time caloric balance.} In \emph{Mobile Networks and
+  Applications}, pages 1--10 (2007).
+
+\bibitem[Wan06]{wang_development_2006}
+\textsc{Wang, DH}; \textsc{Kogashiwa, M}; and \textsc{Kira, S}:
+  \enquote{Development of a new instrument for evaluating individuals' dietary
+  intakes.} \emph{Journal of the American Dietetic Association},
+  106(10):1588--1593 (October 2006).
 
 \end{thebibliography}

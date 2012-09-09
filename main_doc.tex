@@ -53,8 +53,12 @@
 \usepackage{fancyhdr}
 \usepackage{setspace}
 
+\setlength{\headheight}{14pt}
+
 \usepackage{xcolor}
 
+
+\usepackage{pdfpages}
 
 %\usepackage[table]{xcolor}
 
@@ -70,6 +74,11 @@
  %           }%
  %}
 %% Uncomment above... ^
+
+%\makeatletter % Reference list option change
+%\renewcommand\@biblabel[1]{} % from [1] to 1.
+%\makeatother %
+
 \makeatother
 
 %
@@ -79,7 +88,7 @@
  \usepackage[square]{natbib}
  \def\bibpreamble{\protect\addcontentsline{toc}{chapter}{Bibliography}}
 %
-\setcounter{tocdepth}{2}  % Print the chapter and sections to the toc
+\setcounter{tocdepth}{3}  % Print the chapter and sections to the toc
 \setcounter{secnumdepth}{5} 
 
 \usepackage{graphicx}
@@ -117,6 +126,7 @@
 %
 % \font\mffont=logosl10 scaled\magstep1
 \let\mffont=\sf
+\usepackage{palatino}
 % --- end-of-sample-stuff ---
  
 
@@ -139,9 +149,9 @@
 \Program{Computer Science and Engineering}
 
 \Chair{Name of Chairperson}{Title of Chair}{Department of Chair}
-\Signature{First committee member}
-\Signature{Next committee member}
-\Signature{etc}
+\Signature{James Fogarty}
+\Signature{Julie Kientz}
+\Signature{Wanda Pratt}
 
 %\copyrightpage
 
@@ -151,8 +161,7 @@
 % unusual footnote not found in a real thesis
 % You just use the \titlepage as commented out above
 
-{\Degreetext{A dissertation%
-  \footnote[2]{an egocentric imitation, actually}\\
+{\Degreetext{A dissertation\\
   submitted in partial fulfillment of the\\ requirements for the degree of}
  \def\thefootnote{\fnsymbol{footnote}}
  \let\footnoterule\relax
@@ -173,25 +182,22 @@
 
 \setcounter{page}{-1}
 \abstract{%
-This sample dissertation is an aid to students who are attempting
-to format their theses with \LaTeX, a sophisticated
-text formatter widely available at the University of Washington
-and other institutions of higher learning.
+A healthy diet has the power to both prevent and heal disease, and the
+high rates of lifestyle- and diet-related disease in America indicates the
+need for tools to help improve diet. Self-monitoring one's food intake is
+considered key to improve one's eating behaviors. The consumer demand for
+health and wellness tools, especially on personal, always-with-us mobile
+devices, shows both the interest on behalf of users and the resources on
+behalf of creators. However, few individuals are able to sustain the
+self-monitoring practice for an appropriate length of time, and many
+people complain about the poor experience they have had using food
+journals.
 
-
-\begin{itemize}
-\item It describes the use of a specialized
-macro package developed specifically for thesis production
-at the University.
-The macros customize \LaTeX\ for the correct thesis style,
-allowing the student to concentrate on the substance of
-his or her text.%
-\footnote{See Appendix A to obtain the source to this
- thesis and the style file.}
-\item It demonstrates the solutions to a variety of
-formatting challenges found in thesis production.
-\item It serves as a template for a real dissertation.
-\end{itemize}
+I examine self-monitoring of food intake using mobile phones. Overall, I
+characterize problems people encounter using a traditional
+database-oriented food journal, provide motivation for rethinking this
+approach, and describe a series of studies that investigate the use of a
+reduced-detail self-monitoring tool for dietary intake.
 }
  
 %
@@ -204,7 +210,7 @@ formatting challenges found in thesis production.
 %
 % ----- glossary 
 %
-%%%aha \input{glossary.tex}
+\input{glossary.tex}
  
 %
 % ----- acknowledgments
@@ -254,7 +260,7 @@ formatting challenges found in thesis production.
 %
 %\nocite{*}   % include everything in the uwthesis.bib file
 %\bibpunct{[}{]}{,}{a}{}{;} 
-\bibliographystyle{aha_diss_2}%my-econometrica}
+\bibliographystyle{aha_diss_2}%aha-diss-3}%aha_diss_4}%}%my-econometrica}
 %\bibliographystyle{gerapali}  
 
 % or: plain,unsrt,alpha,abbrv,acm,apalike,...
@@ -265,34 +271,15 @@ formatting challenges found in thesis production.
 \appendix
 \raggedbottom\sloppy
  
-% ========== Appendix A
+% ========== Appendix
  
-\chapter{Where to find the files}
- 
-The uwthesis class file, {\tt uwthesis.cls}, contains the parameter settings,
-macro definitions, and other \TeX nical commands which
-allow \LaTeX\ to format a thesis.  
-The source to
-the document you are reading, {\tt uwthesis.tex},
-contains many formatting examples
-which you may find useful.
-The bibliography database, {\tt uwthesis.bib}, contains instructions
-to BibTeX to create and format the bibliography.
-You can find the latest of these files on:
+\input{app_cont2_surveys2.tex}
+\input{app_pond_inLab.tex}
+\input{app_pond_insitu.tex}
 
-\begin{itemize}
-\item My page.
-\begin{description}
-\item[] \verb%http://staff.washington.edu/fox/tex/uwthesis.html%
-\end{description}
+%%\input{aha_cv.tex}
 
-\item CTAN
-\begin{description}
-\item[]  \verb%http://tug.ctan.org/tex-archive/macros/latex/contrib/uwthesis/%
-\item[]  (not always as up-to-date as my site)
-\end{description}
-
-\end{itemize}
+%% \includepdf[pages=-]{andrewCV_aug12.pdf}
 
 \vita{Jim Fox is a Software Engineer with UW Information Technology at the University of Washington.
 His duties do not include maintaining this package.  That is rather

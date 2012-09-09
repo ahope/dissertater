@@ -21,12 +21,12 @@ The goal of this project was to design and build a food diary that incorporated 
 Given a food diary that requires less time to use but provides less detail overall, will people use it ``longer''? 
 
 \subsection{Secondary Research Question: }
-\begin{itemize}
+\begin{itemize*}
 \item Will the ability to customize the interface to minimize it to the things you care about (``goals'') impact the use of the tool? 
 \item If the default interface contains items the users don't really care about, and are just taking more time for entry, do they get rid of them and keep tracking? 
 \item Are people willing to minimize the tracking time? 
 \item How/when/for what do people use the food database lookup feature? 
-\end{itemize}
+\end{itemize*}
 \section{Overarching Design Considerations}
 
 The instruments designed for the in-lab study comparing BALANCE, HEI and FBQI provided insight as to interface and interaction concerns, as well as ideas for how to make a food index-based food diary more useful. Here, I outline the concerns and suggestions, and identify how they impacted the design of POND. 
@@ -85,7 +85,7 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig1a}}
-		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig3_1a}
+		\caption{The top of the front screen. }\label{fig:pond_overview_a}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -93,7 +93,7 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig1b}}
-		\caption{Enter the food name. }\label{fig:fig3_1b}
+		\caption{The bottom of the front screen. }\label{fig:pond_overview_b}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -101,7 +101,7 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig1c}}
-		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig3_1c}
+		\caption{The `More details...' button provides guidance for hwo to count each component.}\label{fig:pond_overview_c}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -109,10 +109,10 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig1d}}
-		\caption{When there are many entries, the user is asked to choos a food group to filter the results. }\label{fig:fig3_1d}
+		\caption{A white dot shows when the target has been exceeded. }\label{fig:pond_overview_d}
 	\end{subfigure}
 
-	\caption{POND Screens}\label{fig:fig3_1}
+	\caption{POND Screens}\label{fig:POND_overview}
 \end{figure}
 
 
@@ -120,7 +120,7 @@ For the components, dark gray boxes indicate the current daily goal for that com
 
 \subsection{Daily Entries}
 The ``Daily Entries'' screen was designed to show a list of the entries made over time so far today. The entries are reversed-ordered, with the most recent entry at the top. Here, users can distinguish between which items were looked up in the database versus which items were added with a +1. +1 Entries made very close together in time (~15 seconds) are grouped together into one item, as they are usually connected. The entry is also tagged with the location. 
-The purple + button allows users to go directly to the ``Add Food'' Screen, while the device search button opens up a search widget to allow the user to add a new item to the showing day's list. Different days can be viewed by using the arrow buttons at the top of the screen, or by swiping left/right. Touching one of the entries opens up the appropriate ``Entry Edit'' screen and allows just that entry to be edited. A long touch on one entry shows a menu which allows the chosen single entry to be either edited or deleted. 
+The purple + button allows users to go directly to the ``Add Food'' Screen, while the device search button opens up a search widget to allow the user to add a new item to the showing day's list. Different days can be viewed by using the arrow buttons at the top of the screen, or by swiping left or right. Touching one of the entries opens up the appropriate ``Entry Edit'' screen and allows just that entry to be edited. A long touch on one entry shows a menu which allows the chosen single entry to be either edited or deleted. 
 
 \begin{figure}	
 \centering
@@ -128,26 +128,26 @@ The purple + button allows users to go directly to the ``Add Food'' Screen, whil
 		\centering
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig1a}}
-		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig3_1a}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2a}}
+		\caption{Creating a combination or a shortcut record.}\label{fig:pond_combo}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
 		\centering
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig1b}}
-		\caption{Enter the food name. }\label{fig:fig3_1b}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2b}}
+		\caption{Changing the goals screen.  }\label{fig:pond_goals}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
 		\centering
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig1c}}
-		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig3_1c}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2c}}
+		\caption{A list of today's entries. }\label{fig:pond_details_c}
 	\end{subfigure}
-	\caption{POND Screens.}\label{fig:3_1}
+	\caption{POND Screens.}\label{fig:pond_details}
 \end{figure}
 
 \subsection{Create Custom, Frequently-Eaten Foods}
@@ -160,7 +160,7 @@ This screen supports the creation of shortcuts for food combinations that people
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig3a}}
-		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig3_1a}
+		\caption{Searching for a food in the database. }\label{fig:pond_search}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -168,7 +168,7 @@ This screen supports the creation of shortcuts for food combinations that people
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig3b}}
-		\caption{Enter the food name. }\label{fig:fig3_1b}
+		\caption{An example of the results, grouped by food classes.}\label{fig:pond_db_results}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -176,9 +176,9 @@ This screen supports the creation of shortcuts for food combinations that people
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig3c}}
-		\caption{When the food name has not been used before, the user is given the option to either bookmark the entry to fill out later, create a manual entry using the nutrition facts label now, or query the database.}\label{fig:fig3_1c}
+		\caption{An example of a food database record. }\label{fig:pond_db_record}
 	\end{subfigure}
-	\caption{POND Screens.}\label{fig:3_1}
+	\caption{The POND database and food search. }\label{fig:pond_database}
 \end{figure}
 
 
@@ -191,10 +191,10 @@ The change goals screen can be used to change which components appear on the fro
 \centering
 \setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =2.5cm ]{./images/cont3/fig4a}}
-\label{fig:fig3_4a}
+\fbox{\includegraphics[ width =1.25in ]{./images/cont3/fig4a}}
+\label{fig:pond_record_edit}
 
-\caption{POND Screens.}
+\caption{Editing an existing food entry. }
 \end{figure}
 
 \subsection{Search process/screens}
@@ -218,7 +218,7 @@ The weekly summary screen provides feedback about progress towards the goals thr
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig5a}}
-		\caption{To make a new food entry, select the `Add Food' menu item. }\label{fig:fig5_1a}
+		\caption{The grains component. }\label{fig:pond_week_grains}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -226,7 +226,7 @@ The weekly summary screen provides feedback about progress towards the goals thr
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig5b}}
-		\caption{Enter the food name. }\label{fig:fig5_1b}
+		\caption{The fruit component.  }\label{fig:pond_week_fruit}
 	\end{subfigure}
 \quad
 \begin{subfigure}[t]{1.25in}
@@ -234,9 +234,9 @@ The weekly summary screen provides feedback about progress towards the goals thr
 		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig5c}}
-		\caption{When the food name has not been us.}\label{fig:fig5_1c}
+		\caption{The dairy component. }\label{fig:pond_week_dairy}
 	\end{subfigure}
-	\caption{POND Screens.}\label{fig:3_1}
+	\caption{Weekly overview. }\label{fig:pond_week_overview}
 \end{figure}
 
 
