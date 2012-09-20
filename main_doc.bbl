@@ -1,4 +1,4 @@
-\begin{thebibliography}{Mat08b}
+\begin{thebibliography}{{US }05}
 \newcommand{\enquote}[1]{``#1''}
 
 \bibitem[Aht09]{ahtinen_user_2009}
@@ -18,12 +18,35 @@
   activities: an update of activity codes and {MET} intensities.}
   \emph{Medicine \& Science in Sports \& Exercise}, 32(9):S498 (2000).
 
+\bibitem[Bar94]{Baranowski1994}
+\textsc{Baranowski, T} and \textsc{Domel, SB}: \enquote{{A cognitive model of
+  children's reporting of food intake.}} \emph{The American journal of clinical
+  nutrition}, 59(1 Suppl):212S--217S (January 1994).
+
+\bibitem[Bea05]{beasley_accuracy_2005}
+\textsc{Beasley, J}; \textsc{Riley, WT}; and \textsc{Jean-Mary, J}:
+  \enquote{Accuracy of a {PDA-based} dietary assessment program.}
+  \emph{Nutrition {(Burbank}, Los Angeles County, Calif.)}, 21(6):672--677
+  (June 2005), {PMID:} 15925290.
+
 \bibitem[Ber07]{beresford_worksite_2007}
 \textsc{Beresford, SAA}; \textsc{Locke, E}; \textsc{Bishop, S}; \textsc{West,
   B}; \textsc{{McGregor}, BA}; \textsc{Bruemmer, B}; \textsc{Duncan, GE}; and
   \textsc{Thompson, B}: \enquote{Worksite study promoting activity and changes
   in eating {(PACE):} design and baseline results.} \emph{Obesity}, 15:4S--15S
   (2007).
+
+\bibitem[Bla91]{Black1991583}
+\textsc{Black, A}; \textsc{Goldberg, G}; \textsc{Jebb, S}; \textsc{Livingstone,
+  M}; \textsc{Cole, T}; and \textsc{Prentice, A}: \enquote{Critical evaluation
+  of energy intake data using fundamental principles of energy physiology: 2.
+  evaluating the results of published surveys.} \emph{European Journal of
+  Clinical Nutrition}, 45(12):583--599 (1991), cited By (since 1996) 359.
+
+\bibitem[Boo05]{Booth2005}
+\textsc{Booth, KM}; \textsc{Pinkston, MM}; and \textsc{Poston, WSC}:
+  \enquote{{Obesity and the built environment.}} \emph{Journal of the American
+  Dietetic Association}, 105(5 Suppl 1):S110--7 (May 2005).
 
 \bibitem[Bur11a]{burke_effect_2011}
 \textsc{Burke, LE}; \textsc{Conroy, MB}; \textsc{Sereika, SM}; \textsc{Elci,
@@ -68,15 +91,21 @@
   Mobile Computing Systems and Applications}, pages 1--6, {ACM}, Santa Cruz,
   California (2009).
 
-\bibitem[Fin11]{finucane_national_2011}
-\textsc{Finucane, M}; \textsc{Stevens, G}; \textsc{Cowan, M}; \textsc{Danaei,
-  G}; \textsc{Lin, J}; \textsc{Paciorek, C}; \textsc{Singh, G};
-  \textsc{Gutierrez, H}; \textsc{Lu, Y}; \textsc{Bahalim, A};
-  \textsc{Farzadfar, F}; \textsc{Riley, L}; and \textsc{Ezzati, M}:
-  \enquote{National, regional, and global trends in body-mass index since 1980:
-  Systematic analysis of health examination surveys and epidemiological studies
-  with 960 country-years and 9·1 million participants.} \emph{The Lancet},
-  377(9765):557--567 (2011).
+\bibitem[Dun01]{Duncan2001}
+\textsc{Duncan, GE}; \textsc{Sydeman, SJ}; \textsc{Perri, MG};
+  \textsc{Limacher, MC}; and \textsc{Martin, AD}: \enquote{{Can sedentary
+  adults accurately recall the intensity of their physical activity?}}
+  \emph{Preventive medicine}, 33(1):18--26 (July 2001).
+
+\bibitem[Fog02]{Fogg2002}
+\textsc{Fogg, B}: \emph{{Persuasive Technology: Using Computers to Change What
+  We Think and Do (Interactive Technologies)}}. Morgan Kaufmann, 1 edition
+  (2002).
+
+\bibitem[Fur96]{furst_food_1996}
+\textsc{Furst, T}; \textsc{Connors, M}; \textsc{Bisogni, CA}; \textsc{Sobal,
+  J}; and \textsc{Falk, LW}: \enquote{{Food Choice: A Conceptual Model of the
+  Process,}.} \emph{Appetite}, 26(3):247--266 (June 1996).
 
 \bibitem[Gla06]{glanz_improving_2006}
 \textsc{Glanz, K}; \textsc{Murphy, S}; \textsc{Moylan, J}; \textsc{Evensen, D};
@@ -100,6 +129,16 @@
   \textsc{Birmingham, C}; and \textsc{Anis, A}: \enquote{The incidence of
   co-morbidities related to obesity and overweight: A systematic review and
   meta-analysis.} \emph{{BMC} Public Health}, 9 (2009).
+
+\bibitem[Hil06]{Hill2006}
+\textsc{Hill, JO}: \enquote{{Understanding and addressing the epidemic of
+  obesity: an energy balance perspective.}} \emph{Endocrine reviews},
+  27(7):750--61 (December 2006).
+
+\bibitem[Hu01]{Hu2001}
+\textsc{Hu, FB}; \textsc{van Dam, RM}; and \textsc{Liu, S}: \enquote{{Diet and
+  risk of Type II diabetes: the role of types of fat and carbohydrate.}}
+  \emph{Diabetologia}, 44(7):805--17 (July 2001).
 
 \bibitem[Hug09]{hughes_balance:_2009}
 \textsc{Hughes, DC}; \textsc{Andrew, A}; \textsc{Chaudhri, R}; \textsc{Denning,
@@ -169,6 +208,23 @@
   \emph{International Journal of Human-Computer Interaction}, 7(1):57--78
   (1995).
 
+\bibitem[Lic06]{Lichtenstein2006}
+\textsc{Lichtenstein, AH}; \textsc{Appel, LJ}; \textsc{Brands, M};
+  \textsc{Carnethon, M}; \textsc{Daniels, S}; \textsc{Franch, HA};
+  \textsc{Franklin, B}; \textsc{Kris-Etherton, P}; \textsc{Harris, WS};
+  \textsc{Howard, B}; \textsc{Karanja, N}; \textsc{Lefevre, M}; \textsc{Rudel,
+  L}; \textsc{Sacks, F}; \textsc{{Van Horn}, L}; \textsc{Winston, M}; and
+  \textsc{Wylie-Rosett, J}: \enquote{{Diet and lifestyle recommendations
+  revision 2006: a scientific statement from the American Heart Association
+  Nutrition Committee.}} \emph{Circulation}, 114(1):82--96 (July 2006).
+
+\bibitem[Liv90]{Livingstone1990}
+\textsc{Livingstone, MB}; \textsc{Prentice, AM}; \textsc{Strain, JJ};
+  \textsc{Coward, WA}; \textsc{Black, AE}; \textsc{Barker, ME};
+  \textsc{McKenna, PG}; and \textsc{Whitehead, RG}: \enquote{{Accuracy of
+  weighed dietary records in studies of diet and health.}} \emph{BMJ (Clinical
+  research ed.)}, 300(6726):708--12 (March 1990).
+
 \bibitem[Mam08]{mamykina_mahi:_2008}
 \textsc{Mamykina, L}; \textsc{Mynatt, E}; \textsc{Davidson, P}; and
   \textsc{Greenblatt, D}: \enquote{{MAHI:} investigation of social scaffolding
@@ -208,9 +264,26 @@
   Psychology, American Psychological Association}, 28(6):690--701 (November
   2009), {PMID:} 19916637.
 
+\bibitem[Mor02]{Morland2002}
+\textsc{Morland, K}; \textsc{Wing, S}; \textsc{{Diez Roux}, A}; and
+  \textsc{Poole, C}: \enquote{{Neighborhood characteristics associated with the
+  location of food stores and food service places}.} \emph{American Journal of
+  Preventive Medicine}, 22(1):23--29 (January 2002).
+
+\bibitem[Nes02]{Nestle2002}
+\textsc{Nestle, M}: \emph{{Food Politics: How the Food Industry Influences
+  Nutrition and Health}}. University of California Press (2002).
+
 \bibitem[oA06]{u.s._department_of_agriculture_usda_2006}
 \textsc{of~Agriculture, UD} and \textsc{Service, AR}: \enquote{{USDA} national
   nutrient database for standard reference.} (2006).
+
+\bibitem[Pri08]{Prince2008}
+\textsc{Prince, SA}; \textsc{Adamo, KB}; \textsc{Hamel, ME}; \textsc{Hardt, J};
+  \textsc{Gorber, SC}; and \textsc{Tremblay, M}: \enquote{{A comparison of
+  direct versus self-report measures for assessing physical activity in adults:
+  a systematic review.}} \emph{The international journal of behavioral
+  nutrition and physical activity}, 5(1):56 (January 2008).
 
 \bibitem[Rot06]{rothman_patient_2006}
 \textsc{Rothman, RL}; \textsc{Housam, R}; \textsc{Weiss, H}; \textsc{Davis, D};
@@ -223,6 +296,17 @@
 \textsc{Ryu, YS} and \textsc{Smith-jackson, TL}: \enquote{Reliability and
   validity of the mobile phone usability questionnaire {(MPUQ)}.} \emph{Journal
   of Usability Studies}, 2(1):39--53 (2006).
+
+\bibitem[Sch95]{Schoeller199518}
+\textsc{Schoeller, DA}: \enquote{Limitations in the assessment of dietary
+  energy intake by self-report.} \emph{Metabolism}, 44, Supplement 2(0):18 --
+  22 (1995), <ce:title>The Role of Dexfenfluramine in the Regulation of Energy
+  Balance</ce:title>.
+
+\bibitem[Sha10]{Shaw20104}
+\textsc{Shaw, J}; \textsc{Sicree, R}; and \textsc{Zimmet, P}: \enquote{Global
+  estimates of the prevalence of diabetes for 2010 and 2030.} \emph{Diabetes
+  Research and Clinical Practice}, 87(1):4 -- 14 (2010).
 
 \bibitem[Sie06a]{siek_design_2006}
 \textsc{Siek, KA}: \enquote{The design and evaluation of an assistive
@@ -248,10 +332,19 @@
   novel device for measuring energy balance in real-time.} {MS}, University of
   Washington, Seattle, {WA} (2010).
 
+\bibitem[Soc11]{american_cancer_society_global_2011}
+\textsc{Society, AC}: \emph{Global Cancer Facts and Figures, 2nd Edition}.
+  American Cancer Society, Atlanta (2011).
+
 \bibitem[Stu08]{stumbo_considerations_2008}
 \textsc{Stumbo, PJ}: \enquote{Considerations for selecting a dietary assessment
   system.} \emph{Journal of Food Composition and Analysis}, 21(Supplement
   1):S13--S19 (February 2008).
+
+\bibitem[Tho12]{Thomas2012}
+\textsc{Thomas, T} and \textsc{Pfeiffer, AFH}: \enquote{{Foods for the
+  prevention of diabetes: how do they work?}} \emph{Diabetes/metabolism
+  research and reviews}, 28(1):25--49 (January 2012).
 
 \bibitem[Tin01]{tinker_measurement_2001}
 \textsc{Tinker, LF}; \textsc{Patterson, RE}; \textsc{Kristal, AR};
@@ -267,10 +360,33 @@
   monitoring real time caloric balance.} In \emph{Mobile Networks and
   Applications}, pages 1--10 (2007).
 
+\bibitem[{US }05]{us_health_and_human_services_dietary_2005}
+\textsc{{US Health and Human Services}} and \textsc{{US Department of
+  Agriculture}}: \emph{Dietary Guidelines for Americans 2005}. {US Government
+  Printing Office}, Washington, {D.C.}, 6th edition (2005).
+
 \bibitem[Wan06]{wang_development_2006}
 \textsc{Wang, DH}; \textsc{Kogashiwa, M}; and \textsc{Kira, S}:
   \enquote{Development of a new instrument for evaluating individuals' dietary
   intakes.} \emph{Journal of the American Dietetic Association},
   106(10):1588--1593 (October 2006).
+
+\bibitem[WHO11]{WHO_CVD_2011}
+\enquote{{WHO Cardiovascular diseases (CVDs) Fact Sheet}.} (2011).
+
+\bibitem[You03]{Young2003}
+\textsc{Young, LR} and \textsc{Nestle, M}: \enquote{{Expanding portion sizes in
+  the US marketplace: implications for nutrition counseling.}} \emph{Journal of
+  the American Dietetic Association}, 103(2):231--4 (February 2003).
+
+\bibitem[You09]{Young2009}
+\textsc{Young, LR} and \textsc{Nestle, M}: \enquote{{Portion Sizes in Dietary
+  Assessment: Issues and Policy Implications}.} \emph{Nutrition Reviews},
+  53(6):149--158 (April 2009).
+
+\bibitem[Zeg84]{Zegman1984}
+\textsc{Zegman, MA}: \enquote{{Errors in food recording and calorie estimation:
+  Clinical and theoretical implications for obesity}.} \emph{Addictive
+  Behaviors}, 9(4):347--350 (January 1984).
 
 \end{thebibliography}
