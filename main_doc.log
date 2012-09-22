@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  21 SEP 2012 06:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  22 SEP 2012 07:52
 entering extended mode
 **main_doc.tex
 (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.tex
@@ -635,7 +635,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.613 ...and\NAT@force@numbers{}\NAT@force@numbers
+l.642 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? 
 )
@@ -725,7 +725,7 @@ t4): destination with the same identifier (name{page.i}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.34 ...erline {3.1}Introduction}{21}{section.3.1}
+l.34 ...textofChapter \ 3:}BALANCE}{23}{chapter.3}
                                                    [1
 
 
@@ -734,7 +734,7 @@ l.34 ...erline {3.1}Introduction}{21}{section.3.1}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 ... {4.4.3}Instruments}{75}{subsection.4.4.3}
+l.87 ...{4.4.2}Study Design}{77}{subsection.4.4.2}
                                                    [2] [3])
 \tf@toc=\write5
  [4]
@@ -773,19 +773,6 @@ Package natbib Warning: Author undefined for citation`furst_food_1996'
 (natbib)                on page 2 on input line 14.
 
 [2]
-
-Package natbib Warning: Citation `Nielsen2003' on page 3 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `burke_experiences_2009' on page 3 undefined o
-n input line 21.
-
-
-Package natbib Warning: Citation `burke_self-monitoring_2005' on page 3 undefin
-ed on input line 21.
-
-
 Overfull \hbox (0.38145pt too wide) in paragraph at lines 20--22
 \OT1/ppl/m/n/10.95 Pro-vid-ing sup-port for in-di-vid-u-als to in-su-late them-
 selves from the en-vi-ron-ment and change
@@ -797,53 +784,68 @@ selves from the en-vi-ron-ment and change
 [6
 
 ]
-
-Package natbib Warning: Citation `prochaska_transtheoretical_1997' on page 7 un
-defined on input line 22.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
 
 Package natbib Warning: Author undefined for citation`kanfer_self-monitoring:_1
 970' 
-(natbib)                on page 8 on input line 25.
-
-
-Package natbib Warning: Citation `burke_self-monitoring_2005' on page 8 undefin
-ed on input line 27.
+(natbib)                on page 8 on input line 26.
 
 [8]
 Underfull \vbox (badness 1237) has occurred while \output is active []
 
  [9]
-[10] [11] [12] [13] [14] [15]
-Overfull \hbox (5.36299pt too wide) in paragraph at lines 120--121
+[10]
+Underfull \vbox (badness 3407) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+ [13]
+[14] [15]
+Overfull \hbox (5.36299pt too wide) in paragraph at lines 127--128
 \OT1/ppl/m/n/10.95 In this sec-tion, I re-view the work that pro-vides a foun-d
 a-tion for study-ing the self-monitoring
  []
 
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-[16] [17] [18]
-Missing character: There is no … in font pplr7t!
- [19] [20])
-(C:\Users\aha\Documents\LEdProjects\dissertation\cont1.tex [21]
-<<3>>
-[22
 
-] [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+
+[17] [18]
+Missing character: There is no … in font pplr7t!
+ [19] [20]
+Overfull \hbox (0.80905pt too wide) in paragraph at lines 201--202
+\OT1/ppl/m/n/10.95 shar-ing. It also in-cluded pre-de-fined re-minders to help 
+the user make good choices through-
+ []
+
+
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+ [21])
+(C:\Users\aha\Documents\LEdProjects\dissertation\cont1.tex [22]
+<<3>>
+[23
+
+] [24]
 Overfull \hbox (3.2173pt too wide) in paragraph at lines 23--24
 []\OT1/ppl/m/n/10.95 The first in-ves-ti-ga-tion fo-cused on the fuel-gauge vi-
 su-al-iza-tion. The vi-su-al-iza-tion needed
  []
 
-[24] <./images/cont1/Viz_1_1.png, id=995, 242.9075pt x 248.93pt>
+[25] <./images/cont1/Viz_1_1.png, id=1035, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_1.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_1.png>
@@ -854,7 +856,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 40--41
  [][] 
  []
 
-<./images/cont1/Viz_1_2.png, id=997, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_2.png, id=1037, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_2.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_2.png>
@@ -865,7 +867,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 48--49
  [][] 
  []
 
-<./images/cont1/Viz_1_3.png, id=998, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_3.png, id=1038, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_3.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_3.png>
@@ -876,7 +878,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 56--57
  [][] 
  []
 
-<./images/cont1/Viz_1_4.png, id=999, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_4.png, id=1039, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_4.png>
@@ -887,7 +889,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 64--65
  [][] 
  []
 
-<./images/cont1/Viz_1_10.png, id=1000, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_10.png, id=1040, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_10.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_10.png>
@@ -898,7 +900,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 72--73
  [][] 
  []
 
-<./images/cont1/Viz_1_12.png, id=1001, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_12.png, id=1041, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_12.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_12.png>
@@ -909,7 +911,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
-[25 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_1.png> 
+[26 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_1.png> 
 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_2.png> <C:/
 Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_3.png> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_1_4.png> <C:/Users/ah
@@ -931,7 +933,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 114--115
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 115.
-<./images/cont1/Viz_2_5.png, id=1013, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_2_5.png, id=1053, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_2_5.png Graphic file (type png)
 
 <use ./images/cont1/Viz_2_5.png>
@@ -942,7 +944,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 122--123
  [][] 
  []
 
-<./images/cont1/Viz_3_3.png, id=1014, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_3_3.png, id=1054, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_3_3.png Graphic file (type png)
 
 <use ./images/cont1/Viz_3_3.png>
@@ -953,7 +955,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 130--131
  [][] 
  []
 
-<./images/cont1/Viz_4_4.png, id=1015, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_4_4.png, id=1055, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_4_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_4_4.png>
@@ -964,7 +966,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 138--139
  [][] 
  []
 
-<./images/cont1/money.png, id=1016, 74.58264pt x 83.8332pt>
+<./images/cont1/money.png, id=1056, 74.58264pt x 83.8332pt>
 File: ./images/cont1/money.png Graphic file (type png)
 
 <use ./images/cont1/money.png>
@@ -975,7 +977,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 146--147
  [][] 
  []
 
-<./images/cont1/Viz_6_1.png, id=1017, 240.9pt x 246.9225pt>
+<./images/cont1/Viz_6_1.png, id=1057, 240.9pt x 246.9225pt>
 File: ./images/cont1/Viz_6_1.png Graphic file (type png)
 
 <use ./images/cont1/Viz_6_1.png>
@@ -986,7 +988,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 154--155
  [][] 
  []
 
-<./images/cont1/Viz_8_4.png, id=1018, 240.9pt x 246.9225pt>
+<./images/cont1/Viz_8_4.png, id=1058, 240.9pt x 246.9225pt>
 File: ./images/cont1/Viz_8_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_8_4.png>
@@ -997,16 +999,16 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 162--163
  [][] 
  []
 
-[26]
+[27]
 Underfull \vbox (badness 1990) has occurred while \output is active []
 
- [27 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_2_5.png>
+ [28 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_2_5.png>
  <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_3_3.png> <C:
 /Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_4_4.png> <C:/Use
 rs/aha/Documents/LEdProjects/dissertation/images/cont1/money.png (PNG copy)> <C
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_6_1.png> <C:/Us
-ers/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_8_4.png>] [28]
-<./images/cont1/fig3a.jpg, id=1044, 240.9pt x 321.2pt>
+ers/aha/Documents/LEdProjects/dissertation/images/cont1/Viz_8_4.png>] [29]
+<./images/cont1/fig3a.jpg, id=1085, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3a.jpg>
@@ -1017,7 +1019,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 199--200
  [][] 
  []
 
-<./images/cont1/fig3b.jpg, id=1045, 240.9pt x 321.2pt>
+<./images/cont1/fig3b.jpg, id=1086, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3b.jpg>
@@ -1028,7 +1030,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 207--208
  [][] 
  []
 
-<./images/cont1/fig3c.jpg, id=1046, 240.9pt x 321.2pt>
+<./images/cont1/fig3c.jpg, id=1087, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3c.jpg>
@@ -1039,7 +1041,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 215--216
  [][] 
  []
 
-<./images/cont1/fig3d.jpg, id=1047, 240.9pt x 321.2pt>
+<./images/cont1/fig3d.jpg, id=1088, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3d.jpg>
@@ -1050,7 +1052,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 223--224
  [][] 
  []
 
-<./images/cont1/fig4a.jpg, id=1053, 240.9pt x 321.2pt>
+<./images/cont1/fig4a.jpg, id=1094, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4a.jpg>
@@ -1061,7 +1063,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 240--241
  [][] 
  []
 
-<./images/cont1/fig4b.jpg, id=1054, 240.9pt x 321.2pt>
+<./images/cont1/fig4b.jpg, id=1095, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4b.jpg>
@@ -1072,7 +1074,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 248--249
  [][] 
  []
 
-<./images/cont1/fig4c.jpg, id=1055, 240.9pt x 321.2pt>
+<./images/cont1/fig4c.jpg, id=1096, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4c.jpg>
@@ -1083,7 +1085,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 256--257
  [][] 
  []
 
-<./images/cont1/fig4d.jpg, id=1056, 240.9pt x 321.2pt>
+<./images/cont1/fig4d.jpg, id=1097, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4d.jpg>
@@ -1094,7 +1096,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 264--265
  [][] 
  []
 
-<./images/cont1/fig4e.jpg, id=1057, 240.9pt x 321.2pt>
+<./images/cont1/fig4e.jpg, id=1098, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4e.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4e.jpg>
@@ -1105,7 +1107,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 272--273
  [][] 
  []
 
-<./images/cont1/fig4f.jpg, id=1058, 240.9pt x 321.2pt>
+<./images/cont1/fig4f.jpg, id=1099, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4f.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4f.jpg>
@@ -1116,17 +1118,17 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 280--281
  [][] 
  []
 
-[29 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3a.jpg> <C
+[30 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3a.jpg> <C
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3b.jpg> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont1/fig3c.jpg> <C:/Users/aha/
-Documents/LEdProjects/dissertation/images/cont1/fig3d.jpg>] [30 <C:/Users/aha/D
+Documents/LEdProjects/dissertation/images/cont1/fig3d.jpg>] [31 <C:/Users/aha/D
 ocuments/LEdProjects/dissertation/images/cont1/fig4a.jpg> <C:/Users/aha/Documen
 ts/LEdProjects/dissertation/images/cont1/fig4b.jpg> <C:/Users/aha/Documents/LEd
 Projects/dissertation/images/cont1/fig4c.jpg> <C:/Users/aha/Documents/LEdProjec
 ts/dissertation/images/cont1/fig4d.jpg> <C:/Users/aha/Documents/LEdProjects/dis
 sertation/images/cont1/fig4e.jpg> <C:/Users/aha/Documents/LEdProjects/dissertat
 ion/images/cont1/fig4f.jpg>]
-<./images/cont1/fig5a.jpg, id=1070, 240.9pt x 321.2pt>
+<./images/cont1/fig5a.jpg, id=1110, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5a.jpg>
@@ -1137,7 +1139,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 294--295
  [][] 
  []
 
-<./images/cont1/fig5b.jpg, id=1071, 240.9pt x 321.2pt>
+<./images/cont1/fig5b.jpg, id=1111, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5b.jpg>
@@ -1148,7 +1150,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 302--303
  [][] 
  []
 
-<./images/cont1/fig5c.jpg, id=1072, 240.9pt x 321.2pt>
+<./images/cont1/fig5c.jpg, id=1112, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5c.jpg>
@@ -1159,7 +1161,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 310--311
  [][] 
  []
 
-<./images/cont1/fig5d.jpg, id=1073, 240.9pt x 321.2pt>
+<./images/cont1/fig5d.jpg, id=1113, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5d.jpg>
@@ -1170,7 +1172,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 318--319
  [][] 
  []
 
-<./images/cont1/fig5e.jpg, id=1074, 240.9pt x 321.2pt>
+<./images/cont1/fig5e.jpg, id=1114, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5e.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5e.jpg>
@@ -1181,7 +1183,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 326--327
  [][] 
  []
 
-<./images/cont1/fig5f.jpg, id=1075, 240.9pt x 321.2pt>
+<./images/cont1/fig5f.jpg, id=1115, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5f.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5f.jpg>
@@ -1192,7 +1194,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 334--335
  [][] 
  []
 
-[31] [32 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5a.jp
+[32] [33 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5a.jp
 g> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5b.jpg> <C:
 /Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig5c.jpg> <C:/Users
 /aha/Documents/LEdProjects/dissertation/images/cont1/fig5d.jpg> <C:/Users/aha/D
@@ -1208,14 +1210,14 @@ Missing character: There is no ‘ in font phvr7t!
 Missing character: There is no ’ in font phvr7t!
 Missing character: There is no ‘ in font phvr7t!
 Missing character: There is no ’ in font phvr7t!
- [33]
+ [34]
 LaTeX Font Info:    Try loading font information for TS1+ppl on input line 382.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [34] [35]
-<./images/cont1/fig6.jpg, id=1112, 240.9pt x 321.2pt>
+) [35] [36]
+<./images/cont1/fig6.jpg, id=1152, 240.9pt x 321.2pt>
 File: ./images/cont1/fig6.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig6.jpg>
@@ -1224,25 +1226,25 @@ Package pdftex.def Info: ./images/cont1/fig6.jpg used on input line 416.
 
 Underfull \vbox (badness 2443) has occurred while \output is active []
 
- [36 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig6.jpg>] [
-37]
+ [37 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig6.jpg>] [
+38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
-[39]
+ [39]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 474--475
 []|\OT1/phv/b/n/10 Nutritionist Pro Knowl-
  []
 
 
 Package natbib Warning: Author undefined for citation`hughes_balance_2010' 
-(natbib)                on page 40 on input line 499.
+(natbib)                on page 41 on input line 499.
 
 
 Package natbib Warning: Author undefined for citation`hughes_balance_2010' 
-(natbib)                on page 40 on input line 500.
+(natbib)                on page 41 on input line 500.
 
-[40] <./images/cont1/fig7a.png, id=1153, 180.675pt x 240.9pt>
+[41] <./images/cont1/fig7a.png, id=1194, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7a.png Graphic file (type png)
 
 <use ./images/cont1/fig7a.png>
@@ -1253,7 +1255,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 514--515
  [][] 
  []
 
-<./images/cont1/fig7b.png, id=1154, 240.9pt x 180.675pt>
+<./images/cont1/fig7b.png, id=1195, 240.9pt x 180.675pt>
 File: ./images/cont1/fig7b.png Graphic file (type png)
 
 <use ./images/cont1/fig7b.png>
@@ -1264,7 +1266,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 522--523
  [][] 
  []
 
-<./images/cont1/fig7c.png, id=1155, 240.9pt x 180.675pt>
+<./images/cont1/fig7c.png, id=1196, 240.9pt x 180.675pt>
 File: ./images/cont1/fig7c.png Graphic file (type png)
 
 <use ./images/cont1/fig7c.png>
@@ -1275,7 +1277,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 530--531
  [][] 
  []
 
-<./images/cont1/fig7d.png, id=1156, 180.675pt x 240.9pt>
+<./images/cont1/fig7d.png, id=1197, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7d.png Graphic file (type png)
 
 <use ./images/cont1/fig7d.png>
@@ -1286,7 +1288,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 538--539
  [][] 
  []
 
-<./images/cont1/fig7e.png, id=1157, 180.675pt x 240.9pt>
+<./images/cont1/fig7e.png, id=1198, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7e.png Graphic file (type png)
 
 <use ./images/cont1/fig7e.png>
@@ -1297,7 +1299,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 546--547
  [][] 
  []
 
-<./images/cont1/fig7f.png, id=1158, 180.675pt x 240.9pt>
+<./images/cont1/fig7f.png, id=1199, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7f.png Graphic file (type png)
 
 <use ./images/cont1/fig7f.png>
@@ -1308,13 +1310,13 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 554--555
  [][] 
  []
 
-[41] [42 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7a.pn
+[42] [43 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7a.pn
 g> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7b.png> <C:
 /Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig7c.png> <C:/Users
 /aha/Documents/LEdProjects/dissertation/images/cont1/fig7d.png> <C:/Users/aha/D
 ocuments/LEdProjects/dissertation/images/cont1/fig7e.png> <C:/Users/aha/Documen
 ts/LEdProjects/dissertation/images/cont1/fig7f.png>]
-<./images/cont1/fig8a.png, id=1183, 180.675pt x 240.9pt>
+<./images/cont1/fig8a.png, id=1223, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8a.png Graphic file (type png)
 
 <use ./images/cont1/fig8a.png>
@@ -1325,7 +1327,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 578--579
  [][] 
  []
 
-<./images/cont1/fig8b.png, id=1184, 180.675pt x 240.9pt>
+<./images/cont1/fig8b.png, id=1224, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8b.png Graphic file (type png)
 
 <use ./images/cont1/fig8b.png>
@@ -1336,7 +1338,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 586--587
  [][] 
  []
 
-<./images/cont1/fig8c.png, id=1185, 180.675pt x 240.9pt>
+<./images/cont1/fig8c.png, id=1225, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8c.png Graphic file (type png)
 
 <use ./images/cont1/fig8c.png>
@@ -1347,16 +1349,16 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 594--595
  [][] 
  []
 
-[43] <./images/cont1/fig9.png, id=1191, 180.675pt x 240.9pt>
+[44] <./images/cont1/fig9.png, id=1231, 180.675pt x 240.9pt>
 File: ./images/cont1/fig9.png Graphic file (type png)
 
 <use ./images/cont1/fig9.png>
 Package pdftex.def Info: ./images/cont1/fig9.png used on input line 608.
 (pdftex.def)             Requested size: 90.3375pt x 120.44969pt.
- [44 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8a.png> <
+ [45 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8a.png> <
 C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8b.png> <C:/Use
 rs/aha/Documents/LEdProjects/dissertation/images/cont1/fig8c.png>] <./images/co
-nt1/fig10a.png, id=1203, 180.675pt x 240.9pt>
+nt1/fig10a.png, id=1243, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10a.png Graphic file (type png)
 
 <use ./images/cont1/fig10a.png>
@@ -1367,7 +1369,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 623--624
  [][] 
  []
 
-<./images/cont1/fig10b.png, id=1204, 180.675pt x 240.9pt>
+<./images/cont1/fig10b.png, id=1244, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10b.png Graphic file (type png)
 
 <use ./images/cont1/fig10b.png>
@@ -1378,7 +1380,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 631--632
  [][] 
  []
 
-<./images/cont1/fig10c.png, id=1205, 180.675pt x 240.9pt>
+<./images/cont1/fig10c.png, id=1245, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10c.png Graphic file (type png)
 
 <use ./images/cont1/fig10c.png>
@@ -1389,7 +1391,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 639--640
  [][] 
  []
 
-<./images/cont1/fig10d.png, id=1206, 180.675pt x 240.9pt>
+<./images/cont1/fig10d.png, id=1246, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10d.png Graphic file (type png)
 
 <use ./images/cont1/fig10d.png>
@@ -1400,16 +1402,16 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 647--648
  [][] 
  []
 
-[45 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig9.png>]
-[46 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig10a.png> <
+[46 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig9.png>]
+[47 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig10a.png> <
 C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig10b.png> <C:/Us
 ers/aha/Documents/LEdProjects/dissertation/images/cont1/fig10c.png> <C:/Users/a
-ha/Documents/LEdProjects/dissertation/images/cont1/fig10d.png>] [47]
+ha/Documents/LEdProjects/dissertation/images/cont1/fig10d.png>] [48]
 
 Package natbib Warning: Author undefined for citation`snively_balance_2010' 
-(natbib)                on page 48 on input line 676.
+(natbib)                on page 49 on input line 676.
 
-<./images/cont1/fig11a.png, id=1223, 180.675pt x 240.9pt>
+<./images/cont1/fig11a.png, id=1263, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11a.png Graphic file (type png)
 
 <use ./images/cont1/fig11a.png>
@@ -1420,7 +1422,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 688--689
  [][] 
  []
 
-<./images/cont1/fig11b.png, id=1224, 180.675pt x 240.9pt>
+<./images/cont1/fig11b.png, id=1264, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11b.png Graphic file (type png)
 
 <use ./images/cont1/fig11b.png>
@@ -1431,7 +1433,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 696--697
  [][] 
  []
 
-<./images/cont1/fig11c.png, id=1225, 180.675pt x 240.9pt>
+<./images/cont1/fig11c.png, id=1265, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11c.png Graphic file (type png)
 
 <use ./images/cont1/fig11c.png>
@@ -1442,7 +1444,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 704--705
  [][] 
  []
 
-<./images/cont1/fig11d.png, id=1226, 180.675pt x 240.9pt>
+<./images/cont1/fig11d.png, id=1266, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11d.png Graphic file (type png)
 
 <use ./images/cont1/fig11d.png>
@@ -1453,19 +1455,19 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 712--713
  [][] 
  []
 
-[48] <./images/cont1/fig12.png, id=1232, 958.3303pt x 602.25pt>
+[49] <./images/cont1/fig12.png, id=1272, 958.3303pt x 602.25pt>
 File: ./images/cont1/fig12.png Graphic file (type png)
 
 <use ./images/cont1/fig12.png>
 Package pdftex.def Info: ./images/cont1/fig12.png used on input line 731.
 (pdftex.def)             Requested size: 397.48499pt x 249.79124pt.
- [49 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig11a.png> 
+ [50 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig11a.png> 
 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig11b.png> <C:/U
 sers/aha/Documents/LEdProjects/dissertation/images/cont1/fig11c.png> <C:/Users/
 aha/Documents/LEdProjects/dissertation/images/cont1/fig11d.png>]
 
 Package natbib Warning: Author undefined for citation`hughes_balance_2010' 
-(natbib)                on page 50 on input line 742.
+(natbib)                on page 51 on input line 742.
 
 
 Overfull \hbox (3.11871pt too wide) in paragraph at lines 744--745
@@ -1473,127 +1475,127 @@ Overfull \hbox (3.11871pt too wide) in paragraph at lines 744--745
 ties rec-og-nize the po-ten-tial value
  []
 
-[50 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig12.png>]
+[51 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig12.png>]
 Overfull \hbox (9.37114pt too wide) in paragraph at lines 746--747
 []\OT1/ppl/m/n/10.95 Additional de-tails about the BAL-ANCE val-i-da-tion study
  are re-ported in Snively ([[]]).
  []
 
-[51]
+[52]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 780.
- [52]
-<./images/cont1/chart_meanStarts.png, id=1261, 401.3394pt x 276.5532pt>
+ [53]
+<./images/cont1/chart_meanStarts.png, id=1302, 401.3394pt x 276.5532pt>
 File: ./images/cont1/chart_meanStarts.png Graphic file (type png)
 
 <use ./images/cont1/chart_meanStarts.png>
 Package pdftex.def Info: ./images/cont1/chart_meanStarts.png used on input line
  806.
 (pdftex.def)             Requested size: 284.52756pt x 196.07141pt.
- [53 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanSt
+ [54 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanSt
 arts.png>]
-<./images/cont1/chart13.png, id=1269, 490.9542pt x 238.491pt>
+<./images/cont1/chart13.png, id=1309, 490.9542pt x 238.491pt>
 File: ./images/cont1/chart13.png Graphic file (type png)
 
 <use ./images/cont1/chart13.png>
 Package pdftex.def Info: ./images/cont1/chart13.png used on input line 823.
 (pdftex.def)             Requested size: 284.52756pt x 138.21933pt.
- [54 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart13.png>
+ [55 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart13.png>
 ]
-<./images/cont1/chart14.png, id=1277, 444.7014pt x 221.1462pt>
+<./images/cont1/chart14.png, id=1317, 444.7014pt x 221.1462pt>
 File: ./images/cont1/chart14.png Graphic file (type png)
 
 <use ./images/cont1/chart14.png>
 Package pdftex.def Info: ./images/cont1/chart14.png used on input line 847.
 (pdftex.def)             Requested size: 284.52756pt x 141.49596pt.
 
-<./images/cont1/chart15.png, id=1278, 445.665pt x 217.7736pt>
+<./images/cont1/chart15.png, id=1318, 445.665pt x 217.7736pt>
 File: ./images/cont1/chart15.png Graphic file (type png)
 
 <use ./images/cont1/chart15.png>
 Package pdftex.def Info: ./images/cont1/chart15.png used on input line 863.
 (pdftex.def)             Requested size: 284.52756pt x 139.03568pt.
- [55 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart14.png>
+ [56 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart14.png>
 ]
-<./images/cont1/chart16.png, id=1286, 436.029pt x 218.2554pt>
+<./images/cont1/chart16.png, id=1326, 436.029pt x 218.2554pt>
 File: ./images/cont1/chart16.png Graphic file (type png)
 
 <use ./images/cont1/chart16.png>
 Package pdftex.def Info: ./images/cont1/chart16.png used on input line 882.
 (pdftex.def)             Requested size: 284.52756pt x 142.42714pt.
- [56 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15.png>
+ [57 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15.png>
  <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart16.png>]
-<./images/cont1/chart15_b.png, id=1297, 759.3168pt x 442.7742pt>
+<./images/cont1/chart15_b.png, id=1337, 759.3168pt x 442.7742pt>
 File: ./images/cont1/chart15_b.png Graphic file (type png)
 
 <use ./images/cont1/chart15_b.png>
 Package pdftex.def Info: ./images/cont1/chart15_b.png used on input line 903.
 (pdftex.def)             Requested size: 361.34999pt x 210.70503pt.
 
-<./images/cont1/chart_meanEntriesEaten.png, id=1298, 362.3136pt x 217.7736pt>
+<./images/cont1/chart_meanEntriesEaten.png, id=1338, 362.3136pt x 217.7736pt>
 File: ./images/cont1/chart_meanEntriesEaten.png Graphic file (type png)
 
 <use ./images/cont1/chart_meanEntriesEaten.png>
 Package pdftex.def Info: ./images/cont1/chart_meanEntriesEaten.png used on inpu
 t line 916.
 (pdftex.def)             Requested size: 361.34999pt x 217.19153pt.
- [57 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15_b.pn
+ [58 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15_b.pn
 g>]
-<./images/cont1/chart17.png, id=1306, 372.4314pt x 250.0542pt>
+<./images/cont1/chart17.png, id=1346, 372.4314pt x 250.0542pt>
 File: ./images/cont1/chart17.png Graphic file (type png)
 
 <use ./images/cont1/chart17.png>
 Package pdftex.def Info: ./images/cont1/chart17.png used on input line 936.
 (pdftex.def)             Requested size: 284.52756pt x 191.04663pt.
- [58 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanEn
+ [59 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanEn
 triesEaten.png>]
-<./images/cont1/chart18.png, id=1314, 772.3254pt x 464.937pt>
+<./images/cont1/chart18.png, id=1355, 772.3254pt x 464.937pt>
 File: ./images/cont1/chart18.png Graphic file (type png)
 
 <use ./images/cont1/chart18.png>
 Package pdftex.def Info: ./images/cont1/chart18.png used on input line 965.
 (pdftex.def)             Requested size: 397.48499pt x 239.2856pt.
- [59 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart17.png>
+ [60 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart17.png>
 ]
-<./images/cont1/chart19.png, id=1324, 771.8436pt x 463.4916pt>
+<./images/cont1/chart19.png, id=1364, 771.8436pt x 463.4916pt>
 File: ./images/cont1/chart19.png Graphic file (type png)
 
 <use ./images/cont1/chart19.png>
 Package pdftex.def Info: ./images/cont1/chart19.png used on input line 980.
 (pdftex.def)             Requested size: 397.48499pt x 238.6973pt.
- [60 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart18.png>
-] [61 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart19.png
+ [61 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart18.png>
+] [62 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart19.png
 >]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
-[63]
+ [63]
+[64]
 
 Package natbib Warning: Author undefined for citation`consolvo_conducting_2007'
  
-(natbib)                on page 64 on input line 1010.
+(natbib)                on page 65 on input line 1010.
 
-[64]
+[65]
 
 Package natbib Warning: Author undefined for citation`rothman_patient_2006' 
-(natbib)                on page 65 on input line 1022.
+(natbib)                on page 66 on input line 1022.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65])
-(C:\Users\aha\Documents\LEdProjects\dissertation\cont2.tex [66]
+ [66])
+(C:\Users\aha\Documents\LEdProjects\dissertation\cont2.tex [67]
 <<4>>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67
+ [68
 
 ]
-[68] [69] [70]
+[69] [70] [71]
 Missing character: There is no Ã in font pplr7t!
 Missing character: There is no ¶ in font pplr7t!
- [71]
+ [72]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/phv/m/n/10.95 Calories from Solid Fats,
  []
@@ -1603,18 +1605,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 \OT1/phv/m/n/10.95 Al-co-holic Bev-er-ages, and
  []
 
-[72]
+[73]
 Missing character: There is no Ã in font pplr7t!
 Missing character: There is no ¶ in font pplr7t!
 
 Underfull \vbox (badness 6047) has occurred while \output is active []
 
- [73]
-[74]
+ [74]
+[75]
 Underfull \vbox (badness 1147) has occurred while \output is active []
 
- [75]
-[76] [77]
+ [76]
+[77] [78]
 Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\OT1/phv/m/n/10.95 Calories from Solid Fats,
  []
@@ -1629,7 +1631,7 @@ Overfull \hbox (55.22548pt too wide) in paragraph at lines 159--179
  [][][] 
  []
 
-<./images/cont2/fig1a.png, id=1436, 180.675pt x 240.9pt>
+<./images/cont2/fig1a.png, id=1476, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1a.png Graphic file (type png)
 
 <use ./images/cont2/fig1a.png>
@@ -1640,7 +1642,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 189--190
  [][] 
  []
 
-<./images/cont2/fig1b.png, id=1437, 180.675pt x 240.9pt>
+<./images/cont2/fig1b.png, id=1477, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1b.png Graphic file (type png)
 
 <use ./images/cont2/fig1b.png>
@@ -1651,7 +1653,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 197--198
  [][] 
  []
 
-<./images/cont2/fig1c.png, id=1438, 180.675pt x 240.9pt>
+<./images/cont2/fig1c.png, id=1478, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1c.png Graphic file (type png)
 
 <use ./images/cont2/fig1c.png>
@@ -1662,7 +1664,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 205--206
  [][] 
  []
 
-<./images/cont2/fig1d.png, id=1439, 180.675pt x 240.9pt>
+<./images/cont2/fig1d.png, id=1479, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1d.png Graphic file (type png)
 
 <use ./images/cont2/fig1d.png>
@@ -1673,11 +1675,11 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 213--214
  [][] 
  []
 
-[78] [79 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1a.pn
+[79] [80 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1a.pn
 g> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1b.png> <C:
 /Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1c.png> <C:/Users
 /aha/Documents/LEdProjects/dissertation/images/cont2/fig1d.png>]
-<./images/cont2/fig2a.png, id=1451, 180.675pt x 240.9pt>
+<./images/cont2/fig2a.png, id=1491, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2a.png Graphic file (type png)
 
 <use ./images/cont2/fig2a.png>
@@ -1688,7 +1690,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 233--234
  [][] 
  []
 
-<./images/cont2/fig2b.png, id=1452, 180.675pt x 240.9pt>
+<./images/cont2/fig2b.png, id=1492, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2b.png Graphic file (type png)
 
 <use ./images/cont2/fig2b.png>
@@ -1699,7 +1701,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 241--242
  [][] 
  []
 
-<./images/cont2/fig2c.png, id=1453, 180.675pt x 240.9pt>
+<./images/cont2/fig2c.png, id=1493, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2c.png Graphic file (type png)
 
 <use ./images/cont2/fig2c.png>
@@ -1710,7 +1712,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 249--250
  [][] 
  []
 
-<./images/cont2/fig2d.png, id=1454, 180.675pt x 240.9pt>
+<./images/cont2/fig2d.png, id=1494, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2d.png Graphic file (type png)
 
 <use ./images/cont2/fig2d.png>
@@ -1724,11 +1726,11 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 257--258
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig2a.png> <
+ [81 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig2a.png> <
 C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig2b.png> <C:/Use
 rs/aha/Documents/LEdProjects/dissertation/images/cont2/fig2c.png> <C:/Users/aha
 /Documents/LEdProjects/dissertation/images/cont2/fig2d.png>]
-<./images/cont2/fig3a.png, id=1459, 180.675pt x 240.9pt>
+<./images/cont2/fig3a.png, id=1499, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3a.png Graphic file (type png)
 
 <use ./images/cont2/fig3a.png>
@@ -1739,7 +1741,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 274--275
  [][] 
  []
 
-<./images/cont2/fig3b.png, id=1460, 180.675pt x 240.9pt>
+<./images/cont2/fig3b.png, id=1500, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3b.png Graphic file (type png)
 
 <use ./images/cont2/fig3b.png>
@@ -1750,7 +1752,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 282--283
  [][] 
  []
 
-<./images/cont2/fig3c.png, id=1461, 180.675pt x 240.9pt>
+<./images/cont2/fig3c.png, id=1501, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3c.png Graphic file (type png)
 
 <use ./images/cont2/fig3c.png>
@@ -1761,7 +1763,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 290--291
  [][] 
  []
 
-<./images/cont2/fig3d.png, id=1462, 180.675pt x 240.9pt>
+<./images/cont2/fig3d.png, id=1502, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3d.png Graphic file (type png)
 
 <use ./images/cont2/fig3d.png>
@@ -1772,17 +1774,17 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 298--299
  [][] 
  []
 
-[81 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig3a.png> <C
+[82 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig3a.png> <C
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig3b.png> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont2/fig3c.png> <C:/Users/aha/
-Documents/LEdProjects/dissertation/images/cont2/fig3d.png>] [82] [83] [84]
+Documents/LEdProjects/dissertation/images/cont2/fig3d.png>] [83] [84] [85]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 380.
 Missing character: There is no ’ in font phvr7t!
 
 Underfull \vbox (badness 1377) has occurred while \output is active []
 
- [85]
+ [86]
 Overfull \hbox (8.25375pt too wide) in paragraph at lines 421--425
 []\OT1/ppl/m/n/10.95 A sin-gle, cat-e-gor-i-cal in-de-pen-dent vari-able and a 
 sin-gle, con-tin-u-ous, normally-distributed
@@ -1791,7 +1793,7 @@ sin-gle, con-tin-u-ous, normally-distributed
 
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
- [86]
+ [87]
 Overfull \hbox (10.90428pt too wide) in paragraph at lines 445--446
 []\OT1/ppl/m/n/10.95 Only two TLX mea-sures re-sulted in a sig-nif-i-cant Fried
 -man test, Suc-cess-ful ($\OML/cmm/m/it/10.95 [] \U/MnSymbolD/m/n/10.95   \OT1
@@ -1799,46 +1801,38 @@ Overfull \hbox (10.90428pt too wide) in paragraph at lines 445--446
 ; N \U/MnSymbolD/m/n/10.95  
  []
 
-[87] <./images/cont2/chart1.png, id=1510, 358.941pt x 213.4374pt>
+[88] <./images/cont2/chart1.png, id=1550, 358.941pt x 213.4374pt>
 File: ./images/cont2/chart1.png Graphic file (type png)
 
 <use ./images/cont2/chart1.png>
 Package pdftex.def Info: ./images/cont2/chart1.png used on input line 461.
 (pdftex.def)             Requested size: 252.94499pt x 150.40823pt.
- [88 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/chart1.png>]
- [89]
+ [89 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont2/chart1.png>]
+ [90]
 Missing character: There is no … in font pplr7t!
- [90] [91]
+ [91] [92]
 Underfull \vbox (badness 2799) has occurred while \output is active []
 
- [92]
-[93] [94] [95])
+ [93]
+[94] [95] [96])
 Overfull \hbox (0.68727pt too wide) in paragraph at lines 599--252
 \OT1/ppl/m/n/10.95 In this chap-ter I iden-ti-fied re-search ques-tions re-flec
 t-ing in-ter-est in fur-ther study of a mobile-
  []
 
-[96] (C:\Users\aha\Documents\LEdProjects\dissertation\cont3.tex [97]
+[97] (C:\Users\aha\Documents\LEdProjects\dissertation\cont3.tex [98]
 <<5>>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98
+ [99
 
 ]
-
-Package natbib Warning: Citation `cullen_using_2001' on page 99 undefined on in
-put line 15.
-
-
-Package natbib Warning: Citation `burke_experiences_2009' on page 99 undefined 
-on input line 15.
-
-[99]
+[100]
 Underfull \vbox (badness 1024) has occurred while \output is active []
 
- [100]
-[101]
+ [101]
+[102]
 Missing character: There is no ½ in font pplr7t!
 Missing character: There is no ½ in font pplr7t!
 Missing character: There is no ½ in font pplr7t!
@@ -1848,9 +1842,9 @@ Overfull \hbox (16.40085pt too wide) in paragraph at lines 60--61
 at-ing guide-lines [ref][USDA2010].
  []
 
-[102] [103]
+[103] [104]
 Missing character: There is no ½ in font pplr7t!
- <./images/cont3/fig1a.png, id=1593, 481.8pt x 803.0pt>
+ <./images/cont3/fig1a.png, id=1636, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1a.png Graphic file (type png)
 
 <use ./images/cont3/fig1a.png>
@@ -1861,7 +1855,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 89--90
  [][] 
  []
 
-<./images/cont3/fig1b.png, id=1594, 481.8pt x 803.0pt>
+<./images/cont3/fig1b.png, id=1637, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1b.png Graphic file (type png)
 
 <use ./images/cont3/fig1b.png>
@@ -1872,7 +1866,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
-<./images/cont3/fig1c.png, id=1595, 481.8pt x 803.0pt>
+<./images/cont3/fig1c.png, id=1638, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1c.png Graphic file (type png)
 
 <use ./images/cont3/fig1c.png>
@@ -1883,7 +1877,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 105--106
  [][] 
  []
 
-<./images/cont3/fig1d.png, id=1596, 481.8pt x 803.0pt>
+<./images/cont3/fig1d.png, id=1639, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1d.png Graphic file (type png)
 
 <use ./images/cont3/fig1d.png>
@@ -1894,7 +1888,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 113--114
  [][] 
  []
 
-[104] <./images/cont3/fig2a.png, id=1601, 481.8pt x 803.0pt>
+[105] <./images/cont3/fig2a.png, id=1644, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2a.png Graphic file (type png)
 
 <use ./images/cont3/fig2a.png>
@@ -1905,7 +1899,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 133--134
  [][] 
  []
 
-<./images/cont3/fig2b.png, id=1602, 481.8pt x 803.0pt>
+<./images/cont3/fig2b.png, id=1645, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2b.png Graphic file (type png)
 
 <use ./images/cont3/fig2b.png>
@@ -1916,7 +1910,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 141--142
  [][] 
  []
 
-<./images/cont3/fig2c.png, id=1603, 481.8pt x 803.0pt>
+<./images/cont3/fig2c.png, id=1646, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2c.png Graphic file (type png)
 
 <use ./images/cont3/fig2c.png>
@@ -1927,12 +1921,12 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 149--150
  [][] 
  []
 
-[105 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1a.png (P
+[106 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1a.png (P
 NG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1b.p
 ng (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fi
 g1c.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/con
 t3/fig1d.png (PNG copy)>]
-<./images/cont3/fig3a.png, id=1608, 481.8pt x 803.0pt>
+<./images/cont3/fig3a.png, id=1651, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3a.png Graphic file (type png)
 
 <use ./images/cont3/fig3a.png>
@@ -1943,7 +1937,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 164--165
  [][] 
  []
 
-<./images/cont3/fig3b.png, id=1609, 481.8pt x 803.0pt>
+<./images/cont3/fig3b.png, id=1652, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3b.png Graphic file (type png)
 
 <use ./images/cont3/fig3b.png>
@@ -1954,7 +1948,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 172--173
  [][] 
  []
 
-<./images/cont3/fig3c.png, id=1610, 481.8pt x 803.0pt>
+<./images/cont3/fig3c.png, id=1653, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3c.png Graphic file (type png)
 
 <use ./images/cont3/fig3c.png>
@@ -1965,21 +1959,21 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 180--181
  [][] 
  []
 
-<./images/cont3/fig4a.png, id=1611, 481.8pt x 803.0pt>
+<./images/cont3/fig4a.png, id=1654, 481.8pt x 803.0pt>
 File: ./images/cont3/fig4a.png Graphic file (type png)
 
 <use ./images/cont3/fig4a.png>
 Package pdftex.def Info: ./images/cont3/fig4a.png used on input line 196.
 (pdftex.def)             Requested size: 90.3375pt x 150.56213pt.
- [106 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2a.png (
+ [107 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2a.png (
 PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2b.
 png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/f
-ig2c.png (PNG copy)>] [107 <C:/Users/aha/Documents/LEdProjects/dissertation/ima
+ig2c.png (PNG copy)>] [108 <C:/Users/aha/Documents/LEdProjects/dissertation/ima
 ges/cont3/fig3a.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertatio
 n/images/cont3/fig3b.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/disser
 tation/images/cont3/fig3c.png (PNG copy)>]
-[108 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig4a.png (P
-NG copy)>] <./images/cont3/fig5a.png, id=1625, 481.8pt x 803.0pt>
+[109 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig4a.png (P
+NG copy)>] <./images/cont3/fig5a.png, id=1668, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5a.png Graphic file (type png)
 
 <use ./images/cont3/fig5a.png>
@@ -1990,7 +1984,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 222--223
  [][] 
  []
 
-<./images/cont3/fig5b.png, id=1626, 481.8pt x 803.0pt>
+<./images/cont3/fig5b.png, id=1669, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5b.png Graphic file (type png)
 
 <use ./images/cont3/fig5b.png>
@@ -2001,7 +1995,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 230--231
  [][] 
  []
 
-<./images/cont3/fig5c.png, id=1627, 481.8pt x 803.0pt>
+<./images/cont3/fig5c.png, id=1670, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5c.png Graphic file (type png)
 
 <use ./images/cont3/fig5c.png>
@@ -2012,7 +2006,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 238--239
  [][] 
  []
 
-) (C:\Users\aha\Documents\LEdProjects\dissertation\cont4.tex [109 <C:/Users/aha
+) (C:\Users\aha\Documents\LEdProjects\dissertation\cont4.tex [110 <C:/Users/aha
 /Documents/LEdProjects/dissertation/images/cont3/fig5a.png (PNG copy)> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont3/fig5b.png (PNG copy)> <C:
 /Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig5c.png (PNG copy)
@@ -2024,13 +2018,13 @@ Overfull \hbox (9.25023pt too wide) in paragraph at lines 4--5
 BAL-ANCE tool. This chap-ter presents
  []
 
-[110
+[111
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
-[112] <./images/cont4/small_condition.png, id=1646, 481.8pt x 803.0pt>
+ [112]
+[113] <./images/cont4/small_condition.png, id=1690, 481.8pt x 803.0pt>
 File: ./images/cont4/small_condition.png Graphic file (type png)
 
 <use ./images/cont4/small_condition.png>
@@ -2042,7 +2036,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-<./images/cont4/medium_condition.png, id=1647, 481.8pt x 803.0pt>
+<./images/cont4/medium_condition.png, id=1691, 481.8pt x 803.0pt>
 File: ./images/cont4/medium_condition.png Graphic file (type png)
 
 <use ./images/cont4/medium_condition.png>
@@ -2054,7 +2048,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-<./images/cont4/large_condition.png, id=1648, 481.8pt x 803.0pt>
+<./images/cont4/large_condition.png, id=1692, 481.8pt x 803.0pt>
 File: ./images/cont4/large_condition.png Graphic file (type png)
 
 <use ./images/cont4/large_condition.png>
@@ -2066,21 +2060,21 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
-[113] [114 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont4/small_
+[114] [115 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont4/small_
 condition.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/imag
 es/cont4/medium_condition.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/d
-issertation/images/cont4/large_condition.png (PNG copy)>] [115] [116] [117]
-[118] [119] [120]
+issertation/images/cont4/large_condition.png (PNG copy)>] [116] [117] [118]
+[119] [120] [121]
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [121]
-[122] [123]
+ [122]
+[123] [124]
 Overfull \hbox (33.05055pt too wide) in paragraph at lines 287--320
  [][][] 
  []
 
-[124] [125]
-<./images/cont4/ppt_overview.png, id=1736, 741.52031pt x 1480.02937pt>
+[125] [126]
+<./images/cont4/ppt_overview.png, id=1779, 741.52031pt x 1480.02937pt>
 File: ./images/cont4/ppt_overview.png Graphic file (type png)
 
 <use ./images/cont4/ppt_overview.png>
@@ -2091,59 +2085,59 @@ Package pdftex.def Info: ./images/cont4/ppt_overview.png used on input line 392
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[126] [127] [128] [129] [130] [131] [132] [133]
-
-Package natbib Warning: Citation `burke_experiences_2009' on page 134 undefined
- on input line 522.
-
-) (C:\Users\aha\Documents\LEdProjects\dissertation\conclusion.tex [134]
-[135 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont4/ppt_overview
-.png>]
+[127] [128] [129] [130] [131] [132] [133] [134])
+(C:\Users\aha\Documents\LEdProjects\dissertation\conclusion.tex [135] [136 <C:/
+Users/aha/Documents/LEdProjects/dissertation/images/cont4/ppt_overview.png>]
 <<7>>
-[136
+[137
 
-] [137] [138])
-(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.bbl [139] [140
+] [138] [139])
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.bbl [140] [141
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 82.
+[142]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 116.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
- [141]
-Underfull \hbox (badness 4060) in paragraph at lines 117--120
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+ [143]
+Underfull \hbox (badness 4060) in paragraph at lines 157--160
 []\OT1/ppl/m/sc/10.95 Guenther, PM\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Reed
 y, J\OT1/ppl/m/n/10.95 ; and \OT1/ppl/m/sc/10.95 Krebs-Smith, SM\OT1/ppl/m/n/10
 .95 : ``De-vel-op-ment of
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 117--120
+Underfull \hbox (badness 1997) in paragraph at lines 157--160
 \OT1/ppl/m/n/10.95 the healthy eat-ing index-2005.'' \OT1/ppl/m/it/10.95 Jour-n
 al of the Amer-i-can Di-etetic As-so-ci-a-tion\OT1/ppl/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 144--151
+Underfull \hbox (badness 1314) in paragraph at lines 184--191
 []\OT1/ppl/m/sc/10.95 Hughes, DC\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 An-dre
 w, A\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Chaudhri, R\OT1/ppl/m/n/10.95 ; \O
 T1/ppl/m/sc/10.95 Den-ning, T\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Har-tung,
  C\OT1/ppl/m/n/10.95 ;
  []
 
-[142]
+[144]
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no “ in font pplr7t!
+ [145]
 Missing character: There is no Ã in font pplr7t!
 Missing character: There is no ¶ in font pplr7t!
 Missing character: There is no Ã in font pplrc7t!
 Missing character: There is no ¶ in font pplrc7t!
- [143]
-Underfull \hbox (badness 2119) in paragraph at lines 222--227
+
+Underfull \hbox (badness 2119) in paragraph at lines 282--287
 \OT1/ppl/m/n/10.95 di-etary records in stud-ies of diet and health.'' \OT1/ppl/
 m/it/10.95 BMJ (Clin-i-cal re-search ed.)\OT1/ppl/m/n/10.95 ,
  []
@@ -2151,69 +2145,63 @@ m/it/10.95 BMJ (Clin-i-cal re-search ed.)\OT1/ppl/m/n/10.95 ,
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
+[146]
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
-[144]
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ” in font pplr7t!
- [145]
+ [147] [148]
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
- [146])
+ [149] [150])
 (C:\Users\aha\Documents\LEdProjects\dissertation\app_cont2_surveys2.tex
-[147]
+[151]
 <<A>>
-[148
-
-] [149] [150])
-(C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_inLab.tex [151]
-<<B>>
 [152
 
-] [153] [154] [155] [156] [157] [158])
-(C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_insitu.tex [159]
+] [153] [154])
+(C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_inLab.tex [155]
+<<B>>
+[156
+
+] [157] [158] [159] [160] [161] [162])
+(C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_insitu.tex [163]
 <<C>>
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1.
-[160
+[164
 
-] [161]) [162] [163]
+] [165]) [166] [167]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 290.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
-[164
+ [168
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
- (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
+
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 293.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
 Package rerunfilecheck Info: File `main_doc.out' has not changed.
-(rerunfilecheck)             Checksum: E59B3755F3629B1A8EC619B958298E07;8821.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 1F3F717553511CDE1D02FD5F314C89A9;8911.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
  ) 
 Here is how much of TeX's memory you used:
- 13929 strings out of 493921
- 210860 string characters out of 3144882
- 305389 words of memory out of 3000000
- 16371 multiletter control sequences out of 15000+200000
+ 13994 strings out of 493921
+ 212609 string characters out of 3144882
+ 304694 words of memory out of 3000000
+ 16415 multiletter control sequences out of 15000+200000
  52574 words of font info for 117 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,20n,43p,1567b,564s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,20n,43p,1567b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -2254,9 +2242,9 @@ Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program
 x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main_doc.pdf (178 pages, 3408537 bytes).
+Output written on main_doc.pdf (182 pages, 3425032 bytes).
 PDF statistics:
- 2083 PDF objects out of 2487 (max. 8388607)
- 510 named destinations out of 1000 (max. 500000)
- 1414 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2145 PDF objects out of 2487 (max. 8388607)
+ 531 named destinations out of 1000 (max. 500000)
+ 1422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

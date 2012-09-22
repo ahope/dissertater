@@ -19,165 +19,166 @@
 \contentsline {subsection}{\numberline {2.3.2}Technology Research Domain}{10}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}Evaluation of Electronic Self-Monitoring}{10}{subsection.2.3.3}
 \contentsline {subsubsection}{\numberline {2.3.3.1}Challenges}{10}{subsubsection.2.3.3.1}
-\contentsline {subsubsection}{\numberline {2.3.3.2}Nutrition-Related work}{10}{subsubsection.2.3.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3.3}Technology-oriented work}{12}{subsubsection.2.3.3.3}
-\contentsline {subsubsection}{\numberline {2.3.3.4}Usability Evaluation: Task identification (?)}{14}{subsubsection.2.3.3.4}
-\contentsline {subsection}{\numberline {2.3.4}Food Tasks: Food Diary Evaluation Methodology}{14}{subsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.3.2}Nutrition-Related work}{11}{subsubsection.2.3.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3.3}Technology-oriented work}{13}{subsubsection.2.3.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.4}Usability Evaluation: Task identification (?)}{15}{subsubsection.2.3.3.4}
+\contentsline {subsection}{\numberline {2.3.4}Food Tasks: Food Diary Evaluation Methodology}{15}{subsection.2.3.4}
 \contentsline {section}{\numberline {2.4}Related Work}{16}{section.2.4}
 \contentsline {section}{\numberline {2.5}Background}{16}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Self-Monitoring for Health}{16}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.1}Self-Monitoring for Health}{17}{subsection.2.5.1}
 \contentsline {subsection}{\numberline {2.5.2}Psychology/Behavior change}{17}{subsection.2.5.2}
 \contentsline {subsection}{\numberline {2.5.3}Evaluation of Electronic Self-Monitoring}{17}{subsection.2.5.3}
 \contentsline {section}{\numberline {2.6}Temp: drafting}{17}{section.2.6}
 \contentsline {section}{\numberline {2.7}Related Work}{21}{section.2.7}
-\contentsline {chapter}{\numberline {\@textofChapter \ 3:}BALANCE}{22}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{22}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Project Overview}{23}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Fuel-Gauge Visualization}{24}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Participants}{24}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Procedure}{24}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Instruments}{26}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Results and Discussion}{27}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Prototype, V1 (Feature Phone \& USDA Food Database)}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Description}{29}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Database Optimization and Querying}{33}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Observations}{33}{subsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}Text entry was too hard}{34}{subsubsection.3.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.3.2}Too long to search}{35}{subsubsection.3.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3.3}It was difficult to find and choose a food}{35}{subsubsection.3.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.4}Long names do not fit on the screen.}{35}{subsubsection.3.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.3.5}No entries for common prepared foods. }{36}{subsubsection.3.3.3.5}
-\contentsline {subsubsection}{\numberline {3.3.3.6}For some foods, many items to choose from.}{37}{subsubsection.3.3.3.6}
-\contentsline {subsection}{\numberline {3.3.4}Discussion}{38}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Food Databases}{39}{section.3.4}
-\contentsline {section}{\numberline {3.5}Food Diary: Iterative Design And Evaluation}{40}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Overall Design}{41}{subsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.1.1}Food Diary Software}{41}{subsubsection.3.5.1.1}
-\contentsline {subsection}{\numberline {3.5.2}Selected Features and Feedback}{43}{subsection.3.5.2}
-\contentsline {subsubsection}{\numberline {3.5.2.1}Touch-friendly screen design }{43}{subsubsection.3.5.2.1}
-\contentsline {subsubsection}{\numberline {3.5.2.2}Create new food database entry}{44}{subsubsection.3.5.2.2}
-\contentsline {subsubsection}{\numberline {3.5.2.3}Favorite foods and meals}{44}{subsubsection.3.5.2.3}
-\contentsline {subsection}{\numberline {3.5.3}Database Query Details}{45}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}Metrics}{47}{subsection.3.5.4}
-\contentsline {section}{\numberline {3.6}Validating BALANCE}{48}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Final BALANCE Software}{48}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}24-hr recall software. }{49}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}Metrics}{50}{subsection.3.6.3}
-\contentsline {subsubsection}{\numberline {3.6.3.1}Overview}{51}{subsubsection.3.6.3.1}
-\contentsline {subsubsection}{\numberline {3.6.3.2}App starts over time}{52}{subsubsection.3.6.3.2}
-\contentsline {subsubsection}{\numberline {3.6.3.3}When entries are made}{55}{subsubsection.3.6.3.3}
-\contentsline {subsubsection}{\numberline {3.6.3.4}Entry creation time}{55}{subsubsection.3.6.3.4}
-\contentsline {subsubsection}{\numberline {3.6.3.5}Food eaten time}{56}{subsubsection.3.6.3.5}
-\contentsline {subsubsection}{\numberline {3.6.3.6}Comparing entry creation and food eaten time}{57}{subsubsection.3.6.3.6}
-\contentsline {subsubsection}{\numberline {3.6.3.7}Entry edits}{58}{subsubsection.3.6.3.7}
-\contentsline {subsubsection}{\numberline {3.6.3.8}Number Of Combos/Favorites And Their Use}{59}{subsubsection.3.6.3.8}
-\contentsline {subsubsection}{\numberline {3.6.3.9}Putting it all together }{59}{subsubsection.3.6.3.9}
-\contentsline {subsection}{\numberline {3.6.4}Discussion }{61}{subsection.3.6.4}
-\contentsline {section}{\numberline {3.7}Overall Discussion}{63}{section.3.7}
-\contentsline {section}{\numberline {3.8}Summary}{66}{section.3.8}
-\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Investigating Food Index-Based Food Diaries In The Lab}{67}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{68}{section.4.1}
-\contentsline {section}{\numberline {4.2}Food Indexes: Analyzing Diet Quality}{70}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}The Healthy Eating Index-2005 }{71}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}The Food-Based Quality Index}{73}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Food Tasks: Food Diary Evaluation Methodology}{74}{section.4.3}
-\contentsline {section}{\numberline {4.4}Investigating and Comparing Food Index-Based Mobile Phone Food Diaries}{75}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Research Aims}{75}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Study Design}{76}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Instruments}{76}{subsection.4.4.3}
-\contentsline {subsubsection}{\numberline {4.4.3.1}HEI}{77}{subsubsection.4.4.3.1}
-\contentsline {subsubsection}{\numberline {4.4.3.2}FBQI}{79}{subsubsection.4.4.3.2}
-\contentsline {subsubsection}{\numberline {4.4.3.3}BALANCE}{81}{subsubsection.4.4.3.3}
-\contentsline {subsection}{\numberline {4.4.4}Participants}{81}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Procedure}{82}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Tasks}{83}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.4.7}Study Design Limitations}{83}{subsection.4.4.7}
-\contentsline {subsection}{\numberline {4.4.8}Data Collected}{83}{subsection.4.4.8}
-\contentsline {subsection}{\numberline {4.4.9}Hypotheses}{85}{subsection.4.4.9}
-\contentsline {subsection}{\numberline {4.4.10}Data Analysis and Results}{85}{subsection.4.4.10}
-\contentsline {subsubsection}{\numberline {4.4.10.1}Duration}{86}{subsubsection.4.4.10.1}
-\contentsline {subsubsection}{\numberline {4.4.10.2}Correctness}{87}{subsubsection.4.4.10.2}
-\contentsline {subsubsection}{\numberline {4.4.10.3}TLX}{87}{subsubsection.4.4.10.3}
-\contentsline {subsubsection}{\numberline {4.4.10.4}Rankings}{88}{subsubsection.4.4.10.4}
-\contentsline {subsubsection}{\numberline {4.4.10.5}Useful For Goals}{88}{subsubsection.4.4.10.5}
-\contentsline {subsubsection}{\numberline {4.4.10.6}Error Analysis}{89}{subsubsection.4.4.10.6}
-\contentsline {subsubsection}{\numberline {4.4.10.7}Likes/Dislikes}{91}{subsubsection.4.4.10.7}
-\contentsline {subsection}{\numberline {4.4.11}Discussion.}{93}{subsection.4.4.11}
-\contentsline {subsection}{\numberline {4.4.12}Design Recommendations for Index-Based Food Journal}{96}{subsection.4.4.12}
-\contentsline {subsubsection}{\numberline {4.4.12.1}Include Attainment As Well As Moderation Components}{96}{subsubsection.4.4.12.1}
-\contentsline {subsubsection}{\numberline {4.4.12.2}Provide A Tool To Count Specific Foods}{96}{subsubsection.4.4.12.2}
-\contentsline {subsubsection}{\numberline {4.4.12.3}Identify What Was Entered}{96}{subsubsection.4.4.12.3}
-\contentsline {section}{\numberline {4.5}Summary}{97}{section.4.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 5:}CONTRIBUTION 3: Research Questions And The Design Of Pond}{98}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{99}{section.5.1}
-\contentsline {section}{\numberline {5.2}Research Aims}{100}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Primary Research Question: }{100}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Secondary Research Question: }{100}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Overarching Design Considerations}{100}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Potential Challenge: Increasing entry time; combining analysis \& entry on one page;}{101}{subsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.1.1}Direct Manipulation Versus ``Fill Out A Form'' Entry}{101}{subsubsection.5.3.1.1}
-\contentsline {subsubsection}{\numberline {5.3.1.2}Quick-Add Versus Add-Earlier-Entry}{101}{subsubsection.5.3.1.2}
-\contentsline {subsection}{\numberline {5.3.2}Potential Challenge: How to count a food}{102}{subsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Looking Up Food Entries}{102}{subsubsection.5.3.2.1}
-\contentsline {subsection}{\numberline {5.3.3}Potential Challenge: Serving sizes}{102}{subsection.5.3.3}
-\contentsline {subsubsection}{\numberline {5.3.3.1}Serving Sizes}{102}{subsubsection.5.3.3.1}
-\contentsline {subsection}{\numberline {5.3.4}Potential Challenge: Not knowing if you've entered something or not}{103}{subsection.5.3.4}
-\contentsline {subsubsection}{\numberline {5.3.4.1}Time- And Location-Based Analysis}{103}{subsubsection.5.3.4.1}
-\contentsline {subsubsection}{\numberline {5.3.4.2}Grouping Entries}{103}{subsubsection.5.3.4.2}
-\contentsline {subsubsection}{\numberline {5.3.4.3}Shortcuts/Combos}{103}{subsubsection.5.3.4.3}
-\contentsline {section}{\numberline {5.4}Design}{104}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Home Screen/Launch Activity}{104}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Daily Entries}{104}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Create Custom, Frequently-Eaten Foods}{105}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}Change Goals Screen}{106}{subsection.5.4.4}
-\contentsline {subsection}{\numberline {5.4.5}Search process/screens}{107}{subsection.5.4.5}
-\contentsline {subsection}{\numberline {5.4.6}Editing Entries}{108}{subsection.5.4.6}
-\contentsline {subsection}{\numberline {5.4.7}Weekly Feedback}{108}{subsection.5.4.7}
-\contentsline {section}{\numberline {5.5}Summary}{109}{section.5.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 6:}Contribution 4: POND Evaluation}{110}{chapter.6}
-\contentsline {section}{\numberline {6.1}Evaluation Overview/organization}{111}{section.6.1}
-\contentsline {section}{\numberline {6.2}In-Lab Evaluation}{112}{section.6.2}
-\contentsline {subsubsection}{\numberline {6.2.0.1}Research Questions/Goals}{112}{subsubsection.6.2.0.1}
-\contentsline {subsection}{\numberline {6.2.1}Experiment Design}{112}{subsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.1.1}Procedure}{112}{subsubsection.6.2.1.1}
-\contentsline {subsubsection}{\numberline {6.2.1.2}Tasks}{113}{subsubsection.6.2.1.2}
-\contentsline {subsubsection}{\numberline {6.2.1.3}Participants-- Pilot}{114}{subsubsection.6.2.1.3}
-\contentsline {subsubsection}{\numberline {6.2.1.4}Participants}{115}{subsubsection.6.2.1.4}
-\contentsline {subsection}{\numberline {6.2.2}Data Collected/Measures}{116}{subsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.2.1}Study Design Limitations}{116}{subsubsection.6.2.2.1}
-\contentsline {subsection}{\numberline {6.2.3}Results}{116}{subsection.6.2.3}
-\contentsline {subsubsection}{\numberline {6.2.3.1}Component Counts}{116}{subsubsection.6.2.3.1}
-\contentsline {subsubsection}{\numberline {6.2.3.2}Entry Strategy}{117}{subsubsection.6.2.3.2}
-\contentsline {subsubsection}{\numberline {6.2.3.3}Search Terms}{118}{subsubsection.6.2.3.3}
-\contentsline {subsubsection}{\numberline {6.2.3.4}Likes/Dislikes}{119}{subsubsection.6.2.3.4}
-\contentsline {subsection}{\numberline {6.2.4}Discussion-- In lab}{120}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}In-situ Study}{121}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Evaluation Design}{121}{subsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.1.1}Procedure}{122}{subsubsection.6.3.1.1}
-\contentsline {subsubsection}{\numberline {6.3.1.2}Study Design Limitations}{122}{subsubsection.6.3.1.2}
-\contentsline {subsection}{\numberline {6.3.2}Data Collected/Measures}{122}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Results}{123}{subsection.6.3.3}
-\contentsline {subsubsection}{\numberline {6.3.3.1}Entry strategy}{123}{subsubsection.6.3.3.1}
-\contentsline {subsubsection}{\numberline {6.3.3.2}Search Terms}{124}{subsubsection.6.3.3.2}
-\contentsline {subsubsection}{\numberline {6.3.3.3}Overall Component Counts}{126}{subsubsection.6.3.3.3}
-\contentsline {subsubsection}{\numberline {6.3.3.4}Guided Interview}{126}{subsubsection.6.3.3.4}
-\contentsline {subsection}{\numberline {6.3.4}Discussion}{130}{subsection.6.3.4}
-\contentsline {section}{\numberline {6.4}Overall POND Observations and Discussion}{132}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}How}{132}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}What}{133}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}When}{133}{subsection.6.4.3}
-\contentsline {section}{\numberline {6.5}Summary}{134}{section.6.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Future Work and Conclusion}{136}{chapter.7}
-\contentsline {chapter}{Bibliography}{140}{chapter*.57}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{148}{appendix.A}
-\contentsline {section}{\numberline {A.1}Initial Survey}{148}{section.A.1}
-\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{150}{section.A.2}
-\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{150}{section.A.3}
-\contentsline {section}{\numberline {A.4}Final Survey}{150}{section.A.4}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{152}{appendix.B}
-\contentsline {section}{\numberline {B.1}Initial Survey}{152}{section.B.1}
-\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{154}{section.B.2}
-\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{155}{section.B.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{160}{appendix.C}
-\contentsline {section}{\numberline {C.1}Weekly Survey}{160}{section.C.1}
-\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{163}{section.C.2}
+\contentsline {subsection}{\numberline {2.7.1}Use of Imagery for Self-Monitoring}{22}{subsection.2.7.1}
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}BALANCE}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Project Overview}{24}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Fuel-Gauge Visualization}{25}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Participants}{25}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Procedure}{25}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Instruments}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Results and Discussion}{28}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Prototype, V1 (Feature Phone \& USDA Food Database)}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Description}{30}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Database Optimization and Querying}{34}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Observations}{34}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Text entry was too hard}{35}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Too long to search}{36}{subsubsection.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}It was difficult to find and choose a food}{36}{subsubsection.3.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.4}Long names do not fit on the screen.}{36}{subsubsection.3.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.3.5}No entries for common prepared foods. }{37}{subsubsection.3.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.3.6}For some foods, many items to choose from.}{38}{subsubsection.3.3.3.6}
+\contentsline {subsection}{\numberline {3.3.4}Discussion}{39}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Food Databases}{40}{section.3.4}
+\contentsline {section}{\numberline {3.5}Food Diary: Iterative Design And Evaluation}{41}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Overall Design}{42}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}Food Diary Software}{42}{subsubsection.3.5.1.1}
+\contentsline {subsection}{\numberline {3.5.2}Selected Features and Feedback}{44}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}Touch-friendly screen design }{44}{subsubsection.3.5.2.1}
+\contentsline {subsubsection}{\numberline {3.5.2.2}Create new food database entry}{45}{subsubsection.3.5.2.2}
+\contentsline {subsubsection}{\numberline {3.5.2.3}Favorite foods and meals}{45}{subsubsection.3.5.2.3}
+\contentsline {subsection}{\numberline {3.5.3}Database Query Details}{46}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Metrics}{48}{subsection.3.5.4}
+\contentsline {section}{\numberline {3.6}Validating BALANCE}{49}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Final BALANCE Software}{49}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}24-hr recall software. }{50}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Metrics}{51}{subsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.3.1}Overview}{52}{subsubsection.3.6.3.1}
+\contentsline {subsubsection}{\numberline {3.6.3.2}App starts over time}{53}{subsubsection.3.6.3.2}
+\contentsline {subsubsection}{\numberline {3.6.3.3}When entries are made}{56}{subsubsection.3.6.3.3}
+\contentsline {subsubsection}{\numberline {3.6.3.4}Entry creation time}{56}{subsubsection.3.6.3.4}
+\contentsline {subsubsection}{\numberline {3.6.3.5}Food eaten time}{57}{subsubsection.3.6.3.5}
+\contentsline {subsubsection}{\numberline {3.6.3.6}Comparing entry creation and food eaten time}{58}{subsubsection.3.6.3.6}
+\contentsline {subsubsection}{\numberline {3.6.3.7}Entry edits}{59}{subsubsection.3.6.3.7}
+\contentsline {subsubsection}{\numberline {3.6.3.8}Number Of Combos/Favorites And Their Use}{60}{subsubsection.3.6.3.8}
+\contentsline {subsubsection}{\numberline {3.6.3.9}Putting it all together }{60}{subsubsection.3.6.3.9}
+\contentsline {subsection}{\numberline {3.6.4}Discussion }{62}{subsection.3.6.4}
+\contentsline {section}{\numberline {3.7}Overall Discussion}{64}{section.3.7}
+\contentsline {section}{\numberline {3.8}Summary}{67}{section.3.8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Investigating Food Index-Based Food Diaries In The Lab}{68}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{69}{section.4.1}
+\contentsline {section}{\numberline {4.2}Food Indexes: Analyzing Diet Quality}{71}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The Healthy Eating Index-2005 }{72}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}The Food-Based Quality Index}{74}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Food Tasks: Food Diary Evaluation Methodology}{75}{section.4.3}
+\contentsline {section}{\numberline {4.4}Investigating and Comparing Food Index-Based Mobile Phone Food Diaries}{76}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Research Aims}{76}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Study Design}{77}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Instruments}{77}{subsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.3.1}HEI}{78}{subsubsection.4.4.3.1}
+\contentsline {subsubsection}{\numberline {4.4.3.2}FBQI}{80}{subsubsection.4.4.3.2}
+\contentsline {subsubsection}{\numberline {4.4.3.3}BALANCE}{82}{subsubsection.4.4.3.3}
+\contentsline {subsection}{\numberline {4.4.4}Participants}{82}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Procedure}{83}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Tasks}{84}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Study Design Limitations}{84}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Data Collected}{84}{subsection.4.4.8}
+\contentsline {subsection}{\numberline {4.4.9}Hypotheses}{86}{subsection.4.4.9}
+\contentsline {subsection}{\numberline {4.4.10}Data Analysis and Results}{86}{subsection.4.4.10}
+\contentsline {subsubsection}{\numberline {4.4.10.1}Duration}{87}{subsubsection.4.4.10.1}
+\contentsline {subsubsection}{\numberline {4.4.10.2}Correctness}{88}{subsubsection.4.4.10.2}
+\contentsline {subsubsection}{\numberline {4.4.10.3}TLX}{88}{subsubsection.4.4.10.3}
+\contentsline {subsubsection}{\numberline {4.4.10.4}Rankings}{89}{subsubsection.4.4.10.4}
+\contentsline {subsubsection}{\numberline {4.4.10.5}Useful For Goals}{89}{subsubsection.4.4.10.5}
+\contentsline {subsubsection}{\numberline {4.4.10.6}Error Analysis}{90}{subsubsection.4.4.10.6}
+\contentsline {subsubsection}{\numberline {4.4.10.7}Likes/Dislikes}{92}{subsubsection.4.4.10.7}
+\contentsline {subsection}{\numberline {4.4.11}Discussion.}{94}{subsection.4.4.11}
+\contentsline {subsection}{\numberline {4.4.12}Design Recommendations for Index-Based Food Journal}{97}{subsection.4.4.12}
+\contentsline {subsubsection}{\numberline {4.4.12.1}Include Attainment As Well As Moderation Components}{97}{subsubsection.4.4.12.1}
+\contentsline {subsubsection}{\numberline {4.4.12.2}Provide A Tool To Count Specific Foods}{97}{subsubsection.4.4.12.2}
+\contentsline {subsubsection}{\numberline {4.4.12.3}Identify What Was Entered}{97}{subsubsection.4.4.12.3}
+\contentsline {section}{\numberline {4.5}Summary}{98}{section.4.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}CONTRIBUTION 3: Research Questions And The Design Of Pond}{99}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{100}{section.5.1}
+\contentsline {section}{\numberline {5.2}Research Aims}{101}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Primary Research Question: }{101}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Secondary Research Question: }{101}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Overarching Design Considerations}{101}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Potential Challenge: Increasing entry time; combining analysis \& entry on one page;}{102}{subsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Direct Manipulation Versus ``Fill Out A Form'' Entry}{102}{subsubsection.5.3.1.1}
+\contentsline {subsubsection}{\numberline {5.3.1.2}Quick-Add Versus Add-Earlier-Entry}{102}{subsubsection.5.3.1.2}
+\contentsline {subsection}{\numberline {5.3.2}Potential Challenge: How to count a food}{103}{subsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Looking Up Food Entries}{103}{subsubsection.5.3.2.1}
+\contentsline {subsection}{\numberline {5.3.3}Potential Challenge: Serving sizes}{103}{subsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.3.1}Serving Sizes}{103}{subsubsection.5.3.3.1}
+\contentsline {subsection}{\numberline {5.3.4}Potential Challenge: Not knowing if you've entered something or not}{104}{subsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.4.1}Time- And Location-Based Analysis}{104}{subsubsection.5.3.4.1}
+\contentsline {subsubsection}{\numberline {5.3.4.2}Grouping Entries}{104}{subsubsection.5.3.4.2}
+\contentsline {subsubsection}{\numberline {5.3.4.3}Shortcuts/Combos}{104}{subsubsection.5.3.4.3}
+\contentsline {section}{\numberline {5.4}Design}{105}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Home Screen/Launch Activity}{105}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Daily Entries}{105}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Create Custom, Frequently-Eaten Foods}{106}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Change Goals Screen}{107}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Search process/screens}{108}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {5.4.6}Editing Entries}{109}{subsection.5.4.6}
+\contentsline {subsection}{\numberline {5.4.7}Weekly Feedback}{109}{subsection.5.4.7}
+\contentsline {section}{\numberline {5.5}Summary}{110}{section.5.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}Contribution 4: POND Evaluation}{111}{chapter.6}
+\contentsline {section}{\numberline {6.1}Evaluation Overview/organization}{112}{section.6.1}
+\contentsline {section}{\numberline {6.2}In-Lab Evaluation}{113}{section.6.2}
+\contentsline {subsubsection}{\numberline {6.2.0.1}Research Questions/Goals}{113}{subsubsection.6.2.0.1}
+\contentsline {subsection}{\numberline {6.2.1}Experiment Design}{113}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Procedure}{113}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.1.2}Tasks}{114}{subsubsection.6.2.1.2}
+\contentsline {subsubsection}{\numberline {6.2.1.3}Participants-- Pilot}{115}{subsubsection.6.2.1.3}
+\contentsline {subsubsection}{\numberline {6.2.1.4}Participants}{116}{subsubsection.6.2.1.4}
+\contentsline {subsection}{\numberline {6.2.2}Data Collected/Measures}{117}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Study Design Limitations}{117}{subsubsection.6.2.2.1}
+\contentsline {subsection}{\numberline {6.2.3}Results}{117}{subsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.3.1}Component Counts}{117}{subsubsection.6.2.3.1}
+\contentsline {subsubsection}{\numberline {6.2.3.2}Entry Strategy}{118}{subsubsection.6.2.3.2}
+\contentsline {subsubsection}{\numberline {6.2.3.3}Search Terms}{119}{subsubsection.6.2.3.3}
+\contentsline {subsubsection}{\numberline {6.2.3.4}Likes/Dislikes}{120}{subsubsection.6.2.3.4}
+\contentsline {subsection}{\numberline {6.2.4}Discussion-- In lab}{121}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}In-situ Study}{122}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Evaluation Design}{122}{subsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.1.1}Procedure}{123}{subsubsection.6.3.1.1}
+\contentsline {subsubsection}{\numberline {6.3.1.2}Study Design Limitations}{123}{subsubsection.6.3.1.2}
+\contentsline {subsection}{\numberline {6.3.2}Data Collected/Measures}{123}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Results}{124}{subsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.1}Entry strategy}{124}{subsubsection.6.3.3.1}
+\contentsline {subsubsection}{\numberline {6.3.3.2}Search Terms}{125}{subsubsection.6.3.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3.3}Overall Component Counts}{127}{subsubsection.6.3.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.4}Guided Interview}{127}{subsubsection.6.3.3.4}
+\contentsline {subsection}{\numberline {6.3.4}Discussion}{131}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}Overall POND Observations and Discussion}{133}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}How}{133}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}What}{134}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}When}{134}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Summary}{135}{section.6.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Future Work and Conclusion}{137}{chapter.7}
+\contentsline {chapter}{Bibliography}{141}{chapter*.57}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{152}{appendix.A}
+\contentsline {section}{\numberline {A.1}Initial Survey}{152}{section.A.1}
+\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{154}{section.A.2}
+\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{154}{section.A.3}
+\contentsline {section}{\numberline {A.4}Final Survey}{154}{section.A.4}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{156}{appendix.B}
+\contentsline {section}{\numberline {B.1}Initial Survey}{156}{section.B.1}
+\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{158}{section.B.2}
+\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{159}{section.B.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{164}{appendix.C}
+\contentsline {section}{\numberline {C.1}Weekly Survey}{164}{section.C.1}
+\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{167}{section.C.2}
