@@ -4,7 +4,7 @@
 
 \chapter {BALANCE}
 \label{cha:cont1}
- In this chapter, I describe my contributions to the BALANCE project. 
+In this chapter, I describe my contributions to the BALANCE project. 
 
 \section{Introduction}
 
@@ -29,7 +29,7 @@ The first investigation focused on the fuel-gauge visualization. The visualizati
 \subsection{Procedure}
 After providing written informed consent, participants completed a survey collecting basic demographic information. Participants rated the desirability of given features for food and exercise applications on a mobile phone, then discussed what they had eaten that day (or the previous day, depending on time of interview), including context (what they ate, how much, where, when, and how much that meal varies for them). 
 
-Next, participants were shown the different visualizations. Each visualization depicted the same four situations: the start of the day, before any food is entered or calories expended; the end of the day, when more than the day's goal had been consumed and expended; and two points in between, showing various balance levels. \textbf{REVISIT THIS. It's not true. } Figure \ref{fig:viz1series} shows one of the visualizations in each energy balance example. 
+Next, participants were shown the different visualizations. Each visualization depicted a different situation: early in the day, before any food is entered or calories expended; the end of the day, when more than the day's goal had been consumed and expended; and two points in between. Figure \ref{fig:viz1series} shows one of the visualization series. 
 
 
 \begin{figure}[tbh]
@@ -92,11 +92,11 @@ Next, participants were shown the different visualizations. Each visualization d
 There were two categories: graphs (two total) and visualizations (five total). Participants were asked to rank their preferred visualizations within each category and offer comments. 
 
 \subsection{Instruments}
-The team brainstormed seven candidate visualizations. The features of different visualization concepts included abstract versus concrete metaphors; a single balance indicator (energy balance is more intake or more expenditure); the amount of both energy intake and expenditure as well as overview; how each amount and the balance changes over time; and whether to include an affective component. Previous work investigates the value of having abstract versus concrete representations [ref], so we aimed for a wide range at this point in the design process. 
+The team brainstormed seven candidate visualizations. The features of different visualization concepts included abstract versus concrete metaphors; a single balance indicator (energy balance is more intake or more expenditure); the amount of both energy intake and expenditure as well as overview; how each amount and the balance changes over time; and whether to include an affective component. Previous work investigates the value of having abstract versus concrete representations \citep{Kerren2007}, so we aimed for a wide range at this point in the design process. 
 
 We adopted an overall simplifying construct for calorie counting called ``CHIPs'': counting hundreds impact point (\citep{beresford_worksite_2007}). A CHIP is simply a unit of 100 calories. Experts involved in the project noted previous success with this simplification. In their previous experience, participants in a workplace wellness program found the CHIP simplification easier to count and keep track of larger increments (smaller numbers). In the BALANCE software, all calorie counts are reported in CHIPs, both for intake and expenditure.  
 
-The main goal of the visualization is to depict the current energy intake/expenditure balance. Other pieces of information that could be helpful included: 
+The main goal of the visualization is to depict the current energy balance of intake and expenditure. Other pieces of information that could be helpful included: 
 \begin{enumerate*}
 \item Goal calorie expenditure and intake for a current day;
 \item Progress toward that goal/target over the course of the day; and
@@ -404,7 +404,7 @@ The long search time is primarily due to the limited resources on the mobile pho
 After entering a food query and waiting for the search to return, a user needs to choose the desired food from all of the results. 
 Using food class to filter search results. As noted earlier, if the results are from just one food class, the entire list of results is immediately shown. If there are results in multiple food classes, the list of food classes is shown to allow the user to choose the most appropriate. To find the target food, the user must choose from a potentially long list of food classes (the results for the query \textit{bread} include 16 food classes). Some of the food classes are difficult to distinguish. For example, the food classes for \textit{Bread} includes both ``Cereal Grains and Pasta'' and ``Baked Goods''. This requires the user to make a decision, and users unfamiliar with the food classes are not sure which to choose. 
 
-\textbf{Recommendation: }Do not force the user to think about arbitrary food classes. Provide guidance about what each food class represents. Provide some ``teasers'' or a few items of that food class to demonstrate what kinds of foods it contains. 
+\textbf{Recommendation: }Do not force the user to think about arbitrary food classes. Provide guidance about what each food class represents. Provide a preview or a few items of that food class to demonstrate what kinds of foods it contains. 
 
 \subsubsection{Long names do not fit on the screen.}
 The USDA database contains food descriptions that are long and descriptive. For example, a typical entry for the query ``Steak'' is ``Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/4'' fat, USDA choice, raw''.  The alternative ``short'' description is a similar entry using defined abbreviations: ``Beef, shrt loin,prtrhs steak,ln,1/4'' fat,usda choic,raw''. Neither of these descriptions display well on the small screen size of the target device. If they are displayed one entry per line in a font that is comfortable to read, not enough words are shown to distinguish one entry from another. If the description is shown on multiple lines, only one or two entries can be shown at a time. Forcing the user to select one to see more detail and then returning to the list screen is time consuming and frustrating. 
@@ -421,7 +421,7 @@ The USDA database contains food descriptions that are long and descriptive. For 
 \end{center}
 \end{figure}
 
-\textbf {Recommendation: }Use a larger display with higher resolution. Use a database that has more useful short descriptions. Structure the database to provide a short ``food name'', a short description, and a detailed description. 
+\textbf {Recommendation: }Use a larger display with higher resolution. Use a database that has more useful short descriptions. Structure the database to provide a short food name, a short description, and a detailed description. 
 
 \subsubsection{No entries for common prepared foods. }
 The USDA database is that it did not include many prepared foods, such as those purchased at a grocery store or restaurant. The database contains food entries from only 60 manufacturers. This includes some of the major food manufacturers in the US (e.g. Burger King, Kellogg, Nestle, McDonalds). However, users expect that if they can purchase a food (e.g., it has a UPC code), then it will be in the database. 
@@ -481,7 +481,7 @@ Table \ref{tab:foodDbCompare} provides some information on two databases: the US
     \textbf{Number of serving types} & 1,700  & 5,087 \\
     \textbf{Number of manufacturers} & 60    & 592 \\
     \textbf{Number of recipes} &       & 783 \\
-    \textbf{Food groups} & 24    & 369\footnote{Food Classes. Includes all hierarchy.}\\
+    \textbf{Food groups} & 24    & 369\footnote{Food Classes. Includes entire  hierarchy.}\\
     \textbf{Number of nutrients } & 140   & 90 \\
 	\bottomrule~
     \end{tabular}%
@@ -1027,6 +1027,6 @@ Researchers developing mobile applications face similar conflicting priorities a
 The evaluations indicated that people found it challenging to use the BALANCE software to self-monitor food intake in a timely, complete and consistent manner throughout a day. This is consistent with other work that indicated technical malfunction prevented statistically significant results [ref]. Participants reported that the idea of tracking their food intake on their mobile phone was appealing, and offered valuable insight as to how we as designers and researchers may improve the process, particularly by reducing the amount of effort that goes in to the food intake capture. This allows us to raise the question of whether people will be able to enter food intake on a consistent basis if we reduce the amount of effort, in terms of time, physical entry (entering text or pushing buttons) and mental activity (how much the user needs to think about the process). This is addressed in the next chapter. 
 
 \section{Summary}
-In this chapter, I describe the BALANCE project, focusing primarily on the design and development of the food diary component of the project. I also provide an HCI-oriented evaluation of the use of the BALANCE software by participants in-situ, to better understand the results of the more quantitative, [medical]-oriented evaluation. This evaluation identified that one important barrier to participants creating complete, comprehensive and timely food entries is due to the database. I document the challenges of using a food database on resource-constrained devices such as mobile phones, and [prove that nothing more could be done to improve the database experience with this technology]. The database is challenging to navigate and requires mental effort, particularly in real-world context, in addition to requiring time-consuming text entry. User feedback indicated that people understand the value that dietary self-monitoring could provide, but that the BALANCE food diary required too much time. It also indicated that people might be willing to accept a less detailed accounting of their food intake in exchange for a less challenging and time-intensive collection process. 
+In this chapter, I describe the BALANCE project, focusing primarily on the design and development of the food diary component of the project. I also provide an HCI-oriented evaluation of the use of the BALANCE software by participants in-situ, to better understand the results of the more quantitative, [medical]-oriented evaluation. This evaluation identified that one important barrier to participants creating complete, comprehensive and timely food entries is due to the database. I document the challenges of using a food database on resource-constrained devices such as mobile phones, and illustrate the inherent challenge of interacting with food databases.  The database is challenging to navigate and requires mental effort, particularly in real-world context, in addition to requiring time-consuming text entry. User feedback indicated that people understand the value that dietary self-monitoring could provide, but that the BALANCE food diary required too much time. It also indicated that people might be willing to accept a less detailed accounting of their food intake in exchange for a less challenging and time-intensive collection process. 
 
  
