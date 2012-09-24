@@ -74,7 +74,7 @@
 
 \ProvidesClass{uwthesis}[2012/06/19]
 \NeedsTeXFormat{LaTeX2e}
- 
+
 %
 % footnote stuff for option processing
 %
@@ -300,8 +300,8 @@
 
 \fancyfoot{}
 \renewcommand{\chaptermark}[1]{poo. \markboth{##1}{}}
-\renewcommand{\chaptermark}[1]{chap name ##1 \markboth{##1}{}}
-%\renewcommand{\sectionmark}[1]{eh. \markright{##1}{}}
+\renewcommand{\chaptermark}[1]{chap name ##1 \markboth{something ##1}{}}
+%\renewcommand{\sectionmark}[1]{eh. \markright{ ##1}{}}
 
 
    }
