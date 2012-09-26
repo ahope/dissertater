@@ -1,788 +1,955 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{117}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 
-\bibitem[\protect\citename{Abraham and Michie, }2008]{abraham_taxonomy_2008}
-\textsc{Abraham, C.} and \textsc{Michie, S.}
-\newblock \enquote{A Taxonomy of Behavior Change Techniques Used in
-  Interventions.}
-\newblock \emph{Health Psychology}, volume~27(3):379--387 (May 2008).
+\bibitem[{Abraham and Michie(2008)}]{abraham_taxonomy_2008}
+\textsc{Abraham, C} and \textsc{Michie, S}.
+\newblock \enquote{A taxonomy of behavior change techniques used in
+  interventions.}
+\newblock \emph{Health Psychology}, 27(3):pages 379--387 (2008).
 
-\bibitem[\protect\citename{Ahtinen et~al., }2009]{ahtinen_user_2009}
-\textsc{Ahtinen, A.}, \textsc{Mattila, E.}, \textsc{Vaatanen, A.},
-  \textsc{Hynninen, L.}, \textsc{Salminen, J.}, \textsc{Koskinen, E.}, and
-  \textsc{Laine, K.}
+\bibitem[{Ahtinen et~al.(2009)Ahtinen, Mattila, Vaatanen, Hynninen, Salminen,
+  Koskinen, and Laine}]{ahtinen_user_2009}
+\textsc{Ahtinen, A}; \textsc{Mattila, E}; \textsc{Vaatanen, A};
+  \textsc{Hynninen, L}; \textsc{Salminen, J}; \textsc{Koskinen, E}; and
+  \textsc{Laine, K}.
 \newblock \enquote{User experiences of mobile wellness applications in health
-  promotion: User study of Wellness Diary, Mobile Coach and {SelfRelax}.}
-\newblock In \enquote{3rd International Conference on Pervasive Computing
-  Technologies for Healthcare, 2009. {PervasiveHealth} 2009,} (pages 1 --8)
-  (April 2009).
+  promotion: User study of wellness diary, mobile coach and {SelfRelax}.}
+\newblock In \emph{3rd International Conference on Pervasive Computing
+  Technologies for Healthcare, 2009. {PervasiveHealth} 2009}, pages 1 --8
+  (2009).
 
-\bibitem[\protect\citename{Ainsworth et~al., }2000]{ainsworth_compendium_2000}
-\textsc{Ainsworth, B.~E.}, \textsc{Haskell, W.~L.}, \textsc{Whitt, M.~C.},
-  \textsc{Irwin, M.~L.}, \textsc{Swartz, A.~M.}, \textsc{Strath, S.~J.},
-  \textsc{{O'BRIEN}, W.~L.}, \textsc{Bassett, D.~R.}, \textsc{Schmitz, K.~H.},
-  \textsc{Emplaincourt, P.~O.}, \textsc{et~al.}
+\bibitem[{Ainsworth et~al.(2000)Ainsworth, Haskell, Whitt, Irwin, Swartz,
+  Strath, {O'BRIEN}, Bassett, Schmitz, Emplaincourt
+  et~al.}]{ainsworth_compendium_2000}
+\textsc{Ainsworth, BE}; \textsc{Haskell, WL}; \textsc{Whitt, MC};
+  \textsc{Irwin, ML}; \textsc{Swartz, AM}; \textsc{Strath, SJ};
+  \textsc{{O'BRIEN}, WL}; \textsc{Bassett, DR}; \textsc{Schmitz, KH};
+  \textsc{Emplaincourt, PO}; \textsc{et~al.}
 \newblock \enquote{Compendium of physical activities: an update of activity
   codes and {MET} intensities.}
-\newblock \emph{Medicine \& Science in Sports \& Exercise}, volume~32(9):S498
+\newblock \emph{Medicine \& Science in Sports \& Exercise}, 32(9):page S498
   (2000).
 
-\bibitem[\protect\citename{Aizawa et~al., }2010]{aizawa_food_2010}
-\textsc{Aizawa, K.}, \textsc{de~Silva, G.~C.}, \textsc{Ogawa, M.}, and
-  \textsc{Sato, Y.}
-\newblock \enquote{Food Log by snapping and processing images.}
-\newblock In \enquote{2010 16th International Conference on Virtual Systems and
-  Multimedia {(VSMM)},} (pages 71--74). {IEEE} (October 2010).
+\bibitem[{Aizawa et~al.(2010)Aizawa, de~Silva, Ogawa, and
+  Sato}]{aizawa_food_2010}
+\textsc{Aizawa, K}; \textsc{de~Silva, GC}; \textsc{Ogawa, M}; and \textsc{Sato,
+  Y}.
+\newblock \enquote{Food log by snapping and processing images.}
+\newblock In \emph{2010 16th International Conference on Virtual Systems and
+  Multimedia {(VSMM)}}, pages 71--74. {IEEE} (2010).
 
-\bibitem[\protect\citename{Almaghrabi et~al., }2012]{almaghrabi_novel_2012}
-\textsc{Almaghrabi, R.}, \textsc{Villalobos, G.}, \textsc{Pouladzadeh, P.}, and
-  \textsc{Shirmohammadi, S.}
+\bibitem[{Almaghrabi et~al.(2012)Almaghrabi, Villalobos, Pouladzadeh, and
+  Shirmohammadi}]{almaghrabi_novel_2012}
+\textsc{Almaghrabi, R}; \textsc{Villalobos, G}; \textsc{Pouladzadeh, P}; and
+  \textsc{Shirmohammadi, S}.
 \newblock \enquote{A novel method for measuring nutrition intake based on food
   image.}
-\newblock In \enquote{Instrumentation and Measurement Technology Conference
-  {(I2MTC)}, 2012 {IEEE} International,} (pages 366 --370) (May 2012).
+\newblock In \emph{Instrumentation and Measurement Technology Conference
+  {(I2MTC)}, 2012 {IEEE} International}, pages 366 --370 (2012).
 
-\bibitem[\protect\citename{Arvaniti and Panagiotakos,
-  }2008]{arvaniti_healthy_2008}
-\textsc{Arvaniti, F.} and \textsc{Panagiotakos, D.~B.}
-\newblock \enquote{Healthy Indexes in Public Health Practice and Research: A
-  Review.}
-\newblock \emph{Critical Reviews in Food Science and Nutrition},
-  volume~48(4):317 (2008).
+\bibitem[{Amft et~al.(2005)Amft, Junker, and Troster}]{amft_detection_2005}
+\textsc{Amft, O}; \textsc{Junker, H}; and \textsc{Troster, G}.
+\newblock \enquote{Detection of eating and drinking arm gestures using inertial
+  body-worn sensors.}
+\newblock In \emph{Ninth {IEEE} International Symposium on Wearable Computers,
+  2005. Proceedings}, pages 160-- 163. {IEEE} (2005).
 
-\bibitem[\protect\citename{Baranowski and Domel, }1994]{Baranowski1994}
-\textsc{Baranowski, T.} and \textsc{Domel, S.~B.}
+\bibitem[{Arvaniti and Panagiotakos(2008)}]{arvaniti_healthy_2008}
+\textsc{Arvaniti, F} and \textsc{Panagiotakos, DB}.
+\newblock \enquote{Healthy indexes in public health practice and research: A
+  review.}
+\newblock \emph{Critical Reviews in Food Science and Nutrition}, 48(4):page 317
+  (2008).
+
+\bibitem[{Baranowski and Domel(1994)}]{Baranowski1994}
+\textsc{Baranowski, T} and \textsc{Domel, SB}.
 \newblock \enquote{{A cognitive model of children's reporting of food intake.}}
-\newblock \emph{The American journal of clinical nutrition}, volume~59(1
-  Suppl):212S--217S (January 1994).
+\newblock \emph{The American journal of clinical nutrition}, 59(1 Suppl):pages
+  212S--217S (1994).
 
-\bibitem[\protect\citename{Beasley et~al., }2005]{beasley_accuracy_2005}
-\textsc{Beasley, J.}, \textsc{Riley, W.~T.}, and \textsc{Jean-Mary, J.}
+\bibitem[{Beasley et~al.(2005)Beasley, Riley, and
+  Jean-Mary}]{beasley_accuracy_2005}
+\textsc{Beasley, J}; \textsc{Riley, WT}; and \textsc{Jean-Mary, J}.
 \newblock \enquote{Accuracy of a {PDA-based} dietary assessment program.}
-\newblock \emph{Nutrition {(Burbank}, Los Angeles County, Calif)},
-  volume~21(6):672--677 (June 2005).
+\newblock \emph{Nutrition {(Burbank}, Los Angeles County, Calif.)}, 21(6):pages
+  672--677 (2005).
 \newblock {PMID:} 15925290.
 
-\bibitem[\protect\citename{Beresford et~al., }2007]{beresford_worksite_2007}
-\textsc{Beresford, S. A.~A.}, \textsc{Locke, E.}, \textsc{Bishop, S.},
-  \textsc{West, B.}, \textsc{{McGregor}, B.~A.}, \textsc{Bruemmer, B.},
-  \textsc{Duncan, G.~E.}, and \textsc{Thompson, B.}
-\newblock \enquote{Worksite Study Promoting Activity and Changes in Eating
-  {(PACE):} Design and Baseline Results.}
-\newblock \emph{Obesity}, volume~15:4S--15S (2007).
+\bibitem[{Beresford et~al.(2007)Beresford, Locke, Bishop, West, {McGregor},
+  Bruemmer, Duncan, and Thompson}]{beresford_worksite_2007}
+\textsc{Beresford, SAA}; \textsc{Locke, E}; \textsc{Bishop, S}; \textsc{West,
+  B}; \textsc{{McGregor}, BA}; \textsc{Bruemmer, B}; \textsc{Duncan, GE}; and
+  \textsc{Thompson, B}.
+\newblock \enquote{Worksite study promoting activity and changes in eating
+  {(PACE):} design and baseline results.}
+\newblock \emph{Obesity}, 15:pages 4S--15S (2007).
 
-\bibitem[\protect\citename{Black et~al., }1991]{Black1991583}
-\textsc{Black, A.}, \textsc{Goldberg, G.}, \textsc{Jebb, S.},
-  \textsc{Livingstone, M.}, \textsc{Cole, T.}, and \textsc{Prentice, A.}
+\bibitem[{Black et~al.(1991)Black, Goldberg, Jebb, Livingstone, Cole, and
+  Prentice}]{Black1991583}
+\textsc{Black, A}; \textsc{Goldberg, G}; \textsc{Jebb, S}; \textsc{Livingstone,
+  M}; \textsc{Cole, T}; and \textsc{Prentice, A}.
 \newblock \enquote{Critical evaluation of energy intake data using fundamental
-  principles of energy physiology: 2. Evaluating the results of published
+  principles of energy physiology: 2. evaluating the results of published
   surveys.}
-\newblock \emph{European Journal of Clinical Nutrition}, volume~45(12):583--599
+\newblock \emph{European Journal of Clinical Nutrition}, 45(12):pages 583--599
   (1991).
 \newblock Cited By (since 1996) 359.
 
-\bibitem[\protect\citename{Booth et~al., }2005]{Booth2005}
-\textsc{Booth, K.~M.}, \textsc{Pinkston, M.~M.}, and \textsc{Poston, W. S.~C.}
+\bibitem[{Booth et~al.(2005)Booth, Pinkston, and Poston}]{Booth2005}
+\textsc{Booth, KM}; \textsc{Pinkston, MM}; and \textsc{Poston, WSC}.
 \newblock \enquote{{Obesity and the built environment.}}
-\newblock \emph{Journal of the American Dietetic Association}, volume 105(5
-  Suppl 1):S110--7 (May 2005).
+\newblock \emph{Journal of the American Dietetic Association}, 105(5 Suppl
+  1):pages S110--7 (2005).
 
-\bibitem[\protect\citename{Bosch et~al., }2011]{bosch_integrated_2011}
-\textsc{Bosch, M.}, \textsc{Schap, T.}, \textsc{Zhu, F.}, \textsc{Khanna, N.},
-  \textsc{Boushey, C.~J.}, and \textsc{Delp, E.~J.}
+\bibitem[{Bosch et~al.(2011)Bosch, Schap, Zhu, Khanna, Boushey, and
+  Delp}]{bosch_integrated_2011}
+\textsc{Bosch, M}; \textsc{Schap, T}; \textsc{Zhu, F}; \textsc{Khanna, N};
+  \textsc{Boushey, CJ}; and \textsc{Delp, EJ}.
 \newblock \enquote{Integrated database system for mobile dietary assessment and
   analysis.}
-\newblock In \enquote{2011 {IEEE} International Conference on Multimedia and
-  Expo {(ICME)},} (pages 1--6). {IEEE} (July 2011).
+\newblock In \emph{2011 {IEEE} International Conference on Multimedia and Expo
+  {(ICME)}}, pages 1--6. {IEEE} (2011).
 
-\bibitem[\protect\citename{Burke et~al., }2009]{burke_experiences_2009}
-\textsc{Burke, L.}, \textsc{Swigart, V.}, \textsc{Turk, M.}, \textsc{Derro,
-  N.}, and \textsc{Ewing, L.}
+\bibitem[{Burke et~al.(2009)Burke, Swigart, Turk, Derro, and
+  Ewing}]{burke_experiences_2009}
+\textsc{Burke, L}; \textsc{Swigart, V}; \textsc{Turk, M}; \textsc{Derro, N};
+  and \textsc{Ewing, L}.
 \newblock \enquote{Experiences of self-monitoring: Successes and struggles
   during treatment for weight loss.}
-\newblock \emph{Qualitative Health Research}, volume~19(6):815--828 (2009).
+\newblock \emph{Qualitative Health Research}, 19(6):pages 815--828 (2009).
 
-\bibitem[\protect\citename{Burke et~al.,
-  }2011{\natexlab{a}}]{burke_effect_2011}
-\textsc{Burke, L.~E.}, \textsc{Conroy, M.~B.}, \textsc{Sereika, S.~M.},
-  \textsc{Elci, O.~U.}, \textsc{Styn, M.~A.}, \textsc{Acharya, S.~D.},
-  \textsc{Sevick, M.~A.}, \textsc{Ewing, L.~J.}, and \textsc{Glanz, K.}
+\bibitem[{Burke et~al.(2011{\natexlab{a}})Burke, Conroy, Sereika, Elci, Styn,
+  Acharya, Sevick, Ewing, and Glanz}]{burke_effect_2011}
+\textsc{Burke, LE}; \textsc{Conroy, MB}; \textsc{Sereika, SM}; \textsc{Elci,
+  OU}; \textsc{Styn, MA}; \textsc{Acharya, SD}; \textsc{Sevick, MA};
+  \textsc{Ewing, LJ}; and \textsc{Glanz, K}.
 \newblock \enquote{The effect of electronic self-monitoring on weight loss and
   dietary intake: a randomized behavioral weight loss trial.}
-\newblock \emph{Obesity {(Silver} Spring, Md)}, volume~19(2):338--344 (February
-  2011{\natexlab{a}}).
+\newblock \emph{Obesity {(Silver} Spring, Md.)}, 19(2):pages 338--344
+  (2011{\natexlab{a}}).
 \newblock {PMID:} 20847736.
 
-\bibitem[\protect\citename{Burke et~al.,
-  }2011{\natexlab{b}}]{burke_self-monitoring_2011}
-\textsc{Burke, L.~E.}, \textsc{Wang, J.}, and \textsc{Sevick, M.~A.}
+\bibitem[{Burke et~al.(2011{\natexlab{b}})Burke, Wang, and
+  Sevick}]{burke_self-monitoring_2011}
+\textsc{Burke, LE}; \textsc{Wang, J}; and \textsc{Sevick, MA}.
 \newblock \enquote{Self-monitoring in weight loss: a systematic review of the
   literature.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  111(1):92--102 (January 2011{\natexlab{b}}).
+\newblock \emph{Journal of the American Dietetic Association}, 111(1):pages
+  92--102 (2011{\natexlab{b}}).
 \newblock {PMID:} 21185970.
 
-\bibitem[\protect\citename{Burke et~al., }2005]{burke_self-monitoring_2005}
-\textsc{Burke, L.~E.}, \textsc{Warziski, M.}, \textsc{Starrett, T.},
-  \textsc{Choo, J.}, \textsc{Music, E.}, \textsc{Sereika, S.}, \textsc{Stark,
-  S.}, and \textsc{Sevick, M.~A.}
+\bibitem[{Burke et~al.(2005)Burke, Warziski, Starrett, Choo, Music, Sereika,
+  Stark, and Sevick}]{burke_self-monitoring_2005}
+\textsc{Burke, LE}; \textsc{Warziski, M}; \textsc{Starrett, T}; \textsc{Choo,
+  J}; \textsc{Music, E}; \textsc{Sereika, S}; \textsc{Stark, S}; and
+  \textsc{Sevick, MA}.
 \newblock \enquote{Self-monitoring dietary intake: current and future
   practices.}
 \newblock \emph{Journal of Renal Nutrition: The Official Journal of the Council
-  on Renal Nutrition of the National Kidney Foundation}, volume~15(3):281--290
-  (July 2005).
+  on Renal Nutrition of the National Kidney Foundation}, 15(3):pages 281--290
+  (2005).
 \newblock {PMID:} 16007557.
 
-\bibitem[\protect\citename{Calle and Kaaks, }2004]{calle_overweight_2004}
-\textsc{Calle, E.~E.} and \textsc{Kaaks, R.}
+\bibitem[{Calle and Kaaks(2004)}]{calle_overweight_2004}
+\textsc{Calle, EE} and \textsc{Kaaks, R}.
 \newblock \enquote{Overweight, obesity and cancer: epidemiological evidence and
   proposed mechanisms.}
-\newblock \emph{Nature Reviews Cancer}, volume~4(8):579--591 (August 2004).
+\newblock \emph{Nature Reviews Cancer}, 4(8):pages 579--591 (2004).
 
-\bibitem[\protect\citename{Consolvo et~al., }2007]{consolvo_conducting_2007}
-\textsc{Consolvo, S.}, \textsc{Harrison, B.}, \textsc{Smith, I.}, \textsc{Chen,
-  M.~Y.}, \textsc{Everitt, K.}, \textsc{Froehlich, J.}, and \textsc{Landay,
-  J.~A.}
-\newblock \enquote{Conducting In Situ Evaluations for and With Ubiquitous
-  Computing Technologies.}
+\bibitem[{Comber et~al.(2012)Comber, Weeden, Hoare, Lindsay, Teal, Macdonald,
+  Methven, Moynihan, and Olivier}]{comber_supporting_2012}
+\textsc{Comber, R}; \textsc{Weeden, J}; \textsc{Hoare, J}; \textsc{Lindsay, S};
+  \textsc{Teal, G}; \textsc{Macdonald, A}; \textsc{Methven, L};
+  \textsc{Moynihan, P}; and \textsc{Olivier, P}.
+\newblock \enquote{Supporting visual assessment of food and nutrient intake in
+  a clinical care setting.}
+\newblock In \emph{Proceedings of the 2012 {ACM} annual conference on Human
+  Factors in Computing Systems}, {CHI} '12, page 919–922. {ACM}, New York,
+  {NY}, {USA} (2012).
+
+\bibitem[{Consolvo et~al.(2007)Consolvo, Harrison, Smith, Chen, Everitt,
+  Froehlich, and Landay}]{consolvo_conducting_2007}
+\textsc{Consolvo, S}; \textsc{Harrison, B}; \textsc{Smith, I}; \textsc{Chen,
+  MY}; \textsc{Everitt, K}; \textsc{Froehlich, J}; and \textsc{Landay, JA}.
+\newblock \enquote{Conducting in situ evaluations for and with ubiquitous
+  computing technologies.}
 \newblock \emph{International Journal of Human-Computer Interaction},
-  volume~22(1-2):103--118 (2007).
+  22(1-2):pages 103--118 (2007).
 
-\bibitem[\protect\citename{Consolvo et~al., }2008]{consolvo_flowers_2008}
-\textsc{Consolvo, S.}, \textsc{Klasnja, P.}, \textsc{{McDonald}, D.~W.},
-  \textsc{Avrahami, D.}, \textsc{Froehlich, J.}, \textsc{{LeGrand}, L.},
-  \textsc{Libby, R.}, \textsc{Mosher, K.}, and \textsc{Landay, J.~A.}
+\bibitem[{Consolvo et~al.(2008)Consolvo, Klasnja, {McDonald}, Avrahami,
+  Froehlich, {LeGrand}, Libby, Mosher, and Landay}]{consolvo_flowers_2008}
+\textsc{Consolvo, S}; \textsc{Klasnja, P}; \textsc{{McDonald}, DW};
+  \textsc{Avrahami, D}; \textsc{Froehlich, J}; \textsc{{LeGrand}, L};
+  \textsc{Libby, R}; \textsc{Mosher, K}; and \textsc{Landay, JA}.
 \newblock \enquote{Flowers or a robot army?: encouraging awareness
   {\textbackslash}\& activity with personal, mobile displays.}
-\newblock In \enquote{Proceedings of the 10th international conference on
-  Ubiquitous computing,} (pages 54--63). {ACM}, Seoul, Korea (2008).
+\newblock In \emph{Proceedings of the 10th international conference on
+  Ubiquitous computing}, pages 54--63. {ACM}, Seoul, Korea (2008).
 
-\bibitem[\protect\citename{Consolvo et~al., }2009]{consolvo_goal-setting_2009}
-\textsc{Consolvo, S.}, \textsc{Klasnja, P.}, \textsc{{McDonald}, D.~W.}, and
-  \textsc{Landay, J.~A.}
+\bibitem[{Consolvo et~al.(2009)Consolvo, Klasnja, {McDonald}, and
+  Landay}]{consolvo_goal-setting_2009}
+\textsc{Consolvo, S}; \textsc{Klasnja, P}; \textsc{{McDonald}, DW}; and
+  \textsc{Landay, JA}.
 \newblock \enquote{Goal-setting considerations for persuasive technologies that
   encourage physical activity.}
-\newblock In \enquote{Proceedings of the 4th International Conference on
-  Persuasive Technology,} (pages 1--8). {ACM}, Claremont, California (2009).
+\newblock In \emph{Proceedings of the 4th International Conference on
+  Persuasive Technology}, pages 1--8. {ACM}, Claremont, California (2009).
 
-\bibitem[\protect\citename{Cox and Mela, }2000]{Cox2000}
-\textsc{Cox, D.~N.} and \textsc{Mela, D.~J.}
+\bibitem[{Cox and Mela(2000)}]{Cox2000}
+\textsc{Cox, DN} and \textsc{Mela, DJ}.
 \newblock \enquote{{Determination of energy density of freely selected diets:
   methodological issues and implications}.}
-\newblock \emph{International Journal of Obesity}, volume~24(1):49--54 (January
-  2000).
+\newblock \emph{International Journal of Obesity}, 24(1):pages 49--54 (2000).
 
-\bibitem[\protect\citename{Cullen et~al., }2001]{cullen_using_2001}
-\textsc{Cullen, K.~W.}, \textsc{Baranowski, T.}, and \textsc{Smith, S.~P.}
+\bibitem[{Cullen et~al.(2001)Cullen, Baranowski, and Smith}]{cullen_using_2001}
+\textsc{Cullen, KW}; \textsc{Baranowski, T}; and \textsc{Smith, SP}.
 \newblock \enquote{Using goal setting as a strategy for dietary behavior
   change.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  101(5):562--566 (May 2001).
+\newblock \emph{Journal of the American Dietetic Association}, 101(5):pages
+  562--566 (2001).
 
-\bibitem[\protect\citename{Denning et~al., }2009]{denning_balance:_2009}
-\textsc{Denning, T.}, \textsc{Andrew, A.}, \textsc{Chaudhri, R.},
-  \textsc{Hartung, C.}, \textsc{Lester, J.}, \textsc{Borriello, G.}, and
-  \textsc{Duncan, G.}
-\newblock \enquote{{BALANCE:} Towards a usable pervasive wellness application
+\bibitem[{de~Silva and Aizawa(2011)}]{de_silva_clustering_2011}
+\textsc{de~Silva, GC} and \textsc{Aizawa, K}.
+\newblock \enquote{Clustering meal images in a web-based dietary management
+  system.}
+\newblock In \emph{2011 {IEEE} International Conference on Multimedia and Expo
+  {(ICME)}}, pages 1--6. {IEEE} (2011).
+
+\bibitem[{Denning et~al.(2009)Denning, Andrew, Chaudhri, Hartung, Lester,
+  Borriello, and Duncan}]{denning_balance:_2009}
+\textsc{Denning, T}; \textsc{Andrew, A}; \textsc{Chaudhri, R}; \textsc{Hartung,
+  C}; \textsc{Lester, J}; \textsc{Borriello, G}; and \textsc{Duncan, G}.
+\newblock \enquote{{BALANCE:} towards a usable pervasive wellness application
   with accurate activity inference.}
-\newblock In \enquote{Proceedings of the 10th workshop on Mobile Computing
-  Systems and Applications,} (pages 1--6). {ACM}, Santa Cruz, California
-  (2009).
+\newblock In \emph{Proceedings of the 10th workshop on Mobile Computing Systems
+  and Applications}, pages 1--6. {ACM}, Santa Cruz, California (2009).
 
-\bibitem[\protect\citename{Dewalt et~al., }2009]{dewalt_goal_2009}
-\textsc{Dewalt, D.~A.}, \textsc{Davis, T.~C.}, \textsc{Wallace, A.~S.},
-  \textsc{Seligman, H.~K.}, \textsc{Bryant-Shilliday, B.}, \textsc{Arnold,
-  C.~L.}, \textsc{Freburger, J.}, and \textsc{Schillinger, D.}
+\bibitem[{Dewalt et~al.(2009)Dewalt, Davis, Wallace, Seligman,
+  Bryant-Shilliday, Arnold, Freburger, and Schillinger}]{dewalt_goal_2009}
+\textsc{Dewalt, DA}; \textsc{Davis, TC}; \textsc{Wallace, AS};
+  \textsc{Seligman, HK}; \textsc{Bryant-Shilliday, B}; \textsc{Arnold, CL};
+  \textsc{Freburger, J}; and \textsc{Schillinger, D}.
 \newblock \enquote{Goal setting in diabetes self-management: Taking the baby
   steps to success.}
-\newblock \emph{Patient Education and Counseling} (April 2009).
+\newblock \emph{Patient Education and Counseling} (2009).
 \newblock {PMID:} 19359123.
 
-\bibitem[\protect\citename{Duncan et~al., }2001]{Duncan2001}
-\textsc{Duncan, G.~E.}, \textsc{Sydeman, S.~J.}, \textsc{Perri, M.~G.},
-  \textsc{Limacher, M.~C.}, and \textsc{Martin, A.~D.}
+\bibitem[{Duncan et~al.(2001)Duncan, Sydeman, Perri, Limacher, and
+  Martin}]{Duncan2001}
+\textsc{Duncan, GE}; \textsc{Sydeman, SJ}; \textsc{Perri, MG};
+  \textsc{Limacher, MC}; and \textsc{Martin, AD}.
 \newblock \enquote{{Can sedentary adults accurately recall the intensity of
   their physical activity?}}
-\newblock \emph{Preventive medicine}, volume~33(1):18--26 (July 2001).
+\newblock \emph{Preventive medicine}, 33(1):pages 18--26 (2001).
 
-\bibitem[\protect\citename{Fogg, }2002]{Fogg2002}
-\textsc{Fogg, B.}
+\bibitem[{Fogg(2002)}]{Fogg2002}
+\textsc{Fogg, B}.
 \newblock \emph{{Persuasive Technology: Using Computers to Change What We Think
   and Do (Interactive Technologies)}}.
 \newblock Morgan Kaufmann, 1 edition (2002).
 
-\bibitem[\protect\citename{Furst et~al., }1996]{furst_food_1996}
-\textsc{Furst, T.}, \textsc{Connors, M.}, \textsc{Bisogni, C.~A.},
-  \textsc{Sobal, J.}, and \textsc{Falk, L.~W.}
+\bibitem[{Furst et~al.(1996)Furst, Connors, Bisogni, Sobal, and
+  Falk}]{furst_food_1996}
+\textsc{Furst, T}; \textsc{Connors, M}; \textsc{Bisogni, CA}; \textsc{Sobal,
+  J}; and \textsc{Falk, LW}.
 \newblock \enquote{{Food Choice: A Conceptual Model of the Process,}.}
-\newblock \emph{Appetite}, volume~26(3):247--266 (June 1996).
+\newblock \emph{Appetite}, 26(3):pages 247--266 (1996).
 
-\bibitem[\protect\citename{Gibson, }2000]{Gibson2000}
-\textsc{Gibson, S.~A.}
+\bibitem[{Gibson(2000)}]{Gibson2000}
+\textsc{Gibson, SA}.
 \newblock \enquote{{Associations between energy density and macronutrient
   composition in the diets of pre-school children: sugars vs starch}.}
-\newblock \emph{International Journal of Obesity}, volume~24(5):633--638 (May
-  2000).
+\newblock \emph{International Journal of Obesity}, 24(5):pages 633--638 (2000).
 
-\bibitem[\protect\citename{Glanz et~al., }2006]{glanz_improving_2006}
-\textsc{Glanz, K.}, \textsc{Murphy, S.}, \textsc{Moylan, J.}, \textsc{Evensen,
-  D.}, and \textsc{Curb, J.~D.}
+\bibitem[{Glanz et~al.(2006)Glanz, Murphy, Moylan, Evensen, and
+  Curb}]{glanz_improving_2006}
+\textsc{Glanz, K}; \textsc{Murphy, S}; \textsc{Moylan, J}; \textsc{Evensen, D};
+  and \textsc{Curb, JD}.
 \newblock \enquote{Improving dietary self-monitoring and adherence with
   hand-held computers: a pilot study.}
-\newblock \emph{American Journal of Health Promotion: {AJHP}},
-  volume~20(3):165--170 (February 2006).
+\newblock \emph{American Journal of Health Promotion: {AJHP}}, 20(3):pages
+  165--170 (2006).
 \newblock {PMID:} 16422134.
 
-\bibitem[\protect\citename{Greaves et~al., }2011]{greaves_systematic_2011}
-\textsc{Greaves, C.~J.}, \textsc{Sheppard, K.~E.}, \textsc{Abraham, C.},
-  \textsc{Hardeman, W.}, \textsc{Roden, M.}, \textsc{Evans, P.~H.}, and
-  \textsc{Schwarz, P.}
+\bibitem[{Greaves et~al.(2011)Greaves, Sheppard, Abraham, Hardeman, Roden,
+  Evans, and Schwarz}]{greaves_systematic_2011}
+\textsc{Greaves, CJ}; \textsc{Sheppard, KE}; \textsc{Abraham, C};
+  \textsc{Hardeman, W}; \textsc{Roden, M}; \textsc{Evans, PH}; and
+  \textsc{Schwarz, P}.
 \newblock \enquote{Systematic review of reviews of intervention components
   associated with increased effectiveness in dietary and physical activity
   interventions.}
-\newblock \emph{{BMC} public health}, volume~11:119 (2011).
+\newblock \emph{{BMC} public health}, 11:page 119 (2011).
 \newblock {PMID:} 21333011.
 
-\bibitem[\protect\citename{Guenther et~al.,
-  }2008{\natexlab{a}}]{guenther_development_2008}
-\textsc{Guenther, P.~M.}, \textsc{Reedy, J.}, and \textsc{Krebs-Smith, S.~M.}
-\newblock \enquote{Development of the Healthy Eating Index-2005.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  108(11):1896--1901 (November 2008{\natexlab{a}}).
+\bibitem[{Guenther et~al.(2008{\natexlab{a}})Guenther, Reedy, and
+  Krebs-Smith}]{guenther_development_2008}
+\textsc{Guenther, PM}; \textsc{Reedy, J}; and \textsc{Krebs-Smith, SM}.
+\newblock \enquote{Development of the healthy eating index-2005.}
+\newblock \emph{Journal of the American Dietetic Association}, 108(11):pages
+  1896--1901 (2008{\natexlab{a}}).
 
-\bibitem[\protect\citename{Guenther et~al.,
-  }2008{\natexlab{b}}]{guenther_evaluation_2008}
-\textsc{Guenther, P.~M.}, \textsc{Reedy, J.}, \textsc{Krebs-Smith, S.~M.}, and
-  \textsc{Reeve, B.~B.}
-\newblock \enquote{Evaluation of the Healthy Eating Index-2005.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  108(11):1854--1864 (November 2008{\natexlab{b}}).
+\bibitem[{Guenther et~al.(2008{\natexlab{b}})Guenther, Reedy, Krebs-Smith, and
+  Reeve}]{guenther_evaluation_2008}
+\textsc{Guenther, PM}; \textsc{Reedy, J}; \textsc{Krebs-Smith, SM}; and
+  \textsc{Reeve, BB}.
+\newblock \enquote{Evaluation of the healthy eating index-2005.}
+\newblock \emph{Journal of the American Dietetic Association}, 108(11):pages
+  1854--1864 (2008{\natexlab{b}}).
 
-\bibitem[\protect\citename{Guh et~al., }2009]{guh_incidence_2009}
-\textsc{Guh, D.}, \textsc{Zhang, W.}, \textsc{Bansback, N.}, \textsc{Amarsi,
-  Z.}, \textsc{Birmingham, C.}, and \textsc{Anis, A.}
+\bibitem[{Guh et~al.(2009)Guh, Zhang, Bansback, Amarsi, Birmingham, and
+  Anis}]{guh_incidence_2009}
+\textsc{Guh, D}; \textsc{Zhang, W}; \textsc{Bansback, N}; \textsc{Amarsi, Z};
+  \textsc{Birmingham, C}; and \textsc{Anis, A}.
 \newblock \enquote{The incidence of co-morbidities related to obesity and
   overweight: A systematic review and meta-analysis.}
-\newblock \emph{{BMC} Public Health}, volume~9 (2009).
+\newblock \emph{{BMC} Public Health}, 9 (2009).
 
-\bibitem[\protect\citename{Hill, }2006]{Hill2006}
-\textsc{Hill, J.~O.}
+\bibitem[{Hart(2006)}]{Hart2006}
+\textsc{Hart, SG}.
+\newblock \enquote{{Nasa-Task Load Index (NASA-TLX); 20 Years Later}.}
+\newblock \emph{Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 50(9):pages 904--908 (2006).
+
+\bibitem[{Hill(2006)}]{Hill2006}
+\textsc{Hill, JO}.
 \newblock \enquote{{Understanding and addressing the epidemic of obesity: an
   energy balance perspective.}}
-\newblock \emph{Endocrine reviews}, volume~27(7):750--61 (December 2006).
+\newblock \emph{Endocrine reviews}, 27(7):pages 750--61 (2006).
 
-\bibitem[\protect\citename{Hu et~al., }2001]{Hu2001}
-\textsc{Hu, F.~B.}, \textsc{van Dam, R.~M.}, and \textsc{Liu, S.}
+\bibitem[{Hu et~al.(2001)Hu, van Dam, and Liu}]{Hu2001}
+\textsc{Hu, FB}; \textsc{van Dam, RM}; and \textsc{Liu, S}.
 \newblock \enquote{{Diet and risk of Type II diabetes: the role of types of fat
   and carbohydrate.}}
-\newblock \emph{Diabetologia}, volume~44(7):805--17 (July 2001).
+\newblock \emph{Diabetologia}, 44(7):pages 805--17 (2001).
 
-\bibitem[\protect\citename{Hughes, }2010]{hughes_balance_2010}
-\textsc{Hughes, D.}
-\newblock \emph{The {BALANCE} Study {(Bioengineering} Approaches to Lifestyle
-  Activity and Nutrition Continuous Engagement): Using the Design-Feedback
-  Iterative Cycle to Improve Methods for Measuring Energy Intake via Electronic
-  Food Diary}.
+\bibitem[{Hughes(2010)}]{hughes_balance_2010}
+\textsc{Hughes, D}.
+\newblock \enquote{The {BALANCE} study {(Bioengineering} approaches to
+  lifestyle activity and nutrition continuous engagement): Using the
+  design-feedback iterative cycle to improve methods for measuring energy
+  intake via electronic food diary.}
 \newblock {MS} thesis, University of Washington, Seattle, {WA} (2010).
 
-\bibitem[\protect\citename{Hughes et~al., }2009]{hughes_balance:_2009}
-\textsc{Hughes, D.~C.}, \textsc{Andrew, A.}, \textsc{Chaudhri, R.},
-  \textsc{Denning, T.}, \textsc{Hartung, C.}, \textsc{Hurvitz, P.},
-  \textsc{Lester, J.}, \textsc{Beresford, S.}, \textsc{Borriello, G.},
-  \textsc{Bruemmer, B.}, \textsc{Moudon, A.~V.}, and \textsc{Duncan, G.~E.}
-\newblock \enquote{{BALANCE:} Bioengineering Approaches For Lifestyle Activity
-  And Nutrition Continuous Engagement.}
-\newblock \emph{Medicine \& Science in Sports \& Exercise},
-  volume~41(Supplement 1):45--46 (May 2009).
+\bibitem[{Hughes et~al.(2009)Hughes, Andrew, Chaudhri, Denning, Hartung,
+  Hurvitz, Lester, Beresford, Borriello, Bruemmer, Moudon, and
+  Duncan}]{hughes_balance:_2009}
+\textsc{Hughes, DC}; \textsc{Andrew, A}; \textsc{Chaudhri, R}; \textsc{Denning,
+  T}; \textsc{Hartung, C}; \textsc{Hurvitz, P}; \textsc{Lester, J};
+  \textsc{Beresford, S}; \textsc{Borriello, G}; \textsc{Bruemmer, B};
+  \textsc{Moudon, AV}; and \textsc{Duncan, GE}.
+\newblock \enquote{{BALANCE:} bioengineering approaches for lifestyle activity
+  and nutrition continuous engagement.}
+\newblock \emph{Medicine \& Science in Sports \& Exercise}, 41(Supplement
+  1):pages 45--46 (2009).
 
-\bibitem[\protect\citename{Intille et~al., }2003]{intille_just--time_2003}
-\textsc{Intille, S.}, \textsc{Kukla, C.}, \textsc{Farzanfar, R.}, and
-  \textsc{Bakr, W.}
+\bibitem[{Intille et~al.(2003)Intille, Kukla, Farzanfar, and
+  Bakr}]{intille_just--time_2003}
+\textsc{Intille, S}; \textsc{Kukla, C}; \textsc{Farzanfar, R}; and
+  \textsc{Bakr, W}.
 \newblock \enquote{Just-in-time technology to encourage incremental, dietary
   behavior change.}
-\newblock In \enquote{American Medical Informatics Association {(AMIA)}
-  Symposium,}  (2003).
+\newblock In \emph{American Medical Informatics Association {(AMIA)} Symposium}
+  (2003).
 
-\bibitem[\protect\citename{Jastran et~al., }2009]{jastran_eating_2009}
-\textsc{Jastran, M.~M.}, \textsc{Bisogni, C.~A.}, \textsc{Sobal, J.},
-  \textsc{Blake, C.}, and \textsc{Devine, C.~M.}
-\newblock \enquote{Eating routines. Embedded, value based, modifiable, and
+\bibitem[{Jastran et~al.(2009)Jastran, Bisogni, Sobal, Blake, and
+  Devine}]{jastran_eating_2009}
+\textsc{Jastran, MM}; \textsc{Bisogni, CA}; \textsc{Sobal, J}; \textsc{Blake,
+  C}; and \textsc{Devine, CM}.
+\newblock \enquote{Eating routines. embedded, value based, modifiable, and
   reflective.}
-\newblock \emph{Appetite}, volume~52(1):127--136 (February 2009).
+\newblock \emph{Appetite}, 52(1):pages 127--136 (2009).
 
-\bibitem[\protect\citename{Kanfer, }1970]{kanfer_self-monitoring:_1970}
-\textsc{Kanfer, F.~H.}
+\bibitem[{Jia et~al.(2009)Jia, Zhao, Yao, Fernstrom, Fernstrom, Sclabassi, and
+  Sun}]{wenyan_jia_food_2009}
+\textsc{Jia, W}; \textsc{Zhao, R}; \textsc{Yao, N}; \textsc{Fernstrom, JD};
+  \textsc{Fernstrom, MH}; \textsc{Sclabassi, RJ}; and \textsc{Sun, M}.
+\newblock \enquote{A food portion size measurement system for image-based
+  dietary assessment.}
+\newblock In \emph{Bioengineering Conference, 2009 {IEEE} 35th Annual
+  Northeast}, pages 1--2. {IEEE} (2009).
+
+\bibitem[{Kanfer(1970)}]{kanfer_self-monitoring:_1970}
+\textsc{Kanfer, FH}.
 \newblock \enquote{Self-monitoring: Methodological limitations and clinical
   applications.}
-\newblock \emph{Journal of Consulting and Clinical Psychology},
-  volume~35(2):148--152 (October 1970).
+\newblock \emph{Journal of Consulting and Clinical Psychology}, 35(2):pages
+  148--152 (1970).
 
-\bibitem[\protect\citename{Kant, }1996]{kant_indexes_1996}
-\textsc{Kant, A.~K.}
-\newblock \enquote{Indexes of Overall Diet Quality: A Review.}
-\newblock \emph{Journal of the American Dietetic Association},
-  volume~96(8):785--791 (August 1996).
+\bibitem[{Kant(1996)}]{kant_indexes_1996}
+\textsc{Kant, AK}.
+\newblock \enquote{Indexes of overall diet quality: A review.}
+\newblock \emph{Journal of the American Dietetic Association}, 96(8):pages
+  785--791 (1996).
 
-\bibitem[\protect\citename{Kant, }2004]{kant_dietary_2004}
-\textsc{Kant, A.~K.}
+\bibitem[{Kant(2004)}]{kant_dietary_2004}
+\textsc{Kant, AK}.
 \newblock \enquote{Dietary patterns and health outcomes.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  104(4):615--635 (April 2004).
+\newblock \emph{Journal of the American Dietetic Association}, 104(4):pages
+  615--635 (2004).
 
-\bibitem[\protect\citename{Kant, }2010]{kant_dietary_2010}
-\textsc{Kant, A.~K.}
+\bibitem[{Kant(2010)}]{kant_dietary_2010}
+\textsc{Kant, AK}.
 \newblock \enquote{Dietary patterns: biomarkers and chronic disease {riskThis}
   paper is one of a selection of papers published in the {CSCN–CSNS} 2009
-  Conference, entitled Are dietary patterns the best way to make nutrition
+  conference, entitled are dietary patterns the best way to make nutrition
   recommendations for chronic disease prevention?}
-\newblock \emph{Applied Physiology, Nutrition, and Metabolism},
-  volume~35(2):199--206 (April 2010).
+\newblock \emph{Applied Physiology, Nutrition, and Metabolism}, 35(2):pages
+  199--206 (2010).
 
-\bibitem[\protect\citename{Kennedy et~al., }1995]{kennedy_healthy_1995}
-\textsc{Kennedy, E.~T.}, \textsc{Ohls, J.}, \textsc{Carlson, S.}, and
-  \textsc{Fleming, K.}
-\newblock \enquote{The Healthy Eating Index: Design and Applications.}
-\newblock \emph{Journal of the American Dietetic Association},
-  volume~95(10):1103--1108 (October 1995).
+\bibitem[{Kennedy et~al.(1995)Kennedy, Ohls, Carlson, and
+  Fleming}]{kennedy_healthy_1995}
+\textsc{Kennedy, ET}; \textsc{Ohls, J}; \textsc{Carlson, S}; and
+  \textsc{Fleming, K}.
+\newblock \enquote{The healthy eating index: Design and applications.}
+\newblock \emph{Journal of the American Dietetic Association}, 95(10):pages
+  1103--1108 (1995).
 
-\bibitem[\protect\citename{Kerren et~al., }2007]{Kerren2007}
-\textsc{Kerren, A.}, \textsc{Ebert, A.}, and \textsc{Meyer, J.} (editors).
+\bibitem[{Kerren et~al.(2007)Kerren, Ebert, and Meyer}]{Kerren2007}
+\textsc{Kerren, A}; \textsc{Ebert, A}; and \textsc{Meyer, J} (editors).
 \newblock \emph{{Human-Centered Visualization Environments}}, volume 4417 of
   \emph{Lecture Notes in Computer Science}.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg (2007).
 
-\bibitem[\protect\citename{Kimokoti and Millen, }2011]{kimokoti_diet_2011}
-\textsc{Kimokoti, R.~W.} and \textsc{Millen, B.~E.}
-\newblock \enquote{Diet, the Global Obesity Epidemic, and Prevention.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  111(8):1137--1140 (August 2011).
+\bibitem[{Kim et~al.(2010)Kim, Schap, Bosch, Maciejewski, Delp, Ebert, and
+  Boushey}]{kim_development_2010}
+\textsc{Kim, S}; \textsc{Schap, T}; \textsc{Bosch, M}; \textsc{Maciejewski, R};
+  \textsc{Delp, EJ}; \textsc{Ebert, DS}; and \textsc{Boushey, CJ}.
+\newblock \enquote{Development of a mobile user interface for image-based
+  dietary assessment.}
+\newblock In \emph{Proceedings of the 9th International Conference on Mobile
+  and Ubiquitous Multimedia}, {MUM} '10, page 13:1–13:7. {ACM}, New York,
+  {NY}, {USA} (2010).
 
-\bibitem[\protect\citename{Kitamura et~al., }2010]{kitamura_image_2010}
-\textsc{Kitamura, K.}, \textsc{de~Silva, C.}, \textsc{Yamasaki, T.}, and
-  \textsc{Aizawa, K.}
+\bibitem[{Kimokoti and Millen(2011)}]{kimokoti_diet_2011}
+\textsc{Kimokoti, RW} and \textsc{Millen, BE}.
+\newblock \enquote{Diet, the global obesity epidemic, and prevention.}
+\newblock \emph{Journal of the American Dietetic Association}, 111(8):pages
+  1137--1140 (2011).
+
+\bibitem[{Kitamura et~al.(2010)Kitamura, de~Silva, Yamasaki, and
+  Aizawa}]{kitamura_image_2010}
+\textsc{Kitamura, K}; \textsc{de~Silva, C}; \textsc{Yamasaki, T}; and
+  \textsc{Aizawa, K}.
 \newblock \enquote{Image processing based approach to food balance analysis for
   personal food logging.}
-\newblock In \enquote{2010 {IEEE} International Conference on Multimedia and
-  Expo {(ICME)},} (pages 625--630). {IEEE} (July 2010).
+\newblock In \emph{2010 {IEEE} International Conference on Multimedia and Expo
+  {(ICME)}}, pages 625--630. {IEEE} (2010).
 
-\bibitem[\protect\citename{Kitamura et~al., }2009]{kitamura_foodlog:_2009}
-\textsc{Kitamura, K.}, \textsc{Yamasaki, T.}, and \textsc{Aizawa, K.}
+\bibitem[{Kitamura et~al.(2009)Kitamura, Yamasaki, and
+  Aizawa}]{kitamura_foodlog:_2009}
+\textsc{Kitamura, K}; \textsc{Yamasaki, T}; and \textsc{Aizawa, K}.
 \newblock \enquote{{FoodLog:} capture, analysis and retrieval of personal food
   images via web.}
-\newblock In \enquote{Proceedings of the {ACM} multimedia 2009 workshop on
-  Multimedia for cooking and eating activities,} {CEA} '09, (page 23–30).
+\newblock In \emph{Proceedings of the {ACM} multimedia 2009 workshop on
+  Multimedia for cooking and eating activities}, {CEA} '09, page 23–30.
   {ACM}, New York, {NY}, {USA} (2009).
 
-\bibitem[\protect\citename{Klasnja et~al., }2011]{klasnja_how_2011}
-\textsc{Klasnja, P.}, \textsc{Consolvo, S.}, and \textsc{Pratt, W.}
+\bibitem[{Klasnja et~al.(2011)Klasnja, Consolvo, and Pratt}]{klasnja_how_2011}
+\textsc{Klasnja, P}; \textsc{Consolvo, S}; and \textsc{Pratt, W}.
 \newblock \enquote{How to evaluate technologies for health behavior change in
   {HCI} research.}
-\newblock In \enquote{Proceedings of the 2011 annual conference on Human
-  factors in computing systems,} (page 3063). {ACM} Press, New York, {NY},
-  {USA} (2011).
+\newblock In \emph{Proceedings of the 2011 annual conference on Human factors
+  in computing systems}, page 3063. {ACM} Press, New York, {NY}, {USA} (2011).
 
-\bibitem[\protect\citename{Koskinen and Salminen,
-  }2007]{koskinen_customizable_2007}
-\textsc{Koskinen, E.} and \textsc{Salminen, J.}
+\bibitem[{Kong and Tan(2011{\natexlab{a}})}]{fanyu_kong_dietcam:_2011}
+\textsc{Kong, F} and \textsc{Tan, J}.
+\newblock \enquote{{DietCam:} regular shape food recognition with a camera
+  phone.}
+\newblock In \emph{2011 International Conference on Body Sensor Networks
+  {(BSN)}}, pages 127--132. {IEEE} (2011{\natexlab{a}}).
+
+\bibitem[{Kong and Tan(2011{\natexlab{b}})}]{Kong2011}
+\textsc{Kong, F} and \textsc{Tan, J}.
+\newblock \enquote{{DietCam: Regular Shape Food Recognition with a Camera
+  Phone}.}
+\newblock In \emph{2011 International Conference on Body Sensor Networks},
+  pages 127--132. IEEE (2011{\natexlab{b}}).
+
+\bibitem[{Koskinen and Salminen(2007)}]{koskinen_customizable_2007}
+\textsc{Koskinen, E} and \textsc{Salminen, J}.
 \newblock \enquote{A customizable mobile tool for supporting health behavior
   interventions.}
-\newblock In \enquote{Engineering in Medicine and Biology Society, 2007. {EMBS}
-  2007. 29th Annual International Conference of the {IEEE},} (pages 5907--5910)
+\newblock In \emph{Engineering in Medicine and Biology Society, 2007. {EMBS}
+  2007. 29th Annual International Conference of the {IEEE}}, pages 5907--5910
   (2007).
 
-\bibitem[\protect\citename{Kourlaba and Panagiotakos,
-  }2009]{kourlaba_dietary_2009}
-\textsc{Kourlaba, G.} and \textsc{Panagiotakos, D.~B.}
+\bibitem[{Kourlaba and Panagiotakos(2009)}]{kourlaba_dietary_2009}
+\textsc{Kourlaba, G} and \textsc{Panagiotakos, DB}.
 \newblock \enquote{Dietary quality indices and human health: A review.}
-\newblock \emph{Maturitas}, volume~62(1):1--8 (January 2009).
+\newblock \emph{Maturitas}, 62(1):pages 1--8 (2009).
 
-\bibitem[\protect\citename{Kuczmarski et~al., }2010]{kuczmarski_higher_2010}
-\textsc{Kuczmarski, M.~F.}, \textsc{Cremer~Sees, A.}, \textsc{Hotchkiss, L.},
-  \textsc{Cotugna, N.}, \textsc{Evans, M.~K.}, and \textsc{Zonderman, A.~B.}
-\newblock \enquote{Higher Healthy Eating Index-2005 Scores Associated with
-  Reduced Symptoms of Depression in an Urban Population: Findings from the
-  Healthy Aging in Neighborhoods of Diversity Across the Life Span {(HANDLS)}
-  Study.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  110(3):383--389 (March 2010).
+\bibitem[{Kuczmarski et~al.(2010)Kuczmarski, Cremer~Sees, Hotchkiss, Cotugna,
+  Evans, and Zonderman}]{kuczmarski_higher_2010}
+\textsc{Kuczmarski, MF}; \textsc{Cremer~Sees, A}; \textsc{Hotchkiss, L};
+  \textsc{Cotugna, N}; \textsc{Evans, MK}; and \textsc{Zonderman, AB}.
+\newblock \enquote{Higher healthy eating index-2005 scores associated with
+  reduced symptoms of depression in an urban population: Findings from the
+  healthy aging in neighborhoods of diversity across the life span {(HANDLS)}
+  study.}
+\newblock \emph{Journal of the American Dietetic Association}, 110(3):pages
+  383--389 (2010).
 
-\bibitem[\protect\citename{Lester et~al., }2009]{lester_validated_2009}
-\textsc{Lester, J.}, \textsc{Hartung, C.}, \textsc{Pina, L.}, \textsc{Libby,
-  R.}, \textsc{Borriello, G.}, and \textsc{Duncan, G.}
+\bibitem[{Lester et~al.(2009)Lester, Hartung, Pina, Libby, Borriello, and
+  Duncan}]{lester_validated_2009}
+\textsc{Lester, J}; \textsc{Hartung, C}; \textsc{Pina, L}; \textsc{Libby, R};
+  \textsc{Borriello, G}; and \textsc{Duncan, G}.
 \newblock \enquote{Validated caloric expenditure estimation using a single
   body-worn sensor.}
-\newblock In \enquote{Proceedings of the 11th international conference on
-  Ubiquitous computing - Ubicomp '09,} (page 225). Orlando, Florida, {USA}
+\newblock In \emph{Proceedings of the 11th international conference on
+  Ubiquitous computing - Ubicomp '09}, page 225. Orlando, Florida, {USA}
   (2009).
 
-\bibitem[\protect\citename{Lewis, }1995]{lewis_ibm_1995}
-\textsc{Lewis, J.~R.}
+\bibitem[{Lewis(1995)}]{lewis_ibm_1995}
+\textsc{Lewis, JR}.
 \newblock \enquote{{IBM} computer usability satisfaction questionnaires:
   Psychometric evaluation and instructions for use.}
 \newblock \emph{International Journal of Human-Computer Interaction},
-  volume~7(1):57--78 (1995).
+  7(1):pages 57--78 (1995).
 
-\bibitem[\protect\citename{Lichtenstein et~al., }2006]{Lichtenstein2006}
-\textsc{Lichtenstein, A.~H.}, \textsc{Appel, L.~J.}, \textsc{Brands, M.},
-  \textsc{Carnethon, M.}, \textsc{Daniels, S.}, \textsc{Franch, H.~A.},
-  \textsc{Franklin, B.}, \textsc{Kris-Etherton, P.}, \textsc{Harris, W.~S.},
-  \textsc{Howard, B.}, \textsc{Karanja, N.}, \textsc{Lefevre, M.},
-  \textsc{Rudel, L.}, \textsc{Sacks, F.}, \textsc{{Van Horn}, L.},
-  \textsc{Winston, M.}, and \textsc{Wylie-Rosett, J.}
+\bibitem[{Lichtenstein et~al.(2006)Lichtenstein, Appel, Brands, Carnethon,
+  Daniels, Franch, Franklin, Kris-Etherton, Harris, Howard, Karanja, Lefevre,
+  Rudel, Sacks, {Van Horn}, Winston, and Wylie-Rosett}]{Lichtenstein2006}
+\textsc{Lichtenstein, AH}; \textsc{Appel, LJ}; \textsc{Brands, M};
+  \textsc{Carnethon, M}; \textsc{Daniels, S}; \textsc{Franch, HA};
+  \textsc{Franklin, B}; \textsc{Kris-Etherton, P}; \textsc{Harris, WS};
+  \textsc{Howard, B}; \textsc{Karanja, N}; \textsc{Lefevre, M}; \textsc{Rudel,
+  L}; \textsc{Sacks, F}; \textsc{{Van Horn}, L}; \textsc{Winston, M}; and
+  \textsc{Wylie-Rosett, J}.
 \newblock \enquote{{Diet and lifestyle recommendations revision 2006: a
   scientific statement from the American Heart Association Nutrition
   Committee.}}
-\newblock \emph{Circulation}, volume 114(1):82--96 (July 2006).
+\newblock \emph{Circulation}, 114(1):pages 82--96 (2006).
 
-\bibitem[\protect\citename{Livingstone et~al., }1990]{Livingstone1990}
-\textsc{Livingstone, M.~B.}, \textsc{Prentice, A.~M.}, \textsc{Strain, J.~J.},
-  \textsc{Coward, W.~A.}, \textsc{Black, A.~E.}, \textsc{Barker, M.~E.},
-  \textsc{McKenna, P.~G.}, and \textsc{Whitehead, R.~G.}
+\bibitem[{Livingstone et~al.(1990)Livingstone, Prentice, Strain, Coward, Black,
+  Barker, McKenna, and Whitehead}]{Livingstone1990}
+\textsc{Livingstone, MB}; \textsc{Prentice, AM}; \textsc{Strain, JJ};
+  \textsc{Coward, WA}; \textsc{Black, AE}; \textsc{Barker, ME};
+  \textsc{McKenna, PG}; and \textsc{Whitehead, RG}.
 \newblock \enquote{{Accuracy of weighed dietary records in studies of diet and
   health.}}
-\newblock \emph{BMJ (Clinical research ed)}, volume 300(6726):708--12 (March
-  1990).
+\newblock \emph{BMJ (Clinical research ed.)}, 300(6726):pages 708--12 (1990).
 
-\bibitem[\protect\citename{Locke and Latham, }2002]{locke_building_2002}
-\textsc{Locke, E.} and \textsc{Latham, G.}
-\newblock \enquote{Building a Practically Useful Theory of Goal Setting and
-  Task Motivation: A 35-Year Odyssey.}
-\newblock \emph{American Psychologist}, volume~57(9):705--17 (2002).
+\bibitem[{Locke and Latham(2002)}]{locke_building_2002}
+\textsc{Locke, E} and \textsc{Latham, G}.
+\newblock \enquote{Building a practically useful theory of goal setting and
+  task motivation: A 35-year odyssey.}
+\newblock \emph{American Psychologist}, 57(9):pages 705--17 (2002).
 
-\bibitem[\protect\citename{Löwik et~al., }1999]{lowik_food-based_1999}
-\textsc{Löwik, M.}, \textsc{Hulshof, K.}, and \textsc{Brussaard, J.}
+\bibitem[{Löwik et~al.(1999)Löwik, Hulshof, and
+  Brussaard}]{lowik_food-based_1999}
+\textsc{Löwik, M}; \textsc{Hulshof, K}; and \textsc{Brussaard, J}.
 \newblock \enquote{Food-based dietary guidelines: Some assumptions tested for
-  the Netherlands.}
-\newblock \emph{British Journal of Nutrition}, volume~81({SUPPL.} 2):S143--S149
+  the netherlands.}
+\newblock \emph{British Journal of Nutrition}, 81({SUPPL.} 2):pages S143--S149
   (1999).
 
-\bibitem[\protect\citename{Mamykina et~al., }2011]{mamykina_examining_2011}
-\textsc{Mamykina, L.}, \textsc{Miller, A.~D.}, \textsc{Grevet, C.},
-  \textsc{Medynskiy, Y.}, \textsc{Terry, M.~A.}, \textsc{Mynatt, E.~D.}, and
-  \textsc{Davidson, P.~R.}
+\bibitem[{Mamykina et~al.(2011)Mamykina, Miller, Grevet, Medynskiy, Terry,
+  Mynatt, and Davidson}]{mamykina_examining_2011}
+\textsc{Mamykina, L}; \textsc{Miller, AD}; \textsc{Grevet, C};
+  \textsc{Medynskiy, Y}; \textsc{Terry, MA}; \textsc{Mynatt, ED}; and
+  \textsc{Davidson, PR}.
 \newblock \enquote{Examining the impact of collaborative tagging on sensemaking
   in nutrition management.}
-\newblock In \enquote{Proceedings of the 2011 annual conference on Human
-  factors in computing systems,} {CHI} '11, (page 657–666). {ACM}, New York,
-  {NY}, {USA} (2011).
+\newblock In \emph{Proceedings of the 2011 annual conference on Human factors
+  in computing systems}, {CHI} '11, page 657–666. {ACM}, New York, {NY},
+  {USA} (2011).
 
-\bibitem[\protect\citename{Mamykina et~al., }2008]{mamykina_mahi:_2008}
-\textsc{Mamykina, L.}, \textsc{Mynatt, E.}, \textsc{Davidson, P.}, and
-  \textsc{Greenblatt, D.}
+\bibitem[{Mamykina et~al.(2008)Mamykina, Mynatt, Davidson, and
+  Greenblatt}]{mamykina_mahi:_2008}
+\textsc{Mamykina, L}; \textsc{Mynatt, E}; \textsc{Davidson, P}; and
+  \textsc{Greenblatt, D}.
 \newblock \enquote{{MAHI:} investigation of social scaffolding for reflective
   thinking in diabetes management.}
-\newblock In \enquote{Proceedings of the twenty-sixth annual {SIGCHI}
-  conference on Human factors in computing systems,} {CHI} '08, (page
-  477–486). {ACM}, New York, {NY}, {USA} (2008).
+\newblock In \emph{Proceedings of the twenty-sixth annual {SIGCHI} conference
+  on Human factors in computing systems}, {CHI} '08, page 477–486. {ACM}, New
+  York, {NY}, {USA} (2008).
 
-\bibitem[\protect\citename{Mattila et~al.,
-  }2008{\natexlab{a}}]{mattila_nuadu_2008}
-\textsc{Mattila, E.}, \textsc{Korhonen, I.}, \textsc{Lappalainen, R.},
-  \textsc{Ahtinen, A.}, \textsc{Hopsu, L.}, and \textsc{Leino, T.}
-\newblock \enquote{Nuadu Concept for personal management of lifestyle related
+\bibitem[{Mattila et~al.(2008{\natexlab{a}})Mattila, Korhonen, Lappalainen,
+  Ahtinen, Hopsu, and Leino}]{mattila_nuadu_2008}
+\textsc{Mattila, E}; \textsc{Korhonen, I}; \textsc{Lappalainen, R};
+  \textsc{Ahtinen, A}; \textsc{Hopsu, L}; and \textsc{Leino, T}.
+\newblock \enquote{Nuadu concept for personal management of lifestyle related
   health risks.}
-\newblock In \enquote{30th Annual International Conference of the {IEEE}
-  Engineering in Medicine and Biology Society, 2008,} (pages 5846--5850)
+\newblock In \emph{30th Annual International Conference of the {IEEE}
+  Engineering in Medicine and Biology Society, 2008}, pages 5846--5850
   (2008{\natexlab{a}}).
 
-\bibitem[\protect\citename{Mattila et~al.,
-  }2008{\natexlab{b}}]{mattila_mobile_2008}
-\textsc{Mattila, E.}, \textsc{Parkka, J.}, \textsc{Hermersdorf, M.},
-  \textsc{Kaasinen, J.}, \textsc{Vainio, J.}, \textsc{Samposalo, K.},
-  \textsc{Merilahti, J.}, \textsc{Kolari, J.}, \textsc{Kulju, M.},
-  \textsc{Lappalainen, R.}, and \textsc{Korhonen, I.}
-\newblock \enquote{Mobile Diary for Wellness {Management—Results} on Usage
-  and Usability in Two User Studies.}
+\bibitem[{Mattila et~al.(2008{\natexlab{b}})Mattila, Parkka, Hermersdorf,
+  Kaasinen, Vainio, Samposalo, Merilahti, Kolari, Kulju, Lappalainen, and
+  Korhonen}]{mattila_mobile_2008}
+\textsc{Mattila, E}; \textsc{Parkka, J}; \textsc{Hermersdorf, M};
+  \textsc{Kaasinen, J}; \textsc{Vainio, J}; \textsc{Samposalo, K};
+  \textsc{Merilahti, J}; \textsc{Kolari, J}; \textsc{Kulju, M};
+  \textsc{Lappalainen, R}; and \textsc{Korhonen, I}.
+\newblock \enquote{Mobile diary for wellness {Management—Results} on usage
+  and usability in two user studies.}
 \newblock \emph{Information Technology in Biomedicine, {IEEE} Transactions on},
-  volume~12(4):501--512 (2008{\natexlab{b}}).
+  12(4):pages 501--512 (2008{\natexlab{b}}).
 
-\bibitem[\protect\citename{Michie et~al., }2009]{michie_effective_2009}
-\textsc{Michie, S.}, \textsc{Abraham, C.}, \textsc{Whittington, C.},
-  \textsc{{McAteer}, J.}, and \textsc{Gupta, S.}
+\bibitem[{Mela and Aaron(1997)}]{mela_honest_1997}
+\textsc{Mela, DJ} and \textsc{Aaron, JL}.
+\newblock \enquote{Honest but invalid what subjects say about recording their
+  food intake.}
+\newblock \emph{Journal of the American Dietetic Association}, 97(7):pages
+  791--793 (1997).
+
+\bibitem[{Michie et~al.(2009)Michie, Abraham, Whittington, {McAteer}, and
+  Gupta}]{michie_effective_2009}
+\textsc{Michie, S}; \textsc{Abraham, C}; \textsc{Whittington, C};
+  \textsc{{McAteer}, J}; and \textsc{Gupta, S}.
 \newblock \enquote{Effective techniques in healthy eating and physical activity
   interventions: a meta-regression.}
 \newblock \emph{Health psychology: official journal of the Division of Health
-  Psychology, American Psychological Association}, volume~28(6):690--701
-  (November 2009).
+  Psychology, American Psychological Association}, 28(6):pages 690--701 (2009).
 \newblock {PMID:} 19916637.
 
-\bibitem[\protect\citename{Miller and Rollnick,
-  }2002{\natexlab{a}}]{miller_motivational_2002}
-\textsc{Miller, W.} and \textsc{Rollnick, S.}
+\bibitem[{Miller and Rollnick(2002{\natexlab{a}})}]{miller_motivational_2002}
+\textsc{Miller, W} and \textsc{Rollnick, S}.
 \newblock \emph{Motivational Interviewing: Preparing People for Change}.
 \newblock The Guilford Press, New York, {NY} (2002{\natexlab{a}}).
 
-\bibitem[\protect\citename{Miller and Rollnick,
-  }2002{\natexlab{b}}]{Miller2002}
-\textsc{Miller, W.~R.} and \textsc{Rollnick, S.~P.}
+\bibitem[{Miller and Rollnick(2002{\natexlab{b}})}]{Miller2002}
+\textsc{Miller, WR} and \textsc{Rollnick, SP}.
 \newblock \emph{{Motivational Interviewing, Second Edition: Preparing People
   for Change}}.
 \newblock Guilford Press (2002{\natexlab{b}}).
 
-\bibitem[\protect\citename{Mitchell et~al., }1996]{Mitchell1996}
-\textsc{Mitchell, D.~T.}, \textsc{Korslund, M.~K.}, \textsc{Brewer, B.~K.}, and
-  \textsc{Novascone, M.~A.}
+\bibitem[{Mitchell et~al.(1996)Mitchell, Korslund, Brewer, and
+  Novascone}]{Mitchell1996}
+\textsc{Mitchell, DT}; \textsc{Korslund, MK}; \textsc{Brewer, BK}; and
+  \textsc{Novascone, MA}.
 \newblock \enquote{{Development and validation of the Cholesterol-Saturated Fat
   Index (CSI) Scorecard: a dietary self-monitoring tool.}}
-\newblock \emph{Journal of the American Dietetic Association},
-  volume~96(2):132--6 (February 1996).
+\newblock \emph{Journal of the American Dietetic Association}, 96(2):pages
+  132--6 (1996).
 
-\bibitem[\protect\citename{Morland et~al., }2002]{Morland2002}
-\textsc{Morland, K.}, \textsc{Wing, S.}, \textsc{{Diez Roux}, A.}, and
-  \textsc{Poole, C.}
+\bibitem[{Morland et~al.(2002)Morland, Wing, {Diez Roux}, and
+  Poole}]{Morland2002}
+\textsc{Morland, K}; \textsc{Wing, S}; \textsc{{Diez Roux}, A}; and
+  \textsc{Poole, C}.
 \newblock \enquote{{Neighborhood characteristics associated with the location
   of food stores and food service places}.}
-\newblock \emph{American Journal of Preventive Medicine}, volume~22(1):23--29
-  (January 2002).
+\newblock \emph{American Journal of Preventive Medicine}, 22(1):pages 23--29
+  (2002).
 
-\bibitem[\protect\citename{Mossavar-Rahmani et~al.,
-  }2004]{mossavar-rahmani_additional_2004}
-\textsc{Mossavar-Rahmani, Y.}, \textsc{Henry, H.}, \textsc{Rodabough, R.},
-  \textsc{Bragg, C.}, \textsc{Brewer, A.}, \textsc{Freed, T.}, \textsc{Kinzel,
-  L.}, \textsc{Pedersen, M.}, \textsc{Soule, C.}, and \textsc{Vosburg, S.}
+\bibitem[{Mossavar-Rahmani et~al.(2004)Mossavar-Rahmani, Henry, Rodabough,
+  Bragg, Brewer, Freed, Kinzel, Pedersen, Soule, and
+  Vosburg}]{mossavar-rahmani_additional_2004}
+\textsc{Mossavar-Rahmani, Y}; \textsc{Henry, H}; \textsc{Rodabough, R};
+  \textsc{Bragg, C}; \textsc{Brewer, A}; \textsc{Freed, T}; \textsc{Kinzel, L};
+  \textsc{Pedersen, M}; \textsc{Soule, C}; and \textsc{Vosburg, S}.
 \newblock \enquote{Additional self-monitoring tools in the dietary modification
   component of the women's health initiative.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  104(1):76--85 (January 2004).
+\newblock \emph{Journal of the American Dietetic Association}, 104(1):pages
+  76--85 (2004).
 
-\bibitem[\protect\citename{Nestle, }2002]{Nestle2002}
-\textsc{Nestle, M.}
+\bibitem[{Nestle(2002)}]{Nestle2002}
+\textsc{Nestle, M}.
 \newblock \emph{{Food Politics: How the Food Industry Influences Nutrition and
   Health}}.
 \newblock University of California Press (2002).
 
-\bibitem[\protect\citename{Nielsen, }2003]{Nielsen2003}
-\textsc{Nielsen, S.~J.}
+\bibitem[{Nielsen(2003)}]{Nielsen2003}
+\textsc{Nielsen, SJ}.
 \newblock \enquote{{Patterns and Trends in Food Portion Sizes, 1977-1998}.}
-\newblock \emph{JAMA: The Journal of the American Medical Association}, volume
-  289(4):450--453 (January 2003).
+\newblock \emph{JAMA: The Journal of the American Medical Association},
+  289(4):pages 450--453 (2003).
 
-\bibitem[\protect\citename{Panagiotakos et~al.,
-  }2007]{panagiotakos_adherence_2007}
-\textsc{Panagiotakos, D.~B.}, \textsc{Pitsavos, C.}, \textsc{Arvaniti, F.}, and
-  \textsc{Stefanadis, C.}
-\newblock \enquote{Adherence to the Mediterranean food pattern predicts the
+\bibitem[{Noronha et~al.(2011)Noronha, Hysen, Zhang, and
+  Gajos}]{noronha_platemate:_2011}
+\textsc{Noronha, J}; \textsc{Hysen, E}; \textsc{Zhang, H}; and \textsc{Gajos,
+  KZ}.
+\newblock \enquote{Platemate: crowdsourcing nutritional analysis from food
+  photographs.}
+\newblock In \emph{Proceedings of the 24th annual {ACM} symposium on User
+  interface software and technology}, {UIST} '11, page 1–12. {ACM}, New York,
+  {NY}, {USA} (2011).
+
+\bibitem[{Panagiotakos et~al.(2007)Panagiotakos, Pitsavos, Arvaniti, and
+  Stefanadis}]{panagiotakos_adherence_2007}
+\textsc{Panagiotakos, DB}; \textsc{Pitsavos, C}; \textsc{Arvaniti, F}; and
+  \textsc{Stefanadis, C}.
+\newblock \enquote{Adherence to the mediterranean food pattern predicts the
   prevalence of hypertension, hypercholesterolemia, diabetes and obesity, among
   healthy adults; the accuracy of the {MedDietScore}.}
-\newblock \emph{Preventive Medicine}, volume~44(4):335--340 (April 2007).
+\newblock \emph{Preventive Medicine}, 44(4):pages 335--340 (2007).
 
-\bibitem[\protect\citename{Prince et~al., }2008]{Prince2008}
-\textsc{Prince, S.~A.}, \textsc{Adamo, K.~B.}, \textsc{Hamel, M.~E.},
-  \textsc{Hardt, J.}, \textsc{Gorber, S.~C.}, and \textsc{Tremblay, M.}
+\bibitem[{P\"{a}\ss~ler et~al.(2011)P\"{a}\ss~ler, Wolff, and
+  Fischer}]{Pabler2011}
+\textsc{P\"{a}\ss~ler, S}; \textsc{Wolff, M}; and \textsc{Fischer, WJ}.
+\newblock \enquote{{Food intake recognition conception for wearable devices}.}
+\newblock In \emph{Proceedings of the First ACM MobiHoc Workshop on Pervasive
+  Wireless Healthcare - MobileHealth '11}, page~1. ACM Press, New York, New
+  York, USA (2011).
+
+\bibitem[{Prince et~al.(2008)Prince, Adamo, Hamel, Hardt, Gorber, and
+  Tremblay}]{Prince2008}
+\textsc{Prince, SA}; \textsc{Adamo, KB}; \textsc{Hamel, ME}; \textsc{Hardt, J};
+  \textsc{Gorber, SC}; and \textsc{Tremblay, M}.
 \newblock \enquote{{A comparison of direct versus self-report measures for
   assessing physical activity in adults: a systematic review.}}
 \newblock \emph{The international journal of behavioral nutrition and physical
-  activity}, volume~5(1):56 (January 2008).
+  activity}, 5(1):page~56 (2008).
 
-\bibitem[\protect\citename{Prochaska and Velicer,
-  }1997]{prochaska_transtheoretical_1997}
-\textsc{Prochaska, J.~O.} and \textsc{Velicer, W.~F.}
-\newblock \enquote{The Transtheoretical Model of Health Behavior Change.}
-\newblock \emph{American Journal of Health Promotion}, volume~12(1):38--48
-  (September 1997).
+\bibitem[{Prochaska and Velicer(1997)}]{prochaska_transtheoretical_1997}
+\textsc{Prochaska, JO} and \textsc{Velicer, WF}.
+\newblock \enquote{The transtheoretical model of health behavior change.}
+\newblock \emph{American Journal of Health Promotion}, 12(1):pages 38--48
+  (1997).
 
-\bibitem[\protect\citename{Rothman et~al., }2006]{rothman_patient_2006}
-\textsc{Rothman, R.~L.}, \textsc{Housam, R.}, \textsc{Weiss, H.},
-  \textsc{Davis, D.}, \textsc{Gregory, R.}, \textsc{Gebretsadik, T.},
-  \textsc{Shintani, A.}, and \textsc{Elasy, T.~A.}
-\newblock \enquote{Patient Understanding of Food Labels: The Role of Literacy
-  and Numeracy.}
-\newblock \emph{American Journal of Preventive Medicine}, volume~31(5):391--398
-  (November 2006).
+\bibitem[{Reddy et~al.(2007)Reddy, Parker, Hyman, Burke, Estrin, and
+  Hansen}]{reddy_image_2007}
+\textsc{Reddy, S}; \textsc{Parker, A}; \textsc{Hyman, J}; \textsc{Burke, J};
+  \textsc{Estrin, D}; and \textsc{Hansen, M}.
+\newblock \enquote{Image browsing, processing, and clustering for participatory
+  sensing: lessons from a {DietSense} prototype.}
+\newblock In \emph{Proceedings of the 4th workshop on Embedded networked
+  sensors}, {EmNets} '07, page 13–17. {ACM}, New York, {NY}, {USA} (2007).
 
-\bibitem[\protect\citename{Roy et~al., }1997]{Roy1997}
-\textsc{Roy, D.~S.}, \textsc{Kimball, K.~T.}, \textsc{Mendoza-Martinez, H.},
-  \textsc{Mateski, D.~J.}, and \textsc{Insull, W.}
+\bibitem[{Rothman et~al.(2006)Rothman, Housam, Weiss, Davis, Gregory,
+  Gebretsadik, Shintani, and Elasy}]{rothman_patient_2006}
+\textsc{Rothman, RL}; \textsc{Housam, R}; \textsc{Weiss, H}; \textsc{Davis, D};
+  \textsc{Gregory, R}; \textsc{Gebretsadik, T}; \textsc{Shintani, A}; and
+  \textsc{Elasy, TA}.
+\newblock \enquote{Patient understanding of food labels: The role of literacy
+  and numeracy.}
+\newblock \emph{American Journal of Preventive Medicine}, 31(5):pages 391--398
+  (2006).
+
+\bibitem[{Roy et~al.(1997)Roy, Kimball, Mendoza-Martinez, Mateski, and
+  Insull}]{Roy1997}
+\textsc{Roy, DS}; \textsc{Kimball, KT}; \textsc{Mendoza-Martinez, H};
+  \textsc{Mateski, DJ}; and \textsc{Insull, W}.
 \newblock \enquote{{Fat-gram counting and food-record rating are equally
   effective for evaluating food records in reduced-fat diets.}}
-\newblock \emph{Journal of the American Dietetic Association},
-  volume~97(9):987--90 (September 1997).
+\newblock \emph{Journal of the American Dietetic Association}, 97(9):pages
+  987--90 (1997).
 
-\bibitem[\protect\citename{Rubak et~al., }2005]{Rubak2005}
-\textsc{Rubak, S.}, \textsc{Sandbaek, A.}, \textsc{Lauritzen, T.}, and
-  \textsc{Christensen, B.}
+\bibitem[{Rubak et~al.(2005)Rubak, Sandbaek, Lauritzen, and
+  Christensen}]{Rubak2005}
+\textsc{Rubak, S}; \textsc{Sandbaek, A}; \textsc{Lauritzen, T}; and
+  \textsc{Christensen, B}.
 \newblock \enquote{{Motivational interviewing: a systematic review and
   meta-analysis.}}
 \newblock \emph{The British journal of general practice : the journal of the
-  Royal College of General Practitioners}, volume~55(513):305--12 (April 2005).
+  Royal College of General Practitioners}, 55(513):pages 305--12 (2005).
 
-\bibitem[\protect\citename{Ryu and Smith-jackson, }2006]{ryu_reliability_2006}
-\textsc{Ryu, Y.~S.} and \textsc{Smith-jackson, T.~L.}
-\newblock \enquote{Reliability and Validity of the Mobile Phone Usability
-  Questionnaire {(MPUQ)}.}
-\newblock \emph{Journal of Usability Studies}, volume~2(1):39--53 (2006).
+\bibitem[{Ryu and Smith-jackson(2006)}]{ryu_reliability_2006}
+\textsc{Ryu, YS} and \textsc{Smith-jackson, TL}.
+\newblock \enquote{Reliability and validity of the mobile phone usability
+  questionnaire {(MPUQ)}.}
+\newblock \emph{Journal of Usability Studies}, 2(1):pages 39--53 (2006).
 
-\bibitem[\protect\citename{Schoeller, }1995]{Schoeller199518}
-\textsc{Schoeller, D.~A.}
+\bibitem[{Schoeller(1995)}]{Schoeller199518}
+\textsc{Schoeller, DA}.
 \newblock \enquote{Limitations in the assessment of dietary energy intake by
   self-report.}
-\newblock \emph{Metabolism}, volume 44, Supplement 2(0):18 -- 22 (1995).
+\newblock \emph{Metabolism}, 44, Supplement 2(0):pages 18 -- 22 (1995).
 \newblock <ce:title>The Role of Dexfenfluramine in the Regulation of Energy
   Balance</ce:title>.
 
-\bibitem[\protect\citename{Shang et~al., }2011]{junqing_shang_pervasive_2011}
-\textsc{Shang, J.}, \textsc{Sundara-Rajan, K.}, \textsc{Lindsey, L.},
-  \textsc{Mamishev, A.}, \textsc{Johnson, E.}, \textsc{Teredesai, A.}, and
-  \textsc{Kristal, A.}
-\newblock \enquote{A pervasive Dietary Data Recording System.}
-\newblock In \enquote{2011 {IEEE} International Conference on Pervasive
-  Computing and Communications Workshops {(PERCOM} Workshops),} (pages
-  307--309). {IEEE} (March 2011).
+\bibitem[{Shang et~al.(2011)Shang, Sundara-Rajan, Lindsey, Mamishev, Johnson,
+  Teredesai, and Kristal}]{junqing_shang_pervasive_2011}
+\textsc{Shang, J}; \textsc{Sundara-Rajan, K}; \textsc{Lindsey, L};
+  \textsc{Mamishev, A}; \textsc{Johnson, E}; \textsc{Teredesai, A}; and
+  \textsc{Kristal, A}.
+\newblock \enquote{A pervasive dietary data recording system.}
+\newblock In \emph{2011 {IEEE} International Conference on Pervasive Computing
+  and Communications Workshops {(PERCOM} Workshops)}, pages 307--309. {IEEE}
+  (2011).
 
-\bibitem[\protect\citename{Shaw et~al., }2010]{Shaw20104}
-\textsc{Shaw, J.}, \textsc{Sicree, R.}, and \textsc{Zimmet, P.}
+\bibitem[{Shaw et~al.(2010)Shaw, Sicree, and Zimmet}]{Shaw20104}
+\textsc{Shaw, J}; \textsc{Sicree, R}; and \textsc{Zimmet, P}.
 \newblock \enquote{Global estimates of the prevalence of diabetes for 2010 and
   2030.}
-\newblock \emph{Diabetes Research and Clinical Practice}, volume~87(1):4 -- 14
+\newblock \emph{Diabetes Research and Clinical Practice}, 87(1):pages 4 -- 14
   (2010).
 
-\bibitem[\protect\citename{Shilts et~al., }2004]{shilts_goal_2004}
-\textsc{Shilts, M.~K.}, \textsc{Horowitz, M.}, and \textsc{Townsend, M.~S.}
+\bibitem[{Shilts et~al.(2004)Shilts, Horowitz, and Townsend}]{shilts_goal_2004}
+\textsc{Shilts, MK}; \textsc{Horowitz, M}; and \textsc{Townsend, MS}.
 \newblock \enquote{Goal setting as a strategy for dietary and physical activity
   behavior change: a review of the literature.}
-\newblock \emph{American Journal of Health Promotion: {AJHP}},
-  volume~19(2):81--93 (December 2004).
+\newblock \emph{American Journal of Health Promotion: {AJHP}}, 19(2):pages
+  81--93 (2004).
 \newblock {PMID:} 15559708.
 
-\bibitem[\protect\citename{Siek, }2006]{siek_design_2006}
-\textsc{Siek, K.~A.}
-\newblock \emph{The design and evaluation of an assistive application for
-  dialysis patients}.
+\bibitem[{Shroff et~al.(2008)Shroff, Smailagic, and
+  Siewiorek}]{shroff_wearable_2008}
+\textsc{Shroff, G}; \textsc{Smailagic, A}; and \textsc{Siewiorek, DP}.
+\newblock \enquote{Wearable context-aware food recognition for calorie
+  monitoring.}
+\newblock In \emph{12th {IEEE} International Symposium on Wearable Computers,
+  2008. {ISWC} 2008}, pages 119--120. {IEEE} (2008).
+
+\bibitem[{Siek(2006)}]{siek_design_2006}
+\textsc{Siek, KA}.
+\newblock \enquote{The design and evaluation of an assistive application for
+  dialysis patients.}
 \newblock Ph.D. thesis, Indiana University (2006).
 
-\bibitem[\protect\citename{Siek et~al., }2006]{siek_when_2006}
-\textsc{Siek, K.~A.}, \textsc{Connelly, K.~H.}, \textsc{Rogers, Y.},
-  \textsc{Rohwer, P.}, \textsc{Lambert, D.}, and \textsc{Welch, J.~L.}
-\newblock \enquote{When Do We Eat? An Evaluation of Food Items Input into an
-  Electronic Food Monitoring Application.}
-\newblock In \enquote{Proceedings of the 1st International Conference on
-  Pervasive Computing Technologies for Healthcare 2006,} (pages 1--10) (2006).
+\bibitem[{Siek et~al.(2006)Siek, Connelly, Rogers, Rohwer, Lambert, and
+  Welch}]{siek_when_2006}
+\textsc{Siek, KA}; \textsc{Connelly, KH}; \textsc{Rogers, Y}; \textsc{Rohwer,
+  P}; \textsc{Lambert, D}; and \textsc{Welch, JL}.
+\newblock \enquote{When do we eat? an evaluation of food items input into an
+  electronic food monitoring application.}
+\newblock In \emph{Proceedings of the 1st International Conference on Pervasive
+  Computing Technologies for Healthcare 2006}, pages 1--10 (2006).
 
-\bibitem[\protect\citename{Siek et~al., }2009]{siek_bridging_2009}
-\textsc{Siek, K.~A.}, \textsc{{LaMarche}, J.~S.}, and \textsc{Maitland, J.}
+\bibitem[{Siek et~al.(2009)Siek, {LaMarche}, and Maitland}]{siek_bridging_2009}
+\textsc{Siek, KA}; \textsc{{LaMarche}, JS}; and \textsc{Maitland, J}.
 \newblock \enquote{Bridging the information gap: collaborative technology
   design with low-income at-risk families to engender healthy behaviors.}
-\newblock In \enquote{Proceedings of the 21st Annual Conference of the
-  Australian Computer-Human Interaction Special Interest Group: Design: Open
-  24/7,} {OZCHI} '09, (page 89–96). {ACM}, New York, {NY}, {USA} (2009).
+\newblock In \emph{Proceedings of the 21st Annual Conference of the Australian
+  Computer-Human Interaction Special Interest Group: Design: Open 24/7},
+  {OZCHI} '09, page 89–96. {ACM}, New York, {NY}, {USA} (2009).
 
-\bibitem[\protect\citename{Silva et~al., }2011]{silva_sapofitness:_2011}
-\textsc{Silva, B.~M.}, \textsc{Lopes, I.~M.}, \textsc{Rodrigues, J. J. P.~C.},
-  and \textsc{Ray, P.}
-\newblock \enquote{{SapoFitness:} A mobile health application for dietary
+\bibitem[{Silva et~al.(2011)Silva, Lopes, Rodrigues, and
+  Ray}]{silva_sapofitness:_2011}
+\textsc{Silva, BM}; \textsc{Lopes, IM}; \textsc{Rodrigues, JJPC}; and
+  \textsc{Ray, P}.
+\newblock \enquote{{SapoFitness:} a mobile health application for dietary
   evaluation.}
-\newblock In \enquote{2011 13th {IEEE} International Conference on e-Health
-  Networking Applications and Services {(Healthcom)},} (pages 375--380). {IEEE}
-  (June 2011).
+\newblock In \emph{2011 13th {IEEE} International Conference on e-Health
+  Networking Applications and Services {(Healthcom)}}, pages 375--380. {IEEE}
+  (2011).
 
-\bibitem[\protect\citename{Snively, }2010]{snively_balance_2010}
-\textsc{Snively, H.}
-\newblock \emph{The {BALANCE} Study: Developing and testing a novel device for
-  measuring energy balance in real-time}.
+\bibitem[{Snively(2010)}]{snively_balance_2010}
+\textsc{Snively, H}.
+\newblock \enquote{The {BALANCE} study: Developing and testing a novel device
+  for measuring energy balance in real-time.}
 \newblock {MS}, University of Washington, Seattle, {WA} (2010).
 
-\bibitem[\protect\citename{Society, }2011]{american_cancer_society_global_2011}
-\textsc{Society, A.~C.}
+\bibitem[{Society(2011)}]{american_cancer_society_global_2011}
+\textsc{Society, AC}.
 \newblock \emph{Global Cancer Facts and Figures, 2nd Edition}.
 \newblock American Cancer Society, Atlanta (2011).
 
-\bibitem[\protect\citename{Stumbo, }2008]{stumbo_considerations_2008}
-\textsc{Stumbo, P.~J.}
+\bibitem[{Stumbo(2008)}]{stumbo_considerations_2008}
+\textsc{Stumbo, PJ}.
 \newblock \enquote{Considerations for selecting a dietary assessment system.}
-\newblock \emph{Journal of Food Composition and Analysis}, volume~21(Supplement
-  1):S13--S19 (February 2008).
+\newblock \emph{Journal of Food Composition and Analysis}, 21(Supplement
+  1):pages S13--S19 (2008).
 
-\bibitem[\protect\citename{Thomas and Pfeiffer, }2012]{Thomas2012}
-\textsc{Thomas, T.} and \textsc{Pfeiffer, A. F.~H.}
+\bibitem[{Thomas and Pfeiffer(2012)}]{Thomas2012}
+\textsc{Thomas, T} and \textsc{Pfeiffer, AFH}.
 \newblock \enquote{{Foods for the prevention of diabetes: how do they work?}}
-\newblock \emph{Diabetes/metabolism research and reviews}, volume~28(1):25--49
-  (January 2012).
+\newblock \emph{Diabetes/metabolism research and reviews}, 28(1):pages 25--49
+  (2012).
 
-\bibitem[\protect\citename{Tinker et~al., }2001]{tinker_measurement_2001}
-\textsc{Tinker, L.~F.}, \textsc{Patterson, R.~E.}, \textsc{Kristal, A.~R.},
-  \textsc{Bowen, D.~J.}, \textsc{Kuniyuki, A.}, \textsc{Henry, H.}, and
-  \textsc{Shattuck, A.}
-\newblock \enquote{Measurement Characteristics of 2 Different Self-Monitoring
-  Tools Used in a Dietary Intervention Study.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  101(9):1031--1040 (September 2001).
+\bibitem[{Tinker et~al.(2001)Tinker, Patterson, Kristal, Bowen, Kuniyuki,
+  Henry, and Shattuck}]{tinker_measurement_2001}
+\textsc{Tinker, LF}; \textsc{Patterson, RE}; \textsc{Kristal, AR};
+  \textsc{Bowen, DJ}; \textsc{Kuniyuki, A}; \textsc{Henry, H}; and
+  \textsc{Shattuck, A}.
+\newblock \enquote{Measurement characteristics of 2 different self-monitoring
+  tools used in a dietary intervention study.}
+\newblock \emph{Journal of the American Dietetic Association}, 101(9):pages
+  1031--1040 (2001).
 
-\bibitem[\protect\citename{Tsai et~al., }2007]{tsai_usability_2007}
-\textsc{Tsai, C.~C.}, \textsc{Lee, G.}, \textsc{Raab, F.}, \textsc{Norman,
-  G.~J.}, \textsc{Sohn, T.}, \textsc{Griswold, W.~G.}, and \textsc{Patrick, K.}
-\newblock \enquote{Usability and Feasibility of {PmEB:} A Mobile Phone
-  Application for Monitoring Real Time Caloric Balance.}
-\newblock In \enquote{Mobile Networks and Applications,} (pages 1--10) (2007).
+\bibitem[{Tsai et~al.(2007)Tsai, Lee, Raab, Norman, Sohn, Griswold, and
+  Patrick}]{tsai_usability_2007}
+\textsc{Tsai, CC}; \textsc{Lee, G}; \textsc{Raab, F}; \textsc{Norman, GJ};
+  \textsc{Sohn, T}; \textsc{Griswold, WG}; and \textsc{Patrick, K}.
+\newblock \enquote{Usability and feasibility of {PmEB:} a mobile phone
+  application for monitoring real time caloric balance.}
+\newblock In \emph{Mobile Networks and Applications}, pages 1--10 (2007).
 
-\bibitem[\protect\citename{United States Department of Agriculture,
-  }2006]{u.s._department_of_agriculture_usda_2006}
+\bibitem[{United States Department of
+  Agriculture()}]{u.s._department_of_agriculture_usda_2006}
 United States Department of Agriculture.
-\newblock \enquote{{USDA} National Nutrient Database for Standard Reference.}
+\newblock \enquote{{USDA} national nutrient database for standard reference.}
   (2006).
 
-\bibitem[\protect\citename{{US Health and Human Services} and {US Department of
-  Agriculture}, }2005]{us_health_and_human_services_dietary_2005}
+\bibitem[{{US Health and Human Services} and {US Department of
+  Agriculture}(2005{\natexlab{a}})}]{us_health_and_human_services_dietary_2005}
 \textsc{{US Health and Human Services}} and \textsc{{US Department of
   Agriculture}}.
 \newblock \emph{Dietary Guidelines for Americans 2005}.
 \newblock {US Government Printing Office}, Washington, {D.C.}, 6th edition
-  (2005).
+  (2005{\natexlab{a}}).
 
-\bibitem[\protect\citename{van Gils et~al., }2001]{van_gils_feasibility_2001}
-\textsc{van Gils, M.}, \textsc{Parkka, J.}, \textsc{Lappalainen, R.},
-  \textsc{Ahonen, A.}, \textsc{Maukonen, A.}, \textsc{Tuomisto, T.},
-  \textsc{Lotjonen, J.}, \textsc{Cluitmans, L.}, and \textsc{Korhonen, I.}
+\bibitem[{{US Health and Human Services} and {US Department of
+  Agriculture}(2005{\natexlab{b}})}]{usda_dietary_guidelines_2010}
+\textsc{{US Health and Human Services}} and \textsc{{US Department of
+  Agriculture}}.
+\newblock \emph{Dietary Guidelines for Americans 2010}.
+\newblock {US Government Printing Office}, Washington, {D.C.}, 7th edition
+  (2005{\natexlab{b}}).
+
+\bibitem[{van Gils et~al.(2001)van Gils, Parkka, Lappalainen, Ahonen, Maukonen,
+  Tuomisto, Lotjonen, Cluitmans, and Korhonen}]{van_gils_feasibility_2001}
+\textsc{van Gils, M}; \textsc{Parkka, J}; \textsc{Lappalainen, R};
+  \textsc{Ahonen, A}; \textsc{Maukonen, A}; \textsc{Tuomisto, T};
+  \textsc{Lotjonen, J}; \textsc{Cluitmans, L}; and \textsc{Korhonen, I}.
 \newblock \enquote{Feasibility and user acceptance of a personal weight
   management system based on ubiquitous computing.}
-\newblock In \enquote{Proceedings of the 23rd Annual International Conference
-  of the {IEEE} Engineering in Medicine and Biology Society, 2001,} volume~4,
-  (pages 3650 -- 3653 vol.4) (2001).
+\newblock In \emph{Proceedings of the 23rd Annual International Conference of
+  the {IEEE} Engineering in Medicine and Biology Society, 2001}, volume~4,
+  pages 3650 -- 3653 vol.4 (2001).
 
-\bibitem[\protect\citename{Wang et~al., }2006]{wang_development_2006}
-\textsc{Wang, D.-H.}, \textsc{Kogashiwa, M.}, and \textsc{Kira, S.}
-\newblock \enquote{Development of a New Instrument for Evaluating Individuals'
-  Dietary Intakes.}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  106(10):1588--1593 (October 2006).
+\bibitem[{Wang et~al.(2006)Wang, Kogashiwa, and Kira}]{wang_development_2006}
+\textsc{Wang, DH}; \textsc{Kogashiwa, M}; and \textsc{Kira, S}.
+\newblock \enquote{Development of a new instrument for evaluating individuals'
+  dietary intakes.}
+\newblock \emph{Journal of the American Dietetic Association}, 106(10):pages
+  1588--1593 (2006).
 
-\bibitem[\protect\citename{World Health Organization, }2011]{WHO_CVD_2011}
+\bibitem[{World Health Organization()}]{WHO_CVD_2011}
 World Health Organization.
 \newblock \enquote{{WHO Cardiovascular diseases (CVDs) Fact Sheet}.} (2011).
 
-\bibitem[\protect\citename{Young and Nestle, }2003]{Young2003}
-\textsc{Young, L.~R.} and \textsc{Nestle, M.}
+\bibitem[{Wu and Yang(2009)}]{wen_wu_fast_2009}
+\textsc{Wu, W} and \textsc{Yang, J}.
+\newblock \enquote{Fast food recognition from videos of eating for calorie
+  estimation.}
+\newblock In \emph{{IEEE} International Conference on Multimedia and Expo,
+  2009. {ICME} 2009}, pages 1210--1213. {IEEE} (2009).
+
+\bibitem[{Yon et~al.(2007)Yon, Johnson, Harvey-Berino, Gold, and
+  Howard}]{yon_personal_2007}
+\textsc{Yon, B}; \textsc{Johnson, R}; \textsc{Harvey-Berino, J}; \textsc{Gold,
+  B}; and \textsc{Howard, A}.
+\newblock \enquote{Personal digital assistants are comparable to traditional
+  diaries for dietary self-monitoring during a weight loss program.}
+\newblock \emph{Journal of Behavioral Medicine}, 30(2):pages 165--175 (2007).
+
+\bibitem[{Young and Nestle(2003)}]{Young2003}
+\textsc{Young, LR} and \textsc{Nestle, M}.
 \newblock \enquote{{Expanding portion sizes in the US marketplace: implications
   for nutrition counseling.}}
-\newblock \emph{Journal of the American Dietetic Association}, volume
-  103(2):231--4 (February 2003).
+\newblock \emph{Journal of the American Dietetic Association}, 103(2):pages
+  231--4 (2003).
 
-\bibitem[\protect\citename{Young and Nestle, }2009]{Young2009}
-\textsc{Young, L.~R.} and \textsc{Nestle, M.}
+\bibitem[{Young and Nestle(2009)}]{Young2009}
+\textsc{Young, LR} and \textsc{Nestle, M}.
 \newblock \enquote{{Portion Sizes in Dietary Assessment: Issues and Policy
   Implications}.}
-\newblock \emph{Nutrition Reviews}, volume~53(6):149--158 (April 2009).
+\newblock \emph{Nutrition Reviews}, 53(6):pages 149--158 (2009).
 
-\bibitem[\protect\citename{Zegman, }1984]{Zegman1984}
-\textsc{Zegman, M.~A.}
+\bibitem[{Zegman(1984)}]{Zegman1984}
+\textsc{Zegman, MA}.
 \newblock \enquote{{Errors in food recording and calorie estimation: Clinical
   and theoretical implications for obesity}.}
-\newblock \emph{Addictive Behaviors}, volume~9(4):347--350 (January 1984).
+\newblock \emph{Addictive Behaviors}, 9(4):pages 347--350 (1984).
 
-\bibitem[\protect\citename{Zhu et~al., }2010{\natexlab{a}}]{zhu_image_2010}
-\textsc{Zhu, F.}, \textsc{Bosch, M.}, \textsc{Boushey, C.}, and \textsc{Delp,
-  E.}
+\bibitem[{Zhu et~al.(2010{\natexlab{a}})Zhu, Bosch, Boushey, and
+  Delp}]{zhu_image_2010}
+\textsc{Zhu, F}; \textsc{Bosch, M}; \textsc{Boushey, C}; and \textsc{Delp, E}.
 \newblock \enquote{An image analysis system for dietary assessment and
   evaluation.}
-\newblock In \enquote{2010 17th {IEEE} International Conference on Image
-  Processing {(ICIP)},} (pages 1853 --1856) (September 2010{\natexlab{a}}).
+\newblock In \emph{2010 17th {IEEE} International Conference on Image
+  Processing {(ICIP)}}, pages 1853 --1856 (2010{\natexlab{a}}).
 
-\bibitem[\protect\citename{Zhu et~al., }2010{\natexlab{b}}]{zhu_use_2010}
-\textsc{Zhu, F.}, \textsc{Bosch, M.}, \textsc{Woo, I.}, \textsc{Kim, S.},
-  \textsc{Boushey, C.}, \textsc{Ebert, D.}, and \textsc{Delp, E.}
-\newblock \enquote{The Use of Mobile Devices in Aiding Dietary Assessment and
-  Evaluation.}
+\bibitem[{Zhu et~al.(2010{\natexlab{b}})Zhu, Bosch, Woo, Kim, Boushey, Ebert,
+  and Delp}]{zhu_use_2010}
+\textsc{Zhu, F}; \textsc{Bosch, M}; \textsc{Woo, I}; \textsc{Kim, S};
+  \textsc{Boushey, C}; \textsc{Ebert, D}; and \textsc{Delp, E}.
+\newblock \enquote{The use of mobile devices in aiding dietary assessment and
+  evaluation.}
 \newblock \emph{{IEEE} Journal of Selected Topics in Signal Processing},
-  volume~4(4):756 --766 (August 2010{\natexlab{b}}).
+  4(4):pages 756 --766 (2010{\natexlab{b}}).
 
 \end{thebibliography}

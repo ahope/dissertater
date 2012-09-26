@@ -99,7 +99,7 @@ We adopted an overall simplifying construct for calorie counting called ``CHIPs'
 The main goal of the visualization is to depict the current energy balance of intake and expenditure. Other pieces of information that could be helpful included: 
 \begin{enumerate*}
 \item Goal calorie expenditure and intake for a current day;
-\item Progress toward that goal/target over the course of the day; and
+\item Progress toward that goal or target over the course of the day; and
 \item Whether or how much the user was over the intake or expenditure goal for the day. 
 \end{enumerate*}
 
@@ -225,7 +225,7 @@ This prototype used the common, freely available USDA Standard Reference. food d
 		\caption{Sensed activity data from the MSB.}\label{fig:fig3d}
 	\end{subfigure}
 
-	\caption{Nokia prototype main screens. }\label{fig:nokiaMainScreens}
+	\caption{Nokia prototype: Main screens }\label{fig:nokiaMainScreens}
 \end{figure}
 
 
@@ -595,22 +595,24 @@ In response to user feedback about the use of the stylus, we redesigned the inte
 \fbox{\includegraphics[width=1.25in]{./images/cont1/fig8c}}
 		\caption{The final version.}\label{fig:fig8c}
 	\end{subfigure}
-	\caption{Evolution of serving size specification to make it more touch-friendly.}\label{fig:fig8}
+	\caption[Evolution of serving size entry]{Evolution of serving size specification to make it more touch-friendly.}\label{fig:fig8}
 \end{figure}
 
 \subsubsection{Create new food database entry}
 The NPKB contained many foods, but users still reported encountering foods that were not in the database. This resulted in the ability to add a new food to the database, using information from the Nutrition Facts label that all packaged foods are required to have. After the entry is created, it shows up in the quick-search results with other common and recently used foods. 
  
+%\begin{SCfigure}
 \begin{figure}[ t ]
 \begin{center}
 
 \setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =1.25in ]{./images/cont1/fig9}}
-\caption{Add a new manual entry to food diary when the database does not have the desired food. }
+\caption[Create manual entry ]{Create manual entry for the food diary when the database does not have the desired food. }
 \label{fig:fig9}
 \end{center}
 \end{figure}
+%\end{SCfigure}
 
 \subsubsection{Favorite foods and meals}
 Focus group participants repeatedly asked for shortcuts and customization features. In addition to the ability to add a new food to the database described above, participants wanted the ability to bookmark favorite foods and meals. The favorite meals feature is shown in Figure \ref{fig:fig10}. Figure \ref{fig:fig10a} shows the list of all meals that have been marked as a favorite. When the user wants to enter the favorite meal, s/he selects it from the list. Figure \ref{fig:fig10b} shows all of the items in the meal, as well as the amount. The time defaults to the current time (rounded to the nearest 15 minutes). The saved favorite meal includes the meal specification (breakfast, dinner, etc.), which populates the meal widget. The details of the meal can be modified to reflect the current meal (\ref{fig:fig10c}). Finally, when the user confirms, all of the items in the meal are added to the food diary (\ref{fig:fig10d}). 
@@ -653,7 +655,7 @@ Focus group participants repeatedly asked for shortcuts and customization featur
 \end{figure}
 
 \subsection{Database Query Details}
-Adopting the commercially available NPKB resulted in a much larger number of foods available to the user. While the USDA database had the user challenge of making it difficult to distinguish between many similar unprocessed foods and relatively few processed/manufactured foods, the NPKB had many more processed and manufactured foods to choose from, which users sometimes found overwhelming. 
+Adopting the commercially available NPKB resulted in a much larger number of foods available to the user. While the USDA database had the user challenge of making it difficult to distinguish between many similar unprocessed foods and relatively few processed or manufactured foods, the NPKB had many more processed and manufactured foods to choose from, which users sometimes found overwhelming. 
 
 In this section, I describe some of the ways we tried to make the query process more user friendly. Rather than describe all the possible improvements we considered, I focus on the final implementation. 
 
@@ -714,7 +716,7 @@ The activity diary (shown in \ref{fig:fig11c}) shows both activities entered by 
 		\caption{MSB status and information. }\label{fig:fig11d}
 	\end{subfigure}
 
-	\caption{Final BALANCE non-food diary screens.}\label{fig:fig11}
+	\caption[Final BALANCE screens]{Final BALANCE non-food diary screens.}\label{fig:fig11}
 \end{figure}
 
 
@@ -731,7 +733,7 @@ A 24-hr recall is a process in which a trained researcher works with an individu
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =5.5in ]{./images/cont1/fig12}}
 
-\caption{Software to support the 24-hr recall using the same database and queries as the mobile software.  }
+\caption[24-hr recall software]{Software to support the 24-hr recall using the same database and queries as the mobile software.  }
 \label{fig:fig12}
 
 \end{center}
@@ -775,7 +777,7 @@ The means presented above provide a summary understanding of the use of the BALA
 % Table generated by Excel2LaTeX from sheet 'Sheet1'
 \begin{table}[htbp]
   \centering
-  \caption{Add caption}
+  \caption{Time frame definitions}
     \begin{tabular}{ll}
     \toprule
     \textbf{Time frame} & \textbf{Hours} \\
@@ -806,7 +808,7 @@ Figure \ref{fig:chartMeanStartsPerDay} shows the mean number of app starts for e
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =10cm ]{./images/cont1/chart_meanStarts}}
 
-\caption{Mean app starts for each day. }
+\caption[Daily app starts (mean)]{Mean app starts for each day }
 \label{fig:chartMeanStartsPerDay}
 
 \end{center}
@@ -916,7 +918,7 @@ A comparison of \ref{fig:chart15} and \ref{fig:chart16} indicates that participa
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =5in ]{./images/cont1/chart_meanEntriesEaten}}
 
-\caption{Number of entries entered and created over time}
+\caption{Number of entries eaten and created over time}
 \label{fig:eatenVersusCreatedperDay}
 
 \end{center}
@@ -980,7 +982,7 @@ Figure \ref{fig:chart18} shows all of the measures for Participant 101. This par
 \setlength\fboxrule{0.5pt}
 \fbox{\includegraphics[ width =5.5in ]{./images/cont1/chart19}}
 
-\caption{Patterns of use, ppt120}
+\caption{All measures, Participant 120}
 \label{fig:chart19}
 
 \end{center}

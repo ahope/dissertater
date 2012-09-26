@@ -60,6 +60,8 @@
 \usepackage{nicefrac}
 \usepackage{xcolor}
 
+\usepackage{sidecap}
+\usepackage[sf,sl,outermarks]{titlesec}
 
 \usepackage{pdfpages}
 
@@ -83,6 +85,23 @@
 %\makeatother %
 
 \makeatother
+
+\titleformat{\chapter}[display]
+{\raggedleft\normalfont\huge\bfseries}{\vspace{1.5in}%
+\fontfamily{phv}\fontsize{90}{40}\selectfont \hfill  \ \thechapter}{10pt}{ \Huge }
+
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}[runin]
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titleformat{\subparagraph}[runin]
+{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+
+%\titlespacing{\chapter}{0pt}{*4}{*1.5}
 
 %
 % The following line would print the thesis in a postscript font 
@@ -219,16 +238,6 @@ reduced-detail self-monitoring tool for dietary intake.
 %
 \acknowledgments{% \vskip2pc
   % {\narrower\noindent
-My committee. 
-
-My amazing friend Lydia, who has been an unwavering support over the years. 
-
-Gail, who is the most anti-wicked stepmother who ever was. My father married such a wonderful person, who is an example of how to live as one should live, even if it is difficult or not the best for one's individual circumstances. 
-
-Karen, Vanessa, Rebecca, Dave and Mark, who inspired me to pursue a PhD years ago, and especially the three women who were the coolest people I knew. I applaud them for being amazing women in STEM who unknowingly inspired many young women by making the concept of graduate school real. 
-
-Mitch Resnick, Brian Smith and Justine Cassell, who taught a class ``Tools to Think'', which was the first time I discovered research. This was the first I had experienced the mix of cognitive and computer sciences: theories of learning, cognition, language, media studies, and how we can design technology using these theories, and in support of these theories. That single class was certainly a turning point in my life. 
-
   % \par}
 }
 
@@ -269,7 +278,7 @@ Mitch Resnick, Brian Smith and Justine Cassell, who taught a class ``Tools to Th
 %
 %\nocite{*}   % include everything in the uwthesis.bib file
 %\bibpunct{[}{]}{,}{a}{}{;} 
-\bibliographystyle{aha_diss_2}%aha-diss-3}%aha_diss_4}%}%aha_diss_2}%%my-econometrica}
+\bibliographystyle{aha-diss-3}%aha-diss-3}%aha_diss_4}%}%aha_diss_2}%%my-econometrica}
 %\bibliographystyle{gerapali}  
 
 % or: plain,unsrt,alpha,abbrv,acm,apalike,...

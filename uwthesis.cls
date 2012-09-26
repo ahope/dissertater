@@ -114,7 +114,7 @@
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \ProcessOptions
 \PassOptionsToClass{\@f@ntsize}{book}
-\PassOptionsToClass{openany}{book}
+\PassOptionsToClass{openright}{book}
 \ProcessOptions
 \LoadClass{book}
 
@@ -293,14 +293,14 @@
    \pagenumbering{arabic}
      \footskip\z@
 
-\fancyhead[CO,CE]{draft}
-\fancyhead[LE,RO]{\thepage}
-\fancyhead[RE]{\chaptermark} % \chaptermark
-\fancyhead[LO]{\sectionmark} % \chaptermark
+%\fancyhead[CO,CE]{draft}
+%\fancyhead[LE,RO]{\thepage}
+%\fancyhead[RE]{\chaptermark} % \chaptermark
+%\fancyhead[LO]{\sectionmark} % \chaptermark
 
-\fancyfoot{}
-\renewcommand{\chaptermark}[1]{poo. \markboth{##1}{}}
-\renewcommand{\chaptermark}[1]{chap name ##1 \markboth{something ##1}{}}
+%\fancyfoot{}
+%\renewcommand{\chaptermark}[1]{poo. \markboth{##1}{}}
+%\renewcommand{\chaptermark}[1]{chap name ##1 \markboth{something ##1}{}}
 %\renewcommand{\sectionmark}[1]{eh. \markright{ ##1}{}}
 
 

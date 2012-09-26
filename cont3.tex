@@ -86,7 +86,7 @@ Finally, we designed a ``favorites'' feature. This allowed users to define an en
 \section{Design}
 The primary goal informing the design of the POND app was to minimize the amount of time it took to make an entry. 
 
-\subsection{Home Screen/Launch Activity}
+\subsection{Home Screen}
 The first screen the user sees when they launch POND is the home screen, shown in Figure \ref{fig:POND_overview}. This screen was designed to prioritize quick entry and quick analysis of the current progress toward goals for the day. Each row represents a recommendation from the 12 USDA Dietary Guidelines we have described above. Users can touch the +1 buttons on the right side of the screen to quickly indicate a portion eaten, or long-press the +1 buttons to indicate a \textonehalf portion eaten. Colored links expand to show information about what counts in a given component (item), or what makes a serving. This information was adapted from the USDA 2010 Dietary Guidelines. 
 
 Location is indicated in a drop-down menu across the top. It automatically tries to determine which pre-defined location the user is in (Home, Work) or ``Other'' if it is an unfamiliar location, and the blue ``+'' button opens the ``Add Food'' Screen. The phone's search button can also be used to launch a search widget and search for a given food. 
@@ -125,18 +125,26 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 		\caption{A white dot shows when the target has been exceeded. }\label{fig:pond_overview_d}
 	\end{subfigure}
 
-	\caption{POND Screens}\label{fig:POND_overview}
+	\caption{POND Home Screen}\label{fig:POND_overview}
 \end{figure}
 
 
 For the components, dark gray boxes indicate the current daily goal for that component. A colored box indicates how many portions of that component have been consumed. A colored block with a white dot indicates that the user has consumed more than the goal number of blocks. The use of a white dot in the block was chosen in order to provide non-judgmental feedback about the amount of servings consumed. 
 
 \subsection{Daily Entries}
-The ``Daily Entries'' screen was designed to show a list of the entries made over time so far today. The entries are reversed-ordered, with the most recent entry at the top. Here, users can distinguish between which items were looked up in the database versus which items were added with a +1. +1 Entries made very close together in time (~15 seconds) are grouped together into one item, as they are usually connected. The entry is also tagged with the location. 
+The ``Daily Entries'' screen (Figure \ref{fig:pond_details_c}) was designed to show a list of the entries made over time so far today. The entries are reversed-ordered, with the most recent entry at the top. Here, users can distinguish between which items were looked up in the database versus which items were added with a +1. +1 entries made very close together in time (15 seconds) are grouped together into one item, as they are usually connected. The entry is also tagged with the location. 
 The purple + button allows users to go directly to the ``Add Food'' Screen, while the device search button opens up a search widget to allow the user to add a new item to the showing day's list. Different days can be viewed by using the arrow buttons at the top of the screen, or by swiping left or right. Touching one of the entries opens up the appropriate ``Entry Edit'' screen and allows just that entry to be edited. A long touch on one entry shows a menu which allows the chosen single entry to be either edited or deleted. 
 
 \begin{figure}	
 \centering
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2c}}
+		\caption{A list of today's entries. }\label{fig:pond_details_c}
+	\end{subfigure}
+\quad
 	\begin{subfigure}[t]{1.25in}
 		\centering
 		\setlength\fboxsep{0pt}
@@ -152,19 +160,12 @@ The purple + button allows users to go directly to the ``Add Food'' Screen, whil
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig2b}}
 		\caption{Changing the goals screen.  }\label{fig:pond_goals}
 	\end{subfigure}
-\quad
-\begin{subfigure}[t]{1.25in}
-		\centering
-		\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2c}}
-		\caption{A list of today's entries. }\label{fig:pond_details_c}
-	\end{subfigure}
-	\caption{POND Screens.}\label{fig:pond_details}
+
+	\caption{Other POND screens}\label{fig:pond_details}
 \end{figure}
 
-\subsection{Create Custom, Frequently-Eaten Foods}
-This screen supports the creation of shortcuts for food combinations that people frequently eat. Note, this is just a combination of ``+1''s; not a combination of foods from the database, and it's intended to be a single serving (or, amount eaten at one time), as opposed to a recipe, which one might eat multiple or varying servings of. The example in the screenshot is a turkey sandwich: it's composed of two whole grains (for the bread), and if you scroll further down, some meat, some dairy, some solid fat for the cheese, some oil for the mayo, and some sodium for the bread, meat, and cheese. When the user then eats this turkey sandwich again, they can find it in the list of ``My Foods'' (description coming), and quickly enter it. The given, personalized name (``My Turkey Sandwich'') is then shown in the list of entries made today as a named group of blocks. The ``Add to Diary'' button allows the user to create a new entry for both current and future use, while when the ``Add to Diary'' checkbox is not checked, it just saves it for future use. 
+\subsection{Create Custom Food Entries}
+Figure \ref{fig:pond_combo} shows a screen that supports the creation of shortcuts for food combinations that people frequently eat. The combination entries are a combination of ``+1''s, as opposed to a combination of foods from the database. It is intended to be a single serving, or an amount eaten at one time. This is in contrast to defining a recipe, which is divided into multiple servings. The example in the screenshot is a turkey sandwich. The top of the screen shows some protein blocks for the meat. Further down the screen are two whole grains (for the bread), some dairy, some solid fat for the cheese, some oil for the mayo, and some sodium for the bread, meat, and cheese. When the user then eats this turkey sandwich again, they can find it in the list of ``My Foods'' and quickly enter it. The user-provided, personalized name (``My Turkey Sandwich'') is then shown in the list of entries made today as a named group of blocks. If the ``Add to Diary'' checkbox is checked, the ``Save'' button creates a new entry for both current and future use. When the ``Add to Diary'' checkbox is not checked, it is saved it for future use. 
 
 \begin{figure}	
 \centering
@@ -197,7 +198,7 @@ This screen supports the creation of shortcuts for food combinations that people
 
 
 \subsection{Change Goals Screen}
-The change goals screen can be used to change which components appear on the front screen, as well as how many blocks appear for each component. The checkboxes on the right are checked ``on'' to appear on the front screen, and the +/- buttons are used to indicate how many blocks should be provided for each component. Default USDA suggestions are indicated. When the number of blocks for an item is less than the suggested number of blocks for a component, light gray blocks indicate how many more are needed to get to that amount. When more blocks are selected than the suggestion, the blocks have a white circle inside. 
+The change goals screen (Figure \ref{fig:pond_goals} can be used to change which components appear on the front screen, as well as how many blocks appear for each component. The checkboxes on the right are checked ``on'' to appear on the front screen, and the +/- buttons are used to indicate how many blocks should be provided for each component. Default USDA suggestions are indicated. When the number of blocks for an item is less than the suggested number of blocks for a component, light gray blocks indicate how many more are needed to get to that amount. When more blocks are selected than the suggestion, the blocks have a white circle inside. 
 
 
 \begin{figure}[ t ]
@@ -210,8 +211,8 @@ The change goals screen can be used to change which components appear on the fro
 \caption{Editing an existing food entry. }
 \end{figure}
 
-\subsection{Search process/screens}
-Food from the database or custom created foods can be added from either a search or chosen from a list of foods used before. The device search button can be used to launch the search widget from either the home screen or the daily entries screen. The search term is used for a full-text search in the food name and manufacturer fields of the database. The results are broken into ``Generic'' and ``Brand'' tabs (as designated by the database). Within each grouping, if there are fewer than 100(?) results, the results are presented alphabetically. If there are more results, the results are presented in a two-level list, grouped by ``Food Class'', as designated by the database, with the food classes ordered such that the class with the most entries is at the top of the screen, and alphabetically within the food class. From this page, the user can either ``Refine'' the search, or start a new search. 
+\subsection{Search process}
+Figure \ref{fig:pond_database} depicts the food search process. Food from the database or custom created foods can be added from either a search or chosen from a list of foods used before. The device search button can be used to launch the search widget from either the home screen or the daily entries screen. The search term is used for a full-text search in the food name and manufacturer fields of the database. The results are broken into ``Generic'' and ``Brand'' tabs (as designated by the database). Within each grouping, if there are fewer than 100 results, the results are presented alphabetically. If there are more results, the results are presented in a two-level list, grouped by ``Food Class'', as designated by the database, with the food classes ordered such that the class with the most entries is at the top of the screen, and alphabetically within the food class. From this page, the user can either ``Refine'' the search, or start a new search. 
 
 The other two tabs on this ``Chose Food'' screen include only foods that have been used before or have been created by the user. The ``Mine'' tab lists foods alphabetically, while the ``Recent'' tab lists the same foods by the order they were last used, most recent on top. 
 
@@ -219,10 +220,11 @@ Once a food has been found and selected, the Food Detail screen shows more infor
 
 \subsection{Editing Entries}
 
-There are two different Entry Edit screens: one for Food entries (from the database), and one for +1 or custom food entries (which are treated like a combination of +1 entries). For food entries, the user can pretty much just change the amount, time, date, and location of the item. For +1 or custom food entries, the user can edit the name (or give it a new, meaningful name) and add/edit/delete the components, as well as change the time, date and location of the entry. 
+There are two different Entry Edit screens: one for Food entries (from the database), and one for +1 or custom food entries (which are treated like a combination of +1 entries). For food entries, the user can pretty much just change the amount, time, date, and location of the item. For +1 or custom food entries, the user can edit the name (or give it a new, meaningful name) and add, edit, or delete the components, as well as change the time, date and location of the entry.
+ 
 \subsection{Weekly Feedback}
 
-The weekly summary screen provides feedback about progress towards the goals throughout the week. The blue bars show the daily goal, or what that goal was for that day, empty boxes show that a goal has not been reached, while boxes extending past the bar show a goal that has been passed. Each screen only shows one component, and the drop-down list at the top (or swiping up/down on the screen) changes the component being displayed. Different weeks can be chosen via the menu, or swiping left/right on the screen. 
+The weekly summary screen provides feedback about progress toward the goals throughout the week. The blue bars show the daily goal, or what that goal was for that day, empty boxes show that a goal has not been reached, while boxes extending past the bar show a goal that has been passed. Each screen only shows one component, and the drop-down list at the top (or swiping up and down on the screen) changes the component being displayed. Different weeks can be chosen via the menu, or swiping left and right on the screen. 
 
 \begin{figure}	
 \centering
@@ -249,7 +251,7 @@ The weekly summary screen provides feedback about progress towards the goals thr
 \fbox{\includegraphics[width=1.25in]{./images/cont3/fig5c}}
 		\caption{The dairy component. }\label{fig:pond_week_dairy}
 	\end{subfigure}
-	\caption{Weekly overview. }\label{fig:pond_week_overview}
+	\caption{POND weekly overview }\label{fig:pond_week_overview}
 \end{figure}
 
 

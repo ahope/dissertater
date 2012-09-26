@@ -16,11 +16,30 @@ We have three groups of researchers who are interested in studying the use of se
 
 \section{Behavior Change}
 
-\subsection{Enabling change: Social Cognitive Theory}
 
+I'm putting this on the back burner because I'm not sure how interesting it is. Basically, what goes in this section is something about behavior change, goal setting and tending, self-monitoring, persuasive technology stuff. 
+
+Need to put into the bibliography:
+\begin{enumerate*}
+\item Locke \& Latham
+\item Fogg
+\item Bandura
+\end{enumerate*}
+ 
+\subsection{Enabling change: Social Cognitive Theory}
+Another relevant theory for PI designers and researchers is Social Cognitive Theory \citep{bandura_health_2004, bandura_self-efficacy:_1977}, which posits that a person’s behavior, environment and inner qualities all contribute to how a person functions. This theory has been applied to understanding how people learn, how social environments impact what people do, and how people regulate their own behavior. A key component in this theory is self-efficacy (SE), which is summarized as a belief in one’s abilities.
+
+Measuring Self Efficacy
+SE is traditionally measured by self-report. To develop SE measurements for a particular domain, researchers use open-ended approaches to identify common challenges and barriers to the problem. They then develop a series of statements of the form “How confident are you that you can [achieve goal] even though [challenge]?” with a 4-unit response scale ranging from “Cannot do it” to “Highly certain can do”. An example of a statement is “How confident are you that you can stick to a healthy eating plan after a long, tiring day at work?”
+Research shows SE measures based on self-report indicate adherence to strategies to change behavior \citep{nothwehr_self-efficacy_2008}. While short-term studies cannot prove behavior change, SE measures provides valuable feedback about whether an intervention is supporting adherence to behavior change strategies, and indicate whether participants complete the study with an intention to continue.
+
+This is an important feature for PI researchers: we are familiar with a domain and common challenges, so can build the scales easily; we usually use short-term studies to indicate long-term impact; and properly designed scales can help us to discover where a PI tool breaks down.
 
 \subsection{Motivation for change: Transtheoretical Model}
 The transtheoretical model (TTM) \citep{prochaska_transtheoretical_1997} reflects that people are in varying stages of change in relation to a given behavior. The stages include precontemplation, contemplation, preparation, action, maintenance and termination. 
+
+\subsection{Supporting change: Goal setting and tending}
+Here I talk about Locke and Latham \citep{locke_building_2002} and Consolvo and Landay \citep{consolvo_goal-setting_2009}. Goal theory. How to define goals. How to support progress toward goals. 
 
 \subsection{Self-Monitoring and Change}
 Research consistently supports that self-monitoring helps to mediate behavior change. Indeed, \citet{kanfer_self-monitoring:_1970} states ``self-observation is an initial step to self-directed behavior change''. Much research in this area falls outside the scope of this chapter, but in the domain of weight-loss, people who adhere to consistent self-monitoring of dietary intake lose more weight and have better indicators of related behaviors. Burke et al and the PREFER trial. WHI. \citep{greaves_systematic_2011}
@@ -29,25 +48,45 @@ It is unclear how self-monitoring impacts behavior change, or what mediates the 
 
 Later in this chapter I further explore how electronic self-monitoring tools for dietary intake are evaluated. 
 
+\subsection{Self-Monitoring for Health}
+Self-monitoring has been key to supporting lifestyle behavior changes necessary for treating cardiovascular disease, diabetes, cancer, and renal disease. 
 
+Electronic self-monitoring has advantages over pencil and paper self-monitoring. 
 
-\section{Changing Nutrition Behaviors}
-What are some standard approaches to helping people change their nutrition behaviors? 
+Certain lifestyle behaviors can help to prevent disease as well as treat it. 
 
-\subsection{Standard approaches}
+Since many of the behavior changes relate to nutrition and dietary intake, much research focuses on this. However, nutrition literature demonstrates that brief monitoring of the behaviors can still be effective. The technology domain has not put much emphasis on investigating brief monitoring instruments. 
 
-\subsubsection{Motivational Interviewing}
+Self-monitoring can help people make the behavior changes that prevent disease. 
+
+The cognitive processes involved in the recall of food have been described in children as \citep{Baranowski1994}:
+·    Attention
+·    Perception
+·    Organisation
+·    Retention
+·    Retrieval
+·    Response formulation
+People need to attend to the food that they are eating, at the time they eat it, in order to perceive it. The food information then needs to be organized and stored for retention. Then, the food information needs to be retrieved, and formulated into a response or action (e.g. creating a record). 
+
+\section{Technology and Behavior Change (Persuasive Technology)}
+In this section, talk about the body of work that has looked at how to use technology to support behavior change. Persuasive technology \citep{Fogg2002} and theory-driven technology \citep{consolvo_theory-driven_2009}. 
+
+\section{Approaches to Changing Nutrition Behaviors}
+Here I describe some standard approaches and theories nutritionists use to inform behaviors change to provide as background for reference later in this dissertation. It is not an exhaustive list. 
+
+\subsection{Motivational Interviewing}
 Motivational interviewing (MI) \citep{miller_motivational_2002, Miller2002} is a process practitioners use to identify what areas of change an individual is ready for. It is a technique employing goal setting, feedback mechanisms, and self-monitoring. There are three key elements: collaboration rather than confrontation; evoking ideas rather than imposing ideas; and autonomy rather than authority. In addition are four principles to follow: express empathy, support self-efficacy, roll with resistance, and ``develop discrepancy'' (or identify cognitive dissonance). 
 
 MI has a strong record of impact for many types of behavior change \citep{Rubak2005}. It is particularly effective and well respected in the area of nutrition behavior changes \citep{abraham_taxonomy_2008, michie_effective_2009, greaves_systematic_2011}. 
 
-\subsubsection{CBT Programs}
+\subsection{CBT Programs}
 Cognitive-Behavioral Training (CBT) teaches people how to change the way they think about their nutrition behaviors to support them in the change. 
 
-\subsubsection{Mix and Match Approaches?}
+\subsection{Other techniques}
 Other common themes in the research is regular group meetings, personalized feedback, nutritional education. 
 
-\section{Technology for Self-Monitoring}
+\section{Challenges for Self-Monitoring}
+\subsection{Technology for Self-Monitoring}
 Paper and pencil were originally used for self-monitoring. From a user perspective, paper diaries were challenging because they required the user to remember to carry the diary, use it when they ate, and then perform any analysis manually (e.g., looking up calories or reviewing progress toward goals). More recently, the use of technology to support self-monitoring has included the use of computers, PDAs, websites and mobile phones with physical activity sensors. 
 
 I will first talk about some of the projects and papers in each domain, and then address how they are evaluated overall. 
@@ -60,20 +99,99 @@ We see more work focused on the design and implementation of technology to suppo
 
 I will review 
 
-\subsection{Evaluation of Electronic Self-Monitoring}
-As addressed in \cite{klasnja_how_2011}, the evaluation of technology tools to support behavior change is difficult. This theme arose throughout the course of this dissertation work: what can we evaluate, how do we measure it, and what do we learn? In addition to evaluating this work individually, we wanted to be able to compare the results of our evaluation to previous work. This was more difficult than anticipated. Existing work evaluating self-monitoring of dietary intake is not consistent, and does not report results that can be used to compare one self-monitoring approach to another. 
 
-Evaluation of technologies need to include both usability and utility: Usability reflects how usable the system is, while utility investigates the system's usefulness in a larger context.  
+\section{Related Work}
+There are four projects closely related to the work presented in this dissertation. They are related because they are related to nutrition as opposed to physical activity, incorporate a form of self-monitoring, they take a user-centered design and evaluation approach, and they have some form of final validation. Work not covered here includes user-centered approaches to designing technology to support self-monitoring of physical activity, work focused primarily on developing or designing new technology to support self-monitoring of dietary intake, or work focused primarily on the evaluation of commercially available self-monitoring tools. However, I do refer to some of these projects later when I discuss the evaluation of tools that support self-monitoring of dietary intake. 
 
-Given this challenge, this section focuses on the evaluation of self-monitoring of dietary intake tools. 
-Much of literature in the nutrition community focuses on whether a tool in general improves the self-monitoring process. In the technology literature, evaluations focus more on documenting the design process and whether the technology works in regards to the intended impact. 
+The four main projects related to this dissertation work include: Siek et al's \citep{siek_bridging_2009, siek_design_2006, siek_when_2006} work on self-monitoring of fluids and nutrients for patients with renal failure; Mamykina et al's work on supporting newly diagnosed diabetes patients; Tsai et al's work on mobile phone software that tracks both physical activity and dietary intake; and the Wellness Diary by Mattila et al, which is mobile phone software to track a variety of wellness factors, including dietary intake, physical activity, mood, stress, and sleep. 
 
-\subsubsection{Challenges}
-There are many challenges to the evaluation of self-monitoring. 
+Siek et al \citep{siek_bridging_2009, siek_design_2006, siek_when_2006} explored the use of PDA-based self-monitoring of dietary intake for a specific population: people who have chronic kidney disease (CKD) and require dialysis on a regular basis. People with CKD tend to have a number of conditions that make traditional food tracking more difficult. Dialysis patients must track their intake of certain nutrients (particularly sodium, potassium and fluids) in their  very carefully. Monitoring this information is particularly difficult for end-stage renal patients with poor literacy skills. The disease and treatment cause physical side effects that make using traditional electronic food journaling applications difficult. The physical side effects include degraded eyesight and fine muscle coordination, which makes small fonts or pointing targets inappropriate. To address these issues, the researchers investigated the use of barcode scanners and voice input to make food input easier. Over time participants preferred to use voice input because it was quicker and easier than using the scanner. 
 
-\citep{junqing_shang_pervasive_2011} is developing the Dietary Data Recording System to both streamline the food data collection process and help evaluate self-monitoring technologies. It runs on an Android device and uses video and a laser grid to calculate food volume. 
 
-\citep{mela_honest_1997} describes how self-reports of food intake are ``Honest but Invalid''. 
+Mamykina et al \citep{mamykina_examining_2011, mamykina_mahi:_2008} has explored supporting diabetes patients in managing their dietary intake. Specifically, MAHI focused on better supporting and exploring how to build tools to support people in their monitoring of a chronic disease, diabetes. Newly diagnosed diabetics usually go through a period of changing their dietary behaviors. MAHI is a mobile phone application that supports users in capturing and documenting eating episodes throughout the day. The records can then be reviewed later, encouraging reflection on the individual's behavior and choices. This can be characterized as a quick-capture with a strong emphasis on post-hoc analysis. Mamykina et al report \citep{mamykina_mahi:_2008} two specific items of interest for this dissertation: participants in particular had trouble using the Nokia N80 phones (including ``intimidat[ion] by the expensive-looking phone''), and there was a noticeable ``low level of personal interest'' in the use of the technology. Further work in this area focused more on social support and the building of community around diabetes management. 
+
+Researchers at UCSD  have developed the Patient-Centered Assessment and Counseling Mobile Energy Balance (PmEB) \citep{tsai_usability_2007},  an application that runs on a cell phone to help people "self-monitor caloric balance in real-time".  The application on the phone allowed users to enter food intake and physical activity episodes, and displayed a visualization of current balance. They evaluated the application by comparing it to a paper diary, but the evaluation was designed to specifically investigate the benefit of reminders in tracking caloric balance. The participants were assigned to three groups: Paper (using a paper diary for tracking food intake and physical activity), One-Reminder (using the phone application, with the phone providing one daily reminder to enter food), and Three-Reminder (again using the phone application, but with 3 daily reminders to enter food and activity). 
+
+How did they choose their prompts? That is, when were prompts sent? If they were really using EMI, there is supposedly some context that triggers a prompt (I would imagine something more substantial than time). I don't see any indication of that though… 
+
+The authors write (p 180) ``The Paper group gave higher scores for how helpful their paper-based materials were for learning activity expenditures and food consumption.'' Does this supports the notion that the amount of involvement or amount of time/effort one puts into the intervention effect learning/behavior change? IE, it is arguably true that more involvement leads to more awareness leads to more effect. Would we consider the paper group or the mobile phone group to be "more involved"? Is there a way we could investigate this given the existing data? 
+
+The authors calculate a compliance score for each group (separate for calorie consumption and expenditure) as the number of days where there was an entry divided by the number of days possible to have an entry. That is, the instrument was available for 30 days, times 5 participants  = 150 participant-days. If the 5 participants entered a total of 100 entries, compliance was calculated to be 100/150=0.6667. If the instruments for the different conditions were "the same", we could reasonably expect the compliance level to be the same for food intake for each condition (that is, we could assume all participants eat at least one thing per day, so therefore would enter at least one thing per day, if the instruments were the same). Since these numbers aren't the same, so we can conclude that there was some difference among the instruments for entering food intake. This assumption doesn't apply to exercise. Unless it is controlled for in some appropriate way, we can't assume that all participants exercise the same amount, or even the same frequency. 
+
+One of the most comprehensive projects related to this dissertation work is the Wellness Diary. The Wellness Diary \citep{mattila_mobile_2008, ahtinen_user_2009, mattila_nuadu_2008, koskinen_customizable_2007, van_gils_feasibility_2001} is a simple, customizable diary software based on CBT. It provides many different wellness factors an individual can monitor over time. The wellness factors include quality of food intake, amount of physical activity, sleep, stress levels, and amount of time spent at work for the day. 
+
+Matilla et al evaluated the use of the Wellness Diary by two groups of people [28]. The first group, the weight management group, was a self-selected group of 29 people who were overweight and owned a phone that could run the software. This group was asked to use the WD as part of a cognitive behavioral therapy (CBT)-based weight management program. The second group (for general wellness management) consisted of 17 volunteers who were participating in a work-related rehabilitation program, and had high burnout scores. This group was using WD to help them track stress-related indicators as part of a larger rehabilitation program. 
+
+The weight management group was provided with the equipment and training necessary for them to implement the CBT-based weight management program, as well as suggestions about what kinds of measurements they should make (make food entries after meals, measure their weight every morning, etc.). At the end of three months, participants were classified as in either a "LOSER" group (n=12), meaning they lost more than 1\% of their starting weight, or the "OTHER" group (n = 13). The participants in the LOSER group lost significantly more weight than the OTHER group (a loss of 2.94 kg versus a gain of 0.193 kg) and made significantly more entries per day (5.78 versus 5.24). Participants in the LOSER group made a mean of 3.41 food and drink entries per day, while those in the OTHER group only made 3.05. This study provides evidence to support previous work [8] that indicate the longer a person continues their self-monitoring practices, the more weight they will lose (or the bigger the change). It also provides evidence that users appear willing to make five or six quick entries in a journaling application per day. 
+
+The reported results from the general wellness management group focused more on general usage, usability and acceptance of the WD software. In this group, participants still made 5.48 entries per day, although there was a significant difference in the number of entries made on a weekday (6.14) compared to a weekend day (5.19). General feedback about the WD was positive, although participants were uncomfortable with entries related to stress assessment (stress, tiredness, irritation and tension). 
+
+WellNavi \citep{wang_development_2006} investigated the use of taking photos on a mobile phone to capture food intake. Participants took a picture of the food before and after eating.  A stylus-ruler was placed next to the meal to identify scale. Participants completed a short questionnaire about non-pictured foods. The images were then analyzed by an RD for nutritional content. There was little difference in the nutrition content as identified in the photos when compared to the weighed food records and 24-hr recall. This indicated that the use of photos with the extra data (ruler, survey) is comparable to existing standards of identifying nutritional intake. The record-capture process was reported as taking an average of 5 minutes. Participants reported being concerned about someone else seeing their photos. 
+
+
+SapoFitness \citep{silva_sapofitness:_2011} presents the design and prototype of a physical activity and dietary intake diary. It is an Android application. In addition to tracking physical activity and dietary intake, features include a personal profile, feedback on current health status, and sharing. It also included predefined reminders to help the user make good choices throughout the day. 
+
+\subsection{Self-Monitoring via Photography}
+A considerable amount of work is going into understanding and improving the use of mobile phones to take pictures of food as part of the self-monitoring process. 
+
+* Taking pictures and reviewing them individually
+* Taking pictures of food and having others review/analyze them. (either expert or crowd-sourced)
+* Taking pictures and having them automatically analyzed 
+
+\citep{aizawa_food_2010, kitamura_foodlog:_2009, de_silva_clustering_2011} is a website that allows users to upload images of their meals. The images are analyzed using computer vision approaches to categorize food into five food groups (grains, vegetable, meat/beans, fruit, milk) \citep{kitamura_image_2010}. The system is primarily for personal use, but includes some features for users to connect and build community. It includes a number of analytical features and capabilities. 
+
+Almaghrabi et al \citep{almaghrabi_novel_2012} uses before and after photos of food to identify the food, look up its nutritional content, and determine how much was eaten. It addresses the measurement problem by registering the image with the users thumb. It is restricted to meals eaten on white plates. 
+
+Zhu et al \citep{zhu_use_2010, bosch_integrated_2011, zhu_image_2010} developed an image-based analysis system that consists of mobile-phone based image capture (of food), a database of known foods and nutrition information, and is working on the vision and classification aspects of this problem. 
+
+\citep{fanyu_kong_dietcam:_2011, Kong2011} is developing DietCam, a mobile-phone-based camera software that is exploring how to support users to take multiple photos of a meal, before and after eating, to improve the food recognition problem. 
+
+\citep{noronha_platemate:_2011} is working on PlateMate, which is crowd-sourcing nutritional analysis from food photographs. Like The Eatery. 
+
+\citep{Pabler2011} and \citep{amft_detection_2005} are both working on sensing eating activities with the use of a wearable microphone. They are investigating whether features of the chewing sounds can determine which food is being chewed, and how much. 
+
+DietSense \citep{reddy_image_2007} is a project that collects a bunch of images (a la life-logging) all day. Food images can be extracted, then clustered and presented to a user, who can then use the images to assess their daily dietary intake. 
+
+DiaWare \citep{shroff_wearable_2008} supplements the image-capture and recognition problem with contextual information from the mobile phone, such as user, location, and time. 
+
+\citep{wen_wu_fast_2009} took videos of people eating in fast food restaurants, used image recognition to identify food items and how much was eaten, and used a nutrition database to calculate how many calories each person ate. 
+
+
+\citep{kim_development_2010} image--based dietary assessment. Need to look it up again. 
+
+
+Comber et al \citep{comber_supporting_2012} focused on using a mobile-phone based image capture system to track what patients in a hospital eat. This work is effective because it is used within a hospital environment where food served to patients is highly controlled, both in terms of content and serving size. 
+
+
+
+
+* Using sensors on the body to recognize eating events. 
+
+
+
+Self-monitoring, defined as the process of observing and recording target behavior, has been identified as a key component of behavior change in general \citep{kanfer_self-monitoring:_1970} and for weight loss in particular \citep{michie_effective_2009} \citep{burke_effect_2011}. Of the people who have lost weight and kept it off (as registered with the Weight Loss Registry), the key behavior that correlates highly with losing and keeping weight off is the practice of self-monitoring both food (energy) intake and physical activity (energy expenditure) \citep{yon_personal_2007, burke_experiences_2009}. 
+
+This led to the BALANCE project, where we combined physical activity detection with dietary intake monitoring to  encourage users to self-monitor. 
+
+The research that indicates self-monitoring helps people to lose weight is not detailed enough to understand what aspects of self-monitoring are necessary. Additionally, this research is usually done on highly motivated participants. 
+
+Please note: this is a very rich area for design and investigation. The research literature has many publications that are short, design-oriented, and not well evaluated. There are lots of great ideas out there. 
+
+
+\section{Evaluation of Self-Monitoring}
+
+\subsection{Domain Evaluation}
+
+\subsection{Technology Evaluation}
+
+
+
+
+
+
+
+
+
 
 \subsubsection{Nutrition-Related work}
 In the nutrition community, most self-monitoring of dietary intake is done in conjunction with a larger program such as a weight loss program. Examples of this are in the Women's Health Initiative \citep{glanz_improving_2006} and SMART trial \citep{burke_self-monitoring_2011}. Both programs incorporated electronic self-monitoring as part of a larger program that included a high level of support for participants. This support included technical support,  personalization of the software, and providing timely, personalized feedback on a regular basis. 
@@ -120,109 +238,27 @@ Since familiarity is so important, we carefully considered how to choose the foo
 
 Another important aspect is how the food tasks are presented to participants. In the real world, one of the important challenges to ``perfect'' food journaling is the process of seeing/eating food, identifying what it is, sometimes identifying methods of preparation (fried versus broiled), identifying un-seen characteristics (low-fat versus full-fat milk, with butter), and identifying portion or serving sizes in order to correctly enter the food (or choose from a list in a db). Sometimes this process is easy, as with packaged foods or when preparing your own food; other times such as at a restaurant it is more challenging. Literacy is also an issue: with a traditional journaling approach, it is one thing to be able to identify one cup of spaghetti, but if you are not able to spell it properly, you might not be able to find it in a database. Due to this process, we considered that using real plates of food would be more life-like, and that using photographs of food were close to real. However, with the use of photographs, care must be taken to obtain them properly. Scale and lighting are two important considerations. And, with research, we found that there exist food photograph booklets specially prepared for the purpose of studying people's estimation of portion sizes. However, these booklets had the familiarity concerns outlined above. We decided that portion size estimation and literacy were not primary concerns for this study, so chose to present food tasks as a list of foods on a card. 
 
-
-\section{Related Work}
-
-
-
-\section{Background}
-In this section, I review the work that provides a foundation for studying the self-monitoring of dietary intake. Work about how disease is impacted by dietary intake. How self-monitoring helps people to change their behaviors around dietary intake. How researchers evaluate technology and behavior change. 
-
-
-\subsection{Self-Monitoring for Health}
-Self-monitoring has been key to supporting lifestyle behavior changes necessary for treating cardiovascular disease, diabetes, cancer, and renal disease. 
-
-Electronic self-monitoring has advantages over pencil and paper self-monitoring. 
-
-Certain lifestyle behaviors can help to prevent disease as well as treat it. 
-
-Since many of the behavior changes relate to nutrition and dietary intake, much research focuses on this. However, nutrition literature demonstrates that brief monitoring of the behaviors can still be effective. The technology domain has not put much emphasis on investigating brief monitoring instruments. 
-
-Self-monitoring can help people make the behavior changes that prevent disease. 
-
-The cognitive processes involved in the recall of food have been described in children as (Baranowski \& Domel, 1994):
-·    Attention
-·    Perception
-·    Organisation
-·    Retention
-·    Retrieval
-·    Response formulation
-
-\subsection{Psychology/Behavior change}
-I'm putting this on the back burner because I'm not sure how interesting it is. Basically, what goes in this section is something about behavior change, goal setting and tending, self-monitoring, persuasive technology stuff. 
-
-Need to put into the bibliography:
-\begin{enumerate*}
-\item Locke \& Latham
-\item Fogg
-\item Bandura
-\end{enumerate*}
- 
-
 \subsection{Evaluation of Electronic Self-Monitoring}
+As addressed in \cite{klasnja_how_2011}, the evaluation of technology tools to support behavior change is difficult. This theme arose throughout the course of this dissertation work: what can we evaluate, how do we measure it, and what do we learn? In addition to evaluating this work individually, we wanted to be able to compare the results of our evaluation to previous work. This was more difficult than anticipated. Existing work evaluating self-monitoring of dietary intake is not consistent, and does not report results that can be used to compare one self-monitoring approach to another. 
+
+Evaluation of technologies need to include both usability and utility: Usability reflects how usable the system is, while utility investigates the system's usefulness in a larger context.  
+
+Given this challenge, this section focuses on the evaluation of self-monitoring of dietary intake tools. 
+Much of literature in the nutrition community focuses on whether a tool in general improves the self-monitoring process. In the technology literature, evaluations focus more on documenting the design process and whether the technology works in regards to the intended impact. 
+
+\subsubsection{Challenges}
+There are many challenges to the evaluation of self-monitoring. 
+
+\citep{junqing_shang_pervasive_2011} is developing the Dietary Data Recording System to both streamline the food data collection process and help evaluate self-monitoring technologies. It runs on an Android device and uses video and a laser grid to calculate food volume. 
+
+\citep{wenyan_jia_food_2009} uses an LED (attached to a camera) to take a picture of food to calculate serving size. 
+
+\citep{mela_honest_1997} describes how self-reports of food intake are ``Honest but Invalid''. 
 
 
 
 
 
 
-\section{Temp: drafting}
-
-In this section, I'm just drafting paragraphs summarizing a single piece of work. They will be combined later. 
-
-Siek et al \citep{siek_bridging_2009, siek_design_2006, siek_when_2006} explored the use of PDA-based self-monitoring of dietary intake for a specific population: people who have chronic kidney disease (CKD) and require dialysis. People with CKD are required to closely monitor their liquid and sodium intake. Siek identified characteristics of these patients that impacted the design of tools to support their self-monitoring. The important characteristics they identified include a need to support patients with poor literacy skills and poor vision. This research focused on a particular population with specific dietary needs. 
-
-Siek et al  focus on the use of food diaries by people with renal failure. It turns out that the group they focus on tend to have a number of conditions that make traditional food tracking difficult for them. Patients with renal failure (ie, who have kidney dialysis on a regular basis) must track certain nutrients in their diet very carefully-in particular sodium, potassium and fluids. Tracking this information is particularly difficult for end-stage renal patients who have low literacy rates/levels. In addition, the disease and treatment cause physical side effects that make using traditional electronic food journaling applications difficult-it effects their eyesight (so small fonts or pointing targets are inappropriate) and fine muscle coordination (which makes it difficult to attain small targets). To address these issues, the researchers investigated the use of barcode scanners to specify what food someone ate. 
-
-This study focused more on investigating how end-stage renal patients preferred to input food to a mobile nutrition journaling tool. With the choices of voice input or barcode scanning, over time participants preferred to use voice input, because it was quicker and easier than even picking up the package and using the scan. It is important to note that while participants did eventually prefer to use the quicker voice input, it was still necessary for someone to transcribe the recording to generate a food entry.  
-
-
-Mamykina et al \citep{mamykina_examining_2011, mamykina_mahi:_2008} has explored supporting diabetes patients in managing their dietary intake. Specifically, MAHI focused on better supporting and exploring how to build tools to support people in their monitoring of a chronic disease, diabetes. Newly diagnosed diabetics usually go through a period of changing their dietary behaviors. MAHI is a mobile phone application that supports users in capturing and documenting eating episodes throughout the day. The records can then be reviewed later, encouraging reflection on the individual's behavior and choices. This can be characterized as a quick-capture with a strong emphasis on post-hoc analysis. Mamykina et al report \citep{mamykina_mahi:_2008} two specific items of interest for this dissertation: participants in particular had trouble using the Nokia N80 phones (including ``intimidat[ion] by the expensive-looking phone''), and there was a noticeable ``low level of personal interest'' in the use of the technology. Further work in this area focused more on social support and the building of community around diabetes management. 
-
-Researchers at UCSD  have developed the Patient-Centered Assessment and Counseling Mobile Energy Balance (PmEB) \citep{tsai_usability_2007},  an application that runs on a cell phone to help people "self-monitor caloric balance in real-time".  The application on the phone allowed users to enter food intake and physical activity episodes, and displayed a visualization of current balance. They evaluated the application by comparing it to a paper diary, but the evaluation was designed to specifically investigate the benefit of reminders in tracking caloric balance. The participants were assigned to three groups: Paper (using a paper diary for tracking food intake and physical activity), One-Reminder (using the phone application, with the phone providing one daily reminder to enter food), and Three-Reminder (again using the phone application, but with 3 daily reminders to enter food and activity). 
-
-How did they choose their prompts? That is, when were prompts sent? If they were really using EMI, there is supposedly some context that triggers a prompt (I would imagine something more substantial than time). I don't see any indication of that though… 
-
-The authors write (p 180) ``The Paper group gave higher scores for how helpful their paper-based materials were for learning activity expenditures and food consumption.'' Does this supports the notion that the amount of involvement or amount of time/effort one puts into the intervention effect learning/behavior change? IE, it is arguably true that more involvement leads to more awareness leads to more effect. Would we consider the paper group or the mobile phone group to be "more involved"? Is there a way we could investigate this given the existing data? 
-
-The authors calculate a compliance score for each group (separate for calorie consumption and expenditure) as the number of days where there was an entry divided by the number of days possible to have an entry. That is, the instrument was available for 30 days, times 5 participants  = 150 participant-days. If the 5 participants entered a total of 100 entries, compliance was calculated to be 100/150=0.6667. If the instruments for the different conditions were "the same", we could reasonably expect the compliance level to be the same for food intake for each condition (that is, we could assume all participants eat at least one thing per day, so therefore would enter at least one thing per day, if the instruments were the same). Since these numbers aren't the same, so we can conclude that there was some difference among the instruments for entering food intake. This assumption doesn't apply to exercise. Unless it is controlled for in some appropriate way, we can't assume that all participants exercise the same amount, or even the same frequency. 
-
-One of the most comprehensive projects related to this dissertation work is the Wellness Diary. The Wellness Diary \citep{mattila_mobile_2008, ahtinen_user_2009, mattila_nuadu_2008, koskinen_customizable_2007, van_gils_feasibility_2001} is a simple, customizable diary software based on CBT. It provides many different wellness factors an individual can monitor over time. The wellness factors include quality of food intake, amount of physical activity, sleep, stress levels, and amount of time spent at work for the day. 
-
-Matilla et al evaluated the use of the Wellness Diary by two groups of people [28]. The first group, the weight management group, was a self-selected group of 29 people who were overweight and owned a phone that could run the software. This group was asked to use the WD as part of a cognitive behavioral therapy (CBT)-based weight management program. The second group (for general wellness management) consisted of 17 volunteers who were participating in a work-related rehabilitation program, and had high burnout scores. This group was using WD to help them track stress-related indicators as part of a larger rehabilitation program. 
-
-The weight management group was provided with the equipment and training necessary for them to implement the CBT-based weight management program, as well as suggestions about what kinds of measurements they should make (make food entries after meals, measure their weight every morning, etc.). At the end of three months, participants were classified as in either a "LOSER" group (n=12), meaning they lost more than 1\% of their starting weight, or the "OTHER" group (n = 13). The participants in the LOSER group lost significantly more weight than the OTHER group (a loss of 2.94 kg versus a gain of 0.193 kg) and made significantly more entries per day (5.78 versus 5.24). Participants in the LOSER group made a mean of 3.41 food and drink entries per day, while those in the OTHER group only made 3.05. This study provides evidence to support previous work [8] that indicate the longer a person continues their self-monitoring practices, the more weight they will lose (or the bigger the change). It also provides evidence that users appear willing to make five or six quick entries in a journaling application per day. 
-
-The reported results from the general wellness management group focused more on general usage, usability and acceptance of the WD software. In this group, participants still made 5.48 entries per day, although there was a significant difference in the number of entries made on a weekday (6.14) compared to a weekend day (5.19). General feedback about the WD was positive, although participants were uncomfortable with entries related to stress assessment (stress, tiredness, irritation and tension). 
-
-WellNavi \citep{wang_development_2006} investigated the use of taking photos on a mobile phone to capture food intake. Participants took a picture of the food before and after eating.  A stylus-ruler was placed next to the meal to identify scale. Participants completed a short questionnaire about non-pictured foods. The images were then analyzed by an RD for nutritional content. There was little difference in the nutrition content as identified in the photos when compared to the weighed food records and 24-hr recall. This indicated that the use of photos with the extra data (ruler, survey) is comparable to existing standards of identifying nutritional intake. The record-capture process was reported as taking an average of 5 minutes. Participants reported being concerned about someone else seeing their photos. 
-
-LiveCompare. (?). I have a note about this, but can't find anything else!!
-\section{Related Work}
-
-SapoFitness \citep{silva_sapofitness:_2011} presents the design and prototype of a physical activity and dietary intake diary. It is an Android application. In addition to tracking physical activity and dietary intake, features include a personal profile, feedback on current health status, and sharing. It also included predefined reminders to help the user make good choices throughout the day. 
-
-\subsection{Self-Monitoring via Photography}
-A considerable amount of work is going into understanding and improving the use of mobile phones to take pictures of food as part of the self-monitoring process. 
-
-* Taking pictures and reviewing them individually
-* Taking pictures of food and having others review/analyze them. (either expert or crowd-sourced)
-* Taking pictures and having them automatically analyzed 
-
-\citep{aizawa_food_2010, kitamura_foodlog:_2009} is a website that allows users to upload images of their meals. The images are analyzed using computer vision approaches to categorize food into five food groups (grains, vegetable, meat/beans, fruit, milk) \citep{kitamura_image_2010}. The system is primarily for personal use, but includes some features for users to connect and build community. It includes a number of analytical features and capabilities. 
-
-Almaghrabi et al \citep{almaghrabi_novel_2012} uses before and after photos of food to identify the food, look up its nutritional content, and determine how much was eaten. It addresses the measurement problem by registering the image with the users thumb. It is restricted to meals eaten on white plates. 
-
-Zhu et al \citep{zhu_use_2010, bosch_integrated_2011, zhu_image_2010} developed an image-based analysis system that . 
-
-* Using sensors on the body to recognize eating events. 
-
-
-
-Self-monitoring, defined as the process of observing and recording target behavior, has been identified as a key component of behavior change in general \citep{kanfer_self-monitoring:_1970} and for weight loss in particular \citep{michie_effective_2009} \citep{burke_effect_2011}. Of the people who have lost weight and kept it off (as registered with the Weight Loss Registry), the key behavior that correlates highly with losing and keeping weight off is the practice of self-monitoring both food (energy) intake and physical activity (energy expenditure) [ref]. 
-
-This led to the BALANCE project, where we combined physical activity detection with dietary intake monitoring to  encourage users to self-monitor. 
-
-The research that indicates self-monitoring helps people to lose weight is not detailed enough to understand what aspects of self-monitoring are necessary. Additionally, this research is usually done on highly motivated participants. 
 
 \section{Summary}In this section, I reviewed relevant background information for this dissertation, including behavior change theories, traditional approaches specifically for supporting nutrition behavior change, and the important role of  self monitoring. I provided some overviews of how self-monitoring has been studied both from a technology development perspective, and how nutritionists evaluate self-monitoring of dietary intake from a utility perspective. I also provided a short overview of projects related to those discussed in this dissertation. 
