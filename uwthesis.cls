@@ -141,7 +141,7 @@
 \oddsidemargin 108\p@ 
 \evensidemargin 72\p@
 \newdimen\botmargin
-\botmargin 72\p@
+\botmargin 72\p@ 
 \marginparwidth 72\p@
 \marginparsep 7\p@
 \footskip \z@ % set later

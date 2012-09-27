@@ -9,19 +9,19 @@
 \contentsline {section}{\numberline {2.1}Behavior Change}{9}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Enabling change: Social Cognitive Theory}{9}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Motivation for change: Transtheoretical Model}{10}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Self-Monitoring and Change}{10}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Self-Monitoring for Health}{10}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Changing Nutrition Behaviors}{11}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Motivational Interviewing}{11}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}CBT Programs}{12}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Other techniques}{12}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Challenges for Self-Monitoring}{12}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Technology for Self-Monitoring}{12}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Nutrition/Epi Research Domain}{12}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Technology Research Domain}{13}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Related Work}{13}{section.2.4}
-\contentsline {section}{\numberline {2.5}Related Work}{17}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Self-Monitoring via Photography}{17}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.1.3}Supporting change: Goal setting and tending}{10}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Self-Monitoring and Change}{10}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Self-Monitoring for Health}{11}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Technology and Behavior Change (Persuasive Technology)}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Approaches to Changing Nutrition Behaviors}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Motivational Interviewing}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}CBT Programs}{12}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Other techniques}{12}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Challenges for Self-Monitoring}{12}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Technology for Self-Monitoring}{12}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Nutrition/Epi Research Domain}{13}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Technology Research Domain}{13}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Related Work}{13}{section.2.5}
 \contentsline {section}{\numberline {2.6}Evaluation of Self-Monitoring}{19}{section.2.6}
 \contentsline {subsection}{\numberline {2.6.1}Domain Evaluation}{19}{subsection.2.6.1}
 \contentsline {subsection}{\numberline {2.6.2}Technology Evaluation}{19}{subsection.2.6.2}
@@ -30,7 +30,7 @@
 \contentsline {subsubsection}{\numberline {2.6.2.3}Usability Evaluation: Task identification (?)}{23}{subsubsection.2.6.2.3}
 \contentsline {subsection}{\numberline {2.6.3}Food Tasks: Food Diary Evaluation Methodology}{23}{subsection.2.6.3}
 \contentsline {subsection}{\numberline {2.6.4}Evaluation of Electronic Self-Monitoring}{25}{subsection.2.6.4}
-\contentsline {subsubsection}{\numberline {2.6.4.1}Challenges}{25}{subsubsection.2.6.4.1}
+\contentsline {subsubsection}{\numberline {2.6.4.1}Challenges}{26}{subsubsection.2.6.4.1}
 \contentsline {section}{\numberline {2.7}Summary}{26}{section.2.7}
 \contentsline {chapter}{\numberline {\@textofChapter \ 3:}BALANCE}{27}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}
