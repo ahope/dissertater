@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  27 SEP 2012 12:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  27 SEP 2012 17:33
 entering extended mode
 **main_doc.tex
 (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.tex
@@ -770,7 +770,7 @@ l.23 ...ogy Research Domain}{13}{subsection.2.4.3}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 ...ed Food Diaries In The Lab}{77}{chapter.4}
+l.80 ...ed Food Diaries In The Lab}{73}{chapter.4}
                                                    [2] [3] [4])
 \tf@toc=\write5
  [5] [6
@@ -3491,16 +3491,12 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
 Package rerunfilecheck Info: File `main_doc.out' has not changed.
 (rerunfilecheck)             Checksum: 43114E0B1AA7868EA14E0E534F064956;9099.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
  ) 
 Here is how much of TeX's memory you used:
  14632 strings out of 493921
  223157 string characters out of 3144882
- 314919 words of memory out of 3000000
+ 314918 words of memory out of 3000000
  16951 multiletter control sequences out of 15000+200000
  54578 words of font info for 124 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
