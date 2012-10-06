@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  27 SEP 2012 17:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  4 OCT 2012 05:55
 entering extended mode
 **main_doc.tex
 (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.tex
@@ -761,7 +761,7 @@ t4): destination with the same identifier (name{page.i}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.23 ...ogy Research Domain}{13}{subsection.2.4.3}
+l.25 ...istics and Measures}{21}{subsection.2.4.2}
                                                    [1
 
 
@@ -770,10 +770,10 @@ l.23 ...ogy Research Domain}{13}{subsection.2.4.3}
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 ...ed Food Diaries In The Lab}{73}{chapter.4}
-                                                   [2] [3] [4])
+l.79 ...Based Quality Index}{79}{subsection.4.2.3}
+                                                   [2] [3])
 \tf@toc=\write5
- [5] [6
+ [4] [5] [6
 
 ]
 (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.lof [7])
@@ -826,17 +826,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3]) (C:\Users\aha\Documents\LEdProjects\dissertation\background.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[3]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4]
+[4]) (C:\Users\aha\Documents\LEdProjects\dissertation\background.tex
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -850,13 +847,15 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6
+[6]
+<<2>>
+[7
 
 ]
-<<2>>
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 20.
+Missing character: There is no ’ in font pplr7t!
+Missing character: There is no ’ in font pplr7t!
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -865,30 +864,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8]
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 29.
+Overfull \hbox (5.19989pt too wide) in paragraph at lines 25--26
+\OT1/ppl/m/n/10.95 change be-hav-ior [[]Noth-wehr[], []2008[]]. While short-ter
+m stud-ies can-not prove be-hav-ior change,
+ []
 
 
-Package natbib Warning: Citation `bandura_health_2004' on page 9 undefined on i
-nput line 30.
+Underfull \vbox (badness 1072) has occurred while \output is active []
 
-
-Package natbib Warning: Citation `bandura_self-efficacy:_1977' on page 9 undefi
-ned on input line 30.
-
-Missing character: There is no ’ in font pplr7t!
-Missing character: There is no ’ in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-Missing character: There is no ” in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-Missing character: There is no ” in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-Missing character: There is no ” in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-Missing character: There is no ” in font pplr7t!
-
-Package natbib Warning: Citation `nothwehr_self-efficacy_2008' on page 9 undefi
-ned on input line 34.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -897,6 +880,13 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [9]
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -904,17 +894,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-
-
-Package natbib Warning: Citation `consolvo_theory-driven_2009' on page 11 undef
-ined on input line 72.
-
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -950,6 +929,17 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15]
+Overfull \hbox (4.5205pt too wide) in paragraph at lines 105--106
+\OT1/ppl/m/n/10.95 of-reflection. Since it is un-clear how the pro-cess of self
+-monitoring im-pacts be-hav-ior change,
+ []
+
+
+Overfull \hbox (16.98178pt too wide) in paragraph at lines 107--108
+[]\OT1/ppl/m/n/10.95 Finally, image-based self-monitoring may have the same cha
+l-lenges as tra-di-tional, nutrient-
+ []
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -964,17 +954,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [17]
-Overfull \hbox (4.5205pt too wide) in paragraph at lines 128--129
-\OT1/ppl/m/n/10.95 of-reflection. Since it is un-clear how the pro-cess of self
--monitoring im-pacts be-hav-ior change,
- []
-
-
-Overfull \hbox (16.98178pt too wide) in paragraph at lines 130--131
-[]\OT1/ppl/m/n/10.95 Finally, image-based self-monitoring may have the same cha
-l-lenges as tra-di-tional, nutrient-
- []
-
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -982,6 +961,10 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18]
+Overfull \hbox (1755.2633pt too wide) in paragraph at lines 143--144
+[][] 
+ []
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -1003,6 +986,11 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [21]
+Overfull \hbox (1.29071pt too wide) in paragraph at lines 177--178
+\OT1/ppl/m/n/10.95 triage ap-proach, spec-i-fy-ing whether a meal is healthy, u
+n-healthy or un-known, and [[]Atienza
+ []
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -1024,7 +1012,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]
-Underfull \vbox (badness 6364) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1063,7 +1051,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29] <./images/cont1/Viz_1_1.png, id=1246, 242.9075pt x 248.93pt>
+[29] <./images/cont1/Viz_1_1.png, id=1277, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_1.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_1.png>
@@ -1074,7 +1062,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<./images/cont1/Viz_1_2.png, id=1248, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_2.png, id=1279, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_2.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_2.png>
@@ -1085,7 +1073,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 49--50
  [][] 
  []
 
-<./images/cont1/Viz_1_3.png, id=1249, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_3.png, id=1280, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_3.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_3.png>
@@ -1096,7 +1084,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 57--58
  [][] 
  []
 
-<./images/cont1/Viz_1_4.png, id=1250, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_4.png, id=1281, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_4.png>
@@ -1107,7 +1095,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 65--66
  [][] 
  []
 
-<./images/cont1/Viz_1_10.png, id=1251, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_10.png, id=1282, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_10.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_10.png>
@@ -1118,7 +1106,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
-<./images/cont1/Viz_1_12.png, id=1252, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_1_12.png, id=1283, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_1_12.png Graphic file (type png)
 
 <use ./images/cont1/Viz_1_12.png>
@@ -1164,7 +1152,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 115--116
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 116.
-<./images/cont1/Viz_2_5.png, id=1277, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_2_5.png, id=1308, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_2_5.png Graphic file (type png)
 
 <use ./images/cont1/Viz_2_5.png>
@@ -1175,7 +1163,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 123--124
  [][] 
  []
 
-<./images/cont1/Viz_3_3.png, id=1278, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_3_3.png, id=1309, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_3_3.png Graphic file (type png)
 
 <use ./images/cont1/Viz_3_3.png>
@@ -1186,7 +1174,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-<./images/cont1/Viz_4_4.png, id=1279, 242.9075pt x 248.93pt>
+<./images/cont1/Viz_4_4.png, id=1310, 242.9075pt x 248.93pt>
 File: ./images/cont1/Viz_4_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_4_4.png>
@@ -1197,7 +1185,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
-<./images/cont1/money.png, id=1280, 74.58264pt x 83.8332pt>
+<./images/cont1/money.png, id=1311, 74.58264pt x 83.8332pt>
 File: ./images/cont1/money.png Graphic file (type png)
 
 <use ./images/cont1/money.png>
@@ -1208,7 +1196,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 147--148
  [][] 
  []
 
-<./images/cont1/Viz_6_1.png, id=1281, 240.9pt x 246.9225pt>
+<./images/cont1/Viz_6_1.png, id=1312, 240.9pt x 246.9225pt>
 File: ./images/cont1/Viz_6_1.png Graphic file (type png)
 
 <use ./images/cont1/Viz_6_1.png>
@@ -1219,7 +1207,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 155--156
  [][] 
  []
 
-<./images/cont1/Viz_8_4.png, id=1282, 240.9pt x 246.9225pt>
+<./images/cont1/Viz_8_4.png, id=1313, 240.9pt x 246.9225pt>
 File: ./images/cont1/Viz_8_4.png Graphic file (type png)
 
 <use ./images/cont1/Viz_8_4.png>
@@ -1251,7 +1239,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[33] <./images/cont1/fig3a.jpg, id=1300, 240.9pt x 321.2pt>
+[33] <./images/cont1/fig3a.jpg, id=1331, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3a.jpg>
@@ -1262,7 +1250,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 200--201
  [][] 
  []
 
-<./images/cont1/fig3b.jpg, id=1301, 240.9pt x 321.2pt>
+<./images/cont1/fig3b.jpg, id=1332, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3b.jpg>
@@ -1273,7 +1261,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 208--209
  [][] 
  []
 
-<./images/cont1/fig3c.jpg, id=1302, 240.9pt x 321.2pt>
+<./images/cont1/fig3c.jpg, id=1333, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3c.jpg>
@@ -1284,7 +1272,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 216--217
  [][] 
  []
 
-<./images/cont1/fig3d.jpg, id=1303, 240.9pt x 321.2pt>
+<./images/cont1/fig3d.jpg, id=1334, 240.9pt x 321.2pt>
 File: ./images/cont1/fig3d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig3d.jpg>
@@ -1305,7 +1293,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig3b.jpg> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont1/fig3c.jpg> <C:/Users/aha/
 Documents/LEdProjects/dissertation/images/cont1/fig3d.jpg>]
-<./images/cont1/fig4a.jpg, id=1314, 240.9pt x 321.2pt>
+<./images/cont1/fig4a.jpg, id=1345, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4a.jpg>
@@ -1316,7 +1304,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 241--242
  [][] 
  []
 
-<./images/cont1/fig4b.jpg, id=1315, 240.9pt x 321.2pt>
+<./images/cont1/fig4b.jpg, id=1346, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4b.jpg>
@@ -1327,7 +1315,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 249--250
  [][] 
  []
 
-<./images/cont1/fig4c.jpg, id=1316, 240.9pt x 321.2pt>
+<./images/cont1/fig4c.jpg, id=1347, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4c.jpg>
@@ -1338,7 +1326,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 257--258
  [][] 
  []
 
-<./images/cont1/fig4d.jpg, id=1317, 240.9pt x 321.2pt>
+<./images/cont1/fig4d.jpg, id=1348, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4d.jpg>
@@ -1349,7 +1337,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 265--266
  [][] 
  []
 
-<./images/cont1/fig4e.jpg, id=1318, 240.9pt x 321.2pt>
+<./images/cont1/fig4e.jpg, id=1349, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4e.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4e.jpg>
@@ -1360,7 +1348,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 273--274
  [][] 
  []
 
-<./images/cont1/fig4f.jpg, id=1319, 240.9pt x 321.2pt>
+<./images/cont1/fig4f.jpg, id=1350, 240.9pt x 321.2pt>
 File: ./images/cont1/fig4f.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig4f.jpg>
@@ -1371,7 +1359,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 281--282
  [][] 
  []
 
-<./images/cont1/fig5a.jpg, id=1321, 240.9pt x 321.2pt>
+<./images/cont1/fig5a.jpg, id=1352, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5a.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5a.jpg>
@@ -1382,7 +1370,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 295--296
  [][] 
  []
 
-<./images/cont1/fig5b.jpg, id=1322, 240.9pt x 321.2pt>
+<./images/cont1/fig5b.jpg, id=1353, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5b.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5b.jpg>
@@ -1393,7 +1381,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 303--304
  [][] 
  []
 
-<./images/cont1/fig5c.jpg, id=1323, 240.9pt x 321.2pt>
+<./images/cont1/fig5c.jpg, id=1354, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5c.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5c.jpg>
@@ -1404,7 +1392,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 311--312
  [][] 
  []
 
-<./images/cont1/fig5d.jpg, id=1324, 240.9pt x 321.2pt>
+<./images/cont1/fig5d.jpg, id=1355, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5d.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5d.jpg>
@@ -1415,7 +1403,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 319--320
  [][] 
  []
 
-<./images/cont1/fig5e.jpg, id=1325, 240.9pt x 321.2pt>
+<./images/cont1/fig5e.jpg, id=1356, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5e.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5e.jpg>
@@ -1426,7 +1414,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 327--328
  [][] 
  []
 
-<./images/cont1/fig5f.jpg, id=1326, 240.9pt x 321.2pt>
+<./images/cont1/fig5f.jpg, id=1357, 240.9pt x 321.2pt>
 File: ./images/cont1/fig5f.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig5f.jpg>
@@ -1504,7 +1492,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40] <./images/cont1/fig6.jpg, id=1367, 240.9pt x 321.2pt>
+[40] <./images/cont1/fig6.jpg, id=1398, 240.9pt x 321.2pt>
 File: ./images/cont1/fig6.jpg Graphic file (type jpg)
 
 <use ./images/cont1/fig6.jpg>
@@ -1559,7 +1547,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[46] <./images/cont1/fig7a.png, id=1422, 180.675pt x 240.9pt>
+[46] <./images/cont1/fig7a.png, id=1453, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7a.png Graphic file (type png)
 
 <use ./images/cont1/fig7a.png>
@@ -1570,7 +1558,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 515--516
  [][] 
  []
 
-<./images/cont1/fig7b.png, id=1423, 240.9pt x 180.675pt>
+<./images/cont1/fig7b.png, id=1454, 240.9pt x 180.675pt>
 File: ./images/cont1/fig7b.png Graphic file (type png)
 
 <use ./images/cont1/fig7b.png>
@@ -1581,7 +1569,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 523--524
  [][] 
  []
 
-<./images/cont1/fig7c.png, id=1424, 240.9pt x 180.675pt>
+<./images/cont1/fig7c.png, id=1455, 240.9pt x 180.675pt>
 File: ./images/cont1/fig7c.png Graphic file (type png)
 
 <use ./images/cont1/fig7c.png>
@@ -1592,7 +1580,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 531--532
  [][] 
  []
 
-<./images/cont1/fig7d.png, id=1425, 180.675pt x 240.9pt>
+<./images/cont1/fig7d.png, id=1456, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7d.png Graphic file (type png)
 
 <use ./images/cont1/fig7d.png>
@@ -1603,7 +1591,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 539--540
  [][] 
  []
 
-<./images/cont1/fig7e.png, id=1426, 180.675pt x 240.9pt>
+<./images/cont1/fig7e.png, id=1457, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7e.png Graphic file (type png)
 
 <use ./images/cont1/fig7e.png>
@@ -1614,7 +1602,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 547--548
  [][] 
  []
 
-<./images/cont1/fig7f.png, id=1427, 180.675pt x 240.9pt>
+<./images/cont1/fig7f.png, id=1458, 180.675pt x 240.9pt>
 File: ./images/cont1/fig7f.png Graphic file (type png)
 
 <use ./images/cont1/fig7f.png>
@@ -1637,7 +1625,7 @@ s/aha/Documents/LEdProjects/dissertation/images/cont1/fig7c.png> <C:/Users/aha/
 Documents/LEdProjects/dissertation/images/cont1/fig7d.png> <C:/Users/aha/Docume
 nts/LEdProjects/dissertation/images/cont1/fig7e.png> <C:/Users/aha/Documents/LE
 dProjects/dissertation/images/cont1/fig7f.png>]
-<./images/cont1/fig8a.png, id=1445, 180.675pt x 240.9pt>
+<./images/cont1/fig8a.png, id=1476, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8a.png Graphic file (type png)
 
 <use ./images/cont1/fig8a.png>
@@ -1648,7 +1636,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 579--580
  [][] 
  []
 
-<./images/cont1/fig8b.png, id=1446, 180.675pt x 240.9pt>
+<./images/cont1/fig8b.png, id=1477, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8b.png Graphic file (type png)
 
 <use ./images/cont1/fig8b.png>
@@ -1659,7 +1647,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 587--588
  [][] 
  []
 
-<./images/cont1/fig8c.png, id=1447, 180.675pt x 240.9pt>
+<./images/cont1/fig8c.png, id=1478, 180.675pt x 240.9pt>
 File: ./images/cont1/fig8c.png Graphic file (type png)
 
 <use ./images/cont1/fig8c.png>
@@ -1676,7 +1664,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[48] <./images/cont1/fig9.png, id=1454, 180.675pt x 240.9pt>
+[48] <./images/cont1/fig9.png, id=1485, 180.675pt x 240.9pt>
 File: ./images/cont1/fig9.png Graphic file (type png)
 
 <use ./images/cont1/fig9.png>
@@ -1692,7 +1680,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 [49 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8a.png> <C
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont1/fig8b.png> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont1/fig8c.png>]
-<./images/cont1/fig10a.png, id=1465, 180.675pt x 240.9pt>
+<./images/cont1/fig10a.png, id=1496, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10a.png Graphic file (type png)
 
 <use ./images/cont1/fig10a.png>
@@ -1703,7 +1691,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 626--627
  [][] 
  []
 
-<./images/cont1/fig10b.png, id=1466, 180.675pt x 240.9pt>
+<./images/cont1/fig10b.png, id=1497, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10b.png Graphic file (type png)
 
 <use ./images/cont1/fig10b.png>
@@ -1714,7 +1702,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 634--635
  [][] 
  []
 
-<./images/cont1/fig10c.png, id=1467, 180.675pt x 240.9pt>
+<./images/cont1/fig10c.png, id=1498, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10c.png Graphic file (type png)
 
 <use ./images/cont1/fig10c.png>
@@ -1725,7 +1713,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 642--643
  [][] 
  []
 
-<./images/cont1/fig10d.png, id=1468, 180.675pt x 240.9pt>
+<./images/cont1/fig10d.png, id=1499, 180.675pt x 240.9pt>
 File: ./images/cont1/fig10d.png Graphic file (type png)
 
 <use ./images/cont1/fig10d.png>
@@ -1759,7 +1747,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[52] <./images/cont1/fig11a.png, id=1486, 180.675pt x 240.9pt>
+[52] <./images/cont1/fig11a.png, id=1517, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11a.png Graphic file (type png)
 
 <use ./images/cont1/fig11a.png>
@@ -1770,7 +1758,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 691--692
  [][] 
  []
 
-<./images/cont1/fig11b.png, id=1487, 180.675pt x 240.9pt>
+<./images/cont1/fig11b.png, id=1518, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11b.png Graphic file (type png)
 
 <use ./images/cont1/fig11b.png>
@@ -1781,7 +1769,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 699--700
  [][] 
  []
 
-<./images/cont1/fig11c.png, id=1488, 180.675pt x 240.9pt>
+<./images/cont1/fig11c.png, id=1519, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11c.png Graphic file (type png)
 
 <use ./images/cont1/fig11c.png>
@@ -1792,7 +1780,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 707--708
  [][] 
  []
 
-<./images/cont1/fig11d.png, id=1489, 180.675pt x 240.9pt>
+<./images/cont1/fig11d.png, id=1520, 180.675pt x 240.9pt>
 File: ./images/cont1/fig11d.png Graphic file (type png)
 
 <use ./images/cont1/fig11d.png>
@@ -1809,7 +1797,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[53] <./images/cont1/fig12.png, id=1496, 958.3303pt x 602.25pt>
+[53] <./images/cont1/fig12.png, id=1527, 958.3303pt x 602.25pt>
 File: ./images/cont1/fig12.png Graphic file (type png)
 
 <use ./images/cont1/fig12.png>
@@ -1862,7 +1850,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[57] <./images/cont1/chart_meanStarts.png, id=1528, 401.3394pt x 276.5532pt>
+[57] <./images/cont1/chart_meanStarts.png, id=1559, 401.3394pt x 276.5532pt>
 File: ./images/cont1/chart_meanStarts.png Graphic file (type png)
 
 <use ./images/cont1/chart_meanStarts.png>
@@ -1877,7 +1865,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [58 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanSta
-rts.png>] <./images/cont1/chart13.png, id=1535, 490.9542pt x 238.491pt>
+rts.png>] <./images/cont1/chart13.png, id=1566, 490.9542pt x 238.491pt>
 File: ./images/cont1/chart13.png Graphic file (type png)
 
 <use ./images/cont1/chart13.png>
@@ -1891,14 +1879,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [59 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart13.png>]
-<./images/cont1/chart14.png, id=1545, 444.7014pt x 221.1462pt>
+<./images/cont1/chart14.png, id=1576, 444.7014pt x 221.1462pt>
 File: ./images/cont1/chart14.png Graphic file (type png)
 
 <use ./images/cont1/chart14.png>
 Package pdftex.def Info: ./images/cont1/chart14.png used on input line 850.
 (pdftex.def)             Requested size: 284.52756pt x 141.49596pt.
 
-<./images/cont1/chart15.png, id=1546, 445.665pt x 217.7736pt>
+<./images/cont1/chart15.png, id=1577, 445.665pt x 217.7736pt>
 File: ./images/cont1/chart15.png Graphic file (type png)
 
 <use ./images/cont1/chart15.png>
@@ -1912,7 +1900,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [60 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart14.png>]
-<./images/cont1/chart16.png, id=1553, 436.029pt x 218.2554pt>
+<./images/cont1/chart16.png, id=1584, 436.029pt x 218.2554pt>
 File: ./images/cont1/chart16.png Graphic file (type png)
 
 <use ./images/cont1/chart16.png>
@@ -1927,14 +1915,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 
 [61 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15.png> 
 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart16.png>]
-<./images/cont1/chart15_b.png, id=1564, 759.3168pt x 442.7742pt>
+<./images/cont1/chart15_b.png, id=1595, 759.3168pt x 442.7742pt>
 File: ./images/cont1/chart15_b.png Graphic file (type png)
 
 <use ./images/cont1/chart15_b.png>
 Package pdftex.def Info: ./images/cont1/chart15_b.png used on input line 906.
 (pdftex.def)             Requested size: 361.34999pt x 210.70503pt.
 
-<./images/cont1/chart_meanEntriesEaten.png, id=1565, 362.3136pt x 217.7736pt>
+<./images/cont1/chart_meanEntriesEaten.png, id=1596, 362.3136pt x 217.7736pt>
 File: ./images/cont1/chart_meanEntriesEaten.png Graphic file (type png)
 
 <use ./images/cont1/chart_meanEntriesEaten.png>
@@ -1949,7 +1937,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [62 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart15_b.png
->] <./images/cont1/chart17.png, id=1573, 372.4314pt x 250.0542pt>
+>] <./images/cont1/chart17.png, id=1604, 372.4314pt x 250.0542pt>
 File: ./images/cont1/chart17.png Graphic file (type png)
 
 <use ./images/cont1/chart17.png>
@@ -1963,7 +1951,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [63 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart_meanEnt
-riesEaten.png>] <./images/cont1/chart18.png, id=1581, 772.3254pt x 464.937pt>
+riesEaten.png>] <./images/cont1/chart18.png, id=1612, 772.3254pt x 464.937pt>
 File: ./images/cont1/chart18.png Graphic file (type png)
 
 <use ./images/cont1/chart18.png>
@@ -1977,7 +1965,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [64 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont1/chart17.png>]
-<./images/cont1/chart19.png, id=1590, 771.8436pt x 463.4916pt>
+<./images/cont1/chart19.png, id=1621, 771.8436pt x 463.4916pt>
 File: ./images/cont1/chart19.png Graphic file (type png)
 
 <use ./images/cont1/chart19.png>
@@ -2104,6 +2092,10 @@ Missing character: There is no Ã in font pplr7t!
 Missing character: There is no ¶ in font pplr7t!
 
 
+LaTeX Warning: Reference `sec:food_task_challenges' on page 79 undefined on inp
+ut line 100.
+
+
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
  We now make it that large for the rest of the document.
@@ -2175,7 +2167,7 @@ Overfull \hbox (55.22548pt too wide) in paragraph at lines 162--182
  [][][] 
  []
 
-<./images/cont2/fig1a.png, id=1777, 180.675pt x 240.9pt>
+<./images/cont2/fig1a.png, id=1807, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1a.png Graphic file (type png)
 
 <use ./images/cont2/fig1a.png>
@@ -2186,7 +2178,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 192--193
  [][] 
  []
 
-<./images/cont2/fig1b.png, id=1778, 180.675pt x 240.9pt>
+<./images/cont2/fig1b.png, id=1808, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1b.png Graphic file (type png)
 
 <use ./images/cont2/fig1b.png>
@@ -2197,7 +2189,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 200--201
  [][] 
  []
 
-<./images/cont2/fig1c.png, id=1779, 180.675pt x 240.9pt>
+<./images/cont2/fig1c.png, id=1809, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1c.png Graphic file (type png)
 
 <use ./images/cont2/fig1c.png>
@@ -2208,7 +2200,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 208--209
  [][] 
  []
 
-<./images/cont2/fig1d.png, id=1780, 180.675pt x 240.9pt>
+<./images/cont2/fig1d.png, id=1810, 180.675pt x 240.9pt>
 File: ./images/cont2/fig1d.png Graphic file (type png)
 
 <use ./images/cont2/fig1d.png>
@@ -2248,7 +2240,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 :/Users/aha/Documents/LEdProjects/dissertation/images/cont2/fig1b.png> <C:/User
 s/aha/Documents/LEdProjects/dissertation/images/cont2/fig1c.png> <C:/Users/aha/
 Documents/LEdProjects/dissertation/images/cont2/fig1d.png>]
-<./images/cont2/fig2a.png, id=1793, 180.675pt x 240.9pt>
+<./images/cont2/fig2a.png, id=1823, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2a.png Graphic file (type png)
 
 <use ./images/cont2/fig2a.png>
@@ -2259,7 +2251,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 236--237
  [][] 
  []
 
-<./images/cont2/fig2b.png, id=1794, 180.675pt x 240.9pt>
+<./images/cont2/fig2b.png, id=1824, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2b.png Graphic file (type png)
 
 <use ./images/cont2/fig2b.png>
@@ -2270,7 +2262,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 244--245
  [][] 
  []
 
-<./images/cont2/fig2c.png, id=1795, 180.675pt x 240.9pt>
+<./images/cont2/fig2c.png, id=1825, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2c.png Graphic file (type png)
 
 <use ./images/cont2/fig2c.png>
@@ -2281,7 +2273,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 252--253
  [][] 
  []
 
-<./images/cont2/fig2d.png, id=1796, 180.675pt x 240.9pt>
+<./images/cont2/fig2d.png, id=1826, 180.675pt x 240.9pt>
 File: ./images/cont2/fig2d.png Graphic file (type png)
 
 <use ./images/cont2/fig2d.png>
@@ -2304,7 +2296,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[86] <./images/cont2/fig3a.png, id=1804, 180.675pt x 240.9pt>
+[86] <./images/cont2/fig3a.png, id=1834, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3a.png Graphic file (type png)
 
 <use ./images/cont2/fig3a.png>
@@ -2315,7 +2307,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 277--278
  [][] 
  []
 
-<./images/cont2/fig3b.png, id=1805, 180.675pt x 240.9pt>
+<./images/cont2/fig3b.png, id=1835, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3b.png Graphic file (type png)
 
 <use ./images/cont2/fig3b.png>
@@ -2326,7 +2318,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 285--286
  [][] 
  []
 
-<./images/cont2/fig3c.png, id=1806, 180.675pt x 240.9pt>
+<./images/cont2/fig3c.png, id=1836, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3c.png Graphic file (type png)
 
 <use ./images/cont2/fig3c.png>
@@ -2337,7 +2329,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 293--294
  [][] 
  []
 
-<./images/cont2/fig3d.png, id=1807, 180.675pt x 240.9pt>
+<./images/cont2/fig3d.png, id=1837, 180.675pt x 240.9pt>
 File: ./images/cont2/fig3d.png Graphic file (type png)
 
 <use ./images/cont2/fig3d.png>
@@ -2464,7 +2456,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[93] <./images/cont2/chart1.png, id=1856, 358.941pt x 213.4374pt>
+[93] <./images/cont2/chart1.png, id=1886, 358.941pt x 213.4374pt>
 File: ./images/cont2/chart1.png Graphic file (type png)
 
 <use ./images/cont2/chart1.png>
@@ -2672,7 +2664,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[111] <./images/cont3/fig1a.png, id=1957, 481.8pt x 803.0pt>
+[111] <./images/cont3/fig1a.png, id=1987, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1a.png Graphic file (type png)
 
 <use ./images/cont3/fig1a.png>
@@ -2683,7 +2675,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-<./images/cont3/fig1b.png, id=1958, 481.8pt x 803.0pt>
+<./images/cont3/fig1b.png, id=1988, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1b.png Graphic file (type png)
 
 <use ./images/cont3/fig1b.png>
@@ -2694,7 +2686,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 108--109
  [][] 
  []
 
-<./images/cont3/fig1c.png, id=1959, 481.8pt x 803.0pt>
+<./images/cont3/fig1c.png, id=1989, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1c.png Graphic file (type png)
 
 <use ./images/cont3/fig1c.png>
@@ -2705,7 +2697,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
-<./images/cont3/fig1d.png, id=1960, 481.8pt x 803.0pt>
+<./images/cont3/fig1d.png, id=1990, 481.8pt x 803.0pt>
 File: ./images/cont3/fig1d.png Graphic file (type png)
 
 <use ./images/cont3/fig1d.png>
@@ -2727,7 +2719,7 @@ NG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig1b.p
 ng (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fi
 g1c.png (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/con
 t3/fig1d.png (PNG copy)>]
-<./images/cont3/fig2c.png, id=1966, 481.8pt x 803.0pt>
+<./images/cont3/fig2c.png, id=1996, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2c.png Graphic file (type png)
 
 <use ./images/cont3/fig2c.png>
@@ -2738,7 +2730,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 144--145
  [][] 
  []
 
-<./images/cont3/fig2a.png, id=1967, 481.8pt x 803.0pt>
+<./images/cont3/fig2a.png, id=1997, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2a.png Graphic file (type png)
 
 <use ./images/cont3/fig2a.png>
@@ -2749,7 +2741,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 152--153
  [][] 
  []
 
-<./images/cont3/fig2b.png, id=1968, 481.8pt x 803.0pt>
+<./images/cont3/fig2b.png, id=1998, 481.8pt x 803.0pt>
 File: ./images/cont3/fig2b.png Graphic file (type png)
 
 <use ./images/cont3/fig2b.png>
@@ -2769,7 +2761,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 [113 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2c.png (P
 NG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig2a.p
 ng (PNG copy)> <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fi
-g2b.png (PNG copy)>] <./images/cont3/fig3a.png, id=1975, 481.8pt x 803.0pt>
+g2b.png (PNG copy)>] <./images/cont3/fig3a.png, id=2005, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3a.png Graphic file (type png)
 
 <use ./images/cont3/fig3a.png>
@@ -2780,7 +2772,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 176--177
  [][] 
  []
 
-<./images/cont3/fig3b.png, id=1976, 481.8pt x 803.0pt>
+<./images/cont3/fig3b.png, id=2006, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3b.png Graphic file (type png)
 
 <use ./images/cont3/fig3b.png>
@@ -2791,7 +2783,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 184--185
  [][] 
  []
 
-<./images/cont3/fig3c.png, id=1977, 481.8pt x 803.0pt>
+<./images/cont3/fig3c.png, id=2007, 481.8pt x 803.0pt>
 File: ./images/cont3/fig3c.png Graphic file (type png)
 
 <use ./images/cont3/fig3c.png>
@@ -2802,7 +2794,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 192--193
  [][] 
  []
 
-<./images/cont3/fig4a.png, id=1979, 481.8pt x 803.0pt>
+<./images/cont3/fig4a.png, id=2009, 481.8pt x 803.0pt>
 File: ./images/cont3/fig4a.png Graphic file (type png)
 
 <use ./images/cont3/fig4a.png>
@@ -2829,7 +2821,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [115 <C:/Users/aha/Documents/LEdProjects/dissertation/images/cont3/fig4a.png (P
-NG copy)>] <./images/cont3/fig5a.png, id=1989, 481.8pt x 803.0pt>
+NG copy)>] <./images/cont3/fig5a.png, id=2019, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5a.png Graphic file (type png)
 
 <use ./images/cont3/fig5a.png>
@@ -2840,7 +2832,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 235--236
  [][] 
  []
 
-<./images/cont3/fig5b.png, id=1990, 481.8pt x 803.0pt>
+<./images/cont3/fig5b.png, id=2020, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5b.png Graphic file (type png)
 
 <use ./images/cont3/fig5b.png>
@@ -2851,7 +2843,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 243--244
  [][] 
  []
 
-<./images/cont3/fig5c.png, id=1991, 481.8pt x 803.0pt>
+<./images/cont3/fig5c.png, id=2021, 481.8pt x 803.0pt>
 File: ./images/cont3/fig5c.png Graphic file (type png)
 
 <use ./images/cont3/fig5c.png>
@@ -2916,7 +2908,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[121] <./images/cont4/small_condition.png, id=2020, 481.8pt x 803.0pt>
+[121] <./images/cont4/small_condition.png, id=2050, 481.8pt x 803.0pt>
 File: ./images/cont4/small_condition.png Graphic file (type png)
 
 <use ./images/cont4/small_condition.png>
@@ -2928,7 +2920,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 47--48
  [][] 
  []
 
-<./images/cont4/medium_condition.png, id=2021, 481.8pt x 803.0pt>
+<./images/cont4/medium_condition.png, id=2051, 481.8pt x 803.0pt>
 File: ./images/cont4/medium_condition.png Graphic file (type png)
 
 <use ./images/cont4/medium_condition.png>
@@ -2940,7 +2932,7 @@ Overfull \hbox (1.0pt too wide) in paragraph at lines 55--56
  [][] 
  []
 
-<./images/cont4/large_condition.png, id=2022, 481.8pt x 803.0pt>
+<./images/cont4/large_condition.png, id=2052, 481.8pt x 803.0pt>
 File: ./images/cont4/large_condition.png Graphic file (type png)
 
 <use ./images/cont4/large_condition.png>
@@ -3055,7 +3047,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[134] <./images/cont4/ppt_overview.png, id=2117, 741.52031pt x 1480.02937pt>
+[134] <./images/cont4/ppt_overview.png, id=2147, 741.52031pt x 1480.02937pt>
 File: ./images/cont4/ppt_overview.png Graphic file (type png)
 
 <use ./images/cont4/ppt_overview.png>
@@ -3210,13 +3202,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 186.
-
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
-File: omsppl.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -3225,6 +3210,14 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [155]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 225.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 225.
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3232,6 +3225,13 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [156]
+Underfull \hbox (badness 1675) in paragraph at lines 303--311
+[]\OT1/ppl/m/sc/10.95 Fukuo, W\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Yoshi-uc
+hi, K\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Ohashi, K\OT1/ppl/m/n/10.95 ; \OT
+1/ppl/m/sc/10.95 To-gashi, H\OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Sekine, R\
+OT1/ppl/m/n/10.95 ; \OT1/ppl/m/sc/10.95 Kikuchi, H\OT1/ppl/m/n/10.95 ;
+ []
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3239,10 +3239,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [157]
-Missing character: There is no â in font pplr7t!
-Missing character: There is no € in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3250,9 +3246,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [158]
-Missing character: There is no â in font pplr7t!
-Missing character: There is no € in font pplr7t!
-Missing character: There is no “ in font pplr7t!
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
@@ -3264,8 +3257,9 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [159]
-Missing character: There is no Ã in font pplrc7t!
-Missing character: There is no ¶ in font pplrc7t!
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no “ in font pplr7t!
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
@@ -3277,12 +3271,10 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [160]
-Missing character: There is no â in font pplr7t!
-Missing character: There is no € in font pplr7t!
-Missing character: There is no “ in font pplr7t!
-Missing character: There is no â in font pplr7t!
-Missing character: There is no € in font pplr7t!
-Missing character: There is no ” in font pplr7t!
+Underfull \hbox (badness 5878) in paragraph at lines 621--628
+\OT1/ppl/m/n/10.95 etable con-sump-tion.''  http://www.nursinglibrary.org/vhl/h
+andle/10755/201897
+ []
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -3291,9 +3283,17 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [161]
+Missing character: There is no Ã in font pplrc7t!
+Missing character: There is no ¶ in font pplrc7t!
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no “ in font pplr7t!
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no ” in font pplr7t!
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -3324,13 +3324,17 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [164]
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no “ in font pplr7t!
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[165]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_cont2_surveys2.tex
+[165]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3338,8 +3342,22 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [166]
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[167]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_cont2_surveys2.tex
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[168]
 <<A>>
-[167
+[169
 
 ]
 
@@ -3348,21 +3366,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[168]
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 9.51996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[169]
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 9.51996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[170]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_inLab.tex
+[170]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3376,10 +3380,13 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[172
+[172]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_inLab.tex
 
-]
-<<B>>
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [173]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -3387,13 +3394,10 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[174]
+[174
 
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 9.51996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
+]
+<<B>>
 [175]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -3422,7 +3426,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[179]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_insitu.tex
+[179]
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3430,10 +3434,24 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [180]
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[181]) (C:\Users\aha\Documents\LEdProjects\dissertation\app_pond_insitu.tex
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[182]
 <<C>>
 LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.88> not available
 (Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1.
-[181
+[183
 
 ]
 
@@ -3442,23 +3460,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[182]
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 9.51996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[183]
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 9.51996pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
 [184]
-Missing character: There is no … in font pplr7t!
-)
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3472,7 +3474,23 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[186
+[186]
+Missing character: There is no … in font pplr7t!
+)
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[187]
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 9.51996pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[188
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 307.
@@ -3480,27 +3498,29 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 307.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
-[187]
+ [189]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
- (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
+
+(C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
 Package rerunfilecheck Info: File `main_doc.out' has not changed.
-(rerunfilecheck)             Checksum: 43114E0B1AA7868EA14E0E534F064956;9099.
+(rerunfilecheck)             Checksum: F8E440E65784A5B695C5C7F431068D7E;8704.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
  ) 
 Here is how much of TeX's memory you used:
- 14632 strings out of 493921
- 223157 string characters out of 3144882
- 314918 words of memory out of 3000000
- 16951 multiletter control sequences out of 15000+200000
+ 14660 strings out of 493921
+ 224172 string characters out of 3144882
+ 315631 words of memory out of 3000000
+ 16975 multiletter control sequences out of 15000+200000
  54578 words of font info for 124 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,20n,43p,1899b,659s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,20n,43p,1899b,691s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -3545,9 +3565,9 @@ x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/urw/palatino/uplri8a.pfb>
-Output written on main_doc.pdf (207 pages, 3531701 bytes).
+Output written on main_doc.pdf (209 pages, 3547564 bytes).
 PDF statistics:
- 2570 PDF objects out of 2984 (max. 8388607)
- 614 named destinations out of 1000 (max. 500000)
- 1454 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2608 PDF objects out of 2984 (max. 8388607)
+ 618 named destinations out of 1000 (max. 500000)
+ 1414 words of extra memory for PDF output out of 10000 (max. 10000000)
 

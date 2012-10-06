@@ -3,35 +3,29 @@
 \contentsline {chapter}{Glossary}{xi}{chapter*.4}
 \contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Contributions}{5}{section.1.2}
+\contentsline {section}{\numberline {1.2}Contributions}{4}{section.1.2}
 \contentsline {section}{\numberline {1.3}Roadmap}{5}{section.1.3}
 \contentsline {chapter}{\numberline {\@textofChapter \ 2:}Background and Related Work}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}Behavior Change}{9}{section.2.1}
+\contentsline {section}{\numberline {2.1}Behavior Change}{8}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Enabling change: Social Cognitive Theory}{9}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Motivation for change: Transtheoretical Model}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Motivation for change: Transtheoretical Model}{9}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {2.1.3}Supporting change: Goal setting and tending}{10}{subsection.2.1.3}
 \contentsline {subsection}{\numberline {2.1.4}Self-Monitoring and Change}{10}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Self-Monitoring for Health}{11}{subsection.2.1.5}
-\contentsline {section}{\numberline {2.2}Technology and Behavior Change (Persuasive Technology)}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}Approaches to Changing Nutrition Behaviors}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Motivational Interviewing}{12}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}CBT Programs}{12}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Other techniques}{12}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Challenges for Self-Monitoring}{12}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Technology for Self-Monitoring}{12}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Nutrition/Epi Research Domain}{13}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Technology Research Domain}{13}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Related Work}{13}{section.2.5}
-\contentsline {section}{\numberline {2.6}Evaluation of Self-Monitoring}{19}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Domain Evaluation}{19}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Technology Evaluation}{19}{subsection.2.6.2}
-\contentsline {subsubsection}{\numberline {2.6.2.1}Nutrition-Related work}{19}{subsubsection.2.6.2.1}
-\contentsline {subsubsection}{\numberline {2.6.2.2}Technology-oriented work}{21}{subsubsection.2.6.2.2}
-\contentsline {subsubsection}{\numberline {2.6.2.3}Usability Evaluation: Task identification (?)}{23}{subsubsection.2.6.2.3}
-\contentsline {subsection}{\numberline {2.6.3}Food Tasks: Food Diary Evaluation Methodology}{23}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Evaluation of Electronic Self-Monitoring}{25}{subsection.2.6.4}
-\contentsline {subsubsection}{\numberline {2.6.4.1}Challenges}{26}{subsubsection.2.6.4.1}
-\contentsline {section}{\numberline {2.7}Summary}{26}{section.2.7}
+\contentsline {subsection}{\numberline {2.1.5}Self-Monitoring for Health}{10}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Technology and Behavior Change (Persuasive Technology)}{11}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Approaches to Changing Nutrition Behaviors}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Motivational Interviewing}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}CBT Programs}{12}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Other techniques}{12}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Related Work}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}Evaluation of Self-Monitoring}{18}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Challenges for Self-Monitoring}{18}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Nutrition and Epidemiological Research Domain}{19}{subsubsection.2.4.1.1}
+\contentsline {subsubsection}{\numberline {2.4.1.2}Technology-oriented work}{21}{subsubsection.2.4.1.2}
+\contentsline {subsection}{\numberline {2.4.2}Evaluation Characteristics and Measures}{21}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Usability and User Experience Evaluation of Food Diaries}{23}{subsubsection.2.4.2.1}
+\contentsline {subsection}{\numberline {2.4.3}Evaluation of Electronic Self-Monitoring}{26}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Summary}{26}{section.2.5}
 \contentsline {chapter}{\numberline {\@textofChapter \ 3:}BALANCE}{27}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction}{27}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Project Overview}{28}{subsection.3.1.1}
@@ -171,15 +165,15 @@
 \contentsline {section}{\numberline {6.6}Summary}{146}{section.6.6}
 \contentsline {chapter}{\numberline {\@textofChapter \ 7:}Conclusion}{147}{chapter.7}
 \contentsline {chapter}{Bibliography}{153}{chapter*.57}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{167}{appendix.A}
-\contentsline {section}{\numberline {A.1}Initial Survey}{167}{section.A.1}
-\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{169}{section.A.2}
-\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{169}{section.A.3}
-\contentsline {section}{\numberline {A.4}Final Survey}{170}{section.A.4}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{173}{appendix.B}
-\contentsline {section}{\numberline {B.1}Initial Survey}{173}{section.B.1}
-\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{175}{section.B.2}
-\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{176}{section.B.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{181}{appendix.C}
-\contentsline {section}{\numberline {C.1}Weekly Survey}{181}{section.C.1}
-\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{184}{section.C.2}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{169}{appendix.A}
+\contentsline {section}{\numberline {A.1}Initial Survey}{169}{section.A.1}
+\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{171}{section.A.2}
+\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{171}{section.A.3}
+\contentsline {section}{\numberline {A.4}Final Survey}{172}{section.A.4}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{175}{appendix.B}
+\contentsline {section}{\numberline {B.1}Initial Survey}{175}{section.B.1}
+\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{177}{section.B.2}
+\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{178}{section.B.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{183}{appendix.C}
+\contentsline {section}{\numberline {C.1}Weekly Survey}{183}{section.C.1}
+\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{186}{section.C.2}

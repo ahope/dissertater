@@ -1,4 +1,4 @@
-\begin{thebibliography}{117}
+\begin{thebibliography}{128}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 
@@ -7,6 +7,17 @@
 \newblock \enquote{A taxonomy of behavior change techniques used in
   interventions.}
 \newblock \emph{Health Psychology}, 27(3):pages 379--387 (2008).
+
+\bibitem[{Acharya et~al.(2011)Acharya, Elci, Sereika, Styn, and
+  Burke}]{acharya_using_2011}
+\textsc{Acharya, SD}; \textsc{Elci, OU}; \textsc{Sereika, SM}; \textsc{Styn,
+  MA}; and \textsc{Burke, LE}.
+\newblock \enquote{Using a personal digital assistant for self-monitoring
+  influences diet quality in comparison to a standard paper record among
+  overweight/obese adults.}
+\newblock \emph{Journal of the American Dietetic Association}, 111(4):pages
+  583--588 (2011).
+\newblock {PMID:} 21443993.
 
 \bibitem[{Ahtinen et~al.(2009)Ahtinen, Mattila, Vaatanen, Hynninen, Salminen,
   Koskinen, and Laine}]{ahtinen_user_2009}
@@ -55,12 +66,40 @@
 \newblock In \emph{Ninth {IEEE} International Symposium on Wearable Computers,
   2005. Proceedings}, pages 160-- 163. {IEEE} (2005).
 
+\bibitem[{Arsand et~al.(2007)Arsand, Varmedal, and
+  Hartvigsen}]{arsand_usability_2007}
+\textsc{Arsand, E}; \textsc{Varmedal, R}; and \textsc{Hartvigsen, G}.
+\newblock \enquote{Usability of a mobile self-help tool for people with
+  diabetes: the easy health diary.}
+\newblock In \emph{{IEEE} International Conference on Automation Science and
+  Engineering, 2007. {CASE} 2007}, pages 863--868. {IEEE} (2007).
+
 \bibitem[{Arvaniti and Panagiotakos(2008)}]{arvaniti_healthy_2008}
 \textsc{Arvaniti, F} and \textsc{Panagiotakos, DB}.
 \newblock \enquote{Healthy indexes in public health practice and research: A
   review.}
 \newblock \emph{Critical Reviews in Food Science and Nutrition}, 48(4):page 317
   (2008).
+
+\bibitem[{Atienza et~al.(2008)Atienza, King, Oliveira, Ahn, and
+  Gardner}]{atienza_using_2008}
+\textsc{Atienza, AA}; \textsc{King, AC}; \textsc{Oliveira, BM}; \textsc{Ahn,
+  DK}; and \textsc{Gardner, CD}.
+\newblock \enquote{Using hand-held computer technologies to improve dietary
+  intake.}
+\newblock \emph{American Journal of Preventive Medicine}, 34(6):pages 514--518
+  (2008).
+
+\bibitem[{Bandura(1977)}]{bandura_self-efficacy:_1977}
+\textsc{Bandura, A}.
+\newblock \enquote{Self-efficacy: Toward a unifying theory of behavioral
+  change.}
+\newblock \emph{Psychological Review}, 84(2):pages 191--215 (1977).
+
+\bibitem[{Bandura(2004)}]{bandura_health_2004}
+\textsc{Bandura, A}.
+\newblock \enquote{Health promotion by social cognitive means.}
+\newblock \emph{Health Educ Behav}, 31(2):pages 143--164 (2004).
 
 \bibitem[{Baranowski and Domel(1994)}]{Baranowski1994}
 \textsc{Baranowski, T} and \textsc{Domel, SB}.
@@ -187,14 +226,24 @@
 \newblock In \emph{Proceedings of the 10th international conference on
   Ubiquitous computing}, pages 54--63. {ACM}, Seoul, Korea (2008).
 
-\bibitem[{Consolvo et~al.(2009)Consolvo, Klasnja, {McDonald}, and
+\bibitem[{Consolvo et~al.(2009{\natexlab{a}})Consolvo, Klasnja, {McDonald}, and
   Landay}]{consolvo_goal-setting_2009}
 \textsc{Consolvo, S}; \textsc{Klasnja, P}; \textsc{{McDonald}, DW}; and
   \textsc{Landay, JA}.
 \newblock \enquote{Goal-setting considerations for persuasive technologies that
   encourage physical activity.}
 \newblock In \emph{Proceedings of the 4th International Conference on
-  Persuasive Technology}, pages 1--8. {ACM}, Claremont, California (2009).
+  Persuasive Technology}, pages 1--8. {ACM}, Claremont, California
+  (2009{\natexlab{a}}).
+
+\bibitem[{Consolvo et~al.(2009{\natexlab{b}})Consolvo, {McDonald}, and
+  Landay}]{consolvo_theory-driven_2009}
+\textsc{Consolvo, S}; \textsc{{McDonald}, DW}; and \textsc{Landay, JA}.
+\newblock \enquote{Theory-driven design strategies for technologies that
+  support behavior change in everyday life.}
+\newblock In \emph{Proceedings of the 27th international conference on Human
+  factors in computing systems}, pages 405--414. {ACM}, Boston, {MA}, {USA}
+  (2009{\natexlab{b}}).
 
 \bibitem[{Cox and Mela(2000)}]{Cox2000}
 \textsc{Cox, DN} and \textsc{Mela, DJ}.
@@ -248,6 +297,17 @@
 \newblock \emph{{Persuasive Technology: Using Computers to Change What We Think
   and Do (Interactive Technologies)}}.
 \newblock Morgan Kaufmann, 1 edition (2002).
+
+\bibitem[{Fukuo et~al.(2009)Fukuo, Yoshiuchi, Ohashi, Togashi, Sekine, Kikuchi,
+  Sakamoto, Inada, Sato, Kadowaki, and Akabayashi}]{fukuo_development_2009}
+\textsc{Fukuo, W}; \textsc{Yoshiuchi, K}; \textsc{Ohashi, K}; \textsc{Togashi,
+  H}; \textsc{Sekine, R}; \textsc{Kikuchi, H}; \textsc{Sakamoto, N};
+  \textsc{Inada, S}; \textsc{Sato, F}; \textsc{Kadowaki, T}; and
+  \textsc{Akabayashi, A}.
+\newblock \enquote{Development of a hand-held personal digital assistant-based
+  food diary with food photographs for japanese subjects.}
+\newblock \emph{Journal of the American Dietetic Association}, 109(7):pages
+  1232--1236 (2009).
 
 \bibitem[{Furst et~al.(1996)Furst, Connors, Bisogni, Sobal, and
   Falk}]{furst_food_1996}
@@ -352,6 +412,16 @@
   behavior change.}
 \newblock In \emph{American Medical Informatics Association {(AMIA)} Symposium}
   (2003).
+
+\bibitem[{Jarvinen et~al.(2008)Jarvinen, Jarvinen, Lahteenmaki, and
+  Sodergard}]{jarvinen_hyperfit:_2008}
+\textsc{Jarvinen, P}; \textsc{Jarvinen, TH}; \textsc{Lahteenmaki, L}; and
+  \textsc{Sodergard, C}.
+\newblock \enquote{{HyperFit:} hybrid media in personal nutrition and exercise
+  management.}
+\newblock In \emph{Second International Conference on Pervasive Computing
+  Technologies for Healthcare, 2008. {PervasiveHealth} 2008}, pages 222--226.
+  {IEEE} (2008).
 
 \bibitem[{Jastran et~al.(2009)Jastran, Bisogni, Sobal, Blake, and
   Devine}]{jastran_eating_2009}
@@ -480,6 +550,15 @@
 \newblock \enquote{Dietary quality indices and human health: A review.}
 \newblock \emph{Maturitas}, 62(1):pages 1--8 (2009).
 
+\bibitem[{Kozakai et~al.(2006)Kozakai, Taniguchi, Fukuda, and
+  Nakauchi}]{kozakai_dietary_2006}
+\textsc{Kozakai, K}; \textsc{Taniguchi, S}; \textsc{Fukuda, T}; and
+  \textsc{Nakauchi, Y}.
+\newblock \enquote{Dietary and health information logging system for
+  lifestyle-related diseases.}
+\newblock In \emph{2006 {IEEE} International Conference on Information
+  Acquisition}, pages 829--834. {IEEE} (2006).
+
 \bibitem[{Kuczmarski et~al.(2010)Kuczmarski, Cremer~Sees, Hotchkiss, Cotugna,
   Evans, and Zonderman}]{kuczmarski_higher_2010}
 \textsc{Kuczmarski, MF}; \textsc{Cremer~Sees, A}; \textsc{Hotchkiss, L};
@@ -536,6 +615,16 @@
 \newblock \enquote{Building a practically useful theory of goal setting and
   task motivation: A 35-year odyssey.}
 \newblock \emph{American Psychologist}, 57(9):pages 705--17 (2002).
+
+\bibitem[{Long et~al.(2012)Long, {PhD}, {PhD}, Laurel Littlefield~{BS}, Carol
+  Boswell~{EdD}, {BSN}, Toby Rogers~{PhD}, and {PhD}}]{long_effectiveness_2012}
+\textsc{Long, JD}; \textsc{{PhD}, BS}; \textsc{{PhD}, DC}; \textsc{Laurel
+  Littlefield~{BS}, MS}; \textsc{Carol Boswell~{EdD}, RN}; \textsc{{BSN}, GK};
+  \textsc{Toby Rogers~{PhD}, MPT}; and \textsc{{PhD}, GE}.
+\newblock \enquote{Effectiveness of cell phones with digital picture capability
+  and {MyPyramid} tracker for measurement of {Fruit/Vegetable} consumption.}
+\newblock http://www.nursinglibrary.org/vhl/handle/10755/201897 (2012).
+\newblock Sigma Theta Tau International.
 
 \bibitem[{Löwik et~al.(1999)Löwik, Hulshof, and
   Brussaard}]{lowik_food-based_1999}
@@ -666,6 +755,13 @@
 \newblock In \emph{Proceedings of the 24th annual {ACM} symposium on User
   interface software and technology}, {UIST} '11, page 1–12. {ACM}, New York,
   {NY}, {USA} (2011).
+
+\bibitem[{Nothwehr(2008)}]{nothwehr_self-efficacy_2008}
+\textsc{Nothwehr, F}.
+\newblock \enquote{Self-efficacy and its association with use of diet-related
+  behavioral strategies and reported dietary intake.}
+\newblock \emph{Health Education \& Behavior}, 35(5):pages 698--698--706
+  (2008).
 
 \bibitem[{Panagiotakos et~al.(2007)Panagiotakos, Pitsavos, Arvaniti, and
   Stefanadis}]{panagiotakos_adherence_2007}
