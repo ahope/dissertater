@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  4 OCT 2012 05:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.26)  6 OCT 2012 08:01
 entering extended mode
 **main_doc.tex
 (C:\Users\aha\Documents\LEdProjects\dissertation\main_doc.tex
@@ -853,7 +853,7 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 20.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 16.
 Missing character: There is no ’ in font pplr7t!
 Missing character: There is no ’ in font pplr7t!
 
@@ -864,14 +864,10 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8]
-Overfull \hbox (5.19989pt too wide) in paragraph at lines 25--26
+Overfull \hbox (5.19989pt too wide) in paragraph at lines 21--22
 \OT1/ppl/m/n/10.95 change be-hav-ior [[]Noth-wehr[], []2008[]]. While short-ter
 m stud-ies can-not prove be-hav-ior change,
  []
-
-
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -880,13 +876,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [9]
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-Missing character: There is no · in font pplr7t!
-
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -894,6 +883,13 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+Missing character: There is no · in font pplr7t!
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -935,18 +931,17 @@ Overfull \hbox (4.5205pt too wide) in paragraph at lines 105--106
  []
 
 
-Overfull \hbox (16.98178pt too wide) in paragraph at lines 107--108
-[]\OT1/ppl/m/n/10.95 Finally, image-based self-monitoring may have the same cha
-l-lenges as tra-di-tional, nutrient-
- []
-
-
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [16]
+Overfull \hbox (16.98178pt too wide) in paragraph at lines 107--108
+[]\OT1/ppl/m/n/10.95 Finally, image-based self-monitoring may have the same cha
+l-lenges as tra-di-tional, nutrient-
+ []
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -998,6 +993,9 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [22]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -1012,9 +1010,6 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
  Make it at least 9.51996pt.
@@ -3565,7 +3560,7 @@ x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/urw/palatino/uplri8a.pfb>
-Output written on main_doc.pdf (209 pages, 3547564 bytes).
+Output written on main_doc.pdf (209 pages, 3547896 bytes).
 PDF statistics:
  2608 PDF objects out of 2984 (max. 8388607)
  618 named destinations out of 1000 (max. 500000)
