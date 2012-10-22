@@ -3,32 +3,33 @@
 \label{cha:cont3}
  
 
-In this chapter, I describe the design of POND, the Pattern-Oriented Nutrition Diary. In earlier chapters, I described the challenges and barriers that people face when employing a traditional approach to journaling what they eat, either on paper, a website or software, or on a mobile device such as PDA or cell phone, and then characterized tradeoffs and preferences between traditional food journaling and index-based food journaling on mobile phones. Initial research indicated there could be a benefit for some people and some situations, although the lab-based research is unable to reflect the context and constraints that people encounter in the real world. In this chapter, I refer to the design considerations outlined in the previous chapter, identify specific research aims for evaluation a food index-based food diary in situ, and document the design of a mobile phone food index-based food diary. 
+In this chapter, I describe the design of POND, the Pattern-Oriented Nutrition Diary. In earlier chapters, I described the challenges and barriers that people face when employing a traditional approach to journaling what they eat, either on paper, a website or software, or on a mobile device such as PDA or cell phone. Next, I characterized tradeoffs and preferences between traditional food journaling and index-based food journaling on mobile phones. Initial research indicated there could be a benefit for some people and some situations, although the lab-based research is unable to reflect the context and constraints that people encounter in the real world. In this chapter, I refer to the design considerations outlined in the previous chapter, identify specific research aims for evaluation of a food index-based food diary \textit{in situ}, and document the design of a mobile phone food index-based food diary. 
 
 \section{Introduction}
-The Pattern-Oriented Nutrition Diary (POND) project is the result of the previous two studies. The BALANCE study revealed that looking up in the database was a challenge, and from the previous study that people in general preferred the HEI-based food diary to the FBQI-based food diary, due to the quality of information that it captured. 
+The Pattern-Oriented Nutrition Diary (POND) project is the result of the BALANCE studies and in-lab study. The BALANCE studies revealed that looking food up in the database was a challenge. The in-lab study revealed that the HEI-based food diary is generally preferable to the FBQI-based food diary due to the quality of information that it captured. 
 
-The goal of POND was to design and build a food diary that incorporated what we learned in the previous studies, and investigate whether experience the findings were applicable in the real world (as opposed to just a lab setting). Feedback from BALANCE participants revealed that they felt BALANCE required too much time and effort to make entries. Participants indicated they would be willing to sacrifice detail in exchange for an interface that was quicker and easier to use. The previous comparison study showed that while the FBQI-based interface was quickest and easiest to use, it did not provide enough value in terms of the data or amount of detail it collected. Participants were divided on whether they preferred the detail-oriented BALANCE interface, or the quicker-yet-still-valuable HEI interface to address their personal eating goals. 
+The goal of POND was to design and build a food diary that incorporated what we learned in the previous studies, and investigate whether experience the findings were applicable in the real world (as opposed to a lab setting). Feedback from BALANCE participants revealed that they felt BALANCE required too much time and effort to make entries. Participants indicated they would be willing to sacrifice detail in exchange for an interface that was quicker and easier to use. The previous comparison study showed that while the FBQI-based interface was quickest and easiest to use, it did not provide enough value in terms of the data or amount of detail it collected. Participants were divided on whether they preferred the detail-oriented BALANCE interface, or the quicker-yet-still-valuable HEI interface to address their personal eating goals. 
 
-POND was designed to reflect the HEI. Initial user testing showed that people felt too uncomfortable entering the pattern directly for combination or prepared foods, so a food lookup feature was added. This used the NutritionistPro Knowledge Base \footnote{Nutritionist Pro Knowledge Base database; Created by  Axxya Systems; http://www.nutritionistpro.com/knowledgebase.php. Last accessed September 22, 2012.} database, which is the same as in the BALANCE and comparison tudy. The lookup capability was designed to be an alternate entry strategy. 
+POND was designed to reflect the HEI, which was the preferred index-based food diary in the lab study. Initial user testing showed that people felt too uncomfortable entering the pattern directly for combination or prepared foods, so I added a food lookup feature. This used the NutritionistPro Knowledge Base \footnote{Nutritionist Pro Knowledge Base database; Created by  Axxya Systems; http://www.nutritionistpro.com/knowledgebase.php. Last accessed September 22, 2012.} database, which is the same as in the BALANCE and comparison study. The lookup capability was designed to be an alternate entry strategy. 
 
 The combination of a food index and database to inform the design of a food diary is supported by \citep{burke_experiences_2009}. Burke interviewed participants in a behavioral weight-loss program and found varying levels of engagement with the self-monitoring process: some participants were highly engaged, while others nominally followed the procedure, and others were inconsistent. It is unclear whether this characterization is due to internal or external factors. However, a self-monitoring tool that allows for varying levels of engagement could support a wider range of users. 
 
-
-In the rest of this chapter, I first discuss the research questions we were looking to answer, then address some overarching design decisions that impacted the design of POND, and finally focus on the final design of the POND app. 
+In the rest of this chapter, I first discuss the research questions we were looking to answer, then address overarching design decisions that impacted the design of POND, and conclude with the final design of the POND app. 
 
 \section{Research Aims}
-The goal of this project was to design and build a food diary that incorporated what we learned in the previous studies, and investigate whether experience the findings were applicable \textit{in situ}. 
+The goal of this project was to design and build a food diary that incorporated what we learned in the previous studies, and to investigate whether experience the findings were applicable \textit{in situ}. 
 
 Our primary research question was: 
 
-What will be some patterns of use of the POND food diary over a three week period? 
+\begin{itemize*}
+\item What will be some patterns of use of the POND food diary over a three week period? 
+\end{itemize*}
 
-Additionally, we had some secondary research goals: 
+Additionally, we had some secondary research questions: 
 
 \begin{itemize*}
 \item Will the ability to customize the interface to minimize it to the things a user cares about (``goals'') impact the use of the tool? 
-\item If the default interface contains items the users do not express interest, and are just taking more time for entry, do they get rid of them and keep tracking? 
+\item If the default interface contains items in which users do not express interest, and are just taking more time for entry, do they get rid of them and keep tracking? 
 \item Will users prefer to use the approach that takes less time, or captures more detail?  
 \item How will users use the food database lookup feature? 
 \item\begin{itemize*}
@@ -39,12 +40,12 @@ Additionally, we had some secondary research goals:
 
 \section{Overarching Design Considerations}
 
-The instruments designed for the in-lab study comparing BALANCE, HEI and FBQI provided insight as to interface and interaction concerns, as well as ideas for how to make a food index-based food diary more useful. Here, I outline the concerns and suggestions, and identify how they impacted the design of POND. 
+The instruments designed for the in-lab study comparing BALANCE, HEI, and FBQI provided insight as to interface and interaction concerns, as well as ideas for how to make a food index-based food diary more useful. Here, I outline the concerns and suggestions, and identify how they impacted the design of POND. 
 
 
 \subsection{Potential Challenge: Combining analysis and entry on one page} 
 
-One key design strategy embodied in the HEI and FBQI interfaces was combining record entry and daily analysis mostly on one screen. This differs from the BALANCE interface, which showed an analysis or overview on one screen, and opened a series of screens for creating an entry. The goal of this project is to minimize the time required for capturing a food entry. We identified two challenges related to the combining of analysis and entry on one page to reduce the entry time. The first is whether to allow the user to directly modify the analysis or visualization to indicate new entries. The second challenge addresses how to support adding food eaten earlier, as opposed to creating an entry of food eaten right now. 
+One key design strategy embodied in the HEI and FBQI interfaces was combining record entry and daily analysis primarily on one screen. This differs from the BALANCE interface, which showed an analysis or overview on one screen, and opened a series of screens for creating an entry. Since the goal of this project is to minimize the time required for capturing a food entry, I identified two challenges related to the combining of analysis and entry on one page to reduce the entry time. The first is whether to allow the user to directly modify the analysis or visualization to indicate new entries. The second challenge addresses how to support adding food eaten earlier, as opposed to creating an entry of food eaten right now. 
 
 
 \subsubsection{Direct Manipulation Versus ``Fill Out A Form'' Entry}
@@ -63,11 +64,11 @@ The in-lab study found that people were uncertain about how to count a food usin
 
 
 \subsubsection{Looking Up Food Entries}
-Initially, the POND prototype included explanations and examples for each of the components. However, initial feedback indicated that people really wanted some more certainty. This appeared to be particularly important when people were just becoming familiar with the counting approach. Therefore, we added a food lookup feature to the POND prototype. The lookup feature does not provide a perfect component profile for each food, due to the limitations of the database, but does provide some guidance. 
+The POND prototype originally included explanations and examples for each of the components. However, initial feedback indicated that people wanted some more certainty. This appeared to be particularly important when people were just becoming familiar with the counting approach. Therefore, we added a food lookup feature to the POND prototype. The lookup feature does not provide a perfect component profile for each food, due to the limitations of the database, but does provide some guidance. 
 
 
 \subsubsection{Serving Sizes}
-We addressed the serving size problem by referring to consumer-oriented literature developed by the USDA to educate consumers about the healthy eating guidelines \citep{usda_dietary_guidelines_2010}. The serving size amount descriptions included a common physical item for size comparison. Amounts for  food group items were based on typical serving sizes. The typical serving size for fruits and vegetables was \textonehalf cup. This was explained in terms of common servings. For example, ``2 blocks is a serving the size of your fist or a small apple''. The typical serving size for grains was also \textonehalf cup. Two blocks represent a serving this size of a baseball, or a slice of bread pancake the size of a DVD. Users could also directly enter half of a serving. 
+We addressed the serving size problem by referring to consumer-oriented literature developed by the USDA to educate consumers about the healthy eating guidelines \citep{usda_dietary_guidelines_2010}. The serving size amount descriptions included a common physical item for size comparison. Amounts for  food group items were based on typical serving sizes. The typical serving size for fruits and vegetables was \textonehalf  cup. This was explained in terms of common servings. For example, ``2 blocks is a serving the size of your fist or a small apple''. The typical serving size for grains was also \textonehalf  cup. Two blocks represent a serving the size of a baseball, a slice of bread, or a pancake the size of a DVD. Users could also directly enter half of a serving. 
 
 \subsection{Potential Challenge: Not knowing if a food has been entered}
 
@@ -84,12 +85,16 @@ Another way we attempted to provide feedback about what entries have been made i
 Finally, we designed a ``favorites'' feature. This allowed users to define an entry themselves. A combination consists of a name (such as ``Turkey Sandwich''), and the components that create it (2 whole grains, 3 proteins, 1 dairy, 1 sat fat, 3 sodium). When this is used for an entry, the name of the food is shown in the daily history list, which is described further later. 
 
 \section{Design}
-The primary goal informing the design of the POND app was to minimize the amount of time it took to make an entry. 
+Here, I present the design of POND. For each common task, I show related screens and describe how a user executes the task. I also explain design decisions made for each screen and task. POND was designed primarily for use on Android devices. 
+
+The primary goal informing the design of the POND app was to minimize the amount of time it took to make an entry. Preference was given to design decisions that we believed were consistent with minimizing initial food entry creation. 
 
 \subsection{Home Screen}
-The first screen the user sees when they launch POND is the home screen, shown in Figure \ref{fig:POND_overview}. This screen was designed to prioritize quick entry and quick analysis of the current progress toward goals for the day. Each row represents a recommendation from the 12 USDA Dietary Guidelines we have described above. Users can touch the +1 buttons on the right side of the screen to quickly indicate a portion eaten, or long-press the +1 buttons to indicate a \textonehalf portion eaten. Colored links expand to show information about what counts in a given component (item), or what makes a serving. This information was adapted from the USDA 2010 Dietary Guidelines. 
+The first screen the user sees when they launch POND is the home screen, shown in Figure \ref{fig:POND_overview}. This screen was designed to prioritize quick entry and quick analysis of the current progress toward goals for the day. Each row represents a recommendation from the 12 USDA Dietary Guidelines described above. Users touch the +1 buttons on the right side of the screen to quickly indicate a portion eaten, or long-press the +1 buttons to indicate a \textonehalf  portion eaten. The colored links next to the component name expand (\ref{fig:pond_overview_c}) to show more detailed information about that component, including how much to count as one block. This information was adapted from the USDA 2010 Dietary Guidelines. 
 
-Location is indicated in a drop-down menu across the top. It automatically tries to determine which pre-defined location the user is in (Home, Work) or ``Other'' if it is an unfamiliar location, and the blue ``+'' button opens the ``Add Food'' Screen. The phone's search button can also be used to launch a search widget and search for a given food. 
+Location is indicated in a drop-down list across the top. The list is populated with user-defined locations. Users can name and save their current location by selecting a menu option. Named locations are intended to be medium-grained places where the user spends much of their time, such as home or work. When POND is launched, it uses the location provided by the phone to identify if the user is in a named location. This named location is automatically selected in the location drop-down list. If the location is unknown, ``Other'' is selected. The  drop-down list is used to allow the user to quickly modify the location if  automatic detection is wrong. 
+
+There are two ways the user can enter food from the food database. The blue plus button at the top of the home screen can be used to add a food by browsing the database or a list of recently used foods. The device search button launches a search widget that queries the food database. Both approaches launch the food list screen described later. 
 
 \begin{figure}	
 	\centering
@@ -129,44 +134,10 @@ Location is indicated in a drop-down menu across the top. It automatically tries
 \end{figure}
 
 
-For the components, dark gray boxes indicate the current daily goal for that component. A colored box indicates how many portions of that component have been consumed. A colored block with a white dot indicates that the user has consumed more than the goal number of blocks. The use of a white dot in the block was chosen in order to provide non-judgmental feedback about the amount of servings consumed. 
+For the components, dark gray boxes indicate the current daily goal for that component. A colored box indicates how many portions of that component have been consumed. A colored block with a white dot indicates that the user has consumed more than the goal number of blocks. The use of a white dot in the block was chosen in order to provide non-judgmental feedback about the number of servings consumed. 
 
-\subsection{Daily Entries}
-The ``Daily Entries'' screen (Figure \ref{fig:pond_details_c}) was designed to show a list of the entries made over time so far today. The entries are reversed-ordered, with the most recent entry at the top. Here, users can distinguish between which items were looked up in the database versus which items were added with a +1. +1 entries made very close together in time (15 seconds) are grouped together into one item, as they are usually connected. The entry is also tagged with the location. 
-The purple + button allows users to go directly to the ``Add Food'' Screen, while the device search button opens up a search widget to allow the user to add a new item to the showing day's list. Different days can be viewed by using the arrow buttons at the top of the screen, or by swiping left or right. Touching one of the entries opens up the appropriate ``Entry Edit'' screen and allows just that entry to be edited. A long touch on one entry shows a menu which allows the chosen single entry to be either edited or deleted. 
 
-\begin{figure}	
-\centering
-\begin{subfigure}[t]{1.25in}
-		\centering
-		\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2c}}
-		\caption{A list of today's entries. }\label{fig:pond_details_c}
-	\end{subfigure}
-\quad
-	\begin{subfigure}[t]{1.25in}
-		\centering
-		\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2a}}
-		\caption{Creating a combination or a shortcut record.}\label{fig:pond_combo}
-	\end{subfigure}
-\quad
-\begin{subfigure}[t]{1.25in}
-		\centering
-		\setlength\fboxsep{0pt}
-\setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2b}}
-		\caption{Changing the goals screen.  }\label{fig:pond_goals}
-	\end{subfigure}
-
-	\caption{Other POND screens}\label{fig:pond_details}
-\end{figure}
-
-\subsection{Create Custom Food Entries}
-Figure \ref{fig:pond_combo} shows a screen that supports the creation of shortcuts for food combinations that people frequently eat. The combination entries are a combination of ``+1''s, as opposed to a combination of foods from the database. It is intended to be a single serving, or an amount eaten at one time. This is in contrast to defining a recipe, which is divided into multiple servings. The example in the screenshot is a turkey sandwich. The top of the screen shows some protein blocks for the meat. Further down the screen are two whole grains (for the bread), some dairy, some solid fat for the cheese, some oil for the mayo, and some sodium for the bread, meat, and cheese. When the user then eats this turkey sandwich again, they can find it in the list of ``My Foods'' and quickly enter it. The user-provided, personalized name (``My Turkey Sandwich'') is then shown in the list of entries made today as a named group of blocks. If the ``Add to Diary'' checkbox is checked, the ``Save'' button creates a new entry for both current and future use. When the ``Add to Diary'' checkbox is not checked, it is saved it for future use. 
-
+\subsection{Creating Entries From Database Foods}
 \begin{figure}	
 \centering
 	\begin{subfigure}[t]{1.25in}
@@ -194,37 +165,93 @@ Figure \ref{fig:pond_combo} shows a screen that supports the creation of shortcu
 	\end{subfigure}
 	\caption{The POND database and food search. }\label{fig:pond_database}
 \end{figure}
+Users create entries from foods in the database by either querying the database or browsing through previously used entries. Figure \ref{fig:pond_database} depicts the food query process. The device search button can be used to launch the search widget from either the home screen or the daily entries screen (\ref{fig:pond_search}). The search term is used for a full-text search in the food name and manufacturer fields of the database. 
 
+Results are presented in two tabs, ``Generic'' and ``Brand'' (Figure \ref{fig:pond_db_results}). This is the terminology used by the database.  For each tab, if there are fewer than 100 results, the results are presented alphabetically. If there are more results, the results are presented in a two-level list. In the Generic tab, foods are grouped by ``Food Class''. The food classes are ordered such that the class with the most entries is at the top of the screen. Foods are ordered alphabetically within each food class. In the Brand tab, foods are first grouped by manufacturer. Manufacturers are ordered alphabetically. From this page, the user can either refine the search, or start a new search. 
 
+Once a food has been found and selected, the Food Detail screen shows more information about that food (Figure \ref{fig:pond_db_record}). It allows the user to change the serving size amount. The screen also displays the specified amount of the chosen food will impact daily component counts if eaten. The dark gray blocks represent the goal for that component, while the light gray blocks show what has already been consumed today. The colored boxes show the components due to the chosen food.
 
-\subsection{Change Goals Screen}
-The change goals screen (Figure \ref{fig:pond_goals} can be used to change which components appear on the front screen, as well as how many blocks appear for each component. The checkboxes on the right are checked ``on'' to appear on the front screen, and the +/- buttons are used to indicate how many blocks should be provided for each component. Default USDA suggestions are indicated. When the number of blocks for an item is less than the suggested number of blocks for a component, light gray blocks indicate how many more are needed to get to that amount. When more blocks are selected than the suggestion, the blocks have a white circle inside. 
-
-
-\begin{figure}[ t ]
+\begin{figure}	
 \centering
-\setlength\fboxsep{0pt}
+	\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
 \setlength\fboxrule{0.5pt}
-\fbox{\includegraphics[ width =1.25in ]{./images/cont3/fig4a}}
-\label{fig:pond_record_edit}
-
-\caption{Editing an existing food entry. }
+\fbox{\includegraphics[width=1.25in]{./images/cont3/my_foods_1}}
+		\caption{Searching for a food in the database. }\label{fig:pond_mine_tab}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/recently_added_1}}
+		\caption{An example of the results, grouped by food classes.}\label{fig:pond_recents_tab}
+	\end{subfigure}
+	\caption{The POND database and food search. }\label{fig:pond_foods_lists}
 \end{figure}
+This screen contains two more tabs which list previously used foods. Both tabs list all foods that have been used before, either from the food database or created by the user. The ``Mine'' tab lists the foods alphabetically. The ``Recent'' tab lists the foods by date, with most recently used at the top of the list. 
+ 
 
-\subsection{Search process}
-Figure \ref{fig:pond_database} depicts the food search process. Food from the database or custom created foods can be added from either a search or chosen from a list of foods used before. The device search button can be used to launch the search widget from either the home screen or the daily entries screen. The search term is used for a full-text search in the food name and manufacturer fields of the database. The results are broken into ``Generic'' and ``Brand'' tabs (as designated by the database). Within each grouping, if there are fewer than 100 results, the results are presented alphabetically. If there are more results, the results are presented in a two-level list, grouped by ``Food Class'', as designated by the database, with the food classes ordered such that the class with the most entries is at the top of the screen, and alphabetically within the food class. From this page, the user can either ``Refine'' the search, or start a new search. 
 
-The other two tabs on this ``Chose Food'' screen include only foods that have been used before or have been created by the user. The ``Mine'' tab lists foods alphabetically, while the ``Recent'' tab lists the same foods by the order they were last used, most recent on top. 
+\subsection{Creating Custom Food Entries}
+\begin{figure}	
+\centering
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2a}}
+		\caption{Creating a combination or a shortcut record.}\label{fig:pond_combo}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2c}}
+		\caption{A list of today's entries. }\label{fig:pond_details_c}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig4a}}
+		\caption{Editing an existing food entry.  }\label{fig:pond_record_edit}
+	\end{subfigure}
+\quad
+\begin{subfigure}[t]{1.25in}
+		\centering
+		\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+\fbox{\includegraphics[width=1.25in]{./images/cont3/fig2b}}
+		\caption{Changing the goals screen.  }\label{fig:pond_goals}
+	\end{subfigure}
+	\caption{Other POND screens}\label{fig:pond_details}
+\end{figure}
+Figure \ref{fig:pond_combo} shows a screen that supports the creation of shortcuts for food combinations that people frequently eat. The combination entries are a combination of ``+1''s, as opposed to a combination of foods from the database. It is intended to be a single serving, or an amount eaten at one time. This is in contrast to defining a recipe, which is divided into multiple servings. The example in the screenshot is a turkey sandwich. The top of the screen shows some protein blocks for the meat. Further down the screen are two whole grains (for the bread), some dairy, some solid fat for the cheese, some oil for the mayo, and some sodium for the bread, meat, and cheese. When the user then eats this turkey sandwich again, they can find it in the Mine tab. The user-provided, personalized name (``My Turkey Sandwich'') is then shown in the list of entries made today as a named group of blocks. If the \textit{Add to Diary} checkbox is checked, the \textit{Save} button creates a new entry for both current and future use. When the \textit{Add to Diary} checkbox is not checked, it is saved it for future use. 
 
-Once a food has been found and selected, the Food Detail screen shows more information about that food. It allows the user to change the serving size amount. The screen also displays how eating the specified amount of the chosen food will impact the goals for the day if eaten. The dark gray blocks represent the goal for that component, while the light gray blocks show what has already been consumed today. The colored boxes show the components due to the chosen food. 
+
+
+\subsection{Reviewing Daily Entries}
+The Daily Entries screen (Figure \ref{fig:pond_details_c}) shows a list of the entries made over time so far today. The entries are reversed-ordered, with the most recent entry at the top. Here, users can distinguish between which items were looked up in the database versus which items were added with a +1. +1 entries made very close together in time (15 seconds) are grouped together into one item, as they are usually connected. The entry is also tagged with the location. 
+
+The purple + button allows users to go directly to the ``Add Food'' Screen, while the device search button opens up a search widget to allow the user to add a new item to the showing day's list. Different days can be viewed by using the arrow buttons at the top of the screen, or by swiping left or right. Touching one of the entries opens up the appropriate ``Entry Edit'' screen and allows just that entry to be edited. A long touch on one entry shows a menu which allows the chosen single entry to be either edited or deleted. 
 
 \subsection{Editing Entries}
 
-There are two different Entry Edit screens: one for Food entries (from the database), and one for +1 or custom food entries (which are treated like a combination of +1 entries). For food entries, the user can pretty much just change the amount, time, date, and location of the item. For +1 or custom food entries, the user can edit the name (or give it a new, meaningful name) and add, edit, or delete the components, as well as change the time, date and location of the entry.
- 
-\subsection{Weekly Feedback}
+There are two different Entry Edit screens: one for Food entries (from the database), and one for +1 or custom food entries (which are treated like a combination of +1 entries). For food entries, the user can change the amount, time, date, and location of the item. For +1 or custom food entries, the user can edit the name (or give it a new, meaningful name); add, edit, or delete the components; or change the time, date and location of the entry. 
 
-The weekly summary screen provides feedback about progress toward the goals throughout the week. The blue bars show the daily goal, or what that goal was for that day, empty boxes show that a goal has not been reached, while boxes extending past the bar show a goal that has been passed. Each screen only shows one component, and the drop-down list at the top (or swiping up and down on the screen) changes the component being displayed. Different weeks can be chosen via the menu, or swiping left and right on the screen. 
+\subsection{Changing Goals}
+The change goals screen (Figure \ref{fig:pond_goals}) can be used to change which components appear on the front screen, as well as how many blocks appear for each component. The checkboxes on the right are checked ``on'' to appear on the front screen, and the +/- buttons are used to indicate how many blocks should be provided for each component. Default USDA suggestions are indicated. When the number of blocks for an item is less than the suggested number of blocks for a component, light gray blocks indicate how many more are needed to get to that amount. When more blocks are selected than the suggestion, the blocks have a white circle inside. 
+
+
+
+ 
+\subsection{Reviewing Weekly Progress}
+
+The weekly summary screen provides feedback about progress toward the goals throughout the week (Figure \ref{fig:pond_week_overview}). The blue bars show what that goal was for that day. This could change over the course of a week. Empty boxes show that a goal has not been attained. Boxes extending past the bar show a goal that has been passed. The screen displays one component. The displayed component can be changed by using the drop-down list at the top of the screen, or swiping up and down on the screen. Different weeks can be chosen via a menu item, or swiping left and right on the screen. 
 
 \begin{figure}	
 \centering

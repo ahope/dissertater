@@ -291,7 +291,7 @@
    \def\@chapapp{\protect\@textofChapter}
    \def\Thechapter{\arabic{chapter}}
    \pagenumbering{arabic}
-     \footskip\z@
+     \footskip 20\p@ %\z@
 
 %\fancyhead[CO,CE]{draft}
 %\fancyhead[LE,RO]{\thepage}
