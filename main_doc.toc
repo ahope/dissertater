@@ -6,28 +6,30 @@
 \contentsline {section}{\numberline {1.2}Contributions}{5}{section.1.2}
 \contentsline {section}{\numberline {1.3}Roadmap}{6}{section.1.3}
 \contentsline {chapter}{\numberline {\@textofChapter \ 2:}Background}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}Behavior Change}{8}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Enabling change: Social Cognitive Theory}{8}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Motivation for change: Transtheoretical Model}{9}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Supporting change: Goal setting and tending}{9}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Self-Monitoring and Change}{10}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Self-Monitoring for Health}{10}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Technology and Behavior Change (Persuasive Technology)}{11}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Approaches to Changing Nutrition Behaviors}{11}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Motivational Interviewing}{11}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}CBT Programs}{12}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Other techniques}{12}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Summary}{12}{section.2.3}
+\contentsline {section}{\numberline {2.1}Introduction}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Behavior Change}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Theory of Planned Behavior}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Enabling change: Social Cognitive Theory}{9}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Motivation for change: Transtheoretical Model}{9}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Supporting change: Goal setting and tending}{10}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Self-Monitoring and Change}{10}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Self-Monitoring for Health}{11}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Technology and Behavior Change (Persuasive Technology)}{11}{subsection.2.2.7}
+\contentsline {section}{\numberline {2.3}Approaches to Changing Nutrition Behaviors}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Motivational Interviewing}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}CBT Programs}{12}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Other techniques}{12}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Summary}{12}{section.2.4}
 \contentsline {chapter}{\numberline {\@textofChapter \ 3:}Related Work}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Related Work}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Evaluation of Self-Monitoring}{19}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Challenges for Self-Monitoring}{20}{subsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.1.1}Nutrition and Epidemiological Research Domain}{20}{subsubsection.3.2.1.1}
-\contentsline {subsubsection}{\numberline {3.2.1.2}Technology-oriented work}{22}{subsubsection.3.2.1.2}
-\contentsline {subsection}{\numberline {3.2.2}Evaluation Characteristics and Measures}{23}{subsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.1}Usability and User Experience Evaluation of Food Diaries}{26}{subsubsection.3.2.2.1}
-\contentsline {subsection}{\numberline {3.2.3}Evaluation of Electronic Self-Monitoring}{28}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Summary}{29}{section.3.3}
+\contentsline {section}{\numberline {3.1}Related Work}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Evaluation of Self-Monitoring}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Challenges for Self-Monitoring}{21}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Nutrition and Epidemiological Research Domain}{22}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Technology-oriented work}{24}{subsubsection.3.2.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Evaluation Characteristics and Measures}{24}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Usability and User Experience Evaluation of Food Diaries}{27}{subsubsection.3.2.2.1}
+\contentsline {subsection}{\numberline {3.2.3}Evaluation of Electronic Self-Monitoring}{29}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Summary}{30}{section.3.3}
 \contentsline {chapter}{\numberline {\@textofChapter \ 4:}BALANCE}{31}{chapter.4}
 \contentsline {section}{\numberline {4.1}Introduction}{31}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Project Overview}{32}{subsection.4.1.1}
