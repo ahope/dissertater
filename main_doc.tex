@@ -65,6 +65,9 @@
 
 \usepackage{pdfpages}
 
+\usepackage{longtable}
+\usepackage{pdflscape}
+
 %\usepackage[table]{xcolor}
 
 %% Uncomment below to add the DRAFT to the page
@@ -110,7 +113,7 @@
  \usepackage[square]{natbib}
  \def\bibpreamble{\protect\addcontentsline{toc}{chapter}{Bibliography}}
 %
-\setcounter{tocdepth}{2}  % Print the chapter and sections to the toc
+\setcounter{tocdepth}{3}  % Print the chapter and sections to the toc
 \setcounter{secnumdepth}{5} 
 
 \usepackage{graphicx}
@@ -171,7 +174,7 @@
 \Program{Computer Science and Engineering}
 
 \Chair{Gaetano Borriello}{Jerre D. Noe Professor of CSE}{Computer Science and Engineering}
-\Signature{James Fogarty}
+\Chair{James Fogarty}{Associate Professor}{Computer Science and Engineering}
 \Signature{Julie Kientz}
 
 %\copyrightpage
@@ -241,6 +244,7 @@ reduced-detail self-monitoring tool for dietary intake.
 \acknowledgments{% \vskip2pc
   % {\narrower\noindent
   % \par}
+\input{acknowledge.tex}
 }
 
 %

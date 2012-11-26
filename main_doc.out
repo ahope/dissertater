@@ -9,119 +9,172 @@
 \BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 9
 \BOOKMARK [1][-]{section.2.2}{Theories of Behavior}{chapter.2}% 10
 \BOOKMARK [2][-]{subsection.2.2.1}{Intent to change: Theory of Planned Behavior}{section.2.2}% 11
-\BOOKMARK [2][-]{subsection.2.2.2}{Reframing change: Cognitive-Behavioral Theory}{section.2.2}% 12
-\BOOKMARK [2][-]{subsection.2.2.3}{Context-aware change: Social Cognitive Theory}{section.2.2}% 13
-\BOOKMARK [1][-]{section.2.3}{Cross-cutting Constructs}{chapter.2}% 14
-\BOOKMARK [2][-]{subsection.2.3.1}{The process of change: Transtheoretical Model}{section.2.3}% 15
-\BOOKMARK [2][-]{subsection.2.3.2}{Motivating change: Goal setting and tending}{section.2.3}% 16
-\BOOKMARK [1][-]{section.2.4}{Tools}{chapter.2}% 17
-\BOOKMARK [2][-]{subsection.2.4.1}{Motivational Interviewing}{section.2.4}% 18
-\BOOKMARK [2][-]{subsection.2.4.2}{Self-Monitoring}{section.2.4}% 19
-\BOOKMARK [2][-]{subsection.2.4.3}{Self-Monitoring for Health}{section.2.4}% 20
-\BOOKMARK [2][-]{subsection.2.4.4}{Technology and Behavior Change \(Persuasive Technology\)}{section.2.4}% 21
-\BOOKMARK [1][-]{section.2.5}{Approaches to Changing Nutrition Behaviors}{chapter.2}% 22
-\BOOKMARK [2][-]{subsection.2.5.1}{Other techniques}{section.2.5}% 23
-\BOOKMARK [1][-]{section.2.6}{Summary}{chapter.2}% 24
-\BOOKMARK [0][-]{chapter.3}{Related Work}{}% 25
-\BOOKMARK [1][-]{section.3.1}{Related Work}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.2}{Evaluation of Self-Monitoring}{chapter.3}% 27
-\BOOKMARK [2][-]{subsection.3.2.1}{Challenges for Self-Monitoring}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.2.2.2}{Context-aware change: Social Cognitive Theory}{section.2.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Supporting Change: Therapy Approaches}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.3.1}{Motivational Interviewing}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.2}{Reframing change: Cognitive-Behavioral Therapy}{section.2.3}% 15
+\BOOKMARK [1][-]{section.2.4}{Cross-cutting Constructs}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.4.1}{The process of change: Transtheoretical Model}{section.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.4.2}{Motivating change: Goal setting and tending}{section.2.4}% 18
+\BOOKMARK [1][-]{section.2.5}{Supporting Change: Tools}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.5.1}{Self-Monitoring}{section.2.5}% 20
+\BOOKMARK [2][-]{subsection.2.5.2}{Technology and Behavior Change \(Persuasive Technology\)}{section.2.5}% 21
+\BOOKMARK [1][-]{section.2.6}{Summary}{chapter.2}% 22
+\BOOKMARK [0][-]{chapter.3}{Related Work}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Related Work}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Evaluation of Self-Monitoring}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.2.1}{Challenges for Self-Monitoring}{section.3.2}% 26
+\BOOKMARK [3][-]{subsubsection.3.2.1.1}{Nutrition and Epidemiological Research Domain}{subsection.3.2.1}% 27
+\BOOKMARK [3][-]{subsubsection.3.2.1.2}{Technology-oriented work}{subsection.3.2.1}% 28
 \BOOKMARK [2][-]{subsection.3.2.2}{Evaluation Characteristics and Measures}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.3}{Evaluation of Electronic Self-Monitoring}{section.3.2}% 30
-\BOOKMARK [1][-]{section.3.3}{Summary}{chapter.3}% 31
-\BOOKMARK [0][-]{chapter.4}{BALANCE}{}% 32
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.1.1}{Project Overview}{section.4.1}% 34
-\BOOKMARK [1][-]{section.4.2}{Fuel-Gauge Visualization}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.2.1}{Participants}{section.4.2}% 36
-\BOOKMARK [2][-]{subsection.4.2.2}{Procedure}{section.4.2}% 37
-\BOOKMARK [2][-]{subsection.4.2.3}{Instruments}{section.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.2.4}{Results and Discussion}{section.4.2}% 39
-\BOOKMARK [1][-]{section.4.3}{Prototype, V1 \(Feature Phone \046 USDA Food Database\)}{chapter.4}% 40
-\BOOKMARK [2][-]{subsection.4.3.1}{Description}{section.4.3}% 41
-\BOOKMARK [2][-]{subsection.4.3.2}{Database Optimization and Querying}{section.4.3}% 42
-\BOOKMARK [2][-]{subsection.4.3.3}{Observations}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.4}{Discussion}{section.4.3}% 44
-\BOOKMARK [1][-]{section.4.4}{Food Databases}{chapter.4}% 45
-\BOOKMARK [1][-]{section.4.5}{Food Diary: Iterative Design And Evaluation}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.5.1}{Overall Design}{section.4.5}% 47
-\BOOKMARK [2][-]{subsection.4.5.2}{Selected Features and Feedback}{section.4.5}% 48
-\BOOKMARK [2][-]{subsection.4.5.3}{Database Query Details}{section.4.5}% 49
-\BOOKMARK [2][-]{subsection.4.5.4}{Metrics}{section.4.5}% 50
-\BOOKMARK [1][-]{section.4.6}{Validating BALANCE}{chapter.4}% 51
-\BOOKMARK [2][-]{subsection.4.6.1}{Final BALANCE Software}{section.4.6}% 52
-\BOOKMARK [2][-]{subsection.4.6.2}{24-hr recall software. }{section.4.6}% 53
-\BOOKMARK [2][-]{subsection.4.6.3}{Metrics}{section.4.6}% 54
-\BOOKMARK [2][-]{subsection.4.6.4}{Discussion }{section.4.6}% 55
-\BOOKMARK [1][-]{section.4.7}{Overall Discussion}{chapter.4}% 56
-\BOOKMARK [1][-]{section.4.8}{Summary}{chapter.4}% 57
-\BOOKMARK [0][-]{chapter.5}{Investigating Food Index-Based Food Diaries In The Lab}{}% 58
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 59
-\BOOKMARK [1][-]{section.5.2}{Food Indexes: Analyzing Diet Quality}{chapter.5}% 60
-\BOOKMARK [2][-]{subsection.5.2.1}{Food Indexes and Goal Setting}{section.5.2}% 61
-\BOOKMARK [2][-]{subsection.5.2.2}{The Healthy Eating Index-2005 }{section.5.2}% 62
-\BOOKMARK [2][-]{subsection.5.2.3}{The Food-Based Quality Index}{section.5.2}% 63
-\BOOKMARK [1][-]{section.5.3}{Food Tasks: Food Diary Evaluation Methodology}{chapter.5}% 64
-\BOOKMARK [1][-]{section.5.4}{Investigating and Comparing Food Index-Based Mobile Phone Food Diaries}{chapter.5}% 65
-\BOOKMARK [2][-]{subsection.5.4.1}{Research Aims}{section.5.4}% 66
-\BOOKMARK [2][-]{subsection.5.4.2}{Study Design}{section.5.4}% 67
-\BOOKMARK [2][-]{subsection.5.4.3}{Instruments}{section.5.4}% 68
-\BOOKMARK [2][-]{subsection.5.4.4}{Participants}{section.5.4}% 69
-\BOOKMARK [2][-]{subsection.5.4.5}{Procedure}{section.5.4}% 70
-\BOOKMARK [2][-]{subsection.5.4.6}{Tasks}{section.5.4}% 71
-\BOOKMARK [2][-]{subsection.5.4.7}{Study Design Limitations}{section.5.4}% 72
-\BOOKMARK [2][-]{subsection.5.4.8}{Data Collected}{section.5.4}% 73
-\BOOKMARK [2][-]{subsection.5.4.9}{Hypotheses}{section.5.4}% 74
-\BOOKMARK [2][-]{subsection.5.4.10}{Data Analysis and Results}{section.5.4}% 75
-\BOOKMARK [2][-]{subsection.5.4.11}{Discussion.}{section.5.4}% 76
-\BOOKMARK [2][-]{subsection.5.4.12}{Design Recommendations for Index-Based Food Journal}{section.5.4}% 77
-\BOOKMARK [1][-]{section.5.5}{Summary}{chapter.5}% 78
-\BOOKMARK [0][-]{chapter.6}{The Design Of a POND: Pattern-Oriented Nutrition Diary}{}% 79
-\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 80
-\BOOKMARK [1][-]{section.6.2}{Research Aims}{chapter.6}% 81
-\BOOKMARK [1][-]{section.6.3}{Overarching Design Considerations}{chapter.6}% 82
-\BOOKMARK [2][-]{subsection.6.3.1}{Potential Challenge: Combining analysis and entry on one page}{section.6.3}% 83
-\BOOKMARK [2][-]{subsection.6.3.2}{Potential Challenge: Counting Components}{section.6.3}% 84
-\BOOKMARK [2][-]{subsection.6.3.3}{Potential Challenge: Not knowing if a food has been entered}{section.6.3}% 85
-\BOOKMARK [1][-]{section.6.4}{Design}{chapter.6}% 86
-\BOOKMARK [2][-]{subsection.6.4.1}{Home Screen}{section.6.4}% 87
-\BOOKMARK [2][-]{subsection.6.4.2}{Creating Entries From Database Foods}{section.6.4}% 88
-\BOOKMARK [2][-]{subsection.6.4.3}{Creating Custom Food Entries}{section.6.4}% 89
-\BOOKMARK [2][-]{subsection.6.4.4}{Reviewing Daily Entries}{section.6.4}% 90
-\BOOKMARK [2][-]{subsection.6.4.5}{Editing Entries}{section.6.4}% 91
-\BOOKMARK [2][-]{subsection.6.4.6}{Changing Goals}{section.6.4}% 92
-\BOOKMARK [2][-]{subsection.6.4.7}{Reviewing Weekly Progress}{section.6.4}% 93
-\BOOKMARK [1][-]{section.6.5}{Summary}{chapter.6}% 94
-\BOOKMARK [0][-]{chapter.7}{POND Evaluation}{}% 95
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 96
-\BOOKMARK [1][-]{section.7.2}{Evaluation Organization}{chapter.7}% 97
-\BOOKMARK [1][-]{section.7.3}{In-Lab Evaluation}{chapter.7}% 98
-\BOOKMARK [2][-]{subsection.7.3.1}{Experiment Design}{section.7.3}% 99
-\BOOKMARK [2][-]{subsection.7.3.2}{Measures and Data Collected}{section.7.3}% 100
-\BOOKMARK [2][-]{subsection.7.3.3}{Results}{section.7.3}% 101
-\BOOKMARK [2][-]{subsection.7.3.4}{Discussion\205 In lab}{section.7.3}% 102
-\BOOKMARK [1][-]{section.7.4}{In-situ Study}{chapter.7}% 103
-\BOOKMARK [2][-]{subsection.7.4.1}{Evaluation Design}{section.7.4}% 104
-\BOOKMARK [2][-]{subsection.7.4.2}{Data Collected/Measures}{section.7.4}% 105
-\BOOKMARK [2][-]{subsection.7.4.3}{Results}{section.7.4}% 106
-\BOOKMARK [2][-]{subsection.7.4.4}{Discussion}{section.7.4}% 107
-\BOOKMARK [1][-]{section.7.5}{Overall POND Observations and Discussion}{chapter.7}% 108
-\BOOKMARK [2][-]{subsection.7.5.1}{How}{section.7.5}% 109
-\BOOKMARK [2][-]{subsection.7.5.2}{What}{section.7.5}% 110
-\BOOKMARK [2][-]{subsection.7.5.3}{When}{section.7.5}% 111
-\BOOKMARK [2][-]{subsection.7.5.4}{Overall}{section.7.5}% 112
-\BOOKMARK [1][-]{section.7.6}{Summary}{chapter.7}% 113
-\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 114
-\BOOKMARK [0][-]{chapter*.58}{Bibliography}{}% 115
-\BOOKMARK [0][-]{appendix.A}{In-Lab Interface Comparison Surveys}{}% 116
-\BOOKMARK [1][-]{section.A.1}{Initial Survey}{appendix.A}% 117
-\BOOKMARK [1][-]{section.A.2}{TLX Surveys \(after each condition\)}{appendix.A}% 118
-\BOOKMARK [1][-]{section.A.3}{TLX:Demand and Preferences}{appendix.A}% 119
-\BOOKMARK [1][-]{section.A.4}{Final Survey}{appendix.A}% 120
-\BOOKMARK [0][-]{appendix.B}{POND In-Lab Surveys}{}% 121
-\BOOKMARK [1][-]{section.B.1}{Initial Survey}{appendix.B}% 122
-\BOOKMARK [1][-]{section.B.2}{TLX:Demand and Preferences}{appendix.B}% 123
-\BOOKMARK [1][-]{section.B.3}{Post-Study Questionnaire}{appendix.B}% 124
-\BOOKMARK [0][-]{appendix.C}{POND in situ Surveys}{}% 125
-\BOOKMARK [1][-]{section.C.1}{Weekly Survey}{appendix.C}% 126
-\BOOKMARK [1][-]{section.C.2}{Final Guided Interview Questions}{appendix.C}% 127
+\BOOKMARK [3][-]{subsubsection.3.2.2.1}{Usability and User Experience Evaluation of Food Diaries}{subsection.3.2.2}% 30
+\BOOKMARK [2][-]{subsection.3.2.3}{Evaluation of Electronic Self-Monitoring}{section.3.2}% 31
+\BOOKMARK [1][-]{section.3.3}{Summary}{chapter.3}% 32
+\BOOKMARK [0][-]{chapter.4}{BALANCE}{}% 33
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.1.1}{Project Overview}{section.4.1}% 35
+\BOOKMARK [1][-]{section.4.2}{Fuel-Gauge Visualization}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.2.1}{Participants}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.2}{Procedure}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.3}{Instruments}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.4}{Results and Discussion}{section.4.2}% 40
+\BOOKMARK [1][-]{section.4.3}{Prototype, V1 \(Feature Phone \046 USDA Food Database\)}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.3.1}{Description}{section.4.3}% 42
+\BOOKMARK [2][-]{subsection.4.3.2}{Database Optimization and Querying}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.3}{Observations}{section.4.3}% 44
+\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Text entry was too hard}{subsection.4.3.3}% 45
+\BOOKMARK [3][-]{subsubsection.4.3.3.2}{Too long to search}{subsection.4.3.3}% 46
+\BOOKMARK [3][-]{subsubsection.4.3.3.3}{It was difficult to find and choose a food}{subsection.4.3.3}% 47
+\BOOKMARK [3][-]{subsubsection.4.3.3.4}{Long names do not fit on the screen.}{subsection.4.3.3}% 48
+\BOOKMARK [3][-]{subsubsection.4.3.3.5}{No entries for common prepared foods. }{subsection.4.3.3}% 49
+\BOOKMARK [3][-]{subsubsection.4.3.3.6}{For some foods, many items to choose from.}{subsection.4.3.3}% 50
+\BOOKMARK [2][-]{subsection.4.3.4}{Discussion}{section.4.3}% 51
+\BOOKMARK [1][-]{section.4.4}{Food Databases}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.5}{Food Diary: Iterative Design And Evaluation}{chapter.4}% 53
+\BOOKMARK [2][-]{subsection.4.5.1}{Overall Design}{section.4.5}% 54
+\BOOKMARK [3][-]{subsubsection.4.5.1.1}{Food Diary Software}{subsection.4.5.1}% 55
+\BOOKMARK [2][-]{subsection.4.5.2}{Selected Features and Feedback}{section.4.5}% 56
+\BOOKMARK [3][-]{subsubsection.4.5.2.1}{Touch-friendly screen design }{subsection.4.5.2}% 57
+\BOOKMARK [3][-]{subsubsection.4.5.2.2}{Create new food database entry}{subsection.4.5.2}% 58
+\BOOKMARK [3][-]{subsubsection.4.5.2.3}{Favorite foods and meals}{subsection.4.5.2}% 59
+\BOOKMARK [2][-]{subsection.4.5.3}{Database Query Details}{section.4.5}% 60
+\BOOKMARK [2][-]{subsection.4.5.4}{Metrics}{section.4.5}% 61
+\BOOKMARK [1][-]{section.4.6}{Validating BALANCE}{chapter.4}% 62
+\BOOKMARK [2][-]{subsection.4.6.1}{Final BALANCE Software}{section.4.6}% 63
+\BOOKMARK [2][-]{subsection.4.6.2}{24-hr recall software. }{section.4.6}% 64
+\BOOKMARK [2][-]{subsection.4.6.3}{Metrics}{section.4.6}% 65
+\BOOKMARK [3][-]{subsubsection.4.6.3.1}{Overview}{subsection.4.6.3}% 66
+\BOOKMARK [3][-]{subsubsection.4.6.3.2}{App starts over time}{subsection.4.6.3}% 67
+\BOOKMARK [3][-]{subsubsection.4.6.3.3}{When entries are made}{subsection.4.6.3}% 68
+\BOOKMARK [3][-]{subsubsection.4.6.3.4}{Entry creation time}{subsection.4.6.3}% 69
+\BOOKMARK [3][-]{subsubsection.4.6.3.5}{Food eaten time}{subsection.4.6.3}% 70
+\BOOKMARK [3][-]{subsubsection.4.6.3.6}{Comparing entry creation and food eaten time}{subsection.4.6.3}% 71
+\BOOKMARK [3][-]{subsubsection.4.6.3.7}{Entry edits}{subsection.4.6.3}% 72
+\BOOKMARK [3][-]{subsubsection.4.6.3.8}{Number Of Combos/Favorites And Their Use}{subsection.4.6.3}% 73
+\BOOKMARK [3][-]{subsubsection.4.6.3.9}{Putting it all together }{subsection.4.6.3}% 74
+\BOOKMARK [2][-]{subsection.4.6.4}{Discussion }{section.4.6}% 75
+\BOOKMARK [1][-]{section.4.7}{Overall Discussion}{chapter.4}% 76
+\BOOKMARK [1][-]{section.4.8}{Summary}{chapter.4}% 77
+\BOOKMARK [0][-]{chapter.5}{Investigating Food Index-Based Food Diaries In The Lab}{}% 78
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 79
+\BOOKMARK [1][-]{section.5.2}{Food Indexes: Analyzing Diet Quality}{chapter.5}% 80
+\BOOKMARK [2][-]{subsection.5.2.1}{Food Indexes and Goal Setting}{section.5.2}% 81
+\BOOKMARK [2][-]{subsection.5.2.2}{The Healthy Eating Index-2005 }{section.5.2}% 82
+\BOOKMARK [2][-]{subsection.5.2.3}{The Food-Based Quality Index}{section.5.2}% 83
+\BOOKMARK [1][-]{section.5.3}{Food Tasks: Food Diary Evaluation Methodology}{chapter.5}% 84
+\BOOKMARK [1][-]{section.5.4}{Investigating and Comparing Food Index-Based Mobile Phone Food Diaries}{chapter.5}% 85
+\BOOKMARK [2][-]{subsection.5.4.1}{Research Aims}{section.5.4}% 86
+\BOOKMARK [2][-]{subsection.5.4.2}{Study Design}{section.5.4}% 87
+\BOOKMARK [2][-]{subsection.5.4.3}{Instruments}{section.5.4}% 88
+\BOOKMARK [3][-]{subsubsection.5.4.3.1}{HEI}{subsection.5.4.3}% 89
+\BOOKMARK [3][-]{subsubsection.5.4.3.2}{FBQI}{subsection.5.4.3}% 90
+\BOOKMARK [3][-]{subsubsection.5.4.3.3}{BALANCE}{subsection.5.4.3}% 91
+\BOOKMARK [2][-]{subsection.5.4.4}{Participants}{section.5.4}% 92
+\BOOKMARK [2][-]{subsection.5.4.5}{Procedure}{section.5.4}% 93
+\BOOKMARK [2][-]{subsection.5.4.6}{Tasks}{section.5.4}% 94
+\BOOKMARK [2][-]{subsection.5.4.7}{Study Design Limitations}{section.5.4}% 95
+\BOOKMARK [2][-]{subsection.5.4.8}{Data Collected}{section.5.4}% 96
+\BOOKMARK [2][-]{subsection.5.4.9}{Hypotheses}{section.5.4}% 97
+\BOOKMARK [2][-]{subsection.5.4.10}{Data Analysis and Results}{section.5.4}% 98
+\BOOKMARK [3][-]{subsubsection.5.4.10.1}{Duration}{subsection.5.4.10}% 99
+\BOOKMARK [3][-]{subsubsection.5.4.10.2}{Correctness}{subsection.5.4.10}% 100
+\BOOKMARK [3][-]{subsubsection.5.4.10.3}{TLX}{subsection.5.4.10}% 101
+\BOOKMARK [3][-]{subsubsection.5.4.10.4}{Rankings}{subsection.5.4.10}% 102
+\BOOKMARK [3][-]{subsubsection.5.4.10.5}{Useful For Goals}{subsection.5.4.10}% 103
+\BOOKMARK [3][-]{subsubsection.5.4.10.6}{Error Analysis}{subsection.5.4.10}% 104
+\BOOKMARK [3][-]{subsubsection.5.4.10.7}{Likes/Dislikes}{subsection.5.4.10}% 105
+\BOOKMARK [2][-]{subsection.5.4.11}{Discussion.}{section.5.4}% 106
+\BOOKMARK [2][-]{subsection.5.4.12}{Design Recommendations for Index-Based Food Journal}{section.5.4}% 107
+\BOOKMARK [3][-]{subsubsection.5.4.12.1}{Include Attainment As Well As Moderation Components}{subsection.5.4.12}% 108
+\BOOKMARK [3][-]{subsubsection.5.4.12.2}{Provide A Tool To Count Specific Foods}{subsection.5.4.12}% 109
+\BOOKMARK [3][-]{subsubsection.5.4.12.3}{Identify What Was Entered}{subsection.5.4.12}% 110
+\BOOKMARK [1][-]{section.5.5}{Summary}{chapter.5}% 111
+\BOOKMARK [0][-]{chapter.6}{The Design Of a POND: Pattern-Oriented Nutrition Diary}{}% 112
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 113
+\BOOKMARK [1][-]{section.6.2}{Research Aims}{chapter.6}% 114
+\BOOKMARK [1][-]{section.6.3}{Overarching Design Considerations}{chapter.6}% 115
+\BOOKMARK [2][-]{subsection.6.3.1}{Potential Challenge: Combining analysis and entry on one page}{section.6.3}% 116
+\BOOKMARK [3][-]{subsubsection.6.3.1.1}{Direct Manipulation Versus ``Fill Out A Form'' Entry}{subsection.6.3.1}% 117
+\BOOKMARK [3][-]{subsubsection.6.3.1.2}{Quick-Add Versus Add-Earlier-Entry}{subsection.6.3.1}% 118
+\BOOKMARK [2][-]{subsection.6.3.2}{Potential Challenge: Counting Components}{section.6.3}% 119
+\BOOKMARK [3][-]{subsubsection.6.3.2.1}{Looking Up Food Entries}{subsection.6.3.2}% 120
+\BOOKMARK [3][-]{subsubsection.6.3.2.2}{Serving Sizes}{subsection.6.3.2}% 121
+\BOOKMARK [2][-]{subsection.6.3.3}{Potential Challenge: Not knowing if a food has been entered}{section.6.3}% 122
+\BOOKMARK [3][-]{subsubsection.6.3.3.1}{Time- And Location-Based Analysis}{subsection.6.3.3}% 123
+\BOOKMARK [3][-]{subsubsection.6.3.3.2}{Grouping Entries}{subsection.6.3.3}% 124
+\BOOKMARK [3][-]{subsubsection.6.3.3.3}{Shortcuts and Combinations}{subsection.6.3.3}% 125
+\BOOKMARK [1][-]{section.6.4}{Design}{chapter.6}% 126
+\BOOKMARK [2][-]{subsection.6.4.1}{Home Screen}{section.6.4}% 127
+\BOOKMARK [2][-]{subsection.6.4.2}{Creating Entries From Database Foods}{section.6.4}% 128
+\BOOKMARK [2][-]{subsection.6.4.3}{Creating Custom Food Entries}{section.6.4}% 129
+\BOOKMARK [2][-]{subsection.6.4.4}{Reviewing Daily Entries}{section.6.4}% 130
+\BOOKMARK [2][-]{subsection.6.4.5}{Editing Entries}{section.6.4}% 131
+\BOOKMARK [2][-]{subsection.6.4.6}{Changing Goals}{section.6.4}% 132
+\BOOKMARK [2][-]{subsection.6.4.7}{Reviewing Weekly Progress}{section.6.4}% 133
+\BOOKMARK [1][-]{section.6.5}{Summary}{chapter.6}% 134
+\BOOKMARK [0][-]{chapter.7}{POND Evaluation}{}% 135
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 136
+\BOOKMARK [1][-]{section.7.2}{Evaluation Organization}{chapter.7}% 137
+\BOOKMARK [1][-]{section.7.3}{In-Lab Evaluation}{chapter.7}% 138
+\BOOKMARK [2][-]{subsection.7.3.1}{Experiment Design}{section.7.3}% 139
+\BOOKMARK [3][-]{subsubsection.7.3.1.1}{Participants}{subsection.7.3.1}% 140
+\BOOKMARK [3][-]{subsubsection.7.3.1.2}{Procedure}{subsection.7.3.1}% 141
+\BOOKMARK [3][-]{subsubsection.7.3.1.3}{Tasks}{subsection.7.3.1}% 142
+\BOOKMARK [2][-]{subsection.7.3.2}{Measures and Data Collected}{section.7.3}% 143
+\BOOKMARK [3][-]{subsubsection.7.3.2.1}{Study Design Limitations}{subsection.7.3.2}% 144
+\BOOKMARK [2][-]{subsection.7.3.3}{In-Lab Results}{section.7.3}% 145
+\BOOKMARK [3][-]{subsubsection.7.3.3.1}{Entry Strategy}{subsection.7.3.3}% 146
+\BOOKMARK [3][-]{subsubsection.7.3.3.2}{Search Terms}{subsection.7.3.3}% 147
+\BOOKMARK [3][-]{subsubsection.7.3.3.3}{Likes and Dislikes}{subsection.7.3.3}% 148
+\BOOKMARK [2][-]{subsection.7.3.4}{Discussion\204 In lab}{section.7.3}% 149
+\BOOKMARK [1][-]{section.7.4}{In-situ Study}{chapter.7}% 150
+\BOOKMARK [2][-]{subsection.7.4.1}{Evaluation Design}{section.7.4}% 151
+\BOOKMARK [3][-]{subsubsection.7.4.1.1}{Procedure}{subsection.7.4.1}% 152
+\BOOKMARK [3][-]{subsubsection.7.4.1.2}{Study Design Limitations}{subsection.7.4.1}% 153
+\BOOKMARK [2][-]{subsection.7.4.2}{Measures and Data Collected}{section.7.4}% 154
+\BOOKMARK [2][-]{subsection.7.4.3}{Results}{section.7.4}% 155
+\BOOKMARK [3][-]{subsubsection.7.4.3.1}{Entry strategy}{subsection.7.4.3}% 156
+\BOOKMARK [3][-]{subsubsection.7.4.3.2}{Search Terms}{subsection.7.4.3}% 157
+\BOOKMARK [3][-]{subsubsection.7.4.3.3}{Overall Component Counts}{subsection.7.4.3}% 158
+\BOOKMARK [3][-]{subsubsection.7.4.3.4}{Guided Interview}{subsection.7.4.3}% 159
+\BOOKMARK [2][-]{subsection.7.4.4}{Discussion}{section.7.4}% 160
+\BOOKMARK [1][-]{section.7.5}{Overall POND Observations and Discussion}{chapter.7}% 161
+\BOOKMARK [2][-]{subsection.7.5.1}{How Did Users Make Entries? }{section.7.5}% 162
+\BOOKMARK [2][-]{subsection.7.5.2}{What Entries Did Users Make?}{section.7.5}% 163
+\BOOKMARK [2][-]{subsection.7.5.3}{When Did Users Make Entries?}{section.7.5}% 164
+\BOOKMARK [2][-]{subsection.7.5.4}{Overall}{section.7.5}% 165
+\BOOKMARK [1][-]{section.7.6}{Summary}{chapter.7}% 166
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}% 167
+\BOOKMARK [0][-]{chapter*.58}{Bibliography}{}% 168
+\BOOKMARK [0][-]{appendix.A}{In-Lab Interface Comparison Surveys}{}% 169
+\BOOKMARK [1][-]{section.A.1}{Initial Survey}{appendix.A}% 170
+\BOOKMARK [1][-]{section.A.2}{TLX Surveys \(after each condition\)}{appendix.A}% 171
+\BOOKMARK [1][-]{section.A.3}{TLX:Demand and Preferences}{appendix.A}% 172
+\BOOKMARK [1][-]{section.A.4}{Final Survey}{appendix.A}% 173
+\BOOKMARK [0][-]{appendix.B}{POND In-Lab Surveys}{}% 174
+\BOOKMARK [1][-]{section.B.1}{Initial Survey}{appendix.B}% 175
+\BOOKMARK [1][-]{section.B.2}{TLX:Demand and Preferences}{appendix.B}% 176
+\BOOKMARK [1][-]{section.B.3}{Post-Study Questionnaire}{appendix.B}% 177
+\BOOKMARK [0][-]{appendix.C}{POND in situ Surveys}{}% 178
+\BOOKMARK [1][-]{section.C.1}{Weekly Survey}{appendix.C}% 179
+\BOOKMARK [1][-]{section.C.2}{Final Guided Interview Questions}{appendix.C}% 180
