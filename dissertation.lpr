@@ -430,15 +430,15 @@ Bookmark#6=0
 Bookmark#7=0
 Bookmark#8=0
 Bookmark#9=0
-CaretPos.X=79
-CaretPos.Y=113
+CaretPos.X=177
+CaretPos.Y=3
 CharSet=def
 FileName=relatedwork.tex
 FoldedLines=
 IsMainFile=no
 Opened=yes
 ScrollPos.X=0
-ScrollPos.Y=434
+ScrollPos.Y=0
 SearchListCount=0
 ShowSyntax=yes
 SpellChecking=yes
@@ -782,7 +782,7 @@ Zoom=9
 
 [Project\DVI]
 FileName=1
-FirstPage=2
+FirstPage=3
 Magnifier=5
 Page=47
 PaperHeight=297
