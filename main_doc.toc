@@ -21,23 +21,23 @@
 \contentsline {subsection}{\numberline {2.5.2}Technology and Behavior Change (Persuasive Technology)}{17}{subsection.2.5.2}
 \contentsline {section}{\numberline {2.6}Summary}{18}{section.2.6}
 \contentsline {chapter}{\numberline {\@textofChapter \ 3:}Related Work}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{20}{section.3.1}
-\contentsline {section}{\numberline {3.2}HCI and Mobile Nutrition Tools}{21}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Mobile Monitoring for Chronic Kidney Disease}{21}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Mobile Tools for Diabetes}{22}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Mobile Dietary Intake and Physical Activity Tracking}{22}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Mobile Wellness Tracking}{23}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Synthesis}{24}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}An Aside: Streamlining Food Intake Capture Process}{24}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Using Photos to Capture Intake}{25}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.1}Introduction}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}HCI and Mobile Nutrition Tools}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Mobile Monitoring for Chronic Kidney Disease}{20}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Mobile Tools for Diabetes}{21}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Mobile Dietary Intake and Physical Activity Tracking}{21}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Mobile Wellness Tracking}{22}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Synthesis}{23}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}An Aside: Streamlining Food Intake Capture Process}{23}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Using Photos to Capture Intake}{24}{subsection.3.2.7}
 \contentsline {subsection}{\numberline {3.2.8}Automatically Sensing Dietary Intake}{26}{subsection.3.2.8}
-\contentsline {section}{\numberline {3.3}Evaluation of Self-Monitoring}{27}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Challenges for Self-Monitoring of Dietary Intake}{27}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Motivation for Evaluation}{28}{subsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.2.1}Impact of Self-Monitoring on Nutrition Behaviors}{28}{subsubsection.3.3.2.1}
-\contentsline {subsubsection}{\numberline {3.3.2.2}The Use of Self-Monitoring to Understand Nutrition Behaviors}{29}{subsubsection.3.3.2.2}
-\contentsline {subsubsection}{\numberline {3.3.2.3}A Special Case: The Women's Health Initiative}{30}{subsubsection.3.3.2.3}
-\contentsline {subsection}{\numberline {3.3.3}Evaluation Characteristics and Measures}{30}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.3}Evaluation of Self-Monitoring}{26}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Challenges for Self-Monitoring of Dietary Intake}{26}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Motivation for Evaluation}{27}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Impact of Self-Monitoring on Nutrition Behaviors}{27}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}The Use of Self-Monitoring to Understand Nutrition Behaviors}{28}{subsubsection.3.3.2.2}
+\contentsline {subsubsection}{\numberline {3.3.2.3}A Special Case: The Women's Health Initiative}{29}{subsubsection.3.3.2.3}
+\contentsline {subsection}{\numberline {3.3.3}Evaluation Characteristics and Measures}{29}{subsection.3.3.3}
 \contentsline {subsubsection}{\numberline {3.3.3.1}Duration}{34}{subsubsection.3.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.3.2}Participants and Populations}{34}{subsubsection.3.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.3.3}Reported Challenges}{34}{subsubsection.3.3.3.3}
@@ -173,24 +173,24 @@
 \contentsline {subsubsection}{\numberline {7.4.3.2}Search Terms}{147}{subsubsection.7.4.3.2}
 \contentsline {subsubsection}{\numberline {7.4.3.3}Overall Component Counts}{149}{subsubsection.7.4.3.3}
 \contentsline {subsubsection}{\numberline {7.4.3.4}Guided Interview}{149}{subsubsection.7.4.3.4}
-\contentsline {subsection}{\numberline {7.4.4}Discussion}{155}{subsection.7.4.4}
-\contentsline {section}{\numberline {7.5}Overall POND Observations and Discussion}{157}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}How Did Users Make Entries? }{158}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}What Entries Did Users Make?}{158}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}When Did Users Make Entries?}{159}{subsection.7.5.3}
-\contentsline {subsection}{\numberline {7.5.4}Overall}{159}{subsection.7.5.4}
-\contentsline {section}{\numberline {7.6}Summary}{161}{section.7.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Conclusion}{163}{chapter.8}
-\contentsline {chapter}{Bibliography}{169}{chapter*.58}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{185}{appendix.A}
-\contentsline {section}{\numberline {A.1}Initial Survey}{185}{section.A.1}
-\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{187}{section.A.2}
-\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{187}{section.A.3}
-\contentsline {section}{\numberline {A.4}Final Survey}{188}{section.A.4}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{191}{appendix.B}
-\contentsline {section}{\numberline {B.1}Initial Survey}{191}{section.B.1}
-\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{193}{section.B.2}
-\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{194}{section.B.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{199}{appendix.C}
-\contentsline {section}{\numberline {C.1}Weekly Survey}{199}{section.C.1}
-\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{202}{section.C.2}
+\contentsline {subsection}{\numberline {7.4.4}Discussion}{154}{subsection.7.4.4}
+\contentsline {section}{\numberline {7.5}Overall POND Observations and Discussion}{156}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}How Did Users Make Entries? }{157}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}What Entries Did Users Make?}{157}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}When Did Users Make Entries?}{158}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Overall}{158}{subsection.7.5.4}
+\contentsline {section}{\numberline {7.6}Summary}{160}{section.7.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Conclusion}{161}{chapter.8}
+\contentsline {chapter}{Bibliography}{167}{chapter*.57}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}In-Lab Interface Comparison Surveys}{183}{appendix.A}
+\contentsline {section}{\numberline {A.1}Initial Survey}{183}{section.A.1}
+\contentsline {section}{\numberline {A.2}TLX Surveys (after each condition)}{185}{section.A.2}
+\contentsline {section}{\numberline {A.3}TLX:Demand and Preferences}{185}{section.A.3}
+\contentsline {section}{\numberline {A.4}Final Survey}{186}{section.A.4}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}POND In-Lab Surveys}{189}{appendix.B}
+\contentsline {section}{\numberline {B.1}Initial Survey}{189}{section.B.1}
+\contentsline {section}{\numberline {B.2}TLX:Demand and Preferences}{191}{section.B.2}
+\contentsline {section}{\numberline {B.3}Post-Study Questionnaire}{192}{section.B.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}POND \textit {in situ} Surveys}{197}{appendix.C}
+\contentsline {section}{\numberline {C.1}Weekly Survey}{197}{section.C.1}
+\contentsline {section}{\numberline {C.2}Final Guided Interview Questions}{200}{section.C.2}
